@@ -1,0 +1,42 @@
+{
+	"name": "Cookie Consent + Detect AdBlock",
+	"version": "2.5",
+	"release_date": "2018-01-10",
+	"license": "CCA 3.0",
+	"price_usd": "0",
+	"download_url": "https://github.com/bludit-plugins/cookie-consent/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/bludit-plugins/cookie-consent",
+	"icon": "coffee",
+	"description": "The most popular solution to the EU Cookie Law, as well as a detector with AdBlock script customization.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_name": "Frédéric K",
+	"author_email": "",
+	"author_contact_url": "",
+	"author_website": "http://flatboard.free.fr",
+	"author_twitter": "",
+	"author_facebook": "",
+	"author_github": "",
+	"author_youtube": "",
+	"author_reddit": "",
+	"author_pinterest": "",
+	"author_flickr": "",
+	"author_google_plus": "",
+	"author_vk": ""
+}
