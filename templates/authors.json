@@ -1,15 +1,15 @@
 {
-	"author_name": "Diego",
-	"author_email": "",
-	"author_contact_url": "",
-	"author_website": "",
-	"author_twitter": "",
-	"author_facebook": "",
-	"author_github": "",
-	"author_youtube": "",
-	"author_reddit": "",
-	"author_pinterest": "",
-	"author_flickr": "",
-	"author_google_plus": "",
-	"author_vk": ""
+	"name": "Diego",
+	"email": "",
+	"contact_url": "",
+	"website": "",
+	"twitter": "",
+	"facebook": "",
+	"github": "",
+	"youtube": "",
+	"reddit": "",
+	"pinterest": "",
+	"flickr": "",
+	"google_plus": "",
+	"vk": ""
 }
