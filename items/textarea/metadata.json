@@ -1,0 +1,29 @@
+{
+	"name": "Textarea",
+	"version": "1.0",
+	"release_date": "2016-10-01",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "_DOWNLOAD_URL_",
+	"demo_url": "_DEMO_URL_",
+	"information_url": "_INFORMATION_URL_",
+	"description": "Textarea allows to show text in the sidebar using HTML code.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Textarea allows to show text in the sidebar using HTML code.GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "Textarea allows to show text in the sidebar using HTML code.SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "_AUTHOR_USERNAME_"
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Ads4U",
+	"version": "0.2.1",
+	"release_date": "2017-10-18",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "_DOWNLOAD_URL_",
+	"demo_url": "_DEMO_URL_",
+	"information_url": "_INFORMATION_URL_",
+	"description": "Add advertising on your site with Ads4U.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Add advertising on your site with Ads4U.GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "Add advertising on your site with Ads4U.SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "_AUTHOR_USERNAME_"
+}

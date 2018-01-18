@@ -1,0 +1,29 @@
+{
+	"name": "Minify HTML",
+	"version": "2.1",
+	"release_date": "2018-01-08",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "_DOWNLOAD_URL_",
+	"demo_url": "_DEMO_URL_",
+	"information_url": "_INFORMATION_URL_",
+	"description": "A plugin the minify html output from the Bludit CMS. It has no settings, just activate or deactivate it.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "A plugin the minify html output from the Bludit CMS. It has no settings, just activate or deactivate it.GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "A plugin the minify html output from the Bludit CMS. It has no settings, just activate or deactivate it.SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "_AUTHOR_USERNAME_"
+}

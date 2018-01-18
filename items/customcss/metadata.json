@@ -1,0 +1,29 @@
+{
+	"name": "Custom CSS",
+	"version": "0.4.1",
+	"release_date": "2017-05-05",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "_DOWNLOAD_URL_",
+	"demo_url": "_DEMO_URL_",
+	"information_url": "_INFORMATION_URL_",
+	"description": "Plugin to modify a theme with own CSS.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Plugin to modify a theme with own CSS.GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "Plugin to modify a theme with own CSS.SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "_AUTHOR_USERNAME_"
+}

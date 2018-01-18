@@ -1,0 +1,29 @@
+{
+	"name": "a2a share buttons",
+	"version": "0.3.0",
+	"release_date": "2017-10-27",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "_DOWNLOAD_URL_",
+	"demo_url": "_DEMO_URL_",
+	"information_url": "_INFORMATION_URL_",
+	"description": "AddToAny is a set of social sharing buttons.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "AddToAny is a set of social sharing buttons.GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "AddToAny is a set of social sharing buttons.SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "_AUTHOR_USERNAME_"
+}
