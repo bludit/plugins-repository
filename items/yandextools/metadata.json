@@ -4,26 +4,26 @@
 	"release_date": "2017-11-01",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "_DOWNLOAD_URL_",
-	"demo_url": "_DEMO_URL_",
-	"information_url": "_INFORMATION_URL_",
+	"download_url": "https://github.com/xm74/yandextools/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/xm74/yandextools",
 	"description": "This plugin generate the meta tag to validate your site with Yandex Webmasters Tools and the JavaScript code to track with Yandex.Metrika.",
 	"features": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_de": "This plugin generate the meta tag to validate your site with Yandex Webmasters Tools and the JavaScript code to track with Yandex.Metrika.GERMAN_",
+	"description_de": "",
 	"features_de": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_es": "This plugin generate the meta tag to validate your site with Yandex Webmasters Tools and the JavaScript code to track with Yandex.Metrika.SPANISH_",
+	"description_es": "",
 	"features_es": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"author_username": "_AUTHOR_USERNAME_"
+	"author_username": "xm74"
 }

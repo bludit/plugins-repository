@@ -4,26 +4,26 @@
 	"release_date": "2017-10-26",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "_DOWNLOAD_URL_",
-	"demo_url": "_DEMO_URL_",
-	"information_url": "_INFORMATION_URL_",
+	"download_url": "https://github.com/Krakengr/BluSEO/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/Krakengr/BluSEO",
 	"description": "The SEO Plugin for Bludit.",
 	"features": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_de": "The SEO Plugin for Bludit.GERMAN_",
+	"description_de": "",
 	"features_de": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_es": "The SEO Plugin for Bludit.SPANISH_",
+	"description_es": "",
 	"features_es": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"author_username": "_AUTHOR_USERNAME_"
+	"author_username": "krakengr"
 }

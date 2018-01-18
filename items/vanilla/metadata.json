@@ -4,26 +4,26 @@
 	"release_date": "2017-11-10",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "_DOWNLOAD_URL_",
-	"demo_url": "_DEMO_URL_",
-	"information_url": "_INFORMATION_URL_",
+	"download_url": "https://github.com/clickwork-git/vanilla/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/clickwork-git/vanilla",
 	"description": "Integration of Vanilla Forums as comment system. Please read the file README.md.",
 	"features": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_de": "Integration of Vanilla Forums as comment system. Please read the file README.md.GERMAN_",
+	"description_de": "",
 	"features_de": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_es": "Integration of Vanilla Forums as comment system. Please read the file README.md.SPANISH_",
+	"description_es": "",
 	"features_es": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"author_username": "_AUTHOR_USERNAME_"
+	"author_username": "clickwork"
 }
