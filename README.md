@@ -1,11 +1,14 @@
 # Bludit Plugins Repository
-This repository keep all the database for https://plugins.bludit.com
+This repository keep all the database for the sites:
+- (English) https://plugins.bludit.com
+- (Deutsch) https://plugins.bludit.com/de/
+- (Español) https://plugins.bludit.com/es/
 
-You can add your plugin here!
+You can add your free or paid plugin here!
 
 ## How to add a plugin
 ### 1) Create your username.
-- Create a new file in the folder `/authors/`.
+- Create a new file inside the folder `/authors/`.
 - The filename is the username and the extension is `.json`.
 - You can copy a template from `/templates/authors.json` to generate the content.
 
