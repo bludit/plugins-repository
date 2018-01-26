@@ -4,7 +4,7 @@
 	"release_date": "2016-10-01",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "",
+	"download_url": "https://github.com/clickwork-git/textarea/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/textarea",
 	"description": "Textarea allows to show text in the sidebar using HTML code.",
@@ -19,7 +19,7 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Textarea te permite insertar código HTML en la barra lateral de forma muy fácil.",
 	"features_es": {
 		"0": "",
 		"1": "",
