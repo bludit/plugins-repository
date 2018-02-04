@@ -1,5 +1,5 @@
 {
-	"name": "Navigation,
+	"name": "Navigation",
 	"version": "1.0",
 	"release_date": "2018-02-03",
 	"license": "MIT",
@@ -19,11 +19,11 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Muestra todas las páginas con o sin subpáginas.",
 	"features_es": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"author_username": "Bludit"
+	"author_username": "clickwork"
 }
