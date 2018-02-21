@@ -7,13 +7,13 @@
 	"download_url": "https://github.com/clickwork-git/lightbox/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/lightbox",
-	"description": "Lightbox and gallery based on the lightbox script by Lokesh Dhakar (http://lokeshdhakar.com/projects/lightbox2/). See for explanation the file README.md in the plugin directory.",
+	"description": "Lightbox and gallery based on the lightbox script by Lokesh Dhakar. See for explanation the file README.md in the plugin directory.",
 	"features": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_de": "Lightbox und Galerie basierend auf dem Lightbox-Skript von Lokesh Dhakar (http://lokeshdhakar.com/projects/lightbox2/). Informationen zur Verwendung des Plugins sind in der Datei liesmich.txt im Plugin-Verzeichnis zu finden.",
+	"description_de": "Lightbox und Galerie basierend auf dem Lightbox-Skript von Lokesh Dhakar. Informationen zur Verwendung des Plugins sind in der Datei liesmich.txt im Plugin-Verzeichnis zu finden.",
 	"features_de": {
 		"0": "",
 		"1": "",
