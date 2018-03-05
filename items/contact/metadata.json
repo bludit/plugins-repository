@@ -7,15 +7,15 @@
 	"download_url": "https://github.com/Fred89/bludit-plugins/releases/download/2.2.1/contact.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/Fred89/bludit-plugins/releases/tag/2.2.1",
-	"description": "Contact form for Bludit which allows also to use a custom template.",
+	"description": "Contact form for Bludit which allows also to use a custom template. <strong>For static pages only</strong>.",
 	"features": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_de": "Kontaktformular für Bludit, das es erlaubt, auch eine eigene Vorlage zu verwenden.",
+	"description_de": "Kontaktformular für Bludit, das es erlaubt, auch eine eigene Vorlage zu verwenden. Deutsche Sprachdateien könen unter https://github.com/bludit/plugin-translations/tree/master/contact heruntergeladen werden. <strong>Nur für statische Seiten</strong>.",
 	"features_de": {
-		"0": "Deutsche Sprachdateien könen unter https://github.com/bludit/plugin-translations/tree/master/contact heruntergeladen werden.",
+		"0": "",
 		"1": "",
 		"2": ""
 	},
