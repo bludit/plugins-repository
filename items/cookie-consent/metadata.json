@@ -1,13 +1,13 @@
 {
 	"name": "Cookie Consent + Detect AdBlock",
 	"version": "2.5",
-	"release_date": "2018-01-10",
-	"license": "CCA 3.0",
+	"release_date": "20180305",
+	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/bludit-plugins/cookie-consent/archive/master.zip",
+	"download_url": "https://github.com/Fred89/bludit-plugins/releases/download/cookie2.2.1/cookie-consent.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/bludit-plugins/cookie-consent",
-	"description": "The most popular solution to the EU Cookie Law, as well as a detector with AdBlock script customization.",
+	"information_url": "https://github.com/Fred89/bludit-plugins/releases/download/cookie2.2.1/cookie-consent.zip",
+	"description": "Solution for the EU Cookie Law, as well as a detector with AdBlock script customization.",
 	"features": {
 		"0": "",
 		"1": "",
