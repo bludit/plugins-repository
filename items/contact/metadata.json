@@ -1,0 +1,29 @@
+{
+	"name": "Contact",
+	"version": "2.2.1",
+	"release_date": "20180305",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/Fred89/bludit-plugins/releases/download/2.2.1/contact.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/Fred89/bludit-plugins/releases/tag/2.2.1",
+	"description": "Contact form for Bludit which allows also to use a custom template.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Kontaktformular für Bludit, das es erlaubt, auch eine eigene Vorlage zu verwenden.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "frederic"
+}
