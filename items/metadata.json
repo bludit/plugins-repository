@@ -1,0 +1,29 @@
+{
+	"name": "Higlight",
+	"version": "1.2",
+	"release_date": "2018-03-05",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/bludit-plugins/highlight-bludit/archive/highlight1.2.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/Hydrock/highlight-bludit",
+	"description": "Highlight your code.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Mit dem Plugin kann Code mit Syntax-Highlighting angezeigt werden.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "hydrock"
+}
