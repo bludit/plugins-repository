@@ -7,13 +7,13 @@
 	"download_url": "https://github.com/Fred89/bludit-plugins/releases/download/cookie2.2.1/cookie-consent.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/Fred89/bludit-plugins/releases/download/cookie2.2.1/cookie-consent.zip",
-	"description": "Solution for the EU Cookie Law, as well as a detector with AdBlock script customization.",
+	"description": "Cookie consent and AdBlock detector.",
 	"features": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_de": "",
+	"description_de": "Zustimmungserklärung zur Verwendung von Cookies und AdBlock Detector.",
 	"features_de": {
 		"0": "",
 		"1": "",
