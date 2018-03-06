@@ -7,13 +7,13 @@
 	"download_url": "https://github.com/Fred89/bludit-plugins/releases/download/2.2.1/contact.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/Fred89/bludit-plugins/releases/tag/2.2.1",
-	"description": "Contact form for Bludit which allows also to use a custom template. <strong>For static pages only</strong>.",
+	"description": "Contact adds a contact form to a static page. There can also be used a custom template for the contact form.",
 	"features": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_de": "Kontaktformular für Bludit, das es erlaubt, auch eine eigene Vorlage zu verwenden. <strong>Nur für statische Seiten</strong>.",
+	"description_de": "Mit Contact kann ein Kontaktformular zu einer statischen Seite hinzugefügt werden. Für das Formular auch eine eigene Vorlage verwendet werden.",
 	"features_de": {
 		"0": "",
 		"1": "",
