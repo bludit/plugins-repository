@@ -1,10 +1,10 @@
 {
 	"name": "Navigation",
-	"version": "1.0",
-	"release_date": "20180203",
+	"version": "1.1",
+	"release_date": "2018-02-03",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/bluditplugins/navigation/archive/master.zip",
+	"download_url": "https://github.com/bludit-plugins/navigation/archive/navigation-1.1.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/bluditplugins/navigation",
 	"description": "Shows all pages with or without subpages.",
