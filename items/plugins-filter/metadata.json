@@ -1,0 +1,29 @@
+{
+	"name": "Plugins Filter",
+	"version": "1.0",
+	"release_date": "2018-03-11",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/Fred89/bludit-plugins/releases/download/pluginsFilter1.0/plugins-filter.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/Fred89/bludit-plugins/releases/tag/pluginsFilter1.0",
+	"description": "Simple plugin that allows to activate or desactivate all plugins with one click.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Einfaches Plugin, das es erlaubt mit einem Klick alle Plugins zu aktivieren oder zu deaktivieren.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "frederic"
+}
