@@ -1,12 +1,12 @@
 {
 	"name": "Contact",
-	"version": "2.2.1",
-	"release_date": "20180305",
+	"version": "2.2.1f",
+	"release_date": "2018-03-06",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/Fred89/bludit-plugins/releases/download/2.2.1/contact.zip",
+	"download_url": "https://github.com/Fred89/bludit-plugins/releases/download/contact2.2.1c/contact.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/Fred89/bludit-plugins/releases/tag/2.2.1",
+	"information_url": "https://github.com/Fred89/bludit-plugins/releases/tag/contact2.2.1c",
 	"description": "Adds a contact form to a static page. There can also be used a custom template for the contact form.",
 	"features": {
 		"0": "",
