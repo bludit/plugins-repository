@@ -1,0 +1,29 @@
+{
+	"name": "CKEditor with RESPONSIVE Filemanager",
+	"version": "4.8.0",
+	"release_date": "2018-03-10",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/Fred89/bludit-plugins/releases/download/ckeditor4.8.0/ckeditor.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/Fred89/bludit-plugins/releases/tag/ckeditor4.8.0",
+	"description": "Adds CKEditor and RESPONSIVE filemanager to Bludit.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Das Plugin ergänzt Bludit mit dem CKEditor zusammen mit dem RESPONSIVE filemanager.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "frederic"
+}
