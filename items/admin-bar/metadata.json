@@ -1,0 +1,29 @@
+{
+	"name": "Admin Bar",
+	"version": "1.0",
+	"release_date": "2018-03-17",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/clickwork-git/bludit-admin-bar/archive/1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/Bayerberg/bludit-admin-bar",
+	"description": "Displays administrators toolbar when administrator is logged in. You can edit content as well as create them while browsing the site.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Zeigt eine Werkzeugleiste, mit der ein Administrator über das Frontend Inhalte erstellen und bearbeiten kann.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "cajzer"
+}
