@@ -1,0 +1,29 @@
+{
+	"name": "WordPress to Bludit Converter",
+	"version": "0.2",
+	"release_date": "2017-12-20",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/Krakengr/wp-to-bludit/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://g3ar.xyz/projects/wordpress-bludit-converter/",
+	"description": "Converts the WordPress database xml file to Bludit's data structure.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Mit dem Plugin kann eine XML-Datei von WordPress in Bludit importiert werden.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "krakengr"
+}
