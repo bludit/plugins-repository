@@ -1,0 +1,29 @@
+{
+	"name": "Auto-Archive-Menu-Plus-More",
+	"version": "2.2",
+	"release_date": "2018-03-08",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/BlakesHeaven/Auto-Archive-Menu-Plus-More/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/BlakesHeaven/Auto-Archive-Menu-Plus-More",
+	"description": "Published content moves through three different sections automatically based on the published date.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Veröffentlichte Inhalte werden automatisch drei Sketionen zugewiesen, abghängig vom Datum ihrer Veröffentlichung.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "blake"
+}
