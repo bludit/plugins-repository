@@ -1,0 +1,17 @@
+{
+	"name": "Recent Tweets",
+	"version": "2.3",
+	"release_date": "2018-03-25",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/anaggh/recent-tweets/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/anaggh/recent-tweets",
+	"description": "Displays twitter timeline on the sidebar.",
+	"features": {
+		"0": "Adds a follow button",
+		"1": "Adds a scrollable timeline",
+		"2": "Will not work on browsers having adblock enabled"
+	},
+	"author_username": "anaggh"
+}
