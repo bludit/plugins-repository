@@ -9,8 +9,8 @@
 	"information_url": "https://github.com/anaggh/random-pages",
 	"description": "Displays random pages on the sidebar.",
 	"features": {
-		"0": "",
-		"1": "",
+		"0": "You can set the amount of pages to show.",
+		"1": "Static pages are not considered.",
 		"2": ""
 	},
 	"description_de": "Zeigt zufällige Inhalte in der Seitenleiste.",
@@ -19,10 +19,10 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Muestra páginas aleatorias en la barra lateral.",
 	"features_es": {
-		"0": "",
-		"1": "",
+		"0": "Puede definer el número de páginas que se mostrarán.",
+		"1": "Paginas estataticas no son consideradas.",
 		"2": ""
 	},
 	"author_username": "anaggh"
