@@ -1,0 +1,29 @@
+{
+	"name": "Bludit Admin Tools",
+	"version": "2.01",
+	"release_date": "2018-04-16",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/Bayerberg/Bludit-Admin-Tools/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/Bayerberg/Bludit-Admin-Tools",
+	"description": "Three strips for all admin and editor needs.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Admin-Werkzeuge.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "cajzer"
+}
