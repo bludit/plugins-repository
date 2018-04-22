@@ -1,0 +1,26 @@
+{
+	"name": "Parsedown Extra",
+	"version": "1.0",
+	"release_date": "2018-04-22",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/bludit-plugins/parsedown-extra/archive/parsedown-extra-1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/bludit-plugins/parsedown-extra",
+	"description": "An extension of Parsedown that adds support for Markdown Extra.",
+	"features": {
+		"0": "",
+		"1": ""
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": ""
+	},
+	"description_es": "Una extensión de Parsedown que agrega soporte para Markdown extra.",
+	"features_es": {
+		"0": "",
+		"1": ""
+	},
+	"author_username": "diego"
+}
