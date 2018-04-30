@@ -1,0 +1,29 @@
+{
+	"name": "Bloggers Sidebar",
+	"version": "1.0",
+	"release_date": "2018-04-30",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/Bayerberg/bloggers-sidebar/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/Bayerberg/bloggers-sidebar",
+	"description": "Shows the latest posts sorted by category, with or without cover image .",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Zeigt die neuesten Beiträge geordnet nach Kategorien, mit oder ohne Hauptbild.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "cajzer"
+}
