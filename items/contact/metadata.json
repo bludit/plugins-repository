@@ -1,19 +1,19 @@
 {
 	"name": "Contact",
-	"version": "2.2.1f",
-	"release_date": "2018-03-06",
+	"version": "2.5",
+	"release_date": "2018-04-24",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/Fred89/bludit-plugins/releases/download/contact2.2.1c/contact.zip",
+	"download_url": "https://github.com/Fred89/bludit-plugins/releases/download/contact2.5/contact.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/Fred89/bludit-plugins/releases/tag/contact2.2.1c",
-	"description": "Adds a contact form to a static page. There can also be used a custom template for the contact form.",
+	"information_url": "https://github.com/Fred89/bludit-plugins/releases/tag/contact2.5",
+	"description": "Adds a contact form to a page or post. For mailing also an SMTP account can be used. Furthermore also  a custom template can be used.",
 	"features": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_de": "Kontaktformular für eine statische Seite. Für das Formular kann auch eine eigene Vorlage verwendet werden.",
+	"description_de": "Kontaktformular für eine Seite oder einen Beitrag. Für den Versand kann auch ein SMTP-Konto verwendet werden. Zudem erlaubt das Plugin, auch eigene Vorlagen zu verwenden.",
 	"features_de": {
 		"0": "",
 		"1": "",
