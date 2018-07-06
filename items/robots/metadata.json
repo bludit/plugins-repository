@@ -7,13 +7,13 @@
 	"download_url": "https://github.com/clickwork-git/robots/archive/0.1.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/robots",
-	"description": "The plugin allows to add the tags "noindex" and "nofollow" to the header of selected pages.",
+	"description": "The plugin allows to add the tags \"noindex\" and \"nofollow\" to the header of selected pages.",
 	"features": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_de": "Mit dem Plugin können die Tags "noindex" and "nofollow" zum Headerbereich ausgewählter Seiten hinzugefügt werden.",
+	"description_de": "Mit dem Plugin können die Tags \"noindex\" and \"nofollow\" zum Headerbereich ausgewählter Seiten hinzugefügt werden.",
 	"features_de": {
 		"0": "",
 		"1": "",
