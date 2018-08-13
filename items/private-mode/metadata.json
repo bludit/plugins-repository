@@ -4,7 +4,7 @@
 	"release_date": "2018-05-12",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/anaggh/private-mode/archive/master.zip",
+	"download_url": "https://github.com/anaggh/private-mode/archive/v2.3.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/anaggh/private-mode",
 	"description": "Enable private mode (Require authentication to view site)",
