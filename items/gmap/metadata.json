@@ -1,0 +1,29 @@
+{
+  "name": "Gmap",
+  "version": "1.0",
+  "release_date": "2018-08-20",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://bitbucket.org/Blackneron/gmap/get/d58d7a11bb74.zip",
+  "demo_url": "",
+  "information_url": "https://bitbucket.org/Blackneron/gmap",
+  "description": "Plugin to include a GoogleMap on a page.",
+  "features": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_de": "Plugin um eine GoogleMap auf einer Seite einzufügen.",
+  "features_de": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_es": "",
+  "features_es": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "author_username": "blackneron"
+}
