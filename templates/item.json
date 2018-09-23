@@ -1,6 +1,7 @@
 {
 	"name": "_NAME_",
 	"version": "_VERSION_",
+	"author_username": "_AUTHOR_USERNAME_",
 	"release_date": "_RELEASE_DATE_",
 	"license": "_LICENSE_",
 	"price_usd": "_PRICE_",
@@ -24,6 +25,5 @@
 		"0": "",
 		"1": "",
 		"2": ""
-	},
-	"author_username": "_AUTHOR_USERNAME_"
+	}
 }
