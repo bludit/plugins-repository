@@ -7,7 +7,7 @@
 	"download_url": "http://bludit.fetchapp.com/sell/e14bcda3",
 	"demo_url": "https://www.youtube.com/watch?v=30VuB1INVBg",
 	"information_url": "https://docs.bludit.com/en/bludit-pro/timemachine",
-	"description": "Timemachine allows you to go back your site at some point in the past where you made some change, useful if you deleted some content or you made some changes on settings and you want to go back.",
+	"description": "Timemachine allows you to go back your site at some point in the past where you made some change, useful if you deleted some content or you made some changes on settings and you want to go back. This version is only compatible with Bludit v2.x.",
 	"features": {
 		"0": "Restore point on every event.",
 		"1": "Easy to use, only activate the plugin."
