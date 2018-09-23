@@ -1,29 +1,20 @@
 {
-  "name": "Cachy",
-  "version": "1.0",
-  "release_date": "2018-08-23",
-  "license": "MIT",
-  "price_usd": "0",
-  "download_url": "https://bitbucket.org/Blackneron/cachy/get/6feff24c1f0e.zip",
-  "demo_url": "",
-  "information_url": "https://bitbucket.org/Blackneron/cachy",
-  "description": "Plugin to cache the Bludit pages.",
-  "features": {
-    "0": "",
-    "1": "",
-    "2": ""
-  },
-  "description_de": "Plugin um die Bludit-Seiten zu cachen.",
-  "features_de": {
-    "0": "",
-    "1": "",
-    "2": ""
-  },
-  "description_es": "Plugin para crear una cache de las paginas de Bludit.",
-  "features_es": {
-    "0": "",
-    "1": "",
-    "2": ""
-  },
-  "author_username": "blackneron"
+	"name": "Cachy",
+	"version": "1.0",
+	"author_username": "blackneron",
+	"release_date": "2018-08-23",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://bitbucket.org/Blackneron/cachy/get/6feff24c1f0e.zip",
+	"demo_url": "",
+	"information_url": "https://bitbucket.org/Blackneron/cachy",
+	"description": "Plugin to cache the Bludit pages.",
+	"features": {
+	},
+	"description_de": "Plugin um die Bludit-Seiten zu cachen.",
+	"features_de": {
+	},
+	"description_es": "Plugin para crear una cache de las paginas de Bludit.",
+	"features_es": {
+	}
 }
