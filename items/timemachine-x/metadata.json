@@ -1,0 +1,29 @@
+{
+	"name": "Timemachine X",
+	"version": "3.0",
+	"author_username": "diego",
+	"release_date": "2018-07-29",
+	"license": "Bludit PRO",
+	"price_usd": "2",
+	"download_url": "http://bludit.fetchapp.com/sell/c585870d",
+	"demo_url": "https://www.youtube.com/watch?v=30VuB1INVBg",
+	"information_url": "https://docs.bludit.com/en/bludit-pro/timemachine",
+	"description": "Timemachine X allows you to go back your site at some point in the past where you made some change, useful if you deleted some content or you made some changes on settings and you want to go back.",
+	"features": {
+		"0": "Restore point on every event.",
+		"1": "Easy to use, only activate the plugin.",
+		"2": "Compatible with Bludit v3.x."
+	},
+	"description_de": "Timemachine X erlaubt die Wiederherstellung der Website zu früheren Zeitpunkten. Dies ist nützlich, wenn Inhalte gelöscht oder bearbeitet oder die Einstellungen geändert wurden und dies rückgängig gemacht werden soll.",
+	"features_de": {
+		"0": "Bei jeder Veranstaltung den Punkt wiederherstellen.",
+		"1": "Einfach zu bedienen, nur das Plugin aktivieren.",
+		"2": "Kompatibel mit Bludit v3.x."
+	},
+	"description_es": "TimeMachine X le permite volver su sitio a algún momento del pasado donde realizo algún cambio, es útil si eliminó contenido o hizo algunos cambios en la configuración y desea volver atrás.",
+	"features_es": {
+		"0": "Punto de restauración en cada evento.",
+		"1": "Fácil de usar, sólo tiene que activar el plugin.",
+		"2": "Compatible con Bludit v3.x."
+	}
+}
