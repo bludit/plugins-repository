@@ -4,7 +4,7 @@
 	"release_date": "2018-10-07",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/novafacile/bludit-plugins/releases/download/contact3-v1/contact3.zip",
+	"download_url_v3": "https://github.com/novafacile/bludit-plugins/releases/download/contact3-v1/contact3.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/novafacile/bludit-plugins/releases/tag/contact3-v1",
 	"description": "Adds a contact form to a static page. For mail its possible to use sendmail or an SMTP account. It's possible to use a custom template.",
