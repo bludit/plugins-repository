@@ -1,0 +1,29 @@
+{
+	"name": "Contact3",
+	"version": "1.0",
+	"release_date": "2018-10-07",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url_v3": "https://github.com/novafacile/bludit-plugins/releases/download/contact3-v1/contact3.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/novafacile/bludit-plugins/releases/tag/contact3-v1",
+	"description": "Adds a contact form to a static page. For mail its possible to use sendmail or an SMTP account. It's possible to use a custom template.",
+	"features": {
+		"0": "Adds contact form on a static page",
+		"1": "Contact form with customizable template",
+		"2": "sendmail or smtp possible"
+	},
+	"description_de": "Fügt ein Kontaktformular auf einer statischen Seite ein. Für den Versand sendmail oder ein SMTP-Konto verwendet werden. Es ist möglich ein eigenes Kontakt-Template zur verwenden.",
+	"features_de": {
+		"0": "Kontaktformular bei einer statischen Seite integrieren",
+		"1": "Template für das Formular kann angepasst werden",
+		"2": "Sendmail oder SMTP kann verwendet werden"
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "novafacile"
+}
