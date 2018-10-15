@@ -1,10 +1,10 @@
 {
 	"name": "Auto-Archive-Menu-Plus-More",
-	"version": "2.3",
-	"release_date": "2018-05-06",
+	"version": 3.x",
+	"release_date": "2018-10-06",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/BlakesHeaven/Auto-Archive-Menu-Plus-More/archive/v2.3.x.zip",
+	"download_url_v3": "https://github.com/BlakesHeaven/Auto-Archive-Menu-Plus-More/archive/v3.0.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/BlakesHeaven/Auto-Archive-Menu-Plus-More",
 	"description": "Published content moves through three different sections automatically based on the published date.",
