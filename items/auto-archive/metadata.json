@@ -1,6 +1,7 @@
 {
 	"name": "Auto-Archive-Menu-Plus-More",
-	"version": 3.x",
+	"version": "3.x",
+	"author_username": "blake",
 	"release_date": "2018-10-06",
 	"license": "MIT",
 	"price_usd": "0",
@@ -24,6 +25,5 @@
 		"0": "",
 		"1": "",
 		"2": ""
-	},
-	"author_username": "blake"
+	}
 }
