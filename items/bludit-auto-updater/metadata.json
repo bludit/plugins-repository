@@ -1,0 +1,29 @@
+{
+	"name": "Auto Updater for Bludit 3.X",
+	"version": "1.0",
+	"release_date": "2018-10-20",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/philippd1/bludit-auto-update/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/philippd1/bludit-auto-update/",
+	"description": "This plugin automatically downloads and installs the latest Bludit version offered on the official Bludit site.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Dieses Plugin lädt automatisch die neueste Bludit-Version herunter und installiert sie.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "philippd"
+}
