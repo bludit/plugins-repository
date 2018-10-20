@@ -1,0 +1,30 @@
+{
+	"name": "Disqus Lazy Load",
+	"version": "",
+	"author_username": "ikutaa46",
+	"release_date": "2018",
+	"license": "free",
+	"price_usd": "0",
+	"download_url": "https://rawcdn.githack.com/ikutaa46/ikutaa46.github.io/master/bludit/plugin/disqus-lazy-load.zip",
+	"download_url_v3": "",
+	"demo_url": "",
+	"information_url": "",
+	"description": "This plugin from Bludit, edited to give site more performance. Disqus will load by default or onScrool or onClick",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
