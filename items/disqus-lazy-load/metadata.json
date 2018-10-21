@@ -6,9 +6,9 @@
 	"license": "free",
 	"price_usd": "0",
 	"download_url": "https://rawcdn.githack.com/ikutaa46/ikutaa46.github.io/master/bludit/plugin/disqus-lazy-load.zip",
-	"download_url_v3": "",
+	"download_url_v3": "https://rawcdn.githack.com/ikutaa46/ikutaa46.github.io/master/bludit/plugin/disqus-lazy-load-v3.zip",
 	"demo_url": "",
-	"information_url": "",
+	"information_url": "https://rawcdn.githack.com/ikutaa46/ikutaa46.github.io/master/bludit/plugin/tested on bludit v2 and v3.gif",
 	"description": "This plugin from Bludit, edited to give site more performance. Disqus will load by default or onScrool or onClick",
 	"features": {
 		"0": "",
