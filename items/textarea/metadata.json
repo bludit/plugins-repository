@@ -10,21 +10,15 @@
 	"information_url": "https://github.com/clickwork-git/textarea",
 	"description": "Textarea allows to show text in the sidebar using HTML code.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "Mit Textarea kann Text in der Seitenleiste mit HTML-Code formatiert werden.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "Textarea te permite insertar código HTML en la barra lateral de forma muy fácil.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+	},
+	"description_ru": "Плагин Textarea позволяет отображать текст на боковой панели с помощью HTML-кода.",
+	"features_ru": {
 	},
 	"author_username": "clickwork"
 }
