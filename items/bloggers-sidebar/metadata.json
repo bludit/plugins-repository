@@ -7,7 +7,7 @@
 	"download_url": "https://github.com/Bayerberg/bloggers-sidebar/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/Bayerberg/bloggers-sidebar",
-	"description": "Shows the latest posts sorted by category, with or without cover image .",
+	"description": "Shows the latest posts sorted by category, with or without cover image.",
 	"features": {
 		"0": "",
 		"1": "",
@@ -21,6 +21,12 @@
 	},
 	"description_es": "",
 	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "Показывает последние сообщения, отсортированные по категориям, с обложкой или без обложки.",
+	"features_ru": {
 		"0": "",
 		"1": "",
 		"2": ""
