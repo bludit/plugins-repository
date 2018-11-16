@@ -9,21 +9,15 @@
 	"information_url": "https://git.mal-richtig.de/maxmalrichtig/bludit-isso-client",
 	"description": "The plugin allows to use Isso as comment system.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "Das Plugin erlaubt es, ISSO für Kommentare zu verwenden.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+	},
+	"description_ru": "Плагин позволяет использовать Isso в качестве системы комментариев.",
+	"features_ru": {
 	},
 	"author_username": "maxmalrichtig"
 }
