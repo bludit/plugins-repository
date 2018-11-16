@@ -7,23 +7,17 @@
 	"download_url": "https://github.com/clickwork-git/vanilla/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/vanilla",
-	"description": "Integration of Vanilla Forums as comment system. Please read the file README.md.",
+	"description": "Integration of Vanilla Forums as comment system. Vanilla Forums is an Open Source community forum that can be hosted in the cloud or on an own server. Please read the file README.md.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+	},
+	"description_ru": "Интеграция форумов Vanilla как системы комментариев. Vanilla Forums - форумный движок с открытым исходным кодом, который может быть размещен в облаке или на собственном сервере. Пожалуйста, прочтите файл README.md.",
+	"features_ru": {
 	},
 	"author_username": "clickwork"
 }
