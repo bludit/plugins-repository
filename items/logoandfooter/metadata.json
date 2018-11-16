@@ -9,21 +9,15 @@
 	"information_url": "https://github.com/Hatschipuh/logoandfooter",
 	"description": "Logo and Footer.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "Logo und Fusszeile",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+	},
+	"description_ru": "Плагин для взаимодействия с логотипом и подвалом сайта. ",
+	"features_ru": {
 	},
 	"author_username": "hertste"
 }
