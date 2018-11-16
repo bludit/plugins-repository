@@ -9,27 +9,15 @@
 	"information_url": "https://github.com/Bayerberg/bludit-admin-bar",
 	"description": "Displays administrators toolbar when administrator is logged in. You can edit content as well as create them while browsing the site.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "Zeigt eine Werkzeugleiste, mit der ein Administrator über das Frontend Inhalte erstellen und bearbeiten kann.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_ru": "Отображает панель инструментов администратора при входе в систему. Вы можете редактировать записи, а также создавать их во время просмотра сайта.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"author_username": "cajzer"
 }
