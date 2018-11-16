@@ -9,21 +9,15 @@
 	"information_url": "https://github.com/Bayerberg/bludit-seobreadcrumbs",
 	"description": "Breadcrumbs following the schema of schema.org at <a href=\"https://schema.org/BreadcrumbList\" target=\"_blank\">schema.org</a>.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "Breadcrumbs gemäss den Vorgaben von schema.org unter <a href=\"https://schema.org\/BreadcrumbList\" target=\"_blank\">schema.org</a>.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+	},
+	"description_ru": "Плагин Breadcrumbs следует схеме представленной на <a href=\"https://schema.org/BreadcrumbList\" target=\"_blank\">schema.org</a>.",
+	"features_ru": {
 	},
 	"author_username": "cajzer"
 }
