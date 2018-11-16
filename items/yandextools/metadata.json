@@ -9,21 +9,15 @@
 	"information_url": "https://github.com/xm74/yandextools",
 	"description": "This plugin generate the meta tag to validate your site with Yandex Webmasters Tools and the JavaScript code to track with Yandex.Metrika.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+	},
+	"description_ru": "Этот плагин генерирует метатег для проверки вашего сайта с помощью инструментов Yandex Webmasters и код JavaScript для отслеживания с помощью Yandex.Metrika.",
+	"features_ru": {
 	},
 	"author_username": "xm74"
 }
