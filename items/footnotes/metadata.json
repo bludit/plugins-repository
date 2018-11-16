@@ -7,11 +7,11 @@
 	"download_url": "https://github.com/clickwork-git/footnotes/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/footnotes",
-	"description": "The plugin allows to add footnotes in an easy way to a text. For usage please see the file README.md.",
+	"description": "The plugin allows to add footnotes in an easy way to a text. There is no need for numbering the footnotes.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "The footnotes have a link to go back to the previous reading position.",
+		"1": "To insert the number of the footnote add <sup class=\"footnoted\"> <\/sup> to the text.",
+		"2": "Add the footnote as element of an ordered list at the end of the text. Give the container of the list elements the ID \"footnotes\"."
 	},
 	"description_de": "",
 	"features_de": {
@@ -25,5 +25,11 @@
 		"1": "",
 		"2": ""
 	},
-	"author_username": "clickwork"
+	"description_ru": "Плагин позволяет легко добавлять примечания к тексту. Нет необходимости в нумерации сносок.",
+	"features_ru": {
+		"0": "В сносках есть ссылка, чтобы вернуться к предыдущей позиции чтения.",
+		"1": "Чтобы вставить номер сноски, добавьте в текст <sup class = \"footnoted\"> <\/sup>.",
+		"2": "Добавьте сноску в качестве элемента упорядоченного списка в конце текста. Дайте в свойства html-элемента списка ID \"footnotes\"."
+	},
+	"author_username": "clickwork" 
 }
