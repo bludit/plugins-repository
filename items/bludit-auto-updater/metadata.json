@@ -10,26 +10,14 @@
 	"information_url": "https://github.com/philippd1/bludit-auto-update/",
 	"description": "This plugin automatically downloads and installs the latest Bludit version offered on the official Bludit site.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "Dieses Plugin lädt automatisch die neueste Bludit-Version herunter und installiert sie.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "Este plugin descarga e instala automáticamente la última versión de Bludit que se ofrece en el sitio oficial de Bludit.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_ru": "Этот плагин автоматически загружает и устанавливает последнюю версию Bludit, доступную на официальном сайте Bludit.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
 	}
 }
