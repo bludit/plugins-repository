@@ -8,23 +8,17 @@
 	"download_url": "https://github.com/anaggh/private-mode/archive/v2.3.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/anaggh/private-mode",
-	"description": "Enable private mode (Require authentication to view site)",
+	"description": "Enable private mode (Require authentication to view site).",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+	},
+	"description_ru": "Включает приватный режим работы сайта (Если активировать плагин, будет требоваться аутентификация для просмотра сайта).",
+	"features_ru": {
 	},
 	"author_username": "anaggh"
 }
