@@ -9,21 +9,15 @@
 	"information_url": "https://github.com/anaggh/recommended-pages",
 	"description": "Show recommended pages if available on the sidebar when viewing individual pages.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
+	},
+	"description_ru": "Показывает рекомендуемые страницы, если они доступны на боковой панели при просмотре отдельных страниц.",
+	"features_ru": {
 	"author_username": "anaggh"
 }
