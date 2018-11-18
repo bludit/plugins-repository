@@ -9,9 +9,9 @@
 	"information_url": "https://github.com/clickwork-git/lightbox",
 	"description": "Lightbox and gallery based on the lightbox script by Lokesh Dhakar. See for explanation the file README.md in the plugin directory.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Add a data-lightbox attribute to any image link to enable Lightbox. For the value of the attribute, use a unique name for each image.",
+		"1": "If you have a group of related images that you would like to combine into a set, use the same data-lightbox attribute value for all of the images.",
+		"2": "Important: The link to the image must contain the path to the directory (\/bl-content\/uploads\/)."
 	},
 	"description_de": "Lightbox und Galerie basierend auf dem Lightbox-Skript von Lokesh Dhakar. Informationen zur Verwendung des Plugins sind in der Datei liesmich.txt im Plugin-Verzeichnis zu finden.",
 	"features_de": {
@@ -24,6 +24,12 @@
 		"0": "",
 		"1": "",
 		"2": ""
+	},
+	"description_ru": "Лайтбокс и галерея на основе сценария лайтбокса Локеша Дакара. Для подробного объяснения работы плагина см. файл README.md в каталоге плагина.",
+	"features_ru": {
+		"0": "Добавьте атрибут data-lightbox к любой ссылке на изображение, чтобы включить Лайтбокс. Для значения атрибута используйте уникальное имя для каждого изображения.",
+		"1": "Если у вас есть группа связанных изображений, которые вы хотите объединить в набор, используйте одно и то же значение атрибута-lightbox для всех изображений.",
+		"2": "Важно: ссылка на изображение должна содержать путь к каталогу (\/bl-content\/uploads\/)."
 	},
 	"author_username": "clickwork"
 }

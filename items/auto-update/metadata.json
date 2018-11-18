@@ -9,21 +9,15 @@
 	"information_url": "https://github.com/Hatschipuh/plugin_update",
 	"description": "Automatically updates the newest version of Bludit and all plugins and themes from the repositories.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "Aktualisiert automatisch auf die aktuelle Version von Bludit sowie der Plugins und Themes, die in den Repositories angeboten werden.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+	},
+	"description_ru": "Автоматически обновляет до новейшей версию Bludit и все плагины и темы беря обновления напрямую из репозиториев.",
+	"features_ru": {
 	},
 	"author_username": "hertste"
 }

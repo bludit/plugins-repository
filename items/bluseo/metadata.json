@@ -9,21 +9,15 @@
 	"information_url": "https://github.com/Krakengr/BluSEO",
 	"description": "The SEO Plugin for Bludit.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+	},
+	"description_ru": "Плагин с настройками SEO для Bludit.",
+	"features_ru": {
 	},
 	"author_username": "krakengr"
 }

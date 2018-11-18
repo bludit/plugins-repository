@@ -9,21 +9,15 @@
 	"information_url": "https://github.com/xm74/a2a",
 	"description": "AddToAny is a set of social sharing buttons.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+	},
+	"description_ru": "AddToAny - набор кнопок \"поделиться\" для социальных сетей.",
+	"features_ru": {
 	},
 	"author_username": "xm74"
 }

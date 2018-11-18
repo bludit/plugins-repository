@@ -9,21 +9,15 @@
 	"information_url": "https://github.com/dimobelov/bludit-minify-html",
 	"description": "A plugin the minify html output from the Bludit CMS. It has no settings, just activate or deactivate it.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+	},
+	"description_ru": "Плагин минифицирует вывод html при загрузке страниц Bludit CMS. Он не имеет настроек, так что просто активируйте или деактивируйте его.",
+	"features_ru": {
 	},
 	"author_username": "dimobelov"
 }

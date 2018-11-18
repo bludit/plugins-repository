@@ -16,5 +16,8 @@
 	},
 	"description_es": "Plugin para crear una cache de las paginas de Bludit.",
 	"features_es": {
+	},
+	"description_ru": "Плагин для кэширования страниц Bludit.",
+	"features_ru": {
 	}
 }

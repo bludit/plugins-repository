@@ -17,5 +17,8 @@
 	"description_es": "Consentimiento de cookies y detector de AdBlock.",
 	"features_es": {
 	},
+	"description_ru": "Согласие на обработку и хранение Cookie и детектор AdBlock.",
+	"features_ru": {
+	},
 	"author_username": "frederic"
 }

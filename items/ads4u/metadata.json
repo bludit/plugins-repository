@@ -9,21 +9,15 @@
 	"information_url": "https://github.com/xm74/ads4u",
 	"description": "Add advertising on your site with Ads4U.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
-	"description_de": "Add advertising on your site with Ads4U.GERMAN_",
+	"description_de": "Add advertising on your site with Ads4U.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
-	"description_es": "Add advertising on your site with Ads4U.SPANISH_",
+	"description_es": "Add advertising on your site with Ads4U.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+	},
+	"description_ru": "Добавьте рекламу на свой сайт с помощью Ads4U.",
+	"features_ru": {
 	},
 	"author_username": "xm74"
 }

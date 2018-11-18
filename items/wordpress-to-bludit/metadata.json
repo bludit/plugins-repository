@@ -9,21 +9,15 @@
 	"information_url": "https://g3ar.xyz/projects/wordpress-bludit-converter/",
 	"description": "Converts the WordPress database xml file to Bludit's data structure.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "Mit dem Plugin kann eine XML-Datei von WordPress in Bludit importiert werden.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+	},
+	"description_ru": "Преобразует XML-файл базы данных WordPress в структуру данных Bludit.",
+	"features_ru": {
 	},
 	"author_username": "krakengr"
 }
