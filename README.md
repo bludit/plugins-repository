@@ -3,6 +3,7 @@ This repository keeps all the database for the sites:
 - (English) https://plugins.bludit.com
 - (Deutsch) https://plugins.bludit.com/de/
 - (Español) https://plugins.bludit.com/es/
+- (Русский) https://plugins.bludit.com/ru/
 
 You can add your **free** or **paid** plugin here!
 
