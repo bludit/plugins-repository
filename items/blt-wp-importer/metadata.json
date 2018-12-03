@@ -18,7 +18,7 @@
 	"description_es": "",
 	"features_es": {	
 	},
-	"description_ru": "",
+	"description_ru": "WordPress Importer - это плагин для Bludit CMS, который позволяет вам легко импортировать контент с любого сайта WordPress с включенным REST API (REST API включен по умолчанию, начиная с WordPress версии 4.7).",
 	"features_ru": {
 	}
 }
