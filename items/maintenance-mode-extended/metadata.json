@@ -4,7 +4,7 @@
 	"release_date": "2018-12-08",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/barthusz/bludit_maintenance-mode-extended/archive/master.zip",
+	"download_url_v3": "https://github.com/barthusz/bludit_maintenance-mode-extended/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/barthusz/bludit_maintenance-mode-extended",
 	"description": "Original maintenance mode plugin of Bludit, extended with some more configurable backend options. And also added a little styling to make it more attractive. A logged in administrator or editor is able to see the live frontend.",
