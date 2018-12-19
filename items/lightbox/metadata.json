@@ -5,6 +5,7 @@
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/clickwork-git/lightbox/archive/v1.0.zip",
+	"download_url_v3": "https://github.com/clickwork-git/lightbox/archive/v1.0.zip",	
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/lightbox",
 	"description": "Lightbox and gallery based on the lightbox script by Lokesh Dhakar. See for explanation the file README.md in the plugin directory.",
