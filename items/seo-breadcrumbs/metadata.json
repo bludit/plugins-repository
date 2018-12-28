@@ -4,7 +4,7 @@
 	"release_date": "2018-04-27",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/Bayerberg/bludit-seobreadcrumbs/archive/master.zip",
+	"download_url_v2": "https://github.com/Bayerberg/bludit-seobreadcrumbs/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/Bayerberg/bludit-seobreadcrumbs",
 	"description": "Breadcrumbs following the schema of schema.org at <a href=\"https://schema.org/BreadcrumbList\" target=\"_blank\">schema.org</a>.",

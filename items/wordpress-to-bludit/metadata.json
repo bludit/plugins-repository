@@ -4,7 +4,7 @@
 	"release_date": "2018-03-21",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/bludit-plugins/wp-to-bludit/archive/0.3.zip",
+	"download_url_v2": "https://github.com/bludit-plugins/wp-to-bludit/archive/0.3.zip",
 	"demo_url": "",
 	"information_url": "https://g3ar.xyz/projects/wordpress-bludit-converter/",
 	"description": "Converts the WordPress database xml file to Bludit's data structure.",

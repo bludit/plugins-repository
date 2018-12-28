@@ -4,7 +4,7 @@
 	"release_date": "2018-12-01",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url_v3": "https://github.com/SamBrishes/paw.MoreLevels/archive/0.1.0.zip",
+	"download_url": "https://github.com/SamBrishes/paw.MoreLevels/archive/0.1.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/SamBrishes/paw.MoreLevels",
 	"description": "The plugin allows to use more then 2 levels of pages.",
@@ -31,5 +31,5 @@
 		"1": "",
 		"2": ""
 	},
-	"author_username": "sambrishes" 
+	"author_username": "sambrishes"
 }

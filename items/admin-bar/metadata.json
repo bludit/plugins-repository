@@ -4,7 +4,7 @@
 	"release_date": "2018-03-17",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/clickwork-git/bludit-admin-bar/archive/1.0a.zip",
+	"download_url_v2": "https://github.com/clickwork-git/bludit-admin-bar/archive/1.0a.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/Bayerberg/bludit-admin-bar",
 	"description": "Displays administrators toolbar when administrator is logged in. You can edit content as well as create them while browsing the site.",

@@ -4,7 +4,7 @@
 	"release_date": "2018-03-10",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/Fred89/bludit-plugins/releases/download/ckeditor4.8.0/ckeditor.zip",
+	"download_url_v2": "https://github.com/Fred89/bludit-plugins/releases/download/ckeditor4.8.0/ckeditor.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/Fred89/bludit-plugins/releases/tag/ckeditor4.8.0",
 	"description": "Adds CKEditor and RESPONSIVE filemanager to Bludit.",
