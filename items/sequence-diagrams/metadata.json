@@ -1,0 +1,23 @@
+{
+	"name": "Sequence diagrams",
+	"version": "1.0",
+	"author_username": "diego",
+	"release_date": "2019-01-02",
+	"license": "BSD 2-Clause",
+	"price_usd": "0",
+	"download_url": "https://github.com/bludit-plugins/sequence-diagram/archive/1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/bludit-plugins/sequence-diagram",
+	"description": "Turns text into UML sequence diagrams.",
+	"features": {
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "Convierte texto en diagrama de secuencia UML.",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	}
+}
