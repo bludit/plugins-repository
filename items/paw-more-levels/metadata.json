@@ -9,27 +9,15 @@
 	"information_url": "https://github.com/SamBrishes/paw.MoreLevels",
 	"description": "The plugin allows to use more then 2 levels of pages.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
-	"description_es": "",
+	"description_es": "El plugin permite utilizar más de 2 niveles de páginas.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_ru": "Плагин позволяет использовать более двух уровней страниц.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"author_username": "sambrishes"
 }
