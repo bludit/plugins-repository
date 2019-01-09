@@ -1,0 +1,35 @@
+{
+	"name": "Posts by months",
+	"version": "1.0",
+	"release_date": "2019-01-09",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/clickwork-git/posts-by-months/archive/1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/clickwork-git/posts-by-months",
+	"description": "Posts ordered by years and months (for themes with a sidebar)",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Beiträge geordnet nach Jahren und Monaten (für Themes mit einer Seitenleiste).",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "clickwork"
+}
