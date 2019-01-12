@@ -1,0 +1,29 @@
+{
+	"name": "Contact Telegram",
+	"version": "1.0",
+	"author_username": "vikgor",
+	"release_date": "2019-01-12",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/vikgor/contact-telegram/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/vikgor/contact-telegram",
+	"description": "Add a contact form to Bludit, it will send a message to your Telegram bot.",
+	"features": {
+		"0": "Adds contact form on a static page.",
+		"1": "Contact form with customizable template.",
+		"2": "Messages are sent to Telegram bots."
+	},
+	"description_de": "Kontaktformular für Bludit, Senden einer Nachricht an den Telegram-Bot.",
+	"features_de": {
+		"0": "Kontaktformular bei einer statischen Seite integrieren.",
+		"1": "Template für das Formular kann angepasst werden.",
+		"2": "Nachrichten werden an Telegramm-Bots gesendet."
+	},
+	"description_ru": "Контактная форма для Bludit, отправляющая сообщение в Телеграм бот.",
+	"features_ru": {
+		"0": "Добавляет форму обратной связи на страницу статической записи.",
+		"1": "Форма обратной связи с настраиваемым шаблоном.",
+		"2": "Отправление сообщения в Телеграм бот."
+	}
+}
