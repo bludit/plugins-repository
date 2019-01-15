@@ -7,7 +7,7 @@
 	"download_url": "https://github.com/clickwork-git/posts-by-months/archive/1.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/posts-by-months",
-	"description": "Posts ordered by years and months (for themes with a sidebar)",
+	"description": "Posts ordered by years and months (for themes with a sidebar).",
 	"features": {
 		"0": "",
 		"1": "",
@@ -25,7 +25,7 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "",
+	"description_ru": "С помощью этого плагина сообщения, упорядочиваются по годам и месяцам (для тем с боковой панелью).",
 	"features_ru": {
 		"0": "",
 		"1": "",
