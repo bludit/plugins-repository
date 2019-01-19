@@ -8,14 +8,26 @@
 	"download_url": "https://github.com/bludit-plugins/yandex-metrica/archive/1.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/bludit-plugins/yandex-metrica",
-	"description": "Yandex Metrica is a web analytics tool that helps you get visual reports and track traffic sources.",
+	"description": "Yandex Metrica is a web analytics tool that helps you get visual reports and track traffic sources. To use this plugin you need to create an account in <a href=\"https://metrica.yandex.com\">Yandex Metrica</a>.",
 	"features": {
+		"0": "Records all sessions to watch later.",
+		"1": "Referring domains.",
+		"2": "Audience analytics.",
+		"3": "Behavior analytics.",
+		"4": "Technology analytics.",
+		"5": "Behavior analytics."
 	},
 	"description_de": "",
 	"features_de": {
 	},
-	"description_es": "Yandex Metrica es una herramienta para analizar el trafico en su sitio web.",
+	"description_es": "Yandex Metrica es una herramienta para analizar el trafico en su sitio web. Para utilizar este plugin es necesario una cuenta en <a href=\"https://metrica.yandex.com\">Yandex Metrica</a>.",
 	"features_es": {
+		"0": "Graba todas las sesiones para ver más tarde.",
+		"1": "Análisis de dominios de referencia.",
+		"2": "Análisis de audiencias.",
+		"3": "Análisis de comportamiento.",
+		"4": "Análisis de tecnología.",
+		"5": "Análisis de comportamiento."
 	},
 	"description_ru": "",
 	"features_ru": {
