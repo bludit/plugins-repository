@@ -1,0 +1,23 @@
+{
+	"name": "Yandex Metrica",
+	"version": "1.0",
+	"author_username": "diego",
+	"release_date": "2019-01-19",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/bludit-plugins/yandex-metrica/archive/1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/bludit-plugins/yandex-metrica",
+	"description": "Yandex Metrica is a web analytics tool that helps you get visual reports and track traffic sources.",
+	"features": {
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "Yandex Metrica es una herramienta para analizar el trafico en su sitio web.",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	}
+}
