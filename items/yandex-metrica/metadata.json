@@ -14,8 +14,7 @@
 		"1": "Referring domains.",
 		"2": "Audience analytics.",
 		"3": "Behavior analytics.",
-		"4": "Technology analytics.",
-		"5": "Behavior analytics."
+		"4": "Technology analytics."
 	},
 	"description_de": "",
 	"features_de": {
@@ -26,10 +25,14 @@
 		"1": "Análisis de dominios de referencia.",
 		"2": "Análisis de audiencias.",
 		"3": "Análisis de comportamiento.",
-		"4": "Análisis de tecnología.",
-		"5": "Análisis de comportamiento."
+		"4": "Análisis de tecnología."
 	},
-	"description_ru": "",
+	"description_ru": "Яндекс Метрика - это инструмент веб-аналитики, который помогает получать визуальные отчеты и отслеживать источники трафика. Для использования этого плагина необходимо создать учетную запись в <a href=\"https://metrica.yandex.ru\">Яндекс Метрика</a>.",
 	"features_ru": {
+		"0": "Записывает все визиты для просмотра позже.",
+		"1": "Сайты источники трафика.",
+		"2": "Аналитика аудитории.",
+		"3": "Поведенческая аналитика.",
+		"4": "Технологическая аналитика."
 	}
 }
