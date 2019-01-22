@@ -16,8 +16,13 @@
 		"3": "Behavior analytics.",
 		"4": "Technology analytics."
 	},
-	"description_de": "",
+	"description_de": "Yandex Metrica ist eine Werkzeug für die Erfassung und Analyse des Besucherverhaltens.  Für die Verwendung des Plugins wird ein Konto bei <a href=\"https://metrica.yandex.com\">Yandex Metrica</a> benötigt.",
 	"features_de": {
+		"0": "Aufzeichnung aller Aktionen der Besucher.",
+		"1": "Verweisende Domains.",
+		"2": "Analyse der Besuchergruppen.",
+		"3": "Analyse der Besuchervehaltens.",
+		"4": "Analyse der verwendeten Geräte."		
 	},
 	"description_es": "Yandex Metrica es una herramienta para analizar el trafico en su sitio web. Para utilizar este plugin es necesario una cuenta en <a href=\"https://metrica.yandex.com\">Yandex Metrica</a>.",
 	"features_es": {
