@@ -7,7 +7,7 @@
 	"price_usd": "-1",
 	"download_url": "https://gum.co/domain-migrator",
 	"demo_url": "",
-	"information_url": "",
+	"information_url": "https://blog.bludit.com/domain-migrator-plugin",
 	"description": "Move your Bludit installation to a new server with a different domain. Migrate from domain to another, migrate from a domain to a subdomain or migrate from http to https.",
 	"features": {
 		"0": "Migrate from domain to another.",
