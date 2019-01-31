@@ -13,27 +13,27 @@
 		"0": "Adds contact form on a static page.",
 		"1": "Contact form with customizable template.",
 		"2": "Supports Sendmail, SMTP, Google reCPATCHA.",
-		"3": "Spam protection with Google reCPATCHA v2"
+		"3": "Spam protection with Google reCPATCHA v2."
 	},
 	"description_de": "Fügt ein Kontaktformular auf einer statischen Seite ein. Features: Sendmail, SMTP, eigenes Kontakt-Template, Google reCPATCHA",
 	"features_de": {
 		"0": "Kontaktformular bei einer statischen Seite integrieren.",
 		"1": "Template für das Formular kann angepasst werden.",
 		"2": "Sendmail oder SMTP kann verwendet werden.",
-		"3": "Spam Schutz mit Google reCPATCHA v2"
+		"3": "Spam Schutz mit Google reCPATCHA v2."
 	},
 	"description_es": "Agrega un formulario de contacto a una página estática. Es posible utilizar Sendmail o una cuenta SMTP. Ademas es posible utilizar una plantilla personalizada.",
 	"features_es": {
 		"0": "Forumulario de contacto para páginas estática.",
 		"1": "Soporta plantillas personalizadas.",
 		"2": "Soporta Sendmail o SMTP.",
-		"3": "Spam protection with Google reCPATCHA v2"
+		"3": "Spam protection with Google reCPATCHA v2."
 	},
 	"description_ru": "Добавляет форму обратной связи на страницу статической записи. Для работы почты можно использовать Sendmail или SMTP-аккаунт. Также можно использовать собственный шаблон.",
 	"features_ru": {
 		"0": "Добавляет форму обратной связи на страницу статической записи.",
 		"1": "Форма обратной связи с настраиваемым шаблоном.",
 		"2": "Поддержка Sendmail или SMTP.",
-		"3": "Spam protection with Google reCPATCHA v2"
+		"3": "Защита от спама с помощью reCPATCHA v2 от Google."
 	}
 }
