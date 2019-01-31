@@ -1,0 +1,23 @@
+{
+	"name": "Viewerjs",
+	"version": "1.0",
+	"release_date": "2019-01-28",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/GIK-Team/bludit-viewerjs/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/GIK-Team/bludit-viewerjs",
+	"description": "Image gallery for pages based on the Viewer.js.",
+	"features": {
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "Galería de imágenes para paginas basado en Viewer.js.",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "gik-team"
+}
