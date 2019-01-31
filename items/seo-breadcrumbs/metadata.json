@@ -1,12 +1,12 @@
 {
 	"name": "SEO Breadcrumbs",
-	"version": "1.0",
-	"release_date": "2018-04-27",
+	"version": "2.0",
+	"release_date": "2019-01-31",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url_v2": "https://github.com/Bayerberg/bludit-seobreadcrumbs/archive/master.zip",
-	"demo_url": "",
-	"information_url": "https://github.com/Bayerberg/bludit-seobreadcrumbs",
+	"demo_url": "https://gumroad.com/l/seobreadcrumbs",
+	"information_url": "https://gumroad.com/l/seobreadcrumbs",
 	"description": "Breadcrumbs following the schema of schema.org at <a href=\"https://schema.org/BreadcrumbList\" target=\"_blank\">schema.org</a>.",
 	"features": {
 	},
