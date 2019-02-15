@@ -1,0 +1,27 @@
+{
+	"name": "Tail.Writer",
+	"version": "0.3.2",
+	"author_username": "sambrishes",
+	"release_date": "2019-02-15",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/bludit-plugins/tail.writer/archive/0.3.2.zip",
+	"demo_url": "https://github.pytes.net/tail.writer/",
+	"information_url": "https://github.com/bludit-plugins/tail.writer",
+	"description": "A light-weight, powerful and configurable Open Source GitHub Flavored Markdown editor, written in pure vanilla JavaScript.",
+	"features": {
+		"0": "Markdown editor.",
+		"1": "Preview mode."
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "Editor Markdown con un estilo a GitHub, potente y configurable, escrito totalmente en JavaScript.",
+	"features_es": {
+		"0": "Editor Markdown.",
+		"1": "Modo vista previa."
+	},
+	"description_ru": "",
+	"features_ru": {
+	}
+}
