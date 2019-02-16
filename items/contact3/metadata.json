@@ -1,13 +1,13 @@
 {
 	"name": "Contact3",
-	"version": "1.1.1",
+	"version": "1.2.0",
 	"author_username": "novafacile",
-	"release_date": "2019-02-01",
+	"release_date": "2019-02-16",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/novafacile/bludit-plugins/releases/download/contact3-v1.1.1/contact3.zip",
+	"download_url": "https://github.com/novafacile/bludit-plugins/releases/download/contact3-v1.2.0/contact3.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/novafacile/bludit-plugins/releases/tag/contact3-v1.1",
+	"information_url": "https://github.com/novafacile/bludit-plugins/releases/tag/contact3-v1.2.0",
 	"description": "Adds a contact form to a static page. Features: Sendmail, SMTP, custom template, Google reCAPTCHA v2.",
 	"features": {
 		"0": "Adds contact form on a static page.",
