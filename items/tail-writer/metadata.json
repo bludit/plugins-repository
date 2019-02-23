@@ -1,20 +1,22 @@
 {
 	"name": "tail.writer",
-	"version": "0.3.2",
+	"version": "0.3.3",
 	"author_username": "sambrishes",
-	"release_date": "2019-02-18",
+	"release_date": "2019-02-23",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/pytesNET/tail.writer-bludit/archive/0.3.2.zip",
+	"download_url": "https://github.com/pytesNET/tail.writer-bludit/zipball/master",
 	"demo_url": "https://github.pytes.net/tail.writer/",
 	"information_url": "https://github.com/pytesNET/tail.writer-bludit",
-	"description": "A light-weight, powerful and configurable Open Source GitHub Flavored Markdown editor, written in pure vanilla JavaScript.",
+	"description": "A tidy, powerful and extendable Markup ([GitHub Flavored] Markdown, BBCode, Textile) Editor, written in Vanilla JavaScript!",
 	"features": {
 		"0": "Markdown editor.",
 		"1": "Preview mode."
 	},
-	"description_de": "",
+	"description_de": "Ein ordentlicher, starker und erweiterbarer Markup ([GitHub Flavored] Markdown, BBCode, Textile) Editor, geschrieben in purem JavaScript!",
 	"features_de": {
+		"0": "Markdown Editor.",
+		"1": "Vorschaumodus."
 	},
 	"description_es": "Editor Markdown con un estilo a GitHub, potente y configurable, escrito totalmente en JavaScript.",
 	"features_es": {
