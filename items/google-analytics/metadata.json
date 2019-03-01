@@ -1,0 +1,20 @@
+{
+	"name": "Google Analytics",
+	"version": "1.0",
+	"release_date": "2018-03-01",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url_v2": "https://github.com/xm74/a2a/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/liartfr/",
+	"description": "Add your UA-ID to add google analytics to your bludit",
+	"features": {
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"author_username": "liartfr"
+}
