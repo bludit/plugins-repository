@@ -23,7 +23,9 @@
 		"0": "Editor Markdown.",
 		"1": "Modo vista previa."
 	},
-	"description_ru": "",
+	"description_ru": "Аккуратный, мощный и расширяемый редактор разметки содержимого записей ([GitHub Flavored] Markdown, BBCode, Textile), написанный на традиционном JavaScript!",
 	"features_ru": {
+		"0": "Редактор разметки.",
+		"1": "Есть режим предпросмотра."
 	}
 }
