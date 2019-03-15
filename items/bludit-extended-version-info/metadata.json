@@ -1,0 +1,29 @@
+{
+	"name": "Extended Version Info",
+	"version": "1.0",
+	"release_date": "2019-03-15",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/philippd1/bludit-extended-version-info/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/philippd1/bludit-extended-version-info/",
+	"description": "This plugin automatically checks for new versions, displays detailes version informations and provides a direct download button to the latest Bludit version offered on the official Bludit GitHub.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Dieses Plugin sucht automatisch nach neuen Versionen, zeigt detaillierte Versionsinformationen an und bietet einen direkten Download-Button für die neueste Bludit-Version, die im offiziellen Bludit GitHub angeboten wird.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "philippd"
+}
