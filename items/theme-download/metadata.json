@@ -1,0 +1,29 @@
+{
+	"name": "Theme Download",
+	"version": "1.0",
+	"release_date": "2019-03-22",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/philippd1/theme-download/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/philippd1/theme-download/",
+	"description": "This plugin can list all officially available themes, download and install them with a single click",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Dieses Plugin kann alle offiziell verfügbaren Designs auflisten, herunterladen und mit einem einzigen Klick installieren",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "philippd"
+}
