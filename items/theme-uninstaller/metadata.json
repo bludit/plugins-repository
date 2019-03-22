@@ -4,9 +4,9 @@
 	"release_date": "2019-03-22",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "hhttps://github.com/philippd1/theme-uninstaller/archive/master.zip",
+	"download_url": "https://github.com/philippd1/theme-uninstaller/archive/master.zip",
 	"demo_url": "",
-	"information_url": "hhttps://github.com/philippd1/theme-uninstaller/",
+	"information_url": "https://github.com/philippd1/theme-uninstaller/",
 	"description": "This plugin can list all installed themes, and uninstall them with a single click",
 	"features": {
 		"0": "",
