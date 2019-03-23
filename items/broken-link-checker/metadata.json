@@ -1,0 +1,24 @@
+{
+	"name": "Broken Link Checker",
+	"version": "0.5",
+	"release_date": "2019-03-01",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/anaggh/broken-link-checker/archive/0.5.zip",
+	"download_url_v2": "",
+	"demo_url": "",
+	"information_url": "https://github.com/anaggh/broken-link-checker",
+	"description": "Scan your website and fix broken links and images.",
+	"features": {
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "Escanea tu sitio web en busqueda de enlaces rotos e imágenes.",
+	"features_es": {
+	},
+	"description_ru": "Сканирует ваш сайт на наличие и помогает в исправлении неработающих ссылок и изображений.",
+	"features_ru": {
+	},
+	"author_username": "anaggh"
+}

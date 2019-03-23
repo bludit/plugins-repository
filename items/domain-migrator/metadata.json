@@ -1,0 +1,35 @@
+{
+	"name": "Domain Migrator",
+	"version": "1.1",
+	"author_username": "diego",
+	"release_date": "2019-01-23",
+	"license": "Bludit PRO",
+	"price_usd": "-1",
+	"download_url": "https://gum.co/domain-migrator",
+	"demo_url": "",
+	"information_url": "https://docs.bludit.com/en/bludit-pro/domain-migrator",
+	"description": "Move your Bludit installation to a new server with a different domain. Migrate from domain to another, migrate from a domain to a subdomain or migrate from http to https.",
+	"features": {
+		"0": "Migrate from domain to another.",
+		"1": "Migrate from a domain to a subdomain.",
+		"2": "Migrate from http to https.",
+		"3": "Migrate absolute images links to the new domain."
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "Migre la instalación de Bludit a un nuevo servidor con un dominio diferente. Migre de un dominio a otro, migre de un dominio a un subdominio o migre de http a https.",
+	"features_es": {
+		"0": "Soporta migrar de un dominio a otro.",
+		"1": "Soporta migrar de un dominio a un subdominio.",
+		"2": "Soporta migrar de http a https.",
+		"3": "Soporta migrar enalces de imágenes al nuevo dominio."
+	},
+	"description_ru": "Переместите ваш сайт с Bludit на новый сервер с другим доменом. Миграция с одного домена на другой, а также миграция с домена на поддомен или миграция с http на https.",
+	"features_ru": {
+		"0": "Миграция с одного домена на другой.",
+		"1": "Миграция с домена на поддомен.",
+		"2": "Переход с http на https.",
+		"3": "Миграция абсолютных ссылок на изображения на новый домен."
+	}
+}

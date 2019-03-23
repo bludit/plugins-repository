@@ -4,7 +4,7 @@
 	"release_date": "2017-07-15",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/clickwork-git/footnotes/archive/master.zip",
+	"download_url_v2": "https://github.com/clickwork-git/footnotes/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/footnotes",
 	"description": "The plugin allows to add footnotes in an easy way to a text. There is no need for numbering the footnotes.",
@@ -31,5 +31,5 @@
 		"1": "Чтобы вставить номер сноски, добавьте в текст <sup class = \"footnoted\"> <\/sup>.",
 		"2": "Добавьте сноску в качестве элемента упорядоченного списка в конце текста. Дайте в свойства html-элемента списка ID \"footnotes\"."
 	},
-	"author_username": "clickwork" 
+	"author_username": "clickwork"
 }

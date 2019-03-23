@@ -4,7 +4,7 @@
 	"release_date": "2018-03-10",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/Hatschipuh/plugin_update/archive/master.zip",
+	"download_url_v2": "https://github.com/Hatschipuh/plugin_update/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/Hatschipuh/plugin_update",
 	"description": "Automatically updates the newest version of Bludit and all plugins and themes from the repositories.",

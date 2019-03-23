@@ -1,17 +1,18 @@
 {
 	"name": "Lightbox",
-	"version": "1.0",
-	"release_date": "2018-02-21",
+	"version": "1.2",
+	"release_date": "2019-02-25",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/clickwork-git/lightbox/archive/v1.0.zip",
+	"download_url_v2": "https://github.com/clickwork-git/lightbox/archive/v1.1.zip",
+	"download_url": "https://github.com/clickwork-git/lightbox/archive/v1.1.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/lightbox",
 	"description": "Lightbox and gallery based on the lightbox script by Lokesh Dhakar. See for explanation the file README.md in the plugin directory.",
 	"features": {
 		"0": "Add a data-lightbox attribute to any image link to enable Lightbox. For the value of the attribute, use a unique name for each image.",
 		"1": "If you have a group of related images that you would like to combine into a set, use the same data-lightbox attribute value for all of the images.",
-		"2": "Important: The link to the image must contain the path to the directory (\/bl-content\/uploads\/)."
+		"2": ""
 	},
 	"description_de": "Lightbox und Galerie basierend auf dem Lightbox-Skript von Lokesh Dhakar. Informationen zur Verwendung des Plugins sind in der Datei liesmich.txt im Plugin-Verzeichnis zu finden.",
 	"features_de": {

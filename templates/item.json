@@ -5,8 +5,7 @@
 	"release_date": "_RELEASE_DATE_",
 	"license": "_LICENSE_",
 	"price_usd": "_PRICE_",
-	"download_url": "_DOWNLOAD_URL_FOR_BLUDIT_V2_",
-	"download_url_v3": "_DOWNLOAD_URL_FOR_BLUDIT_V3_",
+	"download_url": "_DOWNLOAD_URL_",
 	"demo_url": "_DEMO_URL_",
 	"information_url": "_INFORMATION_URL_",
 	"description": "_DESCRIPTION_",
@@ -23,6 +22,12 @@
 	},
 	"description_es": "_DESCRIPTION_SPANISH_",
 	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"features_ru": {
 		"0": "",
 		"1": "",
 		"2": ""
