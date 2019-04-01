@@ -12,7 +12,7 @@
 	"features": {
 		"0": "Feed Copyright - configurable via plugin menu.",
 		"1": "Feed Generator - configurable via plugin menu",
-		"2": "Feed Item Limit - configurable via plugin menu",
+		"2": "Feed Item Limit - configurable via plugin menu"
 	},
 	"description_de": "_DESCRIPTION_GERMAN_",
 	"features_de": {
