@@ -1,11 +1,11 @@
 {
    "name":"Snicker",
-   "version":"0.1.0",
+   "version":"0.1.1",
    "author_username":"sambrishes",
-   "release_date":"2019-04-01",
+   "release_date":"2019-04-02",
    "license":"MIT",
    "price_usd":"0",
-   "download_url":"https://github.com/pytesNET/snicker/zipball/master",
+   "download_url":"https://github.com/pytesNET/snicker/archive/0.1.1.zip",
    "demo_url":"",
    "information_url":"https://github.com/pytesNET/snicker",
    
