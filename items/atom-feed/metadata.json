@@ -8,7 +8,7 @@
 	"download_url": "https://github.com/erdifr/atom-feed/archive/v0.0.1.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/erdifr/atom-feed",
-	"description": "A plugin that adds an Atom Syndication Format feed to Bludit powered websites. ",
+	"description": "A plugin that adds an Atom Syndication Format feed to Bludit powered websites",
 	"features": {
 		"0": "Feed Copyright - configurable via plugin menu.",
 		"1": "Feed Generator - configurable via plugin menu",
@@ -26,10 +26,10 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"description_ru": "Плагин, который добавляет Atom-канал на сайты, использующие Bludit",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Авторские права на канал - настраиваются через меню плагина.",
+		"1": "Контент транслируемый в канал - настраивается через меню плагина.",
+		"2": "Максимальное количество записей в канале - настраивается через меню плагина."
 	}
 }
