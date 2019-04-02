@@ -11,17 +11,25 @@
    
    "description":"A simple pagination system, which allows you to split your long content onto multiple pages!",
    "features":{
-      "0":"Supports Pretty URLs and Canonincal header links",
-      "1":"2 different pagination layouts",
-      "2":"Configurable pagination variable",
-      "3":"Offers a 'Single Page' View"
+      "0":"Supports Pretty URLs and Canonincal header links.",
+      "1":"Two different pagination layouts.",
+      "2":"Configurable pagination variable.",
+      "3":"Offers a 'Single Page' View."
    },
    
    "description_de":"Ein einfaches Pagination Plugin, welches es dir erlaubt deine Inhalte auf mehrere Seiten auf zu teilen!",
    "features_de":{
-      "0":"Unterstützt 'Pretty URLs' sowie kanonische Meta Verlinkungen",
-      "1":"2 verschiedene Pagination Layouts",
-      "2":"Konfigurierbare Pagination Variable",
-      "3":"Bietet eine 'Alles auf einer Seite ansehen' Funktion"
+      "0":"Unterstützt 'Pretty URLs' sowie kanonische Meta Verlinkungen.",
+      "1":"Zwei verschiedene Pagination Layouts.",
+      "2":"Konfigurierbare Pagination Variable.",
+      "3":"Bietet eine 'Alles auf einer Seite ansehen' Funktion."
+   },
+   
+   "description_ru":"Простая система нумерации страниц, которая позволяет разбить ваши длинные записи (и страницы) на несколько страниц!",
+   "features_ru":{
+      "0":"Поддерживает красивые URL и ссылки на заголовки Canonical.",
+      "1":"Имеет два разных макета нумерации страниц.",
+      "2":"Настраиваемая переменная нумерации страниц.",
+      "3":"Предлагает вид «всё на одной странице»."
    }
 }
