@@ -8,7 +8,7 @@
 	"download_url": "https://github.com/naplaya/plugin-downlaod/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/naplaya/plugin-downlaod/",
-	"description": "A plugin to easyly download and instal plugins",
+	"description": "A plugin to easily download and install plugins",
 	"features": {
 		
 	},
@@ -20,7 +20,7 @@
 	"features_es": {
 	
 	},
-	"description_ru": "",
+	"description_ru": "Плагин для простой загрузки и установки плагинов",
 	"features_ru": {
 	
 	}

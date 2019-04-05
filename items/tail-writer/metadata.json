@@ -5,7 +5,7 @@
 	"release_date": "2019-02-23",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/pytesNET/tail.writer-bludit/zipball/master",
+	"download_url": "https://github.com/pytesNET/tail.writer-bludit/archive/0.4.0.zip",
 	"demo_url": "https://github.pytes.net/tail.writer/",
 	"information_url": "https://github.com/pytesNET/tail.writer-bludit",
 	"description": "A tidy, powerful and extendable Markup ([GitHub Flavored] Markdown, BBCode, Textile) Editor, written in Vanilla JavaScript!",

@@ -1,0 +1,41 @@
+{
+	"name": "RSS Feed 2",
+	"version": "0.0.3",
+	"author_username": "erdifr",
+	"release_date": "2019-04-02",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/erdifr/rss-feed-2/archive/v0.0.3.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/erdifr/rss-feed-2",
+	"description": "A plugin that adds an RSS web syndication feed to Bludit powered websites",
+	"features": {
+		"0": "RSS Feed 2 has all the functionality of Bludit RSS Feed plugin plus a little extra.",
+		"1": "copyright element added to RSS channel element.",
+		"2": "language element added to RSS channel element.",
+		"3": "generator element added to RSS channel element.",
+		"4": "ttl element added to RSS channel element.",
+		"5": "category element added to RSS item element."
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "_DESCRIPTION_SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "Плагин, который добавляет RSS-каналы с контентом на веб-сайты Bludit",
+	"features_ru": {
+		"0": "Плагин RSS Feed 2 имеет все функции плагина Bludit RSS Feed и даже немного больше.",
+		"1": "Добавлен тег элемента авторского права для записей в RSS-канале.",
+		"2": "Добавлен тег элемента языка для записей в RSS-канале.",
+		"3": "Добавлен тег элемента генератора для записей в RSS-канале.",
+		"4": "Добавлен тег элемента ttl для записей в RSS-канале.",
+		"5": "Добавлен тег элемента категории для записей в RSS-канале."
+	}
+}
