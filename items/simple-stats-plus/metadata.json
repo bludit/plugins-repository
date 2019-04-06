@@ -1,0 +1,53 @@
+{
+	"name": "Simple-Stats-Plus",
+	"version": "3.8.0",
+	"author_username": "blake",
+	"release_date": "2019-04-04",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/BlakesHeaven/Simple-Stats-Plus/archive/v3.8.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/BlakesHeaven/Simple-Stats-Plus/",
+	"description": "Enhanced from Bludit's Simple Stats, it gathers & shows the number of page hits & visitors per period, on your dashboard.",
+	"features": {
+		"0": "Captures Daily, Weelkly, Monthly and Running-total page hit and unique visitor counts.",
+		"1": "Almost everything is configurable and unwanted data capture can be turned off.",
+		"2": "Displays charts and stats in the Admin Dashboard.",
+		"3": "Includes Side-bar Hit-Counter to display all the above as wanted."
+	},
+	"description_de": "Verbessert durch die einfachen Statistiken von Bludit. Es erfasst und zeigt die Anzahl der Seitenaufrufe und Besucher pro Zeitraum in Ihrem Dashboard.",
+	"features_de": {
+		"0": "Erfasst tägliche, verkrüppelte, monatliche und laufende Seitenaufrufe und eindeutige Besucher.",
+		"1": "Fast alles ist konfigurierbar und unerwünschte Datenerfassung kann deaktiviert werden.",
+		"2": "Zeigt Diagramme und Statistiken im Admin-Dashboard an.",
+		"3": "Enthält einen Side-Bar-Hit-Counter, um alle gewünschten Optionen anzuzeigen."
+	},
+	"description_es": "Mejorado con las estadísticas simples de Bludit, reúne y muestra el número de visitas y visitantes de la página por período, en su panel de control.",
+	"features_es": {
+		"0": "Captura visitas diarias, semanales, mensuales y totales de visitas y visitantes únicos.",
+		"1": "Casi todo es configurable y la captura de datos no deseados se puede desactivar.",
+		"2": "Muestra gráficos y estadísticas en el Panel de administración.",
+		"3": "Incluye un contador de golpes de barra lateral para mostrar todo lo anterior como se desee."
+	},
+	"description_ru": "Улучшенный из простой статистики Bludit, он собирает и показывает количество посещений страниц и посетителей за период на вашей панели.",
+	"features_ru": {
+		"0": "Захватывает ежедневных, еженедельных, ежемесячных и постоянных посещений страниц и уникальных посетителей.",
+		"1": "Почти все настраивается, и нежелательный сбор данных может быть отключен.",
+		"2": "Отображает графики и статистику в панели администратора.",
+		"3": "Включает счетчик посещений на боковой панели для отображения всего вышеперечисленного."
+	},
+	"description_nl": "Verbeterd van de Simple Stats van Bludit, verzamelt en toont het het aantal paginahits en bezoekers per periode, op uw dashboard.",
+	"features_nl": {
+		"0": "Legt dagelijkse, betrouwbare, maandelijkse en actieve paginatreffers en unieke bezoekers vast.",
+		"1": "Bijna alles is configureerbaar en ongewenste gegevensregistratie kan worden uitgeschakeld.",
+		"2": "Geeft diagrammen en statistieken weer in het Admin Dashboard.",
+		"3": "Inclusief zijbar-hitenteller om al het bovenstaande naar wens weer te geven."
+	},
+	"description_fr": "Amélioré à partir des statistiques simples de Bludit, il regroupe et affiche le nombre de visites de pages et de visiteurs par période sur votre tableau de bord.",
+	"features_fr": {
+		"0": "Capture les visites journalières, hebdomadaires, mensuelles et totales, ainsi que les visiteurs uniques.",
+		"1": "Presque tout est configurable et la capture de données non désirée peut être désactivée.",
+		"2": "Affiche les graphiques et les statistiques dans le tableau de bord de l'administrateur.",
+		"3": "Comprend un compteur de barres latérales pour afficher tout ce qui précède comme souhaité."
+	},
+}
