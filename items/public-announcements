@@ -2,7 +2,7 @@
 	"name": "Public Announcements",
 	"version": "1.0",
 	"author_username": "aniika",
-	"release_date": "13.04.2019",
+	"release_date": "2019-04-13",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/naplaya/public-announcements/archive/master.zip",
@@ -13,6 +13,5 @@
 		"0": "Customize colors of the announcements",
 		"1": "Set start and end date of the announcement",
 		"2": "Fully customizable style"
-	},
-	
+	}
 }
