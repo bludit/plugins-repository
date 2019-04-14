@@ -7,7 +7,7 @@
 	"price_usd": "0",
 	"download_url": "https://github.com/naplaya/public-announcements/archive/master.zip",
 	"demo_url": "bc-schoellbronn.de",
-	"information_url": "https://github.com/naplaya/public-announcements",
+	"information_url": "https://github.com/naplaya/public-announcements/archive/release-1.0.zip",
 	"description": "This plugins allows to display some announcements for example a server downtime on a specific day",
 	"features": {
 		"0": "Customize colors of the announcements",
