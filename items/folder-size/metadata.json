@@ -1,10 +1,10 @@
 {
 	"name": "Folder Size",
-	"version": "1.0",
-	"release_date": "2019-04-03",
+	"version": "1.1",
+	"release_date": "2019-04-20",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/clickwork-git/folder-size/archive/v1.0.zip",
+	"download_url": "https://github.com/clickwork-git/folder-size/archive/v1.1.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/folder-size",
 	"description": "The plugin shows the size of the folders of the installation (total, databases, pages, uploads).",
