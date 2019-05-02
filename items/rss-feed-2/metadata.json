@@ -8,7 +8,7 @@
 	"download_url": "https://github.com/erdifr/rss-feed-2/archive/v0.0.3.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/erdifr/rss-feed-2",
-	"description": "A plugin that adds an RSS web syndication feed to Bludit powered websites",
+	"description": "A plugin that adds an RSS web syndication feed to Bludit powered websites.",
 	"features": {
 		"0": "RSS Feed 2 has all the functionality of Bludit RSS Feed plugin plus a little extra.",
 		"1": "copyright element added to RSS channel element.",
@@ -29,7 +29,7 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "Плагин, который добавляет RSS-каналы с контентом на веб-сайты Bludit",
+	"description_ru": "Плагин, который добавляет RSS-каналы с контентом на веб-сайты Bludit.",
 	"features_ru": {
 		"0": "Плагин RSS Feed 2 имеет все функции плагина Bludit RSS Feed и даже немного больше.",
 		"1": "Добавлен тег элемента авторского права для записей в RSS-канале.",
