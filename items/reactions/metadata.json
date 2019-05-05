@@ -1,0 +1,27 @@
+{
+   "name":"Reactions",
+   "version":"0.1.1",
+   "author_username":"sambrishes",
+   "release_date":"2019-05-05",
+   "license":"MIT",
+   "price_usd":"0",
+   "download_url":"https://github.com/pytesNET/reactions/archive/0.1.1.zip",
+   "demo_url":"",
+   "information_url":"https://github.com/pytesNET/reactions",
+   
+   "description":"Let your readers react to your content using an Emoji!",
+   "features":{
+      "0":"5 selectable and label-able Emojies",
+      "1":"Adaptable Panel title and used frontend hook",
+      "2":"Configurable Content Types, where the panel should be shown",
+      "3":"Minimalistic storage as 'custom' page meta"
+   },
+   
+   "description_de":"Lass deine Leser deine Inhalte mit einem Emoji bewerten.",
+   "features_de":{
+      "0":"5 auswählbare, benennbare Emojies",
+      "1":"Anpassbarer Panel Titel und genutzte Frontend Hook",
+      "2":"Konfigurierbare Inhaltsstypen, wo das Panel angezeigt werden soll",
+      "3":"Einfache Speicherung über die 'custom' Seitenvariable"
+   }
+}
