@@ -10,18 +10,18 @@
 	"information_url": "https://github.com/erdifr/atom-feed",
 	"description": "A plugin that adds an Atom Syndication Format feed to Bludit powered websites.",
 	"features": {
-		"0": "Feed Copyright - configurable via plugin menu.",
-		"1": "Feed Generator - configurable via plugin menu.",
-		"2": "Feed Item Limit - configurable via plugin menu."
+		"0": "Feed Copyright, configurable via plugin menu.",
+		"1": "Feed Generator, configurable via plugin menu.",
+		"2": "Feed Item Limit, configurable via plugin menu."
 	},
-	"description_de": "_DESCRIPTION_GERMAN_",
-	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
-	},
-	"description_es": "_DESCRIPTION_SPANISH_",
+	"description_es": "Atom Syndication Format para Bludit",
 	"features_es": {
+		"0": "Feed Copyright, configurable a través del menú del plugin.",
+		"1": "Feed Generator, configurable a través del menú del plugin.",
+		"2": "Feed Item Limite, configurable a través del menú del plugin."
+	},
+	"description_de": "",
+	"features_de": {
 		"0": "",
 		"1": "",
 		"2": ""
