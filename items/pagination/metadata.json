@@ -1,15 +1,15 @@
 {
    "name":"Pagination",
-   "version":"0.1.0",
+   "version":"0.2.0",
    "author_username":"sambrishes",
-   "release_date":"2019-04-01",
+   "release_date":"2019-04-26",
    "license":"MIT",
    "price_usd":"0",
-   "download_url":"https://github.com/pytesNET/pagination/archive/0.1.0.zip",
+   "download_url":"https://github.com/pytesNET/pagination/archive/0.2.0.zip",
    "demo_url":"",
    "information_url":"https://github.com/pytesNET/pagination",
    
-   "description":"A simple pagination system, which allows you to split your long content onto multiple pages!",
+   "description":"Just get more Space for your Content by splitting them into multiple pages.",
    "features":{
       "0":"Supports Pretty URLs and Canonincal header links.",
       "1":"Two different pagination layouts.",
@@ -17,7 +17,7 @@
       "3":"Offers a 'Single Page' View."
    },
    
-   "description_de":"Ein einfaches Pagination Plugin, welches es dir erlaubt deine Inhalte auf mehrere Seiten auf zu teilen!",
+   "description_de":"Erhalte mehr Platz für deine Inahlte indem du sie auf mehrere Seiten aufteilst.",
    "features_de":{
       "0":"Unterstützt 'Pretty URLs' sowie kanonische Meta Verlinkungen.",
       "1":"Zwei verschiedene Pagination Layouts.",
