@@ -8,8 +8,11 @@
 	"download_url_v2": "",
 	"demo_url": "",
 	"information_url": "https://github.com/anaggh/debug-bar",
-	"description": "Peek into Bludit internals",
+	"description": "Enable debug bar and peek into Bludit internals",
 	"features": {
+		"0": "Check server included files in each request.",
+		"1": "Check RAM Usage.",
+		"2": "Check Time taken to render."
 	},
 	"description_de": "",
 	"features_de": {
