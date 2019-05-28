@@ -1,0 +1,27 @@
+{
+	"name": "Debug Bar",
+	"version": "0.1",
+	"release_date": "2019-05-28",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/anaggh/debug-bar/archive/0.1.zip",
+	"download_url_v2": "",
+	"demo_url": "",
+	"information_url": "https://github.com/anaggh/debug-bar",
+	"description": "Enable debug bar and peek into Bludit internals",
+	"features": {
+		"0": "Check server included files in each request.",
+		"1": "Check RAM Usage.",
+		"2": "Check Time taken to render."
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "anaggh"
+}
