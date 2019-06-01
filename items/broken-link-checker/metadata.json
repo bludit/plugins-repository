@@ -1,10 +1,10 @@
 {
 	"name": "Broken Link Checker",
-	"version": "0.5",
-	"release_date": "2019-03-01",
+	"version": "0.6",
+	"release_date": "2019-05-28",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/anaggh/broken-link-checker/archive/0.5.zip",
+	"download_url": "https://github.com/anaggh/broken-link-checker/archive/0.6.zip",
 	"download_url_v2": "",
 	"demo_url": "",
 	"information_url": "https://github.com/anaggh/broken-link-checker",
