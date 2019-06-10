@@ -5,7 +5,7 @@
 	"release_date": "2019-05-30",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/mhancoc7/open-links-new-tab-pilab/archive/master.zip",
+	"download_url": "https://pilab.dev/plugins/",
 	"demo_url": "https://pilab.dev/",
 	"information_url": "https://pilab.dev/",
 	"description": "Set all external links to open in new tabs.",
