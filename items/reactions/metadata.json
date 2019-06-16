@@ -11,17 +11,25 @@
    
    "description":"Let your readers react to your content using an Emoji!",
    "features":{
-      "0":"5 selectable and label-able Emojies",
-      "1":"Adaptable Panel title and used frontend hook",
-      "2":"Configurable Content Types, where the panel should be shown",
-      "3":"Minimalistic storage as 'custom' page meta"
+      "0":"5 selectable and label-able Emojies.",
+      "1":"Adaptable Panel title and used frontend hook.",
+      "2":"Configurable Content Types, where the panel should be shown.",
+      "3":"Minimalistic storage as 'custom' page meta."
    },
    
    "description_de":"Lass deine Leser deine Inhalte mit einem Emoji bewerten.",
    "features_de":{
-      "0":"5 auswählbare, benennbare Emojies",
-      "1":"Anpassbarer Panel Titel und genutzte Frontend Hook",
-      "2":"Konfigurierbare Inhaltsstypen, wo das Panel angezeigt werden soll",
-      "3":"Einfache Speicherung über die 'custom' Seitenvariable"
+      "0":"5 auswählbare, benennbare Emojies.",
+      "1":"Anpassbarer Panel Titel und genutzte Frontend Hook.",
+      "2":"Konfigurierbare Inhaltsstypen, wo das Panel angezeigt werden soll.",
+      "3":"Einfache Speicherung über die 'custom' Seitenvariable."
+   },
+   
+    "description_ru":"Пусть ваши читатели реагируют на ваш контент с помощью Emoji!",
+   "features_ru":{
+      "0":"5 выбираемых и маркируемых Emoji.",
+      "1":"Адаптируется под многие темы благодаря продуманной архитектуре плагина.",
+      "2":"Настраиваемые типы контента, где должна отображаться панель.",
+      "3":"Минималистичное хранилище в виде «пользовательской» мета страницы."
    }
 }
