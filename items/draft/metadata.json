@@ -11,13 +11,19 @@
    
    "description":"This Bludit Plugin allows you to preview drafts on the frontend website, before you publish them.",
    "features":{
-      "0":"Adds a Preview Button on the Content Screen",
-      "1":"Previews are just available for Admins and Content Authors"
+      "0":"Adds a Preview Button on the Content Screen.",
+      "1":"Previews are just available for Admins and Content Authors."
    },
    
    "description_de":"Mit diesem Bludit-Plugin können Sie Entwürfe auf der Frontend-Website anzeigen, bevor Sie sie veröffentlichen.",
    "features_de":{
-      "0":"Fügt einen Vorschau-Button auf der Inhaltsseite hinzu",
-      "1":"Vorschauen sind lediglich für Admins und die Inhaltsersteller einsehbar"
+      "0":"Fügt einen Vorschau-Button auf der Inhaltsseite hinzu.",
+      "1":"Vorschauen sind lediglich für Admins und die Inhaltsersteller einsehbar."
+   },
+   
+   "description_ru":"Этот плагин Bludit позволяет предварительно просматривать черновики на сайте (а не в панели управления) перед их публикацией.",
+   "features_ru":{
+      "0":"Добавляет кнопку предварительного просмотра на станице с записями.",
+      "1":"Предварительные просмотры только доступны для администраторов и авторов контента."
    }
 }
