@@ -1,0 +1,13 @@
+{
+	"name": "target='_blank' - Pi Lab",
+	"version": "1.0.3",
+	"author_username": "Pi Lab",
+	"release_date": "2019-05-30",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://pilab.dev/plugins/",
+	"demo_url": "https://pilab.dev/",
+	"information_url": "https://pilab.dev/",
+	"description": "Set all external links to open in new tabs.",
+	"features": {}
+}
