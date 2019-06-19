@@ -7,7 +7,7 @@
 	"price_usd": "0",
 	"download_url": "https://pilab.dev/plugins/",
 	"demo_url": "https://pilab.dev/",
-	"information_url": "https://pilab.dev/",
+	"information_url": "https://pilab.dev/plugins/",
 	"description": "Set all external links to open in new tabs.",
 	"features": {}
 }
