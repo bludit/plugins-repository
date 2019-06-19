@@ -5,15 +5,9 @@
 	"release_date": "2019-05-30",
 	"license": "MIT",
 	"price_usd": "0",
-<<<<<<< HEAD
-	"download_url": "https://pilab.dev/plugins/",
-	"demo_url": "https://pilab.dev/",
-	"information_url": "https://pilab.dev/plugins/",
-=======
 	"download_url": "https://pilab.dev/plugins",
+	"information_url": "https://pilab.dev/plugins",
 	"demo_url": "https://pilab.dev",
-	"information_url": "https://pilab.dev",
->>>>>>> e39b6117104cffb2f7d30a914cc411a2c4114386
 	"description": "Set all external links to open in new tabs.",
 	"features": {}
 }
