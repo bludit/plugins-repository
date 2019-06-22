@@ -1,13 +1,13 @@
 {
-	"name": "target='_blank' - Pi Lab",
+	"name": "Open Links New Tab",
 	"version": "1.0.3",
 	"author_username": "pilab",
 	"release_date": "2019-05-30",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://pilab.dev/plugins",
-	"information_url": "https://pilab.dev/plugins",
 	"demo_url": "https://pilab.dev",
-	"description": "Set all external links to open in new tabs.",
+	"information_url": "https://pilab.dev",
+	"description": "This plugin forces all external links on pages to open in new tabs.",
 	"features": {}
 }
