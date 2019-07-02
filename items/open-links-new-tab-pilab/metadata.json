@@ -9,5 +9,9 @@
 	"demo_url": "https://pilab.dev",
 	"information_url": "https://pilab.dev",
 	"description": "This plugin forces all external links on pages to open in new tabs.",
-	"features": {}
+	"features": {
+	},
+	"description_ru": "Этот плагин заставляет все внешние ссылки на страницах сайта открываться в новых вкладках.",
+	"features_ru": {
+	}
 }
