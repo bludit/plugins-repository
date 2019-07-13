@@ -1,0 +1,35 @@
+{
+	"name": "Content ID",
+	"version": "0.1",
+	"release_date": "2019-07-14",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/clickwork-git/content-id/releases/tag/v0.1",
+	"demo_url": "",
+	"information_url": "https://github.com/clickwork-git/content-id",
+	"description": "The plugin shows the ID of a content (page or post).",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Das Plugin zeigt die ID eines Inhalts (Seite oder Beitrag).",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "clickwork"
+}
