@@ -7,7 +7,7 @@
 	"download_url": "https://github.com/clickwork-git/content-id/archive/v1.1.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/content-id",
-	"description": "The plugin shows the ID of a content (page or post).",
+	"description": "The plugin shows the ID of content (page or post).",
 	"features": {
 		"0": "",
 		"1": "",
@@ -25,7 +25,7 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "",
+	"description_ru": "Плагин показывает уникальный идентификатор (ID) контента (выделенной страницы сайта или записи).",
 	"features_ru": {
 		"0": "",
 		"1": "",
