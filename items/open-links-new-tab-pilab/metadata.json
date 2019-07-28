@@ -1,0 +1,17 @@
+{
+	"name": "Open Links New Tab",
+	"version": "1.0.3",
+	"author_username": "pilab",
+	"release_date": "2019-05-30",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://pilab.dev/plugins",
+	"demo_url": "https://pilab.dev",
+	"information_url": "https://pilab.dev",
+	"description": "This plugin forces all external links on pages to open in new tabs.",
+	"features": {
+	},
+	"description_ru": "Этот плагин заставляет все внешние ссылки на страницах сайта открываться в новых вкладках.",
+	"features_ru": {
+	}
+}
