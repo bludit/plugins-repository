@@ -1,0 +1,23 @@
+{
+	"name": "Social Media Suits",
+	"version": "1.2",
+	"release_date": "2019-08-03",
+	"license": "MIT",
+	"price_usd": "-1",
+	"download_url": "https://gumroad.com/makeitblu",
+	"demo_url": "",
+	"information_url": "https://gumroad.com/makeitblu",
+	"description": "Displays Social Media links in the sidebar.",
+	"features": {
+	},
+	"description_de": "Anzeige von Social-Media-Links in der Seitenleiste.",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "cajzer"
+}
