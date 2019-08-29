@@ -6,7 +6,7 @@
 	"price_usd": "0",
 	"download_url": "https://github.com/DivineDominion/vanilla-comments/archive/v0.2.0.zip",
 	"information_url": "https://github.com/DivineDominion/vanilla-comments/",
-	"description": "Use Vanilla Forum embed comments"
+	"description": "Use Vanilla Forum embed comments",
 	"features": {
 		"0": "Conditional activation/deactivation of comments per page",
 		"1": "Configurable comment position",
