@@ -6,17 +6,23 @@
 	"price_usd": "0",
 	"download_url": "https://github.com/DivineDominion/vanilla-comments/archive/v0.2.0.zip",
 	"information_url": "https://github.com/DivineDominion/vanilla-comments/",
-	"description": "Use Vanilla Forum embed comments",
+	"description": "Use Vanilla Forum embed comments.",
 	"features": {
-		"0": "Conditional activation/deactivation of comments per page",
-		"1": "Configurable comment position",
-		"2": "Configurable target category in the forums for new comment discussions"
+		"0": "Conditional activation/deactivation of comments per page.",
+		"1": "Configurable comment position.",
+		"2": "Configurable target category in the forums for new comment discussions."
 	},
-	"description_de": "Verwende Vanilla Forum zum Einbetten von Kommentaren",
-	"features": {
-		"0": "(De)aktiviere Kommentare bei Bedarf auf einzelnen Seiten",
-		"1": "Konfigurierbare Position der Kommentare auf der Seite",
-		"2": "Konfigurierbare Vanilla-Forum Kategorie, in die Kommentare gespeichert werden"
+	"description_de": "Verwende Vanilla Forum zum Einbetten von Kommentaren.",
+	"features_de": {
+		"0": "(De)aktiviere Kommentare bei Bedarf auf einzelnen Seiten.",
+		"1": "Konfigurierbare Position der Kommentare auf der Seite.",
+		"2": "Konfigurierbare Vanilla-Forum Kategorie, in die Kommentare gespeichert werden."
+	},
+	"description_ru": "Используйте форумную CMS Vanilla Forum для вставки комментариев.",
+	"features_ru": {
+		"0": "Опциональная активация/деактивация комментариев на странице.",
+		"1": "Настраиваемое положение на странице для комментария.",
+		"2": "Настраиваемая целевая категория на форумах для новых комментариев."
 	},
 	"author_username": "christian-tietze"
 }
