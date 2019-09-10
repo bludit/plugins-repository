@@ -15,8 +15,12 @@
 		"2": "Migrate from http to https.",
 		"3": "Migrate absolute images links to the new domain."
 	},
-	"description_de": "",
+	"description_de": "Migrieren Sie Ihre Bludit-Installation auf einen neuen Server mit einer anderen Domain. Migrieren Sie von einer Domain zu einer anderen, migrieren Sie von einer Domain zu einer Subdomain oder migrieren Sie von http nach https.",
 	"features_de": {
+		"0": "Migriere von einer Domain zur anderen.",
+		"1": "Migriere von einer Domain zu einer Subdomain",
+		"2": "Migriere von http nach https.",
+		"3": "Migriere absolute Bildpfade zur neuen Domain."
 	},
 	"description_es": "Migre la instalación de Bludit a un nuevo servidor con un dominio diferente. Migre de un dominio a otro, migre de un dominio a un subdominio o migre de http a https.",
 	"features_es": {
