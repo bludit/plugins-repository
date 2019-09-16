@@ -10,7 +10,7 @@
 	"description": "Original maintenance mode plugin of Bludit, extended with some more configurable backend options. And also added a little styling to make it more attractive. A logged in administrator or editor is able to see the live frontend.",
 	"features": {
 	},
-	"description_de": "",
+	"description_de": "Dieses Plugin bietet mehr konfigurierbare Optionen als das Standard-Plugin. Es bietet auch die Möglichkeit, dass eingeloggte Administratoren oder Redakteure das Frontend der Website einsehen können.",
 	"features_de": {
 	},
 	"description_es": "Mejora del plugin original \"Modo mantenimiento\" con algunas funciones extras. También se agrego mejoras en el estilo. El administrador del sitio puede ver el sitio completamente.",
