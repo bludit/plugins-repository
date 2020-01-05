@@ -1,0 +1,35 @@
+{
+	"name": "YandexTurbo",
+	"version": "0.0.1",
+	"author_username": "mirivlad",
+	"release_date": "2020.01.05",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/mirivlad/bludit/blob/master/bl-plugins/yandex_turbo.zip",
+	"demo_url": "https://mirv.top",
+	"information_url": "https://github.com/mirivlad/bludit/blob/master/bl-plugins/yandex_turbo/README.md",
+	"description": "Plugin for CMS Bludit that implements RSS feed suitable for generating Yandex Turbo pages. Read more about Yandex Turbo technology here: https://tech.yandex.ru/turbo/doc/concepts/index-docpage/",
+	"features": {
+		"0": "Markup generation for Yandex Turbo technology",
+		"1": "Selecting the number of entries in the feed",
+		"2": "Select file name for feed"
+	},
+	"description_de": "Plugin für CMS Bludit, das RSS-Feeds implementiert, die zur Generierung von Yandex Turbo-Seiten geeignet sind. Weitere Informationen zur yandex Turbo-Technologie finden Sie hier: https://tech.yandex.ru/turbo/doc/concepts/index-docpage/",
+	"features_de": {
+		"0": "Markup-Generation für die Yandex Turbo-Technologie",
+		"1": "Auswahl der Anzahl der Einträge im Feed",
+		"2": "Wählen Sie den Dateinamen für den Feed"
+	},
+	"description_es": "Complemento para CMS Bludit que implementa una fuente RSS adecuada para generar páginas Yandex Turbo. Lea más sobre la tecnología yandex Turbo aquí: https://tech.yandex.ru/turbo/doc/concepts/index-docpage/",
+	"features_es": {
+		"0": "Generación de marcado para la tecnología Yandex Turbo",
+		"1": "Seleccionar el número de entradas en el feed",
+		"2": "Seleccione el nombre del archivo para el feed"
+	},
+	"description_ru": "Плагин для CMS Bludit реализующий ленту RSS подходящую для генерации страниц Yandex Turbo. Подробнее о технологии yandex Turbo читайте тут: https://tech.yandex.ru/turbo/doc/concepts/index-docpage/",
+	"features_ru": {
+		"0": "Генерация разметки для технологии Yandex Turboy",
+		"1": "Выбор количества записей в фиде",
+		"2": "Выбор имени файла для фида"
+	}
+}
