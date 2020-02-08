@@ -1,0 +1,31 @@
+{
+	"name": "TagsPlus",
+	"version": "0.0.1",
+	"author_username": "mirivlad",
+	"release_date": "2020.01.02",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/mirivlad/bludit/blob/master/bl-plugins/tags_plus.zip",
+	"demo_url": "https://mirv.top",
+	"information_url": "https://github.com/mirivlad/bludit/blob/master/bl-plugins/tags_plus/README.md",
+	"description": "Modified standard tag plugin for Bludit engine. Implements a tag cloud.",
+	"features": {
+		"0": "Output tags to a line with a hyphen",
+		"1": "Implementation of resizing a tag depending on the amount of its use"
+	},
+	"description_de": "Modifiziertes Standard-Tag-Plugin für die Bludit-Engine. Implementiert eine Tag-Cloud.",
+	"features_de": {
+		"0": "Tags in einer Zeile mit einem Bindestrich ausgeben",
+		"1": "Implementierung der Größenänderung eines Tags in Abhängigkeit von der Menge seiner Verwendung"
+	},
+	"description_es": "Complemento de etiqueta estándar modificado para el motor Bludit. Implementa una nube de etiquetas.",
+	"features_es": {
+		"0": "Etiquetas de salida a una línea con un guión,",
+		"1": "Implementación de cambiar el tamaño de una etiqueta dependiendo de la cantidad de su uso."
+	},
+	"description_ru": "Доработанный стандартный плагин тегов для движка Bludit. Реализует облако тегов.",
+	"features_ru": {
+		"0": "Вывод тегов в строку с переносом",
+		"1": "Реализация изменения размера тега в зависимости от количества его использования"
+	}
+}
