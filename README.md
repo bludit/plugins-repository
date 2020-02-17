@@ -5,7 +5,7 @@ This repository keeps all the database for the sites:
 - (Español) https://plugins.bludit.com/es/
 - (Русский) https://plugins.bludit.com/ru/
 
-You can add your **free** or **pay** theme here!
+You can add your **free** or **paid** plugin here!
 
 ## How to add a plugin
 ### 1) Create your username
