@@ -5,7 +5,7 @@
 	"author_username": "philippd",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/philippd1/bludit-auto-update/archive/master.zip",
+	"download_url": "https://github.com/philippd1/bludit-auto-update/archive/2.0.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/philippd1/bludit-auto-update/",
 	"description": "This plugin automatically downloads and installs the latest Bludit version offered on the official Bludit site.",
