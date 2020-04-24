@@ -1,0 +1,25 @@
+{
+    "name":"Media",
+    "version":"0.1.0",
+    "author_username":"sambrishes",
+    "release_date":"2020-04-24",
+    "license":"MIT",
+    "price_usd":"0",
+    "download_url":"https://github.com/pytesNET/media/archive/0.1.0.zip",
+    "demo_url":"",
+    "information_url":"https://codeblu.dev/plugins/media",
+   
+    "description":"An advanced Media & File Content Manager.",
+    "features":{
+        "0":"Walk smoothly through your upload directories",
+        "1":"Revise, Rename and Delete your stuff quickly (including AJAX support)",
+        "2":"Embed your files seamless while editing your posts (supports Image, Audio & Video files)"
+    },
+    
+    "description_de":"Ein erweiterter Medien & Dateien Inhaltsmanager",
+    "features_de":{
+        "0":"Durchforste sanft deine Upload Verzeichnisse",
+        "1":"Überarbeite, Benenne und Lösche deine Dateien (mitsamt AJAX Unterstützung)",
+        "2":"Bette deine Dateien nahtlos ein während du deine Beiträge bearbeitest (unterstützt Bilder, Audios & Videos)"
+    }
+}

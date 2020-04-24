@@ -7,7 +7,7 @@
 	"price_usd": "0",
 	"download_url": "https://github.com/pytesNET/tail.writer-bludit/archive/0.4.0.zip",
 	"demo_url": "https://github.pytes.net/tail.writer/",
-	"information_url": "https://github.com/pytesNET/tail.writer-bludit",
+	"information_url": "https://codeblu.dev/plugins/tail.writer",
 	"description": "A tidy, powerful and extendable Markup ([GitHub Flavored] Markdown, BBCode, Textile) Editor, written in Vanilla JavaScript!",
 	"features": {
 		"0": "Supports [GitHub Flavored] Markdown",

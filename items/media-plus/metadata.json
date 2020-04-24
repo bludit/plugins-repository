@@ -1,0 +1,27 @@
+{
+    "name":"Media+",
+    "version":"0.1.0",
+    "author_username":"sambrishes",
+    "release_date":"2020-04-24",
+    "license":"MIT",
+    "price_usd":"2+",
+    "download_url":"https://gum.co/mediaplus",
+    "demo_url":"",
+    "information_url":"https://codeblu.dev/plugins/media",
+    
+    "description":"A more advanced Media & File Content Manager",
+    "features":{
+        "0":"All functions and features of the free Media plugin",
+        "1":"Search through your upload folders and find your files qickly",
+        "2":"Favourite your folders and files, so you will never lose them again",
+        "3":"One-Time Payment: Pay once and get all future updates!"
+    },
+    
+    "description_de":"Ein noch mehr erweiterter Medien & Dateien Inhaltsmanager",
+    "features_de":{
+        "0":"Alle Funktionen des kostenfreien Media Plugins",
+        "1":"Durchsuche deine Upload Verzeichnisse und finde deine Dateien schnell.",
+        "2":"Favorisiere deine Ordner & Dateien um sie nie wieder zu verlieren",
+        "4":"Einmalige Zahlung: Zahle einmal und erhalte alle zukünftigen Versionen!"
+    }
+}

@@ -7,7 +7,7 @@
    "price_usd":"0",
    "download_url":"https://github.com/pytesNET/snicker/archive/0.1.2.zip",
    "demo_url":"",
-   "information_url":"https://github.com/pytesNET/snicker",
+   "information_url":"https://codeblu.dev/plugins/snicker",
    
    "description":"A native, AJAX-enabled FlatFile Comment system for bludit, including a comment subscription and completely compliant with the GDPR!",
    "features":{
