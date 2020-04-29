@@ -1,0 +1,35 @@
+{
+   "name":"Reactions+",
+   "version":"1.0.0",
+   "author_username":"sambrishes",
+   "release_date":"2020-04-30",
+   "license":"MIT",
+   "price_usd":"3+",
+   "download_url":"https:/gum.co/reactions-plus",
+   "demo_url":"",
+   "information_url":"https://codeblu.dev/plugins/reactions",
+   
+   "description":"The Supporter Package of the Reactions Plugin, which allows your readers to react to your awesome content in various ways, including Emojies!",
+   "features":{
+      "0":"Contains all Functions and Features of the Free Reactions Plugin.",
+      "1":"Log each Vote and Change & show them directly on your dashboard.",
+      "2":"Store all done votes within a Cookie or directly on your Server...",
+      "3":"... in a fully European-GDPR conform way!"
+   },
+   
+   "description_de":"Das Unterstützer-Paket des Reactions Plugins, welches deinen Lesern erlaubt deine großartigen Inhalte auf verschiedene Wege zu bewerten, inklusive Emojies!",
+   "features_de":{
+      "0":"Enthält sämtliche Funktionen des kostenfreien Reactions Plugin.",
+      "1":"Speichere jede Bewertung und Änderung & stelle diese direkt auf deinem Dashboard dar.",
+      "2":"Speichere alle Bewertungen in einem Cookie oder direkt auf deinem Server...",
+      "3":"... mit vollster Berücksichtigung auf die Europäische DSGVO."
+   },
+   
+    "description_ru":"Пусть ваши читатели реагируют на ваш контент с помощью Emoji!",
+   "features_ru":{
+      "0":"5 выбираемых и маркируемых Emoji.",
+      "1":"Адаптируется под многие темы благодаря продуманной архитектуре плагина.",
+      "2":"Настраиваемые типы контента, где должна отображаться панель.",
+      "3":"Минималистичное хранилище в виде «пользовательской» мета страницы."
+   }
+}
