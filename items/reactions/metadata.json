@@ -1,11 +1,11 @@
 {
    "name":"Reactions",
-   "version":"1.0.0",
+   "version":"1.0.1",
    "author_username":"sambrishes",
-   "release_date":"2020-04-30",
+   "release_date":"2020-05-03",
    "license":"MIT",
    "price_usd":"0",
-   "download_url":"https://github.com/pytesNET/reactions/archive/1.0.0.zip",
+   "download_url":"https://github.com/pytesNET/reactions/archive/1.0.1.zip",
    "demo_url":"",
    "information_url":"https://codeblu.dev/plugins/reactions",
    
