@@ -8,11 +8,11 @@
 	"download_url_v2": "",
 	"demo_url": "https://evergarden.ru/blog/amper?amp",
 	"information_url": "https://github.com/Evergardener/AMPER",
-	"description": "Add full AMP support for your webpages to speed up the site, get more mobile traffic and high positions in search engines.",
+	"description": "AMP support for your webpages to speed up the site, get more mobile traffic and high positions in search engines.",
 	"features": {
-                "0": "Automatically adds amphtml tag to your <head>.",
+                "0": "Automatically adds the amphtml tag.",
 		"1": "HTML theme supports zooming images with a mouse click.",
-		"2": "Full support for the AMP standard, you can check with the AMP validation tool from Google."
+		"2": "Full support for the AMP standard, you can check it with the AMP validation tool from Google."
 	},
 	"description_de": "",
 	"features_de": {
@@ -28,7 +28,7 @@
 	},	
 	"description_ru": "Добавьте полную поддержку AMP для ваших веб-страниц, чтобы ускорить работу сайта, получить больше мобильного трафика и более высокие позиции в поисковых выдачах.",
 	"features_ru": {
-                "0": "Автоматически добавляет тег amphtml в вашу шапку <head>.",
+                "0": "Автоматически добавляет тег amphtml в шапку вашего сайта.",
 		"1": "Тема поддерживает увеличение изображений при клике.",
 		"2": "Полная поддержка AMP стандарта, и режима чтения, вы можете это проверить через инструмент для валидации AMP страниц от Гугла."
 	},
