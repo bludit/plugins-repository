@@ -12,7 +12,7 @@
 	"features": {
                 "0": "Automatically adds amphtml tag to your <head>.",
 		"1": "HTML theme supports zooming images with a mouse click.",
-		"2": "Full support for the AMP standard, you can check with the AMP validation tool from Google.",
+		"2": "Full support for the AMP standard, you can check with the AMP validation tool from Google."
 	},
 	"description_de": "",
 	"features_de": {
@@ -30,7 +30,7 @@
 	"features_ru": {
                 "0": "Автоматически добавляет тег amphtml в вашу шапку <head>.",
 		"1": "Тема поддерживает увеличение изображений при клике.",
-		"2": "Полная поддержка AMP стандарта, и режима чтения, вы можете это проверить через инструмент для валидации AMP страниц от Гугла.",
+		"2": "Полная поддержка AMP стандарта, и режима чтения, вы можете это проверить через инструмент для валидации AMP страниц от Гугла."
 	},
 	"author_username": "constantine"
 }
