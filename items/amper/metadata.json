@@ -10,7 +10,7 @@
 	"information_url": "https://github.com/Evergardener/AMPER",
 	"description": "Add full AMP support for your webpages to speed up the site, get more mobile traffic and high positions in search engines.",
 	"features": {
-                "0": "Automatically adds amphtml tag to your <head\.",
+                "0": "Automatically adds amphtml tag to your <head>.",
 		"1": "HTML theme supports zooming images with a mouse click.",
 		"2": "Full support for the AMP standard, you can check with the AMP validation tool from Google.",
 	},
