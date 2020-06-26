@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"price_usd": "0",
   "download_url": "https://github.com/Evergardener/AMPER/archive/master.zip",
-	"download_url_v2": "https://evergarden.ru/amper/amper.zip",
+	"download_url_v2": "https://evergarden.ru/amper/release/amper.zip",
 	"demo_url": "https://evergarden.ru/blog/amper?amp",
 	"information_url": "https://github.com/Evergardener/AMPER",
 	"description": "Add full AMP support for your webpages to speed up the site, get more mobile traffic and high positions in search engines.",
