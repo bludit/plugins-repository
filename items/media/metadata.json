@@ -1,32 +1,35 @@
 {
     "name": "Media",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "author_username": "sambrishes",
-    "release_date": "2020-05-04",
+    "release_date": "2020-07-06",
     "license": "MIT",
     "price_usd": "0",
-    "download_url": "https://github.com/pytesNET/media/archive/0.1.1.zip",
+    "download_url": "https://github.com/pytesNET/media/releases/download/0.2.0/media.zip",
     "demo_url": "",
     "information_url": "https://codeblu.dev/plugins/media",
 
-    "description": "An advanced Media & File Content Manager.",
+    "description": "The advanced, PHP 7.2.0 written Media & File content manager for the Bludit CMS. It allows you to easily re-use your files with support for Images, Videos, Audios and PDF Files.",
     "features": {
-        "0": "Walk smoothly through your upload directories.",
-        "1": "Revise, Rename and Delete your stuff quickly (including AJAX support).",
-        "2": "Embed your files seamless while editing your posts (supports Image, Audio & Video files)."
+		"0": "Requires PHP 7.2.0 - Please check your PHP Version first!",
+        "1": "Walk smoothly through your upload directories.",
+        "2": "Revise, Rename and Delete your stuff quickly (including AJAX support).",
+        "3": "Embed your files seamless while editing your posts (supports Image, Audio & Video files)."
     },
     
-    "description_de": "Ein erweiterter Medien & Dateien Inhaltsmanager.",
+    "description_de": "Ein erweiterter, PHP 7.2.0 geschriebener Medien & Dateimanager für das Bludit CMS. Es erlaubt die einfache Wiedernutzung deiner Dateien, mit Unterstützung für Bilder, Videos, Audios und PDF Dateien.",
     "features_de": {
-        "0": "Durchforste sanft deine Upload Verzeichnisse.",
-        "1": "Überarbeite, Benenne und Lösche deine Dateien (mitsamt AJAX Unterstützung).",
-        "2": "Bette deine Dateien nahtlos ein während du deine Beiträge bearbeitest (unterstützt Bilder, Audios & Videos)."
+		"0": "Erfordert PHP 7.2.0 - Bitte prüfe vorerst deine PHP Version!",
+        "1": "Durchforste sanft deine Upload Verzeichnisse.",
+        "2": "Überarbeite, Benenne und Lösche deine Dateien (mitsamt AJAX Unterstützung).",
+        "3": "Bette deine Dateien nahtlos ein während du deine Beiträge bearbeitest (unterstützt Bilder, Audios & Videos)."
     },
     
     "description_ru": "Усовершенствованный менеджер контента для файлов и медиа.",
     "features_ru": {
-        "0": "Плавное перемещение по вашим папкам загрузок.",
-        "1": "Быстрое пересматривание, переименовывание и удаление ваших материалов (включает поддержку AJAX).",
-        "2": "Безпроблемная вставка файлов во время редактирования страниц (поддерживает файлы изображений, аудио и видео)."
-    }
+		"0": "Requires PHP 7.2.0 - Please check your PHP Version first!",
+        "1": "Плавное перемещение по вашим папкам загрузок.",
+        "2": "Быстрое пересматривание, переименовывание и удаление ваших материалов (включает поддержку AJAX).",
+        "3": "Безпроблемная вставка файлов во время редактирования страниц (поддерживает файлы изображений, аудио и видео)."
+    },
 }
