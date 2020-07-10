@@ -5,8 +5,8 @@
 	"release_date": "2020-07-10",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/JTWebTools/booty-dark-admin-plugin/archive/1.1.0.zip",
-	"demo_url": "https://github.com/JTWebTools/booty-dark-admin-plugin/tree/master/images",
+	"download_url": "https://github.com/JTWebTools/booty-dark-admin-plugin/releases",
+	"demo_url": "https://github.com/JTWebTools/booty-dark-admin-plugin/blob/master/demo/demo.md",
 	"information_url": "https://github.com/JTWebTools/booty-dark-admin-plugin",
 	"description": "Add-on plugin of the Booty Dark Admin Theme. This plugin provides you opportunity to change some parts of the Booty Dark Admin Theme. To use this plugin you need the Booty Dark Admin Theme.",
 	"features": {
