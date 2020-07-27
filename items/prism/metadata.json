@@ -1,0 +1,35 @@
+{
+	"name": "Prism",
+	"version": "1.0",
+	"release_date": "2020-07-27",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/clickwork-git/prism/archive/v1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/clickwork-git/prism",
+	"description": "Prism adds the necessary CSS to themes to highlight code if the editor TinyMCE uses the plugin Codesample.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Prism ergänzt Themes mit dem notwendigen CSS, um Code auszuzeichnen, wenn der Editor TinyMCE mit dem Plugin Codesample verwendet wird.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "clickwork"
+}
