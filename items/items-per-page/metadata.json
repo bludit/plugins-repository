@@ -1,0 +1,35 @@
+{
+	"name": "Items per page",
+	"version": "1.0",
+	"release_date": "2020-07-29",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/clickwork-git/items-per-page/archive/v1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/clickwork-git/items-per-page",
+	"description": "The plugin adds an additional option to the field \"Items per page\" to the admin panel.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Das Plugin fügt eine selbstdefinierte Option zum Feld \"Inhalte pro Seite\" im Administrationsbereich hinzu.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "clickwork"
+}
