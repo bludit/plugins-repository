@@ -13,7 +13,7 @@
 		"1": "The references have a link to go back to the previous reading position.",
 		"2": ""
 	},
-	"description_de": "Mit dem Plugin Footnotes können Texte einfach mit Fussnoten ergänzt werden. Es kann als EWrweiterung des Editors EasyMDE verwendet werden.",
+	"description_de": "Mit dem Plugin Footnotes können Texte einfach mit Fussnoten ergänzt werden. Es kann als Erweiterung des Editors EasyMDE verwendet werden.",
 	"features_de": {
 		"0": "Die Fussnoten werden automatisch durchnummeriert.",
 		"1": "Die Referenzen haben ein Link zurück zum Text.",
