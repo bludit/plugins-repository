@@ -1,14 +1,14 @@
 {
 	"name": "Booty Dark Admin plugin",
-	"version": "1.1.0 Build 312",
+	"version": "1.1.1 Build 3131",
 	"author_username": "jtwebtools",
-	"release_date": "2020-07-10",
+	"release_date": "2020-08-05",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/JTWebTools/booty-dark-admin-plugin/releases",
 	"demo_url": "https://github.com/JTWebTools/booty-dark-admin-plugin/blob/master/demo/demo.md",
 	"information_url": "https://github.com/JTWebTools/booty-dark-admin-plugin",
-	"description": "Add-on plugin of the Booty Dark Admin Theme. This plugin provides you opportunity to change some parts of the Booty Dark Admin Theme. To use this plugin you need the Booty Dark Admin Theme.",
+	"description": "Add-on plugin of the Booty Dark Admin Theme. This plugin provides you opportunity to change some parts of the Booty Dark Admin Theme. To use this plugin you need install first the Booty Dark Admin Theme.",
 	"features": {
 		"0": "fixed and colored sidebar",
 		"1": "the appearance of the sidebar menu items",
@@ -16,7 +16,9 @@
 		"3": "some menu item putting into icons",
 		"4": "hide or show item quantity badges",
 		"5": "hide or show footer text on all admin pages",
-		"6": "display custom control icons fixed at the top or bottom of the admin bar"
+		"6": "display custom control icons fixed at the top or bottom of the admin bar",
+		"7": "ability to change color on some admin bar items",
+		"8": "hide or show BDA menu item on admin bar"
 	},
 	"description_de": "_DESCRIPTION_GERMAN_",
 	"features_de": {
