@@ -1,13 +1,13 @@
 {
 	"name": "Booty Dark Admin plugin",
 	"version": "1.1.1 Build 3131",
-	"author_username": "jtwebtools",
+	"author_username": "tompidev",
 	"release_date": "2020-08-05",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/JTWebTools/booty-dark-admin-plugin/releases",
-	"demo_url": "https://github.com/JTWebTools/booty-dark-admin-plugin/blob/master/demo/demo.md",
-	"information_url": "https://github.com/JTWebTools/booty-dark-admin-plugin",
+	"download_url": "https://github.com/tompidev/booty-dark-admin-plugin/releases",
+	"demo_url": "https://github.com/tompidev/booty-dark-admin-plugin/blob/master/demo/demo.md",
+	"information_url": "https://github.com/tompidev/booty-dark-admin-plugin",
 	"description": "Add-on plugin of the Booty Dark Admin Theme. This plugin provides you opportunity to change some parts of the Booty Dark Admin Theme. To use this plugin you need install first the Booty Dark Admin Theme.",
 	"features": {
 		"0": "fixed and colored sidebar",
