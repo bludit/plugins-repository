@@ -1,0 +1,47 @@
+{
+	"name": "Booty Dark Admin plugin",
+	"version": "1.1.1 Build 3131",
+	"author_username": "jtwebtools",
+	"release_date": "2020-08-05",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/JTWebTools/booty-dark-admin-plugin/releases",
+	"demo_url": "https://github.com/JTWebTools/booty-dark-admin-plugin/blob/master/demo/demo.md",
+	"information_url": "https://github.com/JTWebTools/booty-dark-admin-plugin",
+	"description": "Add-on plugin of the Booty Dark Admin Theme. This plugin provides you the opportunity to change some parts of the Booty Dark Admin Theme. To use this plugin you need to install first the Booty Dark Admin Theme.",
+	"features": {
+		"0": "Fixed and colored sidebar.",
+		"1": "The appearance of the sidebar menu items.",
+		"2": "Display the main area on the right in a panel.",
+		"3": "Some menu item putting into icons.",
+		"4": "Hide or show item quantity badges.",
+		"5": "Hide or show footer text on all admin bar pages.",
+		"6": "Hide or show BDA menu item on admin bar.",
+		"7": "Display custom control icons fixed at the top or bottom of the admin bar.",
+		"8": "Ability to change color on some admin bar items."
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "_DESCRIPTION_SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "Плагин для темы Booty Dark Admin даёт Вам возможность изменить некоторые части темы Booty Dark Admin. Чтобы использовать этот плагин, Вам необходимо сначала установить Booty Dark Admin Theme.",
+	"features_ru": {
+		"0": "Фиксированная и цветная боковая панель.",
+		"1": "Аккуратный внешний вид пунктов меню боковой панели.",
+		"2": "Отображает основную рабочую область справа от боковой панели.",
+		"3": "Некоторые пункты меню сделаны в виде иконок.",
+		"4": "Скрывает или показывает значки количества.",
+		"5": "Скрывает или показывает текст нижнего колонтитула (подвала) на всех страницах панели администратора.",
+		"6": "Скрывает или показывает пункт меню BDA на панели администратора.",
+		"7": "Отображает значки настраиваемых элементов управления, закрепленные вверху или внизу панели администратора.",
+		"8": "Возможность изменить цвет некоторых элементов панели администратора."
+	}
+}

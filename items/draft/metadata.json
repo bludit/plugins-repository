@@ -1,33 +1,35 @@
 {
-   "name":"Draft",
-   "version":"1.0.0",
-   "author_username":"sambrishes",
-   "release_date":"2020-04-22",
-   "license":"MIT",
-   "price_usd":"0",
-   "download_url":"https://github.com/pytesNET/draft/archive/1.0.0.zip",
-   "demo_url":"",
-   "information_url":"https://codeblu.dev/plugins/draft",
-   
-   "description":"Adds a Preview feature for Drafts and Autosaved Posts for Bludit prior v3.9.0.",
-   "features":{
-      "0":"Preview drafts and autosaved pages before you publish them.",
-      "1":"(Auto-) Saves the content, when click on the 'Preview' button.",
-      "2":"Adds the additional 'Save' button back on drafts.",
-      "3":"Adds the additional 'Save as draft' button back on published pages."
-   },
-   
-   "description_de":"Eine Vorschau-Funktion für Entwürfe und automatisch-gespeicherte Seiten für Bludit vor Version 3.9.0.",
-   "features_de":{
-      "0":"Vorschau von Entwürfen und automatisch gespeicherten Seiten.",
-      "1":"(Automatische) Speicherung beim Klick auf den 'Vorschau' Button.",
-      "2":"Fügt den 'Speichern' Button wieder bei den Entwürfen hinzu.",
-      "3":"Fügt den 'Als Entwurf speichern' Button wieder bei veröffentlichten Seiten hinzu."
-   },
-   
-   "description_ru":"Этот плагин Bludit позволяет предварительно просматривать черновики на сайте (а не в панели управления) перед их публикацией.",
-   "features_ru":{
-      "0":"Добавляет кнопку предварительного просмотра на станице с записями.",
-      "1":"Предварительные просмотры только доступны для администраторов и авторов контента."
-   }
+	"name": "Draft",
+	"version": "1.0.0",
+	"author_username": "sambrishes",
+	"release_date": "2020-04-22",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https: //github.com/pytesNET/draft/archive/1.0.0.zip",
+	"demo_url": "",
+	"information_url": "https: //codeblu.dev/plugins/draft",
+	
+	"description": "Adds a Preview feature for Drafts and Autosaved Posts for Bludit prior v3.9.0.",
+	"features": {
+		"0": "Preview drafts and autosaved pages before you publish them.",
+		"1": "(Auto-) Saves the content, when click on the 'Preview' button.",
+		"2": "Adds the additional 'Save' button back on drafts.",
+		"3": "Adds the additional 'Save as draft' button back on published pages."
+	},
+	
+	"description_de": "Eine Vorschau-Funktion für Entwürfe und automatisch-gespeicherte Seiten für Bludit vor Version 3.9.0.",
+	"features_de": {
+		"0": "Vorschau von Entwürfen und automatisch gespeicherten Seiten.",
+		"1": "(Automatische) Speicherung beim Klick auf den 'Vorschau' Button.",
+		"2": "Fügt den 'Speichern' Button wieder bei den Entwürfen hinzu.",
+		"3": "Fügt den 'Als Entwurf speichern' Button wieder bei veröffentlichten Seiten hinzu."
+	},
+	
+	"description_ru": "Добавляет функцию предварительного просмотра для черновиков и автоматически сохраненных сообщений для Bludit до версии 3.9.0.",
+	"features_ru": {
+		"0": "Добавляет функцию предварительного просмотра черновиков и автоматически сохраненных страниц, перед их публикацией.",
+		"1": "Автоматически сохраняет содержимое, когда Вы нажимаете кнопку «Предварительный просмотр».",
+		"2": "Добавляет дополнительную кнопку «Сохранить» при работе с черновиками.",
+		"3": "Добавляет дополнительную кнопку «Сохранить как черновик» обратно на уже опубликованные страницы."
+	}
 }

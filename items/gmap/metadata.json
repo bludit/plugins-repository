@@ -1,24 +1,24 @@
 {
-  "name": "Gmap",
-  "version": "3.0",
-  "release_date": "2018-12-10",
-  "license": "MIT",
-  "price_usd": "0",
-  "download_url_v2": "https://bitbucket.org/Blackneron/gmap/downloads/gmap_2.zip",
-  "download_url": "https://bitbucket.org/Blackneron/gmap/downloads/gmap_3.zip",
-  "demo_url": "",
-  "information_url": "https://bitbucket.org/Blackneron/gmap",
-  "description": "Plugin to include a Google Map on a page.",
-  "features": {
-  },
-  "description_de": "Plugin um eine Google Map auf einer Seite einzufügen.",
-  "features_de": {
-  },
-  "description_es": "Plugin para incluir un Google Map en una página.",
-  "features_es": {
-  },
-  "description_ru": "Плагин включает Карты Google на странице.",
-  "features_ru": {
-  },
-  "author_username": "blackneron"
+	"name": "Gmap",
+	"version": "3.0",
+	"release_date": "2018-12-10",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url_v2": "https://bitbucket.org/Blackneron/gmap/downloads/gmap_2.zip",
+	"download_url": "https://bitbucket.org/Blackneron/gmap/downloads/gmap_3.zip",
+	"demo_url": "",
+	"information_url": "https://bitbucket.org/Blackneron/gmap",
+	"description": "Plugin to include a Google Map on a page.",
+	"features": {
+	},
+	"description_de": "Plugin um eine Google Map auf einer Seite einzufügen.",
+	"features_de": {
+	},
+	"description_es": "Plugin para incluir un Google Map en una página.",
+	"features_es": {
+	},
+	"description_ru": "Плагин включает Карты Google на странице.",
+	"features_ru": {
+	},
+	"author_username": "blackneron"
 }

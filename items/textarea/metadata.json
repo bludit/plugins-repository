@@ -8,7 +8,7 @@
 	"download_url": "https://github.com/clickwork-git/textarea/archive/v2.2.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/textarea",
-	"description": "Textarea allows to show text in the sidebar using HTML code.",
+	"description": "Textarea allows to show text in the sidebar (if your theme support the sidebar) using HTML code.",
 	"features": {
 	},
 	"description_de": "Mit Textarea kann Text in der Seitenleiste mit HTML-Code formatiert werden.",
@@ -17,7 +17,7 @@
 	"description_es": "Textarea te permite insertar código HTML en la barra lateral de forma muy fácil.",
 	"features_es": {
 	},
-	"description_ru": "Плагин Textarea позволяет отображать текст на боковой панели с помощью HTML-кода.",
+	"description_ru": "Плагин Textarea позволяет отображать текст на боковой панели сайта (если тема поодерживает боковую панель) с помощью HTML-кода.",
 	"features_ru": {
 	},
 	"author_username": "clickwork"

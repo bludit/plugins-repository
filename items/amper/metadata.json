@@ -1,0 +1,38 @@
+{
+	"name": "AMPER",
+	"version": "1.0.1",
+	"release_date": "2020-07-19",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/Evergardener/AMPER/archive/master.zip",
+	"download_url_v2": "",
+	"demo_url": "https://evergarden.ru/blog/amper?amp",
+	"information_url": "https://github.com/Evergardener/AMPER",
+	"description": "AMP support for your webpages to speed up the site, get more mobile traffic and high positions in search engines.",
+	"features": {
+		"0": "Automatically adds the amphtml tag.",
+		"1": "HTML theme supports zooming images with a click.",
+		"2": "Full support for the AMP standard, you can check it with the AMP validation tool from Google.",
+		"3": "Select the content for which AMP pages should be disabled."
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},	
+	"description_ru": "Добавьте полную поддержку AMP для Ваших страниц, чтобы ускорить загрузку и работу сайта, получить высокую долю трафика с мобильных устройств и более высокие позиции в поисковых выдачах.",
+	"features_ru": {
+		"0": "Автоматически добавляет тег <code>amphtml</code> в шапку Вашего сайта.",
+		"1": "Поддерживает увеличение изображений при клике.",
+		"2": "Полная поддержка AMP стандарта, Вы можете это проверить через инструмент для валидации AMP страниц от Google.",
+		"3": "Вы можете отключить отображение AMP страниц для отдельных страниц."
+	},
+	"author_username": "constantine"
+}

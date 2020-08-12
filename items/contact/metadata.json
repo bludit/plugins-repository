@@ -7,7 +7,7 @@
 	"download_url_v2": "https://github.com/Fred89/bludit-plugins/releases/download/contact2.6/contact.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/Fred89/bludit-plugins/releases/tag/contact2.6",
-	"description": "Adds a contact form to a page or post. For mailing also an SMTP account can be used. Furthermore also  a custom template can be used.",
+	"description": "Adds a contact form to a page or post. For mailing also an SMTP account can be used. Furthermore also a custom template can be used.",
 	"features": {
 	},
 	"description_de": "Kontaktformular für eine Seite oder einen Beitrag. Für den Versand kann auch ein SMTP-Konto verwendet werden. Zudem erlaubt das Plugin, auch eigene Vorlagen zu verwenden.",
@@ -16,7 +16,7 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Добавляет форму обратной связи на страницу или запись. Для работы формы также можно использовать учетную запись SMTP. Кроме того, можно использовать настраиваемый шаблон.",
+	"description_ru": "Добавляет форму обратной связи на страницу или запись. Для работы формы также можно использовать учётную запись SMTP. Кроме того, можно использовать настраиваемый шаблон.",
 	"features_ru": {
 	},
 	"author_username": "frederic"

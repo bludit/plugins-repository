@@ -10,30 +10,33 @@
 	"information_url": "https://codeblu.dev/plugins/tail.writer",
 	"description": "A tidy, powerful and extendable Markup ([GitHub Flavored] Markdown, BBCode, Textile) Editor, written in Vanilla JavaScript!",
 	"features": {
-		"0": "Supports [GitHub Flavored] Markdown",
-		"1": "Supports Textile",
-		"2": "Supports BBCodes",
-		"3": "Many Actions and a Preview Mode",
-		"4": "3 unique designs and 3 differend languages"
+		"0": "Supports [GitHub Flavored] Markdown.",
+		"1": "Supports Textile.",
+		"2": "Supports BBCodes.",
+		"3": "Many Actions and a Preview Mode.",
+		"4": "3 unique designs and 3 different languages."
 	},
 	"description_de": "Ein ordentlicher, starker und erweiterbarer Markup ([GitHub Flavored] Markdown, BBCode, Textile) Editor, geschrieben in purem JavaScript!",
 	"features_de": {
-		"0": "Unterstützt [GitHub Flavored] Markdown",
-		"1": "Unterstützt Textile",
-		"2": "Unterstützt BBCodes",
-		"3": "Viele Aktionen und ein Vorschau-Modus",
-		"4": "3 einzigartige Designs und 3 verschiedene Sprachausgaben"
+		"0": "Unterstützt [GitHub Flavored] Markdown.",
+		"1": "Unterstützt Textile.",
+		"2": "Unterstützt BBCodes.",
+		"3": "Viele Aktionen und ein Vorschau-Modus.",
+		"4": "3 einzigartige Designs und 3 verschiedene Sprachausgaben."
 	},
 	"description_es": "Editor Markdown con un estilo a GitHub, potente y configurable, escrito totalmente en JavaScript.",
 	"features_es": {
-		"0": "Editor [GitHub Flavored] Markdown",
-		"1": "Editor Textile",
-		"2": "Editor BBCodes",
+		"0": "Editor [GitHub Flavored] Markdown.",
+		"1": "Editor Textile.",
+		"2": "Editor BBCodes.",
 		"3": "Modo vista previa."
 	},
-	"description_ru": "Аккуратный, мощный и расширяемый редактор разметки содержимого записей ([GitHub Flavored] Markdown, BBCode, Textile), написанный на традиционном JavaScript!",
+	"description_ru": "Аккуратный, мощный и расширяемый редактор разметки содержимого записей ([GitHub Flavored] Markdown, BBCode, Textile), написанный на чистом JavaScript!",
 	"features_ru": {
-		"0": "Редактор разметки.",
-		"1": "Есть режим предпросмотра."
+		"0": "Поддерживает [GitHub Flavored] Markdown.",
+		"1": "Поддерживает Textile.",
+		"2": "Поддерживает BBCodes.",
+		"3": "Множество доступных действий и режим предварительного просмотра.",
+		"4": "Три уникальных дизайна и поддержка трёх разных языков."
 	}
 }

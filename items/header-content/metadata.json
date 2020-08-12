@@ -1,0 +1,50 @@
+{
+	"name": "Header Content",
+	"version": "1.0.1",
+	"author_username": "fabianosantosnet",
+	"release_date": "2020-06-13",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://raw.githubusercontent.com/fabianosantosnet/rep-bludit/master/plugins/header-content/fs-header-content-bludit.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/fabianosantosnet/rep-bludit/tree/master/plugins/header-content/",
+	"credits": "@fabianosantosnet",
+	"credits_url": "https://www.fabianosantos.net/",
+	"description": "Many plugins in one. Canonical, Robots, Keywords, Description, Author, Copyright, RSS Feed, CSS Block, Maintenance Mode, and Browser Update.",
+	"features": {
+		"0": "Meta Keywords use custom fields to set data for each page.",
+		"1": "CSS Block is StyleSheet content inside HEAD tag then you avoid change your theme.",
+		"2": "Maintenance Mode is a personalized homonym version of the default Bludit plugin. It implements a default page or a custom php file created by user.",
+		"3": "Browser Update uses JavaScript to show a message to visitors that access the website when their browser is outdated.",
+		"4": "",
+		"5": ""
+	},
+	"description_pt": "Muitos plugins em um. Meta Canonical, Robots, Keywords, Description, Author, Copyright, RSS, Bloco CSS, Modo de manutenção e Notificação de Navegador.",
+	"features_pt": {
+		"0": "Meta Keywords usa campos personalizados para definir dados para cada página.",
+		"1": "Bloco CSS insere uma folha de estilo dentro da tag HEAD evitando alterar seu tema.",
+		"2": "Modo de Manutenção é a versão personalizada homônima do plugin do Bludit. Implementa uma página padrão ou um arquvo customizado definido pelo usuário.",
+		"3": "Notificação de Atualização de Navegador utiliza JavaScript para mostrar uma mensagem no topo da página do visitante do site/blog quando seu navegador está desatualizado.",
+		"4": "",
+		"5": ""
+	},	
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "Множество плагинов в одном. Канонические ссылки, Поисковые роботы, Ключевые слова, Описание, Автор, Авторские права, RSS-канал, Блок CSS, Режим обслуживания и Обновление браузера.",
+	"features_ru": {
+		"0": "Мета ключевые слова используют настраиваемые поля для установки данных для каждой страницы.",
+		"1": "Блок CSS — это содержимое таблицы стилей внутри тега <code>HEAD</code>, поэтому Вы избегаете изменения своей темы.",
+		"2": "Режим обслуживания — это персонализированная одноименная версия плагина Bludit по умолчанию. Он реализует страницу по умолчанию или настраиваемый файл php, созданный пользователем.",
+		"3": "Обновление браузера использует JavaScript для отображения сообщения посетителям, которые заходят на сайт, когда их браузер устарел."
+	}
+}
