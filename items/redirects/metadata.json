@@ -8,21 +8,18 @@
 	"download_url": "https://github.com/pytesNET/redirects/archive/0.1.0.zip",
 	"demo_url": "",
 	"information_url": "https://codeblu.dev/plugins/redirects",
-
 	"description": "Redirect your URLs and Pages to another (external) ones.",
 	"features":{
 		"0": "Forward and Redirect unlimited URLs and slug.",
 		"1": "Redirect also to external websites.",
 		"2": "Force HTTPs everywhere on the frontend."
 	},
-	
 	"description_de": "Ein erweiterter Medien & Dateien Inhaltsmanager.",
 	"features_de":{
 		"0": "Unbegrenzte Weiterleitung deiner URLs und Slugs.",
 		"1": "Weiterleitungen an externe Webseiten sind ebenfalls möglich.",
 		"2": "Erzwinge HTTPs überall auf deiner Frontend Website."
 	},
-	
 	"description_ru": "Перенаправляет с ваших URL и страниц на другие станицы (внешние).",
 	"features_ru":{
 		"0": "Переадресация и перенаправление неограниченного числа URL-адресов и слагов (слаг это несколько слов, которые используются как часть URL-адреса (или постоянных ссылок), направляющего посетителей к контенту).",

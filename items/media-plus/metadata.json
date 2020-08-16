@@ -7,8 +7,7 @@
 	"price_usd": "3+",
 	"download_url": "https://gum.co/mediaplus",
 	"demo_url": "",
-	"information_url": "https://codeblu.dev/plugins/media",
-	
+	"information_url": "https://codeblu.dev/plugins/media",	
 	"description": "The even more advanced, PHP 7.2.0 written Media & File content manager for the Bludit CMS. It allows you to easily re-use your files with support for Images, Videos, Audios and PDF Files.",
 	"features": {
 		"0": "Requires PHP 7.2.0 — Please check your PHP Version first!",
@@ -17,7 +16,6 @@
 		"3": "Favourite your folders and files, so you will never lose them again.",
 		"4": "One-Time Payment: Pay once and get all future updates!"
 	},
-	
 	"description_de": "Ein noch mehr erweiterter, PHP 7.2.0 geschriebener Medien & Dateimanager für das Bludit CMS. Es erlaubt die einfache Wiedernutzung deiner Dateien, mit Unterstützung für Bilder, Videos, Audios und PDF Dateien.",
 	"features_de": {
 		"0": "Erfordert PHP 7.2.0 — Bitte prüfe vorerst deine PHP Version!",
@@ -26,7 +24,6 @@
 		"3": "Favorisiere deine Ordner & Dateien um sie nie wieder zu verlieren.",
 		"4": "Einmalige Zahlung: Zahle einmal und erhalte alle zukünftigen Versionen!"
 	},
-	
 	"description_ru": "Более продвинутый менеджер контента для документов и медиа-файлов.",
 	"features_ru": {
 		"0": "Требуется PHP 7.2.0 и выше — сначала проверьте свою версию PHP!",

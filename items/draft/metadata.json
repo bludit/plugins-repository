@@ -7,8 +7,7 @@
 	"price_usd": "0",
 	"download_url": "https: //github.com/pytesNET/draft/archive/1.0.0.zip",
 	"demo_url": "",
-	"information_url": "https: //codeblu.dev/plugins/draft",
-	
+	"information_url": "https: //codeblu.dev/plugins/draft",	
 	"description": "Adds a Preview feature for Drafts and Autosaved Posts for Bludit prior v3.9.0.",
 	"features": {
 		"0": "Preview drafts and autosaved pages before you publish them.",
@@ -16,7 +15,6 @@
 		"2": "Adds the additional 'Save' button back on drafts.",
 		"3": "Adds the additional 'Save as draft' button back on published pages."
 	},
-	
 	"description_de": "Eine Vorschau-Funktion für Entwürfe und automatisch-gespeicherte Seiten für Bludit vor Version 3.9.0.",
 	"features_de": {
 		"0": "Vorschau von Entwürfen und automatisch gespeicherten Seiten.",
@@ -24,7 +22,6 @@
 		"2": "Fügt den 'Speichern' Button wieder bei den Entwürfen hinzu.",
 		"3": "Fügt den 'Als Entwurf speichern' Button wieder bei veröffentlichten Seiten hinzu."
 	},
-	
 	"description_ru": "Добавляет функцию предварительного просмотра для черновиков и автоматически сохраненных сообщений для Bludit до версии 3.9.0.",
 	"features_ru": {
 		"0": "Добавляет функцию предварительного просмотра черновиков и автоматически сохраненных страниц, перед их публикацией.",

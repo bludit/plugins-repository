@@ -8,7 +8,6 @@
 	"download_url": "https://github.com/pytesNET/media/releases/download/0.2.0/media.zip",
 	"demo_url": "",
 	"information_url": "https://codeblu.dev/plugins/media",
-
 	"description": "The advanced, PHP 7.2.0 written Media & File content manager for the Bludit CMS. It allows you to easily re-use your files with support for Images, Videos, Audios and PDF Files.",
 	"features": {
 		"0": "Requires PHP 7.2.0 — Please check your PHP Version first!",
@@ -16,7 +15,6 @@
 		"2": "Revise, Rename and Delete your stuff quickly (including AJAX support).",
 		"3": "Embed your files seamless while editing your posts (supports Image, Audio & Video files)."
 	},
-	
 	"description_de": "Ein erweiterter, PHP 7.2.0 geschriebener Medien & Dateimanager für das Bludit CMS. Es erlaubt die einfache Wiedernutzung deiner Dateien, mit Unterstützung für Bilder, Videos, Audios und PDF Dateien.",
 	"features_de": {
 		"0": "Erfordert PHP 7.2.0 — Bitte prüfe vorerst deine PHP Version!",
@@ -24,7 +22,6 @@
 		"2": "Überarbeite, Benenne und Lösche deine Dateien (mitsamt AJAX Unterstützung).",
 		"3": "Bette deine Dateien nahtlos ein während du deine Beiträge bearbeitest (unterstützt Bilder, Audios & Videos)."
 	},
-	
 	"description_ru": "Усовершенствованный менеджер контента для документов и медиа-файлов.",
 	"features_ru": {
 		"0": "Требуется PHP 7.2.0 и выше — сначала проверьте свою версию PHP!",

@@ -1,0 +1,35 @@
+{
+	"name": "Tracking Master",
+	"version": "0.0.1 Build 3131",
+	"author_username": "tompidev",
+	"release_date": "2020-08-11",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/tompidev/tracking-master-plugin/releases",
+	"demo_url": "https://github.com/tompidev/tracking-master-plugin/blob/master/demo.md",
+	"information_url": "https://github.com/tompidev/tracking-master-plugin",
+	"description": "Tracking Master is a Multi-provider web analytics tracker. You can set for use only one or all web analytics providers at the same time",
+	"features": {
+		"0": "multi-provider as Google Analytics, Clicky and Histats",
+		"1": "using all tracker in the same time",
+		"2": "Asynchronous and Non-Javascript tracking code (as you are selecting)"
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "_DESCRIPTION_SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
