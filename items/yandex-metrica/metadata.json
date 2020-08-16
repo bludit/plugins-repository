@@ -16,7 +16,7 @@
 		"3": "Behavior analytics.",
 		"4": "Technology analytics."
 	},
-	"description_de": "Yandex Metrica ist eine Werkzeug für die Erfassung und Analyse des Besucherverhaltens.  Für die Verwendung des Plugins wird ein Konto bei <a href=\"https://metrica.yandex.com\">Yandex Metrica</a> benötigt.",
+	"description_de": "Yandex Metrica ist eine Werkzeug für die Erfassung und Analyse des Besucherverhaltens. Für die Verwendung des Plugins wird ein Konto bei <a href=\"https://metrica.yandex.com\">Yandex Metrica</a> benötigt.",
 	"features_de": {
 		"0": "Aufzeichnung aller Aktionen der Besucher.",
 		"1": "Verweisende Domains.",
@@ -32,10 +32,10 @@
 		"3": "Análisis de comportamiento.",
 		"4": "Análisis de tecnología."
 	},
-	"description_ru": "Яндекс Метрика - это инструмент веб-аналитики, который помогает получать визуальные отчеты и отслеживать источники трафика. Для использования этого плагина необходимо создать учетную запись в <a href=\"https://metrica.yandex.ru\">Яндекс Метрика</a>.",
+	"description_ru": "Яндекс Метрика — это инструмент веб-аналитики, который помогает получать визуальные отчёты и отслеживать источники трафика. Для использования этого плагина необходимо создать учётную запись в <a href=\"https://metrica.yandex.ru\">Яндекс Метрике</a>.",
 	"features_ru": {
 		"0": "Записывает все визиты для просмотра позже.",
-		"1": "Сайты источники трафика.",
+		"1": "Записывает сайты источники трафика.",
 		"2": "Аналитика аудитории.",
 		"3": "Поведенческая аналитика.",
 		"4": "Технологическая аналитика."

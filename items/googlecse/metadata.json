@@ -7,7 +7,7 @@
 	"download_url_v2": "https://github.com/clickwork-git/googlecse/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/googlecse",
-	"description": "The plugin adds a Google Custom Search Engine box in the sidebar.",
+	"description": "The plugin adds a Google Custom Search Engine box in the sidebar (if your theme support the sidebar).",
 	"features": {
 	},
 	"description_de": "",
@@ -16,7 +16,7 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Плагин добавляет окно Google Custom Search Engine на боковой панели.",
+	"description_ru": "Плагин добавляет окно Google Custom Search Engine на боковой панели сайта (если выбранная тема поддерживает боковую панель).",
 	"features_ru": {
 	},
 	"author_username": "clickwork"

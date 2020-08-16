@@ -9,16 +9,16 @@
 	"download_url": "https://blthemes.pp.ua/download/blt-wp-importer.zip",
 	"demo_url": "",
 	"information_url": "https://blthemes.pp.ua/blog/wordpress-importer-for-bludit-cms-version-3",
-	"description": "WordPress Importer is a plug-in for Bludit CMS that allows you to easily import content from any WordPress site with enabled REST API (REST API is enabled by default starting from WordPress version 4.7).",
+	"description": "WordPress Importer is a plug-in for Bludit that allows you to easily import content from any WordPress site with enabled REST API (REST API is enabled by default starting from WordPress version 4.7).",
 	"features": {
 	},
 	"description_de": "",
 	"features_de": {
 	},
-	"description_es": "WordPress Importer es un plugin para Bludit CMS que le permite importar fácilmente el contenido de cualquier sitio de WordPress. Es necesario tener habilitada la API en WordPress (la API está habilitada de forma predeterminada a partir de la versión de WordPress 4.7).",
+	"description_es": "WordPress Importer es un plugin para Bludit que le permite importar fácilmente el contenido de cualquier sitio de WordPress. Es necesario tener habilitada la API en WordPress (la API está habilitada de forma predeterminada a partir de la versión de WordPress 4.7).",
 	"features_es": {
 	},
-	"description_ru": "WordPress Importer - это плагин для Bludit CMS, который позволяет вам легко импортировать контент с любого сайта WordPress с включенным REST API (REST API включен по умолчанию, начиная с WordPress версии 4.7).",
+	"description_ru": "WordPress Importer — это плагин для Bludit, который позволяет Вам легко импортировать контент с любого сайта WordPress с включенным REST API (REST API включен по умолчанию, начиная с WordPress версии 4.7).",
 	"features_ru": {
 	}
 }

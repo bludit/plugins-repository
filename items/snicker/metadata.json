@@ -1,51 +1,51 @@
 {
-   "name":"Snicker",
-   "version":"0.1.2",
-   "author_username":"sambrishes",
-   "release_date":"2019-05-06",
-   "license":"MIT",
-   "price_usd":"0",
-   "download_url":"https://github.com/pytesNET/snicker/archive/0.1.2.zip",
-   "demo_url":"",
-   "information_url":"https://codeblu.dev/plugins/snicker",
-   
-   "description":"A native, AJAX-enabled FlatFile Comment system for bludit, including a comment subscription and completely compliant with the GDPR!",
-   "features":{
-      "0":"Level-Based, AJAX-enabled Commenting for Guests and Users.",
-      "1":"Many Configurations and adaptable Strings and Themes.",
-      "2":"User Management for Not-Logged-In Comment Authors.",
-      "3":"Moderatable Comments (Pending, Approved, Rejected, Spam).",
-      "4":"Extensive Backend with many possibilities.",
-      "5":"Compliant with the European GDPR."
-   },
+	"name": "Snicker",
+	"version": "0.1.2",
+	"author_username": "sambrishes",
+	"release_date": "2019-05-06",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/pytesNET/snicker/archive/0.1.2.zip",
+	"demo_url": "",
+	"information_url": "https://codeblu.dev/plugins/snicker",
+	
+	"description": "A native, AJAX-enabled FlatFile Comment system for bludit, including a comment subscription and completely compliant with the GDPR!",
+	"features":{
+		"0": "Level-Based, AJAX-enabled Commenting for Guests and Users.",
+		"1": "Many Configurations and adaptable Strings and Themes.",
+		"2": "User Management for Not-Logged-In Comment Authors.",
+		"3": "Moderatable Comments (Pending, Approved, Rejected, Spam).",
+		"4": "Extensive Backend with many possibilities.",
+		"5": "Compliant with the European GDPR."
+	},
  
-   "description_de":"Ein natives, AJAX-unterstütztes FlatFile Kommentiersystem für Bludit, mit einer Abonnement-Funktion und im Einklang mit der DSGVO!",
-   "features_de":{
-      "0":"Level-basierte, AJAX-unterstützte Kommentar-Funktion für Besucher und Nutzer.",
-      "1":"Viele Einstellungen sowie anpassbare Zeichenketten und Designs.",
-      "2":"Benutzer-Verwaltung für nicht angemeldete Kommentar-Autoren.",
-      "3":"Moderierbare Kommentare (Ausstehend, Genehmigt, Abgelehnt, Spam).",
-      "4":"Umfangreiche Administration mit vielen Möglichkeiten.",
-      "5":"Im Einklang mit der Europäischen DSGVO."
-   },
+	"description_de": "Ein natives, AJAX-unterstütztes FlatFile Kommentiersystem für Bludit, mit einer Abonnement-Funktion und im Einklang mit der DSGVO!",
+	"features_de":{
+		"0": "Level-basierte, AJAX-unterstützte Kommentar-Funktion für Besucher und Nutzer.",
+		"1": "Viele Einstellungen sowie anpassbare Zeichenketten und Designs.",
+		"2": "Benutzer-Verwaltung für nicht angemeldete Kommentar-Autoren.",
+		"3": "Moderierbare Kommentare (Ausstehend, Genehmigt, Abgelehnt, Spam).",
+		"4": "Umfangreiche Administration mit vielen Möglichkeiten.",
+		"5": "Im Einklang mit der Europäischen DSGVO."
+	},
 
-   "description_es":"Sistema de comentarios nativo basado en archivos de texto plano (FlatFile). Soporta subscripción a los comentarios y es totalmente compatible con GDPR!",
-   "features_es":{
-      "0":"Invitados y usuarios registrados pueden comentar.",
-      "1":"Totalmente configurable.",
-      "2":"Gestión de usuarios para autores de comentarios no registrados.",
-      "3":"Sistema de moderacion de comentarions (Pendientes, Aprobados, Rechazado, Spam).",
-      "4":"Extensive Backend with many possibilities.",
-      "5":"Conforme con GDPR."
-   },
-   
-   "description_ru":"Встроенная система комментариев FlatFile с поддержкой AJAX для Bludit, включая подписку на комментарии и полностью совместимая с GDPR!",
-   "features_ru":{
-      "0":"Комментирование с поддержкой уровней (вложенности), на основе AJAX для гостей и пользователей сайта.",
-      "1":"Множество настроек и адаптируемых строк и тем.",
-      "2":"Управление комментариями пользователей, не вошедших в систему для написания комментариев.",
-      "3":"Функции модерации комментариев (со статусами: Ожидание, Одобрено, Отклонено, Спам).",
-      "4":"Обширный бэкэнд с множеством возможностей.",
-      "5":"Соответствует европейскому законодательству GDPR."
-   }
+	"description_es": "Sistema de comentarios nativo basado en archivos de texto plano (FlatFile). Soporta subscripción a los comentarios y es totalmente compatible con GDPR!",
+	"features_es":{
+		"0": "Invitados y usuarios registrados pueden comentar.",
+		"1": "Totalmente configurable.",
+		"2": "Gestión de usuarios para autores de comentarios no registrados.",
+		"3": "Sistema de moderacion de comentarions (Pendientes, Aprobados, Rechazado, Spam).",
+		"4": "Extensive Backend with many possibilities.",
+		"5": "Conforme con GDPR."
+	},
+	
+	"description_ru": "Встроенная система комментариев FlatFile с поддержкой AJAX для Bludit, включая подписку на комментарии и полностью совместимая с GDPR!",
+	"features_ru":{
+		"0": "Комментирование с поддержкой уровней (вложенности), на основе AJAX для гостей и пользователей сайта.",
+		"1": "Множество настроек и адаптируемых строк и тем.",
+		"2": "Управление комментариями пользователей, не вошедших в систему для написания комментариев.",
+		"3": "Функции модерации комментариев (со статусами: Ожидание, Одобрено, Отклонено, Спам).",
+		"4": "Обширный бэкэнд с множеством возможностей.",
+		"5": "Соответствует европейскому законодательству GDPR."
+	}
 }
