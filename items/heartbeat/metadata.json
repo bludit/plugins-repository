@@ -11,25 +11,21 @@
 	"description": "Alerts you to take a backup when network loss or session expiry occurs.",
 	"features": {
 		"0": "",
-		"1": "",
-		"2": ""
+		"1": ""
 	},
 	"description_de": "",
 	"features_de": {
 		"0": "",
-		"1": "",
-		"2": ""
+		"1": ""
 	},
 	"description_es": "",
 	"features_es": {
 		"0": "",
-		"1": "",
-		"2": ""
+		"1": ""
 	},
-	"description_ru": "",
+	"description_ru": "Предупреждает о необходимости создания резервной копии при потере соединения с сетью или при истечении сеанса.",
 	"features_ru": {
 		"0": "",
-		"1": "",
-		"2": ""
+		"1": ""
 	}
 }

@@ -1,35 +1,35 @@
 {
-   "name":"Pagination",
-   "version":"0.2.0",
-   "author_username":"sambrishes",
-   "release_date":"2019-04-26",
-   "license":"MIT",
-   "price_usd":"0",
-   "download_url":"https://github.com/pytesNET/pagination/archive/0.2.0.zip",
-   "demo_url":"",
-   "information_url":"https://codeblu.dev/plugins/pagination",
-   
-   "description":"Just get more Space for your Content by splitting them into multiple pages.",
-   "features":{
-      "0":"Supports Pretty URLs and Canonincal header links.",
-      "1":"Two different pagination layouts.",
-      "2":"Configurable pagination variable.",
-      "3":"Offers a 'Single Page' View."
-   },
-   
-   "description_de":"Erhalte mehr Platz für deine Inahlte indem du sie auf mehrere Seiten aufteilst.",
-   "features_de":{
-      "0":"Unterstützt 'Pretty URLs' sowie kanonische Meta Verlinkungen.",
-      "1":"Zwei verschiedene Pagination Layouts.",
-      "2":"Konfigurierbare Pagination Variable.",
-      "3":"Bietet eine 'Alles auf einer Seite ansehen' Funktion."
-   },
-   
-   "description_ru":"Простая система нумерации страниц, которая позволяет разбить ваши длинные записи (и страницы) на несколько страниц!",
-   "features_ru":{
-      "0":"Поддерживает красивые URL и ссылки на заголовки Canonical.",
-      "1":"Имеет два разных макета нумерации страниц.",
-      "2":"Настраиваемая переменная нумерации страниц.",
-      "3":"Предлагает вид «всё на одной странице»."
-   }
+	"name": "Pagination",
+	"version": "0.2.0",
+	"author_username": "sambrishes",
+	"release_date": "2019-04-26",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https: //github.com/pytesNET/pagination/archive/0.2.0.zip",
+	"demo_url": "",
+	"information_url": "https: //codeblu.dev/plugins/pagination",
+	
+	"description": "Just get more Space for your Content by splitting them into multiple pages.",
+	"features": {
+		"0": "Supports Pretty URLs and Canonincal header links.",
+		"1": "Two different pagination layouts.",
+		"2": "Configurable pagination variable.",
+		"3": "Offers a 'Single Page' View."
+	},
+	
+	"description_de": "Erhalte mehr Platz für deine Inahlte indem du sie auf mehrere Seiten aufteilst.",
+	"features_de": {
+		"0": "Unterstützt 'Pretty URLs' sowie kanonische Meta Verlinkungen.",
+		"1": "Zwei verschiedene Pagination Layouts.",
+		"2": "Konfigurierbare Pagination Variable.",
+		"3": "Bietet eine 'Alles auf einer Seite ansehen' Funktion."
+	},
+	
+	"description_ru": "Простая система нумерации страниц, которая позволяет разбить длинные записи (и страницы) на несколько страниц!",
+	"features_ru": {
+		"0": "Поддерживает красивые URL и ссылки на заголовки Canonical.",
+		"1": "Имеет два разных макета нумерации страниц.",
+		"2": "Настраиваемая переменная нумерации страниц.",
+		"3": "Предлагает вид «всё на одной странице»."
+	}
 }

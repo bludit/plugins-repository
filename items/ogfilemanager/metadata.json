@@ -9,7 +9,7 @@
 	"information_url": "https://github.com/HarleyDavidson86/OGFileManager",
 	"description": "Plugin to provide downloadable content to the user.",
 	"features": {
-		"0": "This plugin is searching the following pattern in the content of your pages and replace it with a clickable link: <code>DOC{<FILENAME>;<NAME>;<DESCRIPTION>}</code>."
+		"0": "This plugin is searching the following pattern in the content of your pages and replace it with a clickable link: <code>DOC{&lt;FILENAME&gt;;&lt;NAME&gt;;&lt;DESCRIPTION&gt;}</code>."
 	},
 	"description_de": "Plugin zur Bereitstellung von Dateien für den Download.",
 	"features_de": {
@@ -17,9 +17,9 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Предоставляет возможность делать ссылки для загружаемого контента, чтобы пользователи могли скачивать файлы кликая по этим ссылкам на страницах сайта.",
+	"description_ru": "Позволяет делать ссылки для загружаемого контента, чтобы пользователи могли скачивать файлы кликая по этим ссылкам на страницах сайта.",
 	"features_ru": {
-		"0": "Этот плагин выполняет поиск по следующему шаблону в содержимом ваших страниц и заменяет его интерактивной ссылкой: <code>DOC{<FILENAME>;<NAME>;<DESCRIPTION>}</code>."
+		"0": "Этот плагин выполняет поиск по следующему шаблону в содержимом ваших страниц и заменяет его интерактивной ссылкой: <code>DOC{&lt;FILENAME&gt;;&lt;NAME&gt;;&lt;DESCRIPTION&gt;}</code>."
 	},
 	"author_username": "harleydavidson86"
 }

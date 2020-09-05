@@ -1,22 +1,22 @@
 {
 	"name": "Footnotes",
-	"version": "0.1",
-	"release_date": "2017-07-15",
+	"version": "1.0",
+	"release_date": "2020-08-02",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url_v2": "https://github.com/clickwork-git/footnotes/archive/master.zip",
+	"download_url_v2": "https://github.com/clickwork-git/footnotes/releases/download/v.1.0/footnotes.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/footnotes",
-	"description": "The plugin allows to add footnotes in an easy way to a text. There is no need for numbering the footnotes.",
+	"description": "The plugin Footnotes allows to add footnotes in an easy way to a text. It can be used as extension of the editor EsayMDE.",
 	"features": {
-		"0": "The footnotes have a link to go back to the previous reading position.",
-		"1": "To insert the number of the footnote add <sup class=\"footnoted\"> <\/sup> to the text.",
-		"2": "Add the footnote as element of an ordered list at the end of the text. Give the container of the list elements the ID \"footnotes\"."
+		"0": "There is no need for numbering the footnotes.",
+		"1": "The references have a link to go back to the previous reading position.",
+		"2": ""
 	},
-	"description_de": "",
+	"description_de": "Mit dem Plugin Footnotes können Texte einfach mit Fussnoten ergänzt werden. Es kann als Erweiterung des Editors EasyMDE verwendet werden.",
 	"features_de": {
-		"0": "",
-		"1": "",
+		"0": "Die Fussnoten werden automatisch durchnummeriert.",
+		"1": "Die Referenzen haben ein Link zurück zum Text.",
 		"2": ""
 	},
 	"description_es": "",
@@ -28,8 +28,8 @@
 	"description_ru": "Плагин позволяет легко добавлять примечания к тексту. Нет необходимости в нумерации сносок.",
 	"features_ru": {
 		"0": "В сносках есть ссылка, чтобы вернуться к предыдущей позиции чтения.",
-		"1": "Чтобы вставить номер сноски, добавьте в текст <sup class = \"footnoted\"> <\/sup>.",
-		"2": "Добавьте сноску в качестве элемента упорядоченного списка в конце текста. Дайте в свойства html-элемента списка ID \"footnotes\"."
+		"1": "",
+		"2": ""
 	},
 	"author_username": "clickwork"
 }
