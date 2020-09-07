@@ -1,0 +1,35 @@
+{
+	"name": "FontAwesome Helper",
+	"version": "1.0.2",
+	"author_username": "tompidev",
+	"release_date": "2020-09-07",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/tompidev/fontawesome-helper/releases",
+	"demo_url": "http://demo.tompidev.com/",
+	"information_url": "https://tompidev.com/fontawesome-helper",
+	"description": "FontAwesome Helper is a Bludit plugin which can help for developers quickly review and insert icons into the HTML source.",
+	"features": {
+		"0": "more than 650 icons by the lineawesome.css file of Bludit",
+		"1": "clickable icons in a Modal window",
+		"2": "a \"one click copy\" feature which will help you to copy the HTML formatted icon code to the clipboard"
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
