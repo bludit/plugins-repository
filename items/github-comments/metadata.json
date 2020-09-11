@@ -11,8 +11,8 @@
 	"description": "Add a comment section to your blog using utterances, an open source lightweight comments system built on GitHub issues.",
 	"features": {
 		"0": "Add a comment section.",
-		"1": "Chose your comment section theme.",
-		"2": ""
+		"1": "Choose your comments section theme.",
+		"2": "Manage the comments in your GitHub repo."
 	},
 	"description_de": "_DESCRIPTION_GERMAN_",
 	"features_de": {
@@ -24,7 +24,7 @@
 	"features_es": {
 		"0": "Añade una sección de comentarios.",
 		"1": "Escoge el tema de la sección de comentarios.",
-		"2": ""
+		"2": "Maneja los comentarios en tu repositorio de GitHub."
 	},
 	"description_ru": "_DESCRIPTION_RUSSIAN_",
 	"features_ru": {
