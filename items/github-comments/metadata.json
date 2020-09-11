@@ -1,0 +1,35 @@
+{
+	"name": "GitHub comments",
+	"version": "v1.0",
+	"author_username": "ALGZB",
+	"release_date": "2020-09-11",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/algzb/github-comments-for-bludit/releases",
+	"demo_url": "https://algzb.com/github-comments-plugin-for-bludit",
+	"information_url": "https://algzb.com/github-comments-plugin-for-bludit",
+	"description": "Add a comment section to your blog using utterances, an open source lightweight comments system built on GitHub issues.",
+	"features": {
+		"0": "Add a comment section.",
+		"1": "Chose your comment section theme.",
+		"2": ""
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "Añade una sección de comentarios a tu blog utilizando utterances, un ligero sistema de comentarios de código abierto construdio sobre Github.",
+	"features_es": {
+		"0": "Añade una sección de comentarios.",
+		"1": "Escoge el tema de la sección de comentarios.",
+		"2": ""
+	},
+	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
