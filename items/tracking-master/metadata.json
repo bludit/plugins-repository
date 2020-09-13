@@ -5,7 +5,7 @@
 	"release_date": "2020-09-04",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/tompidev/tracking-master-plugin/releases",
+	"download_url": "https://github.com/tompidev/tracking-master/releases",
 	"demo_url": "http://demo.tompidev.com/",
 	"information_url": "https://tompidev.com/tracking-master",
 	"description": "Tracking Master is a Multi-provider web analytics tracker. You can set for use only one or all web analytics providers at the same time",
