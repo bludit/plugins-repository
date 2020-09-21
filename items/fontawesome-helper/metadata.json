@@ -1,8 +1,8 @@
 {
 	"name": "FontAwesome Helper",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"author_username": "tompidev",
-	"release_date": "2020-09-07",
+	"release_date": "2020-09-19",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/tompidev/fontawesome-helper/releases",
@@ -12,7 +12,9 @@
 	"features": {
 		"0": "more than 650 icons by the lineawesome.css file of Bludit",
 		"1": "clickable icons in a Modal window",
-		"2": "a \"one click copy\" feature which will help you to copy the HTML formatted icon code to the clipboard"
+		"2": "a \"one click copy\" feature which will help you to copy the HTML formatted icon code to the clipboard",
+		"3": "search box to find icons",
+		"4": "icon size selector"
 	},
 	"description_de": "",
 	"features_de": {
