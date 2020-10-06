@@ -5,7 +5,8 @@
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url_v2": "",
-	"demo_url": "https://github.com/clickwork-git/cookies-banner/releases/download/v1.0/cookies-banner.zip",
+	"download_url": "https://github.com/clickwork-git/cookies-banner/releases/download/v1.0/cookies-banner.zip",
+	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/cookies-banner",
 	"description": "Cookies Banner displays a banner which allows user to accept or reject cookies from tracking applications like Google Analytics or Matomo.",
 	"features": {
