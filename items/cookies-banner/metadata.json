@@ -1,0 +1,35 @@
+{
+	"name": Cookies Banner",
+	"version": "1.0",
+	"release_date": "2020-10-06",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url_v2": "https://github.com/clickwork-git/cookies-banner/releases/download/v1.0/cookies-banner.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/clickwork-git/cookies-banner",
+	"description": "Cookies Banner displays a banner which allows user to accept or reject cookies from tracking applications like Google Analytics or Matomo.",
+	"features": {
+		"0": "Compliant with GDPR.",
+		"1": "Optimized for SEO: the banner is not displayed if the visitor is a search engine bot.",
+		"2": ""
+	},
+	"description_de": "Mit dem Plugin Footnotes können Texte einfach mit Fussnoten ergänzt werden. Es kann als Erweiterung des Editors EasyMDE verwendet werden.",
+	"features_de": {
+		"0": "Entspricht den Anforderungen der DSGVO.",
+		"1": "SEO optimiert: Das Banner wird Suchmaschinen-Bots nicht angezeigt.",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "clickwork"
+}
