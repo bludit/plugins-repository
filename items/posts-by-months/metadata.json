@@ -4,7 +4,7 @@
 	"release_date": "2019-03-26",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/clickwork-git/posts-by-months/archive/v1.2.zip",
+	"download_url": "https://clickwork.ch/download/2891/",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/posts-by-months",
 	"description": "Posts ordered by years and months (for themes with a sidebar).",
@@ -13,7 +13,7 @@
 		"1": "",
 		"2": ""
 	},
-	"description_de": "Beiträge geordnet nach Jahren und Monaten (für Themes mit einer Seitenleiste).",
+	"description_de": "Beiträge geordnet nach Jahren und Monaten (bei Themes mit einer Seitenleiste).",
 	"features_de": {
 		"0": "",
 		"1": "",
