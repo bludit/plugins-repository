@@ -1,8 +1,8 @@
 {
 	"name": "Header Content",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"author_username": "fabianosantosnet",
-	"release_date": "2020-09-27",
+	"release_date": "2020-10-09",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://git.fabianosantos.net/download-file.php?p=bludit&t=plugins&f=header-content",
@@ -16,7 +16,7 @@
 		"1": "CSS Block is StyleSheet content inside HEAD tag then you avoid change your theme.",
 		"2": "Maintenance Mode is a personalized homonym version of the default Bludit plugin. It implements a default page or a custom php file created by user.",
 		"3": "Browser Update uses JavaScript to show a message to visitors that access the website when their browser is outdated.",
-		"4": "",
+		"4": "On Meta Robots was inserted two options allowing or not crawling of categories and tags, besides avoid indexation of pages that doesn't exist.",
 		"5": ""
 	},
 	"description_pt": "Muitos plugins em um. Meta Canonical, Robots, Keywords, Description, Author, Copyright, RSS, Bloco CSS, Modo de manutenção e Notificação de Navegador.",
@@ -25,7 +25,7 @@
 		"1": "Bloco CSS insere uma folha de estilo dentro da tag HEAD evitando alterar seu tema.",
 		"2": "Modo de Manutenção é a versão personalizada homônima do plugin do Bludit. Implementa uma página padrão ou um arquvo customizado definido pelo usuário.",
 		"3": "Notificação de Atualização de Navegador utiliza JavaScript para mostrar uma mensagem no topo da página do visitante do site/blog quando seu navegador está desatualizado.",
-		"4": "",
+		"4": "Na Meta Robots foram inseridas duas opções que permitem ou não o rastreamento de categorias e tags, além de evitar a indexação de páginas que não existem.",
 		"5": ""
 	},	
 	"description_de": "",
