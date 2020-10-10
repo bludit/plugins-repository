@@ -14,7 +14,7 @@
 		"1": "Optimized for SEO: the banner is not displayed if the visitor is a search engine bot.",
 		"2": ""
 	},
-	"description_de": "Mit dem Plugin Footnotes können Texte einfach mit Fussnoten ergänzt werden. Es kann als Erweiterung des Editors EasyMDE verwendet werden.",
+	"description_de": "Cookies Banner blendet ein Banner ein, das es dem Besucher erlaubt, Cookies von Tracking-Anwendungen wie Google Analaytics oder Matomo zu akzeptieren oder abzulehnen.",
 	"features_de": {
 		"0": "Entspricht den Anforderungen der DSGVO.",
 		"1": "SEO optimiert: Das Banner wird Suchmaschinen-Bots nicht angezeigt.",
