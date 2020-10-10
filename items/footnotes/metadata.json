@@ -7,7 +7,7 @@
 	"download_url": "https://clickwork.ch/download/2881/",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/footnotes",
-	"description": "The plugin Footnotes allows to add footnotes in an easy way to a text. It can be used as extension of the editor EsayMDE.",
+	"description": "The plugin Footnotes allows to add footnotes in an easy way to a text. It can be used as extension of the editor EasyMDE.",
 	"features": {
 		"0": "There is no need for numbering the footnotes.",
 		"1": "The references have a link to go back to the previous reading position.",
