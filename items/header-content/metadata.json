@@ -5,7 +5,7 @@
 	"release_date": "2020-10-09",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://git.fabianosantos.net/download-file.php?p=bludit&t=plugins&f=header-content",
+	"download_url": "https://git.fabianosantos.net/download/bludit/plugin/header-content/1.0.3/",
 	"demo_url": "",
 	"information_url": "https://git.fabianosantos.net/bludit-cms-plugin-header-content",
 	"credits": "@fabianosantosnet",
@@ -16,8 +16,7 @@
 		"1": "CSS Block is StyleSheet content inside HEAD tag then you avoid change your theme.",
 		"2": "Maintenance Mode is a personalized homonym version of the default Bludit plugin. It implements a default page or a custom php file created by user.",
 		"3": "Browser Update uses JavaScript to show a message to visitors that access the website when their browser is outdated.",
-		"4": "On Meta Robots was inserted two options allowing or not crawling of categories and tags, besides avoid indexation of pages that doesn't exist.",
-		"5": ""
+		"4": "On Meta Robots was inserted two options allowing or not crawling of categories and tags, besides avoid indexation of pages that doesn't exist."
 	},
 	"description_pt": "Muitos plugins em um. Meta Canonical, Robots, Keywords, Description, Author, Copyright, RSS, Bloco CSS, Modo de manutenção e Notificação de Navegador.",
 	"features_pt": {
@@ -25,26 +24,30 @@
 		"1": "Bloco CSS insere uma folha de estilo dentro da tag HEAD evitando alterar seu tema.",
 		"2": "Modo de Manutenção é a versão personalizada homônima do plugin do Bludit. Implementa uma página padrão ou um arquvo customizado definido pelo usuário.",
 		"3": "Notificação de Atualização de Navegador utiliza JavaScript para mostrar uma mensagem no topo da página do visitante do site/blog quando seu navegador está desatualizado.",
-		"4": "Na Meta Robots foram inseridas duas opções que permitem ou não o rastreamento de categorias e tags, além de evitar a indexação de páginas que não existem.",
-		"5": ""
+		"4": "Na Meta Robots foram inseridas duas opções que permitem ou não o rastreamento de categorias e tags, além de evitar a indexação de páginas que não existem."
 	},	
 	"description_de": "",
 	"features_de": {
 		"0": "",
 		"1": "",
-		"2": ""
+		"2": "",
+		"3": "",	
+		"4": ""		
 	},
 	"description_es": "",
 	"features_es": {
 		"0": "",
 		"1": "",
-		"2": ""
+		"2": "",
+		"3": "",	
+		"4": ""		
 	},
 	"description_ru": "Множество плагинов в одном. Канонические ссылки, Поисковые роботы, Ключевые слова, Описание, Автор, Авторские права, RSS-канал, Блок CSS, Режим обслуживания и Обновление браузера.",
 	"features_ru": {
 		"0": "Мета ключевые слова используют настраиваемые поля для установки данных для каждой страницы.",
 		"1": "Блок CSS — это содержимое таблицы стилей внутри тега <code>HEAD</code>, поэтому Вы избегаете изменения своей темы.",
 		"2": "Режим обслуживания — это персонализированная одноименная версия плагина Bludit по умолчанию. Он реализует страницу по умолчанию или настраиваемый файл php, созданный пользователем.",
-		"3": "Обновление браузера использует JavaScript для отображения сообщения посетителям, которые заходят на сайт, когда их браузер устарел."
+		"3": "Обновление браузера использует JavaScript для отображения сообщения посетителям, которые заходят на сайт, когда их браузер устарел.",
+		"4": "В Meta Robots добавлены две опции, разрешающие или запрещающие сканирование категорий и тегов, кроме того, чтобы избежать индексации несуществующих страниц."
 	}
 }
