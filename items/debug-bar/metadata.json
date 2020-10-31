@@ -8,7 +8,7 @@
 	"download_url_v2": "",
 	"demo_url": "",
 	"information_url": "https://github.com/anaggh/debug-bar",
-	"description": "Enable debug bar and peek into Bludit internals",
+	"description": "Enable debug bar and peek into Bludit internals.",
 	"features": {
 		"0": "Check server included files in each request.",
 		"1": "Check RAM Usage.",
@@ -29,7 +29,7 @@
 		"2": ""
 	},
 
-	"description_ru": "Позволяет включить панель отладки и заглянуть во внутреннее устройство Bludit",
+	"description_ru": "Позволяет включить панель отладки и заглянуть во внутреннее устройство Bludit.",
 	"features_ru": {
 		"0": "Проверяет включенные в сервер файлы в каждом запросе.",
 		"1": "Замеряет использованное ОЗУ (RAM) мервера.",
