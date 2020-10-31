@@ -8,12 +8,12 @@
 	"download_url": "https://github.com/tompidev/tracking-master/releases",
 	"demo_url": "http://demo.tompidev.com/",
 	"information_url": "https://tompidev.com/tracking-master",
-	"description": "Tracking Master is a Multi-provider web analytics tracker. You can set for use only one or all web analytics providers at the same time",
+	"description": "Tracking Master is a Multi-provider web analytics tracker. You can set for use only one or all web analytics providers at the same time.",
 	"features": {
-		"0": "multi-provider as Google Analytics, Clicky and Histats",
-		"1": "using all tracker in the same time",
-		"2": "Asynchronous and Non-Javascript tracking code (as you are selecting)",
-		"3": "Integrated plugin upgrade system"
+		"0": "Multi-provider as Google Analytics, Clicky and Histats.",
+		"1": "Using all tracker in the same time.",
+		"2": "Asynchronous and Non-Javascript tracking code (as you are selecting).",
+		"3": "Integrated plugin upgrade system."
 	},
 	"description_de": "_DESCRIPTION_GERMAN_",
 	"features_de": {
@@ -27,10 +27,11 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"description_ru": "Трекеры веб-аналитики от нескольких провайдеров. Вы можете настроить и использовать только одного или всех поставщиков веб-аналитики одновременно.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Несколько провайдеров, как Google Analytics, Clicky и Histats.",
+		"1": "Возможно использование всех трекеров одновременно.",
+		"2": "Асинхронный код отслеживания и код отслеживания без Javascript (по вашему выбору).",
+		"3": "Интегрирована система обновления плагина."
 	}
 }
