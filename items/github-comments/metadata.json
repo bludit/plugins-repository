@@ -26,10 +26,10 @@
 		"1": "Escoge el tema de la sección de comentarios.",
 		"2": "Maneja los comentarios en tu repositorio de GitHub."
 	},
-	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"description_ru": "Добавьте в свой блог раздел комментариев, используя utterances, облегченную систему комментариев с открытым исходным кодом, основанную на разделе issues в GitHub.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Добавляет раздел комментариев.",
+		"1": "Можно выбрать тему для раздела комментариев.",
+		"2": "Управляйте комментариями через репозиторий в GitHub."
 	}
 }
