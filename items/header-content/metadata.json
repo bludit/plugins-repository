@@ -5,7 +5,7 @@
 	"release_date": "2020-10-09",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://git.fabianosantos.net/download/bludit/plugin/header-content/1.0.3/",
+	"download_url": "https://git.fabianosantos.net/download/bludit/plugins/header-content/1.0.3/",
 	"demo_url": "",
 	"information_url": "https://git.fabianosantos.net/bludit-cms-plugin-header-content",
 	"credits": "@fabianosantosnet",
@@ -26,7 +26,7 @@
 		"3": "Notificação de Atualização de Navegador utiliza JavaScript para mostrar uma mensagem no topo da página do visitante do site/blog quando seu navegador está desatualizado.",
 		"4": "Na Meta Robots foram inseridas duas opções que permitem ou não o rastreamento de categorias e tags, além de evitar a indexação de páginas que não existem."
 	},	
-	"description_de": "",
+	"description_de": "Viele Plugins in einem. Kanonisches Ziel, Roboter, Schlüsselwörter, Beschreibung, Autor, Urheberrecht, RSS, CSS-Block, Wartungsmodus und Browserbenachrichtigung.",
 	"features_de": {
 		"0": "",
 		"1": "",
@@ -34,7 +34,7 @@
 		"3": "",	
 		"4": ""		
 	},
-	"description_es": "",
+	"description_es": "Muchos complementos en uno. Objetivo canónico, robots, palabras clave, descripción, autor, copyright, RSS, bloque CSS, modo de mantenimiento y notificación del navegador.",
 	"features_es": {
 		"0": "",
 		"1": "",
