@@ -14,7 +14,8 @@
 	"description_pt": "AddToAny é um conjunto de botões de compartilhamento social.",
 	"features_pt":{
 		"0": "Habilite/Desabilite em páginas estáticas, publicadas.",
-		"1": "Adicione CSS para corrigir o tema dos botões"
+		"1": "Adicione CSS para corrigir o tema dos botões.",
+		"2": "Requerido que o tema tenha o gancho pageEnd."
 	},	
 	"description_de": "AddToAny ist eine Reihe von Social-Sharing-Schaltflächen.",
 	"features_de": {
