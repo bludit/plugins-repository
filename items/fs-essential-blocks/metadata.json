@@ -1,0 +1,62 @@
+{
+	"name": "FS Essential Blocks",
+	"version": "1.0.0",
+	"author_username": "fabianosantosnet",
+	"release_date": "2020-10-31",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://git.fabianosantos.net/download/bludit/plugins/fs-essential-blocks/1.0.0/",
+	"demo_url": "",
+	"information_url": "https://git.fabianosantos.net/bludit-cms-plugin-fs-essential-blocks",
+	"credits": "@fabianosantosnet",
+	"credits_url": "https://www.fabianosantos.net/",
+	"description": "There are 4 plugins in one. This extension implements customized versions of the standard Search, Tags and Categories plugins with more options. In addition, there is a new plugin called 'Code Box' that allows you to insert HTML. They all allow you to change the location. A plugin inside a main plugin I nickname as subplugin.",
+	"features": 
+	{
+		"0": "Enable/Disable each subplugin and a sidebar link.",
+		"1": "Add spaces before code, XHTML compatibility and supports external JavaScript (except CodeBox).",
+		"2": "Change the location in the theme for all subplugins.",
+		"3": "Show Categories and Tags as a Dropdown menu.",
+		"4": "Code Box lets you use HTML in three locations of your theme."
+	},
+	
+	"description_pt": "São 4 plugins em um. Esta extensão implementa versões customizadas dos plugins padrões Search, Tags e Categories com mais opções. Além disso, há um novo plugin chamado 'Caixa de Código' que lhe permite inserir HTML. Todos eles permitem mudar a localização.",
+	"features_pt":
+	{
+		"0": "Habilita / desabilita cada subplugin e um link da barra lateral.",
+		"1": "Adicione espaços antes do código, compatibilidade com XHTML e suporte a JavaScript externo (exceto CodeBox).",
+		"2": "Altere a localização no tema para todos os subplugins.",
+		"3": "Mostrar categorias e tags como um menu suspenso.",
+		"4": "A Caixa de Código permite que você use HTML em três locais do seu tema."
+	},	
+	
+	"description_de": "Es gibt 4 Plugins in einem. Diese Erweiterung implementiert angepasste Versionen der Standard-Plugins für Suche, Tags und Kategorien mit mehr Optionen. Darüber hinaus gibt es ein neues Plugin namens "Code Box", mit dem Sie HTML einfügen können. Mit allen können Sie den Standort ändern.",
+	"features_de":
+	{
+		"0": "Aktivieren / Deaktivieren Sie jedes Subplugin und einen Sidebar-Link.",
+		"1": "Fügen Sie Leerzeichen vor Code hinzu, XHTML-Kompatibilität und unterstützt externes JavaScript (außer CodeBox).",
+		"2": "Ändern Sie die Position im Thema für alle Subplugins.",
+		"3": "Kategorien und Tags als Dropdown-Menü anzeigen.",
+		"4": "Mit Code Box können Sie HTML an drei Stellen Ihres Themas verwenden."
+	},
+	
+	"description_es": "Hay 4 complementos en uno. Esta extensión implementa versiones personalizadas de los complementos estándar de búsqueda, etiquetas y categorías con más opciones. Además, hay un nuevo complemento llamado 'Caja de código' que le permite insertar HTML. Todos te permiten cambiar la ubicación.",
+	"features_es": 
+	{
+		"0": "Habilite / deshabilite cada subplugin y un enlace de barra lateral.",
+		"1": "Agregue espacios antes del código, compatibilidad con XHTML y admite JavaScript externo (excepto CodeBox).",
+		"2": "Cambie la ubicación en el tema de todos los subplugins.",
+		"3": "Mostrar categorías y etiquetas como menú desplegable.",
+		"4": "Code Box le permite usar HTML en tres ubicaciones de su tema."
+	},
+	
+	"description_ru": "В одном есть 4 плагина. Это расширение реализует индивидуализированные версии стандартных плагинов поиска, тегов и категорий с дополнительными параметрами. Кроме того, есть новый плагин под названием Code Box, который позволяет вставлять HTML. Все они позволяют менять местоположение.",
+	"features_ru": 
+	{
+		"0": "Включить / отключить каждый подключаемый модуль и ссылку на боковой панели.",
+		"1": "Добавляйте пробелы перед кодом, совместимость с XHTML и поддерживает внешний JavaScript (кроме CodeBox).",
+		"2": "Измените расположение в теме всех подключаемых модулей.",
+		"3": "Показать категории и теги в раскрывающемся меню.",	
+		"4": "Code Box позволяет использовать HTML в трех местах вашей темы."
+	}
+}
