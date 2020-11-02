@@ -1,23 +1,42 @@
 {
 	"name": "Ads4U",
-	"version": "0.2.1",
-	"release_date": "2017-10-18",
+	"version": "0.3.2",
+	"release_date": "2018-10-22",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url_v2": "https://github.com/xm74/ads4u/archive/master.zip",
+	"download_url_v2": "https://github.com/xm74/ads4u-2/archive/master.zip",
+	"download_url": "https://github.com/xm74/ads4u/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/xm74/ads4u",
 	"description": "Add advertising on your site with Ads4U.",
 	"features": {
+		"0":"Required: theme implements pageEnd hook.",
+		"1":"Enable/Disable on published/static pages.",
+		"2":"In code field paste your ads / It allows HTML e JS."		
 	},
+	"description_pt": "Adicione publicidade em seu site com Ads4U.",
+	"features_pt": {
+		"0":"Obrigatório: tema deve implementar o gancho pageEnd.",
+		"1":"Ative/desative em páginas publicadas/estáticas.",
+		"2":"No campo de código cole seus anúncios / Permite HTML e JS."
+	},	
 	"description_de": "Add advertising on your site with Ads4U.",
 	"features_de": {
+		"0":"",
+		"1":"",
+		"2":""
 	},
 	"description_es": "Add advertising on your site with Ads4U.",
 	"features_es": {
+		"0":"",
+		"1":"",
+		"2":""		
 	},
 	"description_ru": "Добавьте рекламу на свой сайт с помощью Ads4U.",
 	"features_ru": {
+		"0":"",
+		"1":"",
+		"2":""		
 	},
 	"author_username": "xm74"
 }
