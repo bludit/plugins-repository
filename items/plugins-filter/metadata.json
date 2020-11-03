@@ -7,16 +7,19 @@
 	"download_url_v2": "https://github.com/Fred89/bludit-plugins/releases/download/pluginsFilter1.0/plugins-filter.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/Fred89/bludit-plugins/releases/tag/pluginsFilter1.0",
-	"description": "Simple plugin that allows to activate or desactivate all plugins with one click.",
+	"description": "Plugin without configuration that enables the All, Enable and Disable buttons on the plugins page that filters according to the button pressed.",
 	"features": {
 	},
-	"description_de": "Einfaches Plugin, das es erlaubt, mit einem Klick alle Plugins zu aktivieren oder zu deaktivieren.",
+	"description_pt": "Plugin sem configuração que habilita os botões Todos, Ativar e Desativar na página de plugins que filtra de acordo com o botão pressionado.",
+	"features_pt": {
+	},	
+	"description_de": "Plugin ohne Konfiguration, die die Schaltflächen Alle, Aktivieren und Deaktivieren auf der Plugins-Seite aktiviert, die nach der gedrückten Schaltfläche filtern.",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "Complemento sin configuración que habilita los botones Todo, Activar y Desactivar en la página de complementos que filtra según el botón presionado.",
 	"features_es": {
 	},
-	"description_ru": "Простой плагин, который позволяет активировать или деактивировать все плагины одним щелчком мыши.",
+	"description_ru": "Плагин без конфигурации, который включает кнопки Все, Включить и Отключить на странице плагинов, фильтрующий в соответствии с нажатой кнопкой.",
 	"features_ru": {
 	},
 	"author_username": "frederic"
