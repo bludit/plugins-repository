@@ -9,15 +9,23 @@
 	"information_url": "https://github.com/Bayerberg/Bludit-Admin-Tools",
 	"description": "Three strips for all admin and editor needs.",
 	"features": {
+		"0":"When you view your site you'll see a detail information on Sidebar (links to create content and go to admin and some information) and at the end of a page (a link to edit page). For admin view you'll see a top bar that allows to create a new content, user and category."
 	},
-	"description_de": "Admin-Werkzeuge.",
+	"description_pt": "Três barras que facilitam a administração de seu site.",
+	"features_pt": {
+		"0":"Ao visualizar seu site, você verá informações detalhadas na barra lateral (links para criar conteúdo e ir para o administrador e algumas informações) e no final de uma página (um link para editar a página). Para visualização de administrador, você verá uma barra superior que permite criar um novo conteúdo, usuário e categoria."
+	},	
+	"description_de": "Drei Streifen für alle Administrator- und Editoranforderungen.",
 	"features_de": {
+		"0":"Wenn Sie Ihre Website anzeigen, werden detaillierte Informationen in der Seitenleiste (Links zum Erstellen von Inhalten und zum Aufrufen des Administrators sowie einige Informationen) und am Ende einer Seite (Link zum Bearbeiten der Seite) angezeigt. In der Administratoransicht wird eine obere Leiste angezeigt, in der Sie einen neuen Inhalt, Benutzer und eine neue Kategorie erstellen können."
 	},
-	"description_es": "",
+	"description_es": "Tres tiras para todas las necesidades de administradores y editores.",
 	"features_es": {
+		"0":"Cuando vea su sitio, verá una información detallada en la barra lateral (enlaces para crear contenido e ir al administrador y alguna información) y al final de una página (un enlace para editar la página). Para la vista de administrador, verá una barra superior que le permite crear un nuevo contenido, usuario y categoría."
 	},
 	"description_ru": "Три полоски инструментов для всех потребностей администратора и редактора.",
 	"features_ru": {
+		"0":"Когда вы просматриваете свой сайт, вы увидите подробную информацию на боковой панели (ссылки для создания контента и перехода к администратору и некоторая информация) и в конце страницы (ссылка для редактирования страницы). Для режима администратора вы увидите верхнюю панель, которая позволяет создавать новый контент, пользователя и категорию."
 	},
 	"author_username": "cajzer"
 }
