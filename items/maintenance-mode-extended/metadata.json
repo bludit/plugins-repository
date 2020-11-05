@@ -1,7 +1,7 @@
 {
 	"name": "Maintenance mode extended",
 	"version": "1.0",
-	"release_date": "2018-12-08",
+	"release_date": "2018-11-28",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/barthusz/bludit_maintenance-mode-extended/archive/master.zip",
@@ -10,11 +10,14 @@
 	"description": "Original maintenance mode plugin of Bludit, extended with some more configurable backend options. And also added a little styling to make it more attractive. A logged in administrator or editor is able to see the live frontend.",
 	"features": {
 	},
-	"description_de": "Dieses Plugin bietet mehr konfigurierbare Optionen als das Standard-Plugin. Es bietet auch die Möglichkeit, dass eingeloggte Administratoren oder Redakteure das Frontend der Website einsehen können.",
-	"features_de": {
+	"description_pt": "Versão aprimorada do plugin modo de manutenção do Bludit com a algumas opções extras: alteração de cor de fundo e texto (ou adição de imagem) e definição de uma mensagem padrão. Não afeta o usuário logado.",
+	"features_pt": {		
 	},
 	"description_es": "Mejora del plugin original \"Modo mantenimiento\" con algunas funciones extras. También se agrego mejoras en el estilo. El administrador del sitio puede ver el sitio completamente.",
 	"features_es": {
+	},
+	"description_de": "Dieses Plugin bietet mehr konfigurierbare Optionen als das Standard-Plugin. Es bietet auch die Möglichkeit, dass eingeloggte Administratoren oder Redakteure das Frontend der Website einsehen können.",
+	"features_de": {
 	},
 	"description_ru": "Плагин для режима технического обслуживания Bludit, теперь расширен и имеет дополнительные опции в панели управления. Обновлён дизайн, теперь он более привлекательный. Авторизованный администратор или редактор по-прежнему будут видеть сайт полностью.",
 	"features_ru": {
