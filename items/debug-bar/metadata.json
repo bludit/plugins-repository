@@ -1,10 +1,10 @@
 {
 	"name": "Debug Bar",
-	"version": "0.1",
-	"release_date": "2019-05-28",
+	"version": "0.2",
+	"release_date": "2020-11-28",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/anaggh/debug-bar/archive/0.1.zip",
+	"download_url": "https://github.com/anaggh/debug-bar/archive/0.2.zip",
 	"download_url_v2": "",
 	"demo_url": "",
 	"information_url": "https://github.com/anaggh/debug-bar",
