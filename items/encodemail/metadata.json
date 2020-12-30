@@ -7,7 +7,7 @@
 	"download_url_v2": "https://github.com/HarleyDavidson86/encodemail/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/HarleyDavidson86/encodemail",
-	"description": "Encodes all email addresses in pages and posts to prevent SPAM Mails.",
+	"description": "Encodes all email addresses in pages and posts to prevent spam mails.",
 	"features": {
 	},
 	"description_de": "",
@@ -16,7 +16,7 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Кодирует все адреса электронной почты на страницах записей и в сообщениях, чтобы предотвратить спам-сообщения.",
+	"description_ru": "Кодирует все адреса электронной почты на страницах и в записях, чтобы предотвратить спам-сообщения.",
 	"features_ru": {
 	},
 	"author_username": "harleydavidson86"

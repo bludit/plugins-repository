@@ -9,11 +9,15 @@
 	"demo_url": "",
 	"information_url": "https://github.com/G3N-es/G3nshop-for-Bludit",
 	"description": "It is an elegant web software solution so you can create your own online store. This software is OpenSource and FreeSoftware. It works as plugin of Bludit CMS, adding the necessary functionalities so that you can sell online.",
-	"features": { },
+	"features": {
+	},
 	"description_de": "",
-	"features_de": { },
+	"features_de": {
+	},
 	"description_es": "Es una elegante solución de software web para que puedas crear tu propia tienda On-Line. Funciona como pluguin de Bludit CMS, añadiendo las funcionalidades necesarias para que puedas vender on-line.",
-	"features_es": { },
-	"description_ru": "Это элегантный плагин, позволяющий создать собственный интернет-магазин. Всё это с открытым исходным кодом и распространяется свободно. Он работает как плагин Bludit CMS, добавляя необходимые функции, чтобы вы могли продавать онлайн.",
-	"features_ru": { }
+	"features_es": {
+	},
+	"description_ru": "Элегантный плагин, позволяющий создать собственный интернет-магазин. Имеет открытый исходный код и распространяется свободно. Работает как плагин Bludit CMS, добавляя необходимые функции, чтобы Вы могли продавать онлайн.",
+	"features_ru": {
+	}
 }

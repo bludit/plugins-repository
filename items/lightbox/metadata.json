@@ -1,11 +1,11 @@
 {
 	"name": "Lightbox",
-	"version": "1.2",
-	"release_date": "2019-02-25",
+	"version": "1.5",
+	"release_date": "2020-08-04",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url_v2": "https://github.com/clickwork-git/lightbox/archive/v1.1.zip",
-	"download_url": "https://github.com/clickwork-git/lightbox/archive/v1.1.zip",
+	"download_url": "https://clickwork.ch/download/2899/",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/lightbox",
 	"description": "Lightbox and gallery based on the lightbox script by Lokesh Dhakar. See for explanation the file README.md in the plugin directory.",
@@ -26,11 +26,11 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "Лайтбокс и галерея на основе сценария лайтбокса Локеша Дакара. Для подробного объяснения работы плагина см. файл README.md в каталоге плагина.",
+	"description_ru": "Лайтбокс и галерея на основе скрипта лайтбокса Локеша Дакара. Для подробного объяснения работы плагина смотрите файл README.md в каталоге плагина.",
 	"features_ru": {
-		"0": "Добавьте атрибут data-lightbox к любой ссылке на изображение, чтобы включить Лайтбокс. Для значения атрибута используйте уникальное имя для каждого изображения.",
-		"1": "Если у вас есть группа связанных изображений, которые вы хотите объединить в набор, используйте одно и то же значение атрибута-lightbox для всех изображений.",
-		"2": "Важно: ссылка на изображение должна содержать путь к каталогу (\/bl-content\/uploads\/)."
+		"0": "Добавьте атрибут <code>data-lightbox</code> к любой ссылке на изображение, чтобы включить Лайтбокс. Для значения атрибута используйте уникальное имя для каждого изображения.",
+		"1": "Если у Вас есть группа связанных изображений, которые Вы хотите объединить в набор, используйте одно и то же значение атрибута <code>lightbox</code> для всех изображений.",
+		"2": "<b>Важно:</b> ссылка на изображение должна содержать путь к каталогу (<code>.\/bl-content\/uploads\/</code>)."
 	},
 	"author_username": "clickwork"
 }
