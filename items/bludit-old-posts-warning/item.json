@@ -1,0 +1,16 @@
+{
+	"name": "bludit-old-posts-warning",
+	"version": "1.0",
+	"author_username": "basteyy",
+	"release_date": "2021-01-17",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/meagainsttheweb/bludit-old-posts-warning/archive/1.0.zip",
+	"demo_url": "https://www.meagainsttheweb.de/oldest-bludit-post-evbe",
+	"information_url": "https://github.com/meagainsttheweb/bludit-old-posts-warning",
+	"description": "The plugins show a notification before or after your post, pointing out that the post could be outdated",
+	"features": {
+		"0": "Showing a notification",
+		"1": "Change the message and template"
+	}
+}
