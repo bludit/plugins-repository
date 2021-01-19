@@ -1,18 +1,18 @@
 {
 	"name": "Contact3",
-	"version": "1.3.1",
+	"version": "1.3.2",
 	"author_username": "novafacile",
-	"release_date": "2019-07-30",
+	"release_date": "2021-01-12",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/novafacile/bludit-plugins/releases/download/contact3-v1.3.1/contact3.zip",
+	"download_url": "https://github.com/novafacile/bludit-plugins/raw/main/releases/contact3.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/novafacile/bludit-plugins/releases/tag/contact3-v1.3.0",
+	"information_url": "https://bludit-plugins.novafacile.com",
 	"description": "Adds a contact form to a static page. Features: Sendmail, SMTP, custom template, Google reCAPTCHA v2, GDPR-Support",
 	"features": {
 		"0": "Adds contact form on a static page.",
 		"1": "Contact form with customizable template.",
-		"2": "Supports Sendmail, SMTP, Google reCPATCHA.",
+		"2": "Supports Sendmail and SMTP",
 		"3": "Spam protection with Google reCPATCHA v2."
 	},
 	"description_de": "Fügt ein Kontaktformular auf einer statischen Seite ein. Features: Sendmail, SMTP, eigenes Kontakt-Template, Google reCPATCHA, EU-DSGVO Support",
