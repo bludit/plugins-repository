@@ -5,9 +5,9 @@
 	"release_date": "2020-04-22",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https: //github.com/pytesNET/draft/archive/1.0.0.zip",
+	"download_url": "https://github.com/pytesNET/draft/archive/1.0.0.zip",
 	"demo_url": "",
-	"information_url": "https: //codeblu.dev/plugins/draft",	
+	"information_url": "https: //codeblu.dev/plugins/draft",
 	"description": "Adds a Preview feature for Drafts and Autosaved Posts for Bludit prior v3.9.0.",
 	"features": {
 		"0": "Preview drafts and autosaved pages before you publish them.",
