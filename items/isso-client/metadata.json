@@ -10,10 +10,13 @@
 	"description": "The plugin allows to use Isso as comment system.",
 	"features": {
 	},
+	"description_pt": "O plugin permite usar o Sistema de Comentários Isso.",
+	"features_pt": {
+	},		
 	"description_de": "Das Plugin erlaubt es, ISSO für Kommentare zu verwenden.",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "El complemento permite utilizar Isso como sistema de comentarios.",
 	"features_es": {
 	},
 	"description_ru": "Плагин позволяет использовать Isso в качестве системы комментариев.",

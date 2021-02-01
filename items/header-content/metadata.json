@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://git.fabianosantos.net/download/bludit/plugins/header-content/1.0.3/",
-	"demo_url": "",
+	"demo_url": "https://fabianosantosnet.github.io/bluditCMS/videos.html#hqfp9DKEg3w",
 	"information_url": "https://git.fabianosantos.net/bludit-cms-plugin-header-content",
 	"credits": "@fabianosantosnet",
 	"credits_url": "https://www.fabianosantos.net/",
@@ -28,19 +28,19 @@
 	},	
 	"description_de": "Viele Plugins in einem. Kanonisches Ziel, Roboter, Schlüsselwörter, Beschreibung, Autor, Urheberrecht, RSS, CSS-Block, Wartungsmodus und Browserbenachrichtigung.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": "",
-		"3": "",	
-		"4": ""		
+		"0": "Meta-Schlüsselwörter verwenden benutzerdefinierte Felder, um Daten für jede Seite festzulegen.",
+		"1": "Der CSS-Block fügt ein Stylesheet in das HEAD-Tag ein, ohne das Thema zu ändern.",
+		"2": "Der Wartungsmodus ist die personalisierte Version des Bludit-Plugins. Implementiert eine Standardseite oder eine benutzerdefinierte benutzerdefinierte Datei.",
+		"3": "Die Benachrichtigung über Browser-Updates verwendet JavaScript, um eine Nachricht oben auf der Seite des Website- / Blog-Besuchers anzuzeigen, wenn Ihr Browser veraltet ist.",	
+		"4": "In Meta Robots wurden zwei Optionen eingefügt, mit denen Kategorien und Tags gecrawlt werden können oder nicht, und die Indizierung nicht vorhandener Seiten verhindert wird."		
 	},
 	"description_es": "Muchos complementos en uno. Objetivo canónico, robots, palabras clave, descripción, autor, copyright, RSS, bloque CSS, modo de mantenimiento y notificación del navegador.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": "",
-		"3": "",	
-		"4": ""		
+		"0": "Las meta palabras clave utilizan campos personalizados para establecer datos para cada página.",
+		"1": "El bloque CSS inserta una hoja de estilo dentro de la etiqueta HEAD, evitando cambiar su tema.",
+		"2": "El modo de mantenimiento es la versión personalizada del complemento Bludit. Implementa una página estándar o un archivo personalizado definido por el usuario.",
+		"3": "La notificación de actualización del navegador utiliza JavaScript para mostrar un mensaje en la parte superior de la página del visitante del sitio web / blog cuando su navegador no está actualizado.",	
+		"4": "En Meta Robots se insertaron dos opciones que permiten o no rastrear categorías y etiquetas, además de evitar la indexación de páginas que no existen."		
 	},
 	"description_ru": "Множество плагинов в одном. Канонические ссылки, Поисковые роботы, Ключевые слова, Описание, Автор, Авторские права, RSS-канал, Блок CSS, Режим обслуживания и Обновление браузера.",
 	"features_ru": {
