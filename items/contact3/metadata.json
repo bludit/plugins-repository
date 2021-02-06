@@ -1,39 +1,47 @@
 {
-	"name": "Contact3",
-	"version": "1.3.2",
-	"author_username": "novafacile",
-	"release_date": "2021-01-12",
-	"license": "MIT",
-	"price_usd": "0",
-	"download_url": "https://github.com/novafacile/bludit-plugins/raw/main/releases/contact3.zip",
-	"demo_url": "",
-	"information_url": "https://bludit-plugins.novafacile.com",
-	"description": "Adds a contact form to a static page. Features: Sendmail, SMTP, custom template, Google reCAPTCHA v2, GDPR-Support",
-	"features": {
-		"0": "Adds contact form on a static page.",
-		"1": "Contact form with customizable template.",
-		"2": "Supports Sendmail and SMTP",
-		"3": "Spam protection with Google reCPATCHA v2."
-	},
-	"description_de": "Fügt ein Kontaktformular auf einer statischen Seite ein. Features: Sendmail, SMTP, eigenes Kontakt-Template, Google reCPATCHA, EU-DSGVO Support",
-	"features_de": {
-		"0": "Kontaktformular bei einer statischen Seite integrieren.",
-		"1": "Template für das Formular kann angepasst werden.",
-		"2": "Sendmail oder SMTP kann verwendet werden.",
-		"3": "Spam Schutz mit Google reCPATCHA v2."
-	},
-	"description_es": "Agrega un formulario de contacto a una página estática. Es posible utilizar Sendmail o una cuenta SMTP. Ademas es posible utilizar una plantilla personalizada.",
-	"features_es": {
-		"0": "Forumulario de contacto para páginas estática.",
-		"1": "Soporta plantillas personalizadas.",
-		"2": "Soporta Sendmail o SMTP.",
-		"3": "Spam protection with Google reCPATCHA v2."
-	},
-	"description_ru": "Добавляет форму обратной связи на страницу статической записи. Для работы почты можно использовать Sendmail или SMTP-аккаунт. Также можно использовать собственный шаблон.",
-	"features_ru": {
-		"0": "Добавляет форму обратной связи на страницу статической записи.",
-		"1": "Форма обратной связи с настраиваемым шаблоном.",
-		"2": "Поддержка Sendmail или SMTP.",
-		"3": "Защита от спама с помощью reCPATCHA v2 от Google."
-	}
+  "name": "Contact3",
+  "version": "2.1.0",
+  "author_username": "novafacile",
+  "release_date": "2021-02-06",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://github.com/novafacile/bludit-plugins/raw/main/releases/contact3.zip",
+  "demo_url": "",
+  "information_url": "https://bludit-plugins.novafacile.com",
+  "description": "Inserts a contact form on a selected page. The template can be customized.Other features include spam protection, GDPR settings and an optional copy of the message to the sender. SMTP and the PHP mail() function are available for sending.",
+  "features": {
+    "0": "Adds a contact form to a selected page",
+    "1": "Contact form with customizable template",
+    "2": "Supports PHP mail() and SMTP.",
+    "3": "GDPR compliant",
+    "4": "send copy of mail to user (optional)",
+    "5": "Spam protection with Google reCPATCHA v2, hCaptcha or a logical question"
+  },
+  "description_de": "Fügt ein Kontaktformular auf einer ausgewählten Seiten ein. Das Template kann individuell angepasst werden. Weitere Features sind Spam-Schutz, DSGVO Einstellungen und eine optionale Kopie der Nachricht an den Absender. Zum Versenden stehen SMTP und die PHP-mail()-Funktion zur Verfügung.",
+  "features_de": {
+    "0": "Kontaktformular auf einer Seite integrieren",
+    "1": "Template für das Formular kann angepasst werden",
+    "2": "Unterstützt PHP mail() oder SMTP",
+    "3": "EU-DSGVO konform",
+    "4": "E-Mail-Kopie an Absender (optional)",
+    "5": "Spam Schutz mit Google reCPATCHA v2, hCaptcha oder einer logischen Frage"
+  },
+  "description_es": "Inserta un formulario de contacto en una página seleccionada. La plantilla se puede personalizar. Otras características son la protección contra el spam, la configuración de GDPR y una copia opcional del mensaje al remitente. Para el envío están disponibles SMTP y la función PHP-mail().",
+  "features_es": {
+    "0": "Añade un formulario de contacto a una página seleccionada",
+    "1": "Formulario de contacto con plantilla personalizable",
+    "2": "Soporta PHP mail() y SMTP",
+    "3": "Cumple con el GDPR",
+    "4": "enviar copia del correo al remitente (opcional)",
+    "5": "Protección contra el spam con Google reCPATCHA v2, hCaptcha o una pregunta lógica"
+  },
+  "description_ru": "Вставляет контактную форму на выбранной странице. Шаблон можно настроить. Другие функции включают защиту от спама, настройки GDPR и дополнительную копию сообщения отправителю. Для отправки доступны SMTP и функция PHP-mail().",
+  "features_ru": {
+    "0": "Добавляет контактную форму на выбранную страницу",
+    "1": "Форма контакта с настраиваемым шаблоном",
+    "2": "Поддерживает PHP mail() и SMTP",
+    "3": "Соответствует GDPR",
+    "4": "отправить копию письма отправителю (необязательно)",
+    "5": "Защита от спама с помощью Google reCPATCHA v2, hCaptcha или логического вопроса"
+  }
 }
