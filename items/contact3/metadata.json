@@ -1,14 +1,14 @@
 {
   "name": "Contact3",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "author_username": "novafacile",
-  "release_date": "2021-02-06",
+  "release_date": "2021-02-27",
   "license": "MIT",
   "price_usd": "0",
   "download_url": "https://github.com/novafacile/bludit-plugins/raw/main/releases/contact3.zip",
   "demo_url": "",
   "information_url": "https://bludit-plugins.novafacile.com",
-  "description": "Inserts a contact form on a selected page. The template can be customized.Other features include spam protection, GDPR settings and an optional copy of the message to the sender. SMTP and the PHP mail() function are available for sending.",
+  "description": "Inserts a contact form on a selected page. The template can be customized. Other features include spam protection, GDPR settings and an optional copy of the message to the sender. SMTP and the PHP mail() function are available for sending.",
   "features": {
     "0": "Adds a contact form to a selected page",
     "1": "Contact form with customizable template",
