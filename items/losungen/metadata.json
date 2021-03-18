@@ -1,20 +1,20 @@
 {
 	"name": "Die Losungen",
 	"version": "1.0.0",
-	"author_username": "GilBuc",
-	"release_date": "18.03.2021",
+	"author_username": "gilbuc",
+	"release_date": "2021-03-18",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/gilbuc/bludit-losungen/archive/master.zip",
 	"demo_url": "https://www.familie-buchner.at",
 	"information_url": "https://github.com/gilbuc/bludit-losungen",
-	"description": "Displays the daily texts in the sidebar (only in german language)",
+	"description": "Displays the daily texts in the sidebar (only in german language.)",
 	"features": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_de": "Anzeige der täglichen Losungstexte in der Sidebar",
+	"description_de": "Anzeige der täglichen Losungstexte in der Sidebar.",
 	"features_de": {
 		"0": "",
 		"1": "",
