@@ -1,8 +1,8 @@
 {
 	"name": "FontAwesome Helper",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"author_username": "tompidev",
-	"release_date": "2020-09-19",
+	"release_date": "2021-03-20",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/tompidev/fontawesome-helper/releases",
@@ -14,7 +14,8 @@
 		"1": "Clickable icons in a modal window.",
 		"2": "A \"one click copy\" feature which will help you to copy the HTML formatted icon code to the clipboard.",
 		"3": "Search box to find icons.",
-		"4": "Icon size selector."
+		"4": "Icon size selector.",
+		"5": "Multi-language UI."
 	},
 	"description_de": "",
 	"features_de": {
