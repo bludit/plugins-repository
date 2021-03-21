@@ -1,0 +1,20 @@
+{
+  "name": "Buttondown Newsletter",
+  "version": "1.0",
+  "release_date": "2021-02-07",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://github.com/johanez/buttondown-bludit/archive/v1.0.zip",
+  "download_url_v2": "",
+  "demo_url": "",
+  "information_url": "https://github.com/johanez/buttondown-bludit",
+  "description": "Sends a newsletter email for new pages via buttondown.email",
+  "features": {},
+  "description_de": "Sendet Newsletter-Emails für neue Seiten via buttondown.email",
+  "features_de": {},
+  "description_es": "",
+  "features_es": {},
+  "description_ru": "",
+  "features_ru": {},
+  "author_username": "johanez"
+}

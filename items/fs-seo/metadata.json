@@ -1,0 +1,53 @@
+{
+	"name": "FS SEO",
+	"version": "1.0.1",
+	"author_username": "fabianosantosnet",
+	"release_date": "2020-12-06",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://git.fabianosantos.net/download/bludit/plugins/fs-seo/1.0.1/",
+	"demo_url": "https://fabianosantosnet.github.io/bluditCMS/videos.html#aCfwYDM7cn8",
+	"information_url": "https://git.fabianosantos.net/bludit-cms-plugin-fs-seo",
+	"credits": "@fabianosantosnet",
+	"credits_url": "https://www.fabianosantos.net/",
+	"description": "Twitter, OpenGraph and Sitemap Plugins in one.",
+	"features": 
+	{
+		"0": "Facebook OpenGraph - improve the sharing of articles from your website on social networks with dynamic insertion of image, text and site name.",
+		"1": "Twitter Cards - by sharing a link on this social network your article will be more attractive.",
+		"2": "Sitemap - extension that generates an XML file of the pages of your site that help search engines in indexing the content.",
+		"3": "Improved social network plugins based on BluSEO plugin and added fallback where there no images, description etc."
+	},
+	"description_pt": "Plugins Twitter Cards, Open Graph e Sitemap em um.",
+	"features_pt":
+	{
+		"0": "Facebook OpenGraph - melhore o compartilhamento de artigos de seu site nas redes sociais com inserção dinâmica de imagem, texto e nome do site.",
+		"1": "Twitter Cards - ao compartilhar um link nessa rede social seu artigo ficará mais atraente.",
+		"2": "Sitemap - extensão que gera um arquivo XML das páginas de seu site que ajudam os buscadores na indexação do conteúdo.",
+		"3": "Plugins de rede social aprimorados com base no plugin BluSEO e adicionado fallback onde não há imagens, descrição etc."
+	},
+	"description_es": "Complementos de Twitter, OpenGraph y Sitemap en uno.",
+	"features_es": 
+	{
+		"0": "Facebook OpenGraph: mejore el intercambio de artículos de su sitio web en las redes sociales con la inserción dinámica de imagen, texto y nombre del sitio.",
+		"1": "Twitter Cards: al compartir un enlace en esta red social, su artículo será más atractivo.",
+		"2": "Sitemap: extensión que genera un archivo XML de las páginas de su sitio que ayudan a los motores de búsqueda a indexar el contenido.",
+		"3": "Complementos de redes sociales mejorados basados en el complemento BluSEO y respaldo agregado donde no hay imágenes, descripción, etc."
+	},		
+	"description_de": "Twitter-, OpenGraph- und Sitemap-Plugins in einem.",
+	"features_de":
+	{
+		"0": "Facebook OpenGraph - Verbessern Sie das Teilen von Artikeln von Ihrer Website in sozialen Netzwerken durch dynamisches Einfügen von Bild, Text und Site-Namen.",
+		"1": "Twitter-Karten - Wenn Sie einen Link in diesem sozialen Netzwerk teilen, wird Ihr Artikel attraktiver.",
+		"2": "Sitemap - Erweiterung, die eine XML-Datei der Seiten Ihrer Website generiert, die Suchmaschinen bei der Indizierung des Inhalts unterstützt.",
+		"3": "Verbesserte Plugins für soziale Netzwerke basierend auf dem BluSEO-Plugin und Fallback hinzugefügt, wenn keine Bilder, Beschreibungen usw. vorhanden sind."
+	},	
+	"description_ru": "Плагины Twitter Cards, Open Graph и Sitemap в одном.",
+	"features_ru": 
+	{
+		"0": "Facebook OpenGraph - улучшите обмен статьями с вашего сайта в социальных сетях с помощью динамической вставки изображения, текста и имени сайта.",
+		"1": "Карты Twitter - если вы поделитесь ссылкой в ​​этой социальной сети, ваша статья будет более привлекательной.",
+		"2": "Карта сайта - расширение, которое генерирует XML-файл страниц вашего сайта, который помогает поисковым системам индексировать контент.",
+		"3": "Улучшены плагины социальных сетей на основе BluSeo и добавлен резервный вариант, где нет изображений, описания и т. Д."
+	}
+}

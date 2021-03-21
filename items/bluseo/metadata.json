@@ -1,6 +1,6 @@
 {
 	"name": "BluSeo",
-	"version": "1.1",
+	"version": "1.2",
 	"release_date": "2017-10-26",
 	"license": "MIT",
 	"price_usd": "0",
@@ -10,10 +10,13 @@
 	"description": "The SEO Plugin for Bludit.",
 	"features": {
 	},
-	"description_de": "",
+	"description_pt": "O plugin de SEO para Bludit.",
+	"features_pt": {
+	},	
+	"description_de": "Das SEO Plugin für Bludit.",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "El complemento SEO para Bludit.",
 	"features_es": {
 	},
 	"description_ru": "Плагин с настройками SEO для Bludit.",

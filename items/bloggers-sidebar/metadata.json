@@ -7,16 +7,19 @@
 	"download_url_v2": "https://github.com/Bayerberg/bloggers-sidebar/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/Bayerberg/bloggers-sidebar",
-	"description": "Shows the latest posts sorted by category, with or without cover image.",
+	"description": "Shows the latest publications sorted by category and sticky pages (highlighted). Define the label and the number of posts to be displayed in the sidebar.",
 	"features": {
 	},
-	"description_de": "Zeigt die neuesten Beiträge geordnet nach Kategorien, mit oder ohne Hauptbild.",
+	"description_pt": "Mostra as últimas publicações ordenadas pela categoria e as páginas sticky (destacadas). Defina o label e o número de posts a serem visualizados na barra lateral.",
+	"features_pt": {
+	},	
+	"description_de": "Zeigt die neuesten Veröffentlichungen sortiert nach Kategorie und klebrigen Seiten (hervorgehoben). Definieren Sie die Bezeichnung und die Anzahl der Beiträge, die in der Seitenleiste angezeigt werden sollen.",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "Muestra las últimas publicaciones ordenadas por categoría y páginas fijas (resaltadas). Defina la etiqueta y el número de publicaciones que se mostrarán en la barra lateral.",
 	"features_es": {
 	},
-	"description_ru": "Показывает последние сообщения, отсортированные по категориям, с обложкой или без обложки.",
+	"description_ru": "Показывает последние публикации, отсортированные по категориям, и липкие страницы (выделены). Определите метку и количество сообщений, которые будут отображаться на боковой панели.",
 	"features_ru": {
 	},
 	"author_username": "cajzer"
