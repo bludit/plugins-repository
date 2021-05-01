@@ -1,0 +1,27 @@
+{
+    "name": "Sitemap Table Generator",
+    "version": "1.0",
+    "author_username": "MrReSc",
+    "release_date": "21.04.2021",
+    "license": "MIT",
+    "price_usd": "0",
+    "download_url": "https://github.com/MrReSc/sitemap-table-generator/releases",
+    "demo_url": "https://gnulinux.ch/artikelindex",
+    "information_url": "https://github.com/MrReSc/sitemap-table-generator",
+    "description": "A Bludit plugin that generates a sortable and searchable table from the overview (json from the API) of all blogposts.",
+    "features": {
+        "0": "This is not a plug and play extension. A pages.json file must be created on the server otherwise the extension will not work."
+    },
+    "description_de": "Ein Bludit-Plugin, das aus der Übersicht (json aus der API) aller Blogposts eine sortierbare und durchsuchbare Tabelle erzeugt.",
+    "features_de": {
+        "0": "Dies ist keine Plug-and-Play-Erweiterung. Es muss eine pages.json Datei auf dem Server erstellt werden, sonst funktioniert die Erweiterung nicht."
+    },
+    "description_es": "Un plugin de Bludit que genera una tabla ordenable y buscable a partir del resumen (json de la API) de todos los blogposts.",
+    "features_es": {
+        "0": "Esta no es una extensión plug and play. Debe crearse un archivo pages.json en el servidor, de lo contrario la extensión no funcionará."
+    },
+    "description_ru": "Плагин Bludit, который генерирует сортируемую и доступную для поиска таблицу из обзора (json из API) всех блогпостов.",
+    "features_ru": {
+        "0": "Это не удлинитель подключи и работай. Файл pages.json должен быть создан на сервере, иначе расширение не будет работать."
+    }
+}
