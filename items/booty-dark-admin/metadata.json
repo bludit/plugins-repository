@@ -1,8 +1,8 @@
 {
 	"name": "Booty Dark Admin plugin",
-	"version": "1.2.2",
+	"version": "1.3.0",
 	"author_username": "tompidev",
-	"release_date": "2021-03-07",
+	"release_date": "2021-04-03",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/tompidev/booty-dark-admin-plugin/releases",
@@ -19,7 +19,8 @@
 		"6": "display custom control icons fixed at the top or bottom of the admin bar",
 		"7": "ability to change color on some admin bar items",
 		"8": "hide or show BDA menu item on admin bar",
-		"9": "upgrade system for the plugin"
+		"9": "plugin update notification system",
+		"9": "admin theme changing/reverting tool"
 	},
 	"description_de": "",
 	"features_de": {
