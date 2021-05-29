@@ -1,13 +1,13 @@
 {
 	"name": "img360",
 	"version": "1.0.0",
-	"author_username": "Sébastien Houzet",
+	"author_username": "yoozio",
 	"release_date": "2021-05-28",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/sebastienhouzet/bludit-img360",
+	"download_url": "https://github.com/sebastienhouzet/bludit-img360/releases/tag/1.0.0",
 	"demo_url": "",
-	"information_url": "",
+	"information_url": "https://github.com/sebastienhouzet/bludit-img360",
 	"description": "Easily embed multiple 360° photos into your webpages",
 	"features": {
 		"0": "Player 360"
