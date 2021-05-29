@@ -1,0 +1,19 @@
+{
+	"name": "img360",
+	"version": "1.0.0",
+	"author_username": "Sébastien Houzet",
+	"release_date": "2021-05-28",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/sebastienhouzet/bludit-img360",
+	"demo_url": "",
+	"information_url": "",
+	"description": "Easily embed multiple 360° photos into your webpages",
+	"features": {
+		"0": "Player 360"
+	},
+	"description_fr": "Intégrer une image 360 sur une page",
+	"features_fr": {
+		"0": "Player 360"
+	}
+}
