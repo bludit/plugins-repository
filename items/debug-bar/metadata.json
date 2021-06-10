@@ -4,10 +4,10 @@
 	"release_date": "2020-11-28",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/anaggh/debug-bar/archive/0.2.zip",
+	"download_url": "https://github.com/bludit-plugins/debug-bar/releases/download/v0.2/debug-bar.zip",
 	"download_url_v2": "",
 	"demo_url": "",
-	"information_url": "https://github.com/anaggh/debug-bar",
+	"information_url": "https://github.com/bludit-plugins/debug-bar",
 	"description": "Enable debug bar and peek into Bludit internals.",
 	"features": {
 		"0": "Check server included files in each request.",
