@@ -8,9 +8,14 @@
 	"download_url": "https://github.com/meagainsttheweb/bludit-old-posts-warning/archive/1.0.zip",
 	"demo_url": "https://www.meagainsttheweb.de/oldest-bludit-post-evbe",
 	"information_url": "https://github.com/meagainsttheweb/bludit-old-posts-warning",
-	"description": "The plugins show a notification before or after your post, pointing out that the post could be outdated",
+	"description": "The plugins show a notification before or after your post, pointing out that the post could be outdated.",
 	"features": {
-		"0": "Showing a notification",
-		"1": "Change the message and template"
+		"0": "Showing a notification.",
+		"1": "Change the message and template."
+	},
+	"description_ru": "Плагины показывают уведомление до или после вашей записи, указывая на то, что запись может быть устаревшей.",
+	"features_ru": {
+		"0": "Отображает уведомления.",
+		"1": "Можно изменять шаблон сообщения в уведомлении."
 	}
 }

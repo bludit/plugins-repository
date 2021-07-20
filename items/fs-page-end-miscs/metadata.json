@@ -20,7 +20,7 @@
 	"description_pt": "São 4 plugins (Page Related, Parent and Child Page, Tag Link e Category Link) que quando ativados irão aparecer no fim do artigo/página.",
 	"features_pt":
 	{
-		"0": "Habilita / desabilita cada subplugin e um link da barra lateral.",
+		"0": "Habilita/desabilita cada subplugin e um link da barra lateral.",
 		"1": "Adicione espaços antes do código ou remova todos espaços."
 	},	
 	
@@ -34,14 +34,14 @@
 	"description_es": "Hay 4 complementos en uno - Page Related, Parent and Child Page, Tag Link e Category Link.",
 	"features_es": 
 	{
-		"0": "Habilite / deshabilite cada subplugin y un enlace de barra lateral.",
+		"0": "Habilite/deshabilite cada subplugin y un enlace de barra lateral.",
 		"1": "Agregue espacios antes del código."
 	},
 	
-	"description_ru": "",
+	"description_ru": "Это 4 плагина: связанные страницы, родительская и дочерняя страница, ссылка на тег и ссылка на категорию. Они отображаются внизу страниц на сайте.",
 	"features_ru": 
 	{
-		"0": "",
-		"1": ""
+		"0": "Включение/Отключение каждого подключаемого модуля и ссылок на боковой панели.",
+		"1": "Добавляйте пространство перед кодом модулей или удалите все промежутки между ними."
 	}
 }
