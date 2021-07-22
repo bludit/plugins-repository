@@ -20,7 +20,7 @@
     "features_es": {
         "0": "Esta no es una extensión plug and play. Debe crearse un archivo pages.json en el servidor, de lo contrario la extensión no funcionará."
     },
-    "description_ru": Генерирует сортируемую и доступную для систем поиска таблицу на основе информации (json из API) всех записей.",
+    "description_ru": "Генерирует сортируемую и доступную для систем поиска таблицу на основе информации (json из API) всех записей.",
     "features_ru": {
         "0": "Плагин не заработает сам по себе после установки и активации. Файл pages.json должен быть создан на сервере, иначе плагин не будет работать."
     }
