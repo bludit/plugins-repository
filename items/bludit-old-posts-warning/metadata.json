@@ -13,6 +13,12 @@
 		"0": "Showing a notification.",
 		"1": "Change the message and template."
 	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
 	"description_ru": "Плагины показывают уведомление до или после вашей записи, указывая на то, что запись может быть устаревшей.",
 	"features_ru": {
 		"0": "Отображает уведомления.",
