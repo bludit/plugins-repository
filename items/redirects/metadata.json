@@ -5,9 +5,9 @@
 	"release_date": "2020-04-24",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/pytesNET/redirects/archive/0.1.0.zip",
+	"download_url": "https://github.com/bludit-plugins/redirects/releases/download/v0.1.0/redirects.zip",
 	"demo_url": "",
-	"information_url": "https://codeblu.dev/plugins/redirects",
+	"information_url": "https://github.com/bludit-plugins/redirects",
 	"description": "Redirect your URLs and Pages to another (external) ones.",
 	"features":{
 		"0": "Forward and Redirect unlimited URLs and slug.",
