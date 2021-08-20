@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "ToDo",
+		"description": "Erstellen Sie im Admin-Bereich eine einfache ToDo-Liste. Die ToDos werden im LocalStorage gespeichert."
+	}
+}
