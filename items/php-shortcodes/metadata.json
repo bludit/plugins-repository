@@ -1,0 +1,35 @@
+{
+	"name": "PHP Shortcode Snippets",
+	"version": "1.6",
+	"author_username": "dinodabs",
+	"release_date": "2021-09-09",
+	"license": "MIT",
+	"price_usd": "3",
+	"download_url": "https://aestheticode.gumroad.com/l/bludit-php-shortcodes",
+	"demo_url": "https://i.imgur.com/RDxgOYu.png",
+	"information_url": "http://aestheticode.net",
+	"description": "Add PHP snippets to your pages easily using your own custom shortcodes.",
+	"features": {
+		"0": "Super useful, run php from any page",
+		"1": "Easy to use, only activate the plugin.",
+		"2": "Compatible with Bludit v3+."
+	},
+	"description_de": "Fügen Sie PHP-Snippets zu Ihren Seiten hinzu, indem Sie Ihre eigenen benutzerdefinierten Shortcodes verwenden.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "Agregue fragmentos de PHP a sus páginas fácilmente utilizando sus propios códigos cortos personalizados.",
+	"features_es": {
+		"0": "Súper útil, ejecuta php desde cualquier página",
+		"1": "Fácil de usar, solo active el complemento.",
+		"2": "Compatible con Bludit v3 +"
+	},
+	"description_ru": "С легкостью добавляйте фрагменты PHP на свои страницы, используя собственные короткие коды.",
+	"features_ru": {
+		"0": "Супер полезно, запускайте php с любой страницы",
+		"1": "Простота использования, активируйте только плагин.",
+		"2": "Совместимость с Bludit v3 +"
+	}
+}
