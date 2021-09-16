@@ -4,10 +4,10 @@
 	"release_date": "2020-05-22",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/pytesNET/more-levels/archive/0.2.0.zip",
+	"download_url": "https://github.com/bludit-plugins/more-levels/releases/download/v0.2.0/more-levels.zip",
 	"demo_url": "",
 	"author_username": "sambrishes",
-	"information_url": "https://github.com/pytesNET/more-levels",
+	"information_url": "https://github.com/bludit-plugins/more-levels",
 	"description": "Create a deeper page hierarchy, by selecting any available page you want, using the More Levels plugin.",
 	"features": {
 		"1": "Select each available page as parent one."
