@@ -5,9 +5,9 @@
 	"release_date": "2020-05-03",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/pytesNET/reactions/archive/1.0.1.zip",
+	"download_url": "https://github.com/bludit-plugins/reactions/releases/download/v1.0.1/reactions.zip",
 	"demo_url": "",
-	"information_url": "https://codeblu.dev/plugins/reactions",
+	"information_url": "https://github.com/bludit-plugins/reactions",
 	
 	"description": "Let your readers react to your awesome content using a Like (and optionally also a Dislike) button, 3- or 5-stars or one of five freely selectable Emojies!",
 	"features":{
