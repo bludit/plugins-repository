@@ -1,0 +1,35 @@
+{
+  "name": "RSS Feed Extended",
+  "version": "1.0.1",
+  "author_username": "tim-moritz",
+  "release_date": "2021-10-25",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://github.com/gaincoder/rss-extended/archive/refs/tags/v1.0.1.zip",
+  "demo_url": "",
+  "information_url": "https://github.com/gaincoder/rss-extended",
+  "description": "Creates multiple RSS feeds, optional with read-more link.",
+  "features": {
+    "0": "short and long version of the RSS feed for all contents",
+    "1": "short and long RSS feed for every category",
+    "2": "drop-in-replacement for the original plugin by bludit"
+  },
+  "description_de": "Erstellt mehrere RSS Feeds, optional mit weiterlesen-Link",
+  "features_de": {
+    "0": "kurze und lange Version des RSS Feeds für alle Inhalte",
+    "1": "kurze und lange RSS Feeds für jede Kategorie",
+    "2": "drop-in-replacement für das original Plugin von bludit"
+  },
+  "description_es": "",
+  "features_es": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_ru": "",
+  "features_ru": {
+    "0": "",
+    "1": "",
+    "2": ""
+  }
+}
