@@ -1,11 +1,11 @@
 {
 	"name": "FS Page Menu",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author_username": "fabianosantosnet",
-	"release_date": "2021-09-14",
+	"release_date": "2021-12-12",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://git.fabianosantos.net/download/bludit/plugins/fs-page-menu/1.0.0/",
+	"download_url": "https://git.fabianosantos.net/download/bludit/plugins/fs-page-menu/1.0.1/",
 	"demo_url": "",
 	"information_url": "https://git.fabianosantos.net/bludit-cms-plugin-fs-page-menu",
 	"credits": "@fabianosantosnet",
@@ -15,7 +15,8 @@
 	{
 		"0": "Enable/Disable each subplugin and a sidebar link.",
 		"1": "Add spaces before code or remove all spaces.",
-		"2": "Reorder and delete pages."
+		"2": "Reorder and delete pages.",
+		"3":"Compatible with PHP 8."
 	},
 	
 	"description_pt": "Esta extensão contém três versões melhoradas dos plugins padrões do CMS Links, Navigation e Static Pages. Todos implementam o recurso de posicionamento em outros locais do tema.",
@@ -23,7 +24,8 @@
 	{
 		"0": "Habilita/desabilita cada subplugin e um link da barra lateral.",
 		"1": "Adicione espaços antes do código ou remova todos espaços.",
-		"3": "Reordene e exclua páginas."
+		"2": "Reordene e exclua páginas.",
+		"3": "Compatível com PHP 8."
 	},	
 	
 	"description_de": "Diese Erweiterung enthält drei verbesserte Versionen der Standard-CMS-Add-Ons: Links, Navigation und Static Pages. Alle implementieren die Standortfunktion in anderen Teilen des Themes.",
@@ -38,7 +40,8 @@
 	{
 		"0": "Habilite/deshabilite cada subplugin y un enlace de barra lateral.",
 		"1": "Agregue espacios antes del código.",
-		"2": "Reordenar y eliminar páginas."
+		"2": "Reordenar y eliminar páginas.",
+		"3": "PHP 8 compatible."
 	},
 	
 	"description_ru": "Это расширение содержит три улучшенные версии плагинов CMS Links, Navigation и Static Pages по умолчанию. Все реализуют функцию размещения в другом месте темы.",
