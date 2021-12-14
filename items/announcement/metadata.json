@@ -12,7 +12,7 @@
   "features": {
     "0": "set html content",
     "1": "set start and end date/time",
-    "2": "set border color and with"
+    "2": "set border color and width"
   },
   "description_de": "Zeigt einen Ankündigungs-Banner oberhalb jeder Seite.",
   "features_de": {
