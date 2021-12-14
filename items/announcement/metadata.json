@@ -1,0 +1,35 @@
+{
+  "name": "Announcement",
+  "version": "1.1.0",
+  "author_username": "tim-moritz",
+  "release_date": "2021-12-14",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://github.com/gaincoder/announcement/archive/refs/tags/1.0.0.zip",
+  "demo_url": "",
+  "information_url": "https://github.com/gaincoder/announcement",
+  "description": "Shows an announcement banner on the top of each page.",
+  "features": {
+    "0": "set html content",
+    "1": "set start and end date/time",
+    "2": "set border color and width"
+  },
+  "description_de": "Zeigt einen Ankündigungs-Banner oberhalb jeder Seite.",
+  "features_de": {
+    "0": "HTML Inhtalt setzen",
+    "1": "Start- und Endzeitpunkt festlegen",
+    "2": "Rahmenfarbe und -breite festlegen"
+  },
+  "description_es": "",
+  "features_es": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_ru": "",
+  "features_ru": {
+    "0": "",
+    "1": "",
+    "2": ""
+  }
+}
