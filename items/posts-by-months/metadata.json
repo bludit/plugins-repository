@@ -1,12 +1,12 @@
 {
-	"name": "Posts by months",
+	"name": "Posts by Months",
 	"version": "1.2.2",
 	"release_date": "2020-11-02",
 	"license": "MIT",
-	"price_usd": "0",
-	"download_url": "https://clickwork.ch/download/2891/",
+	"price_usd": "1",
+	"download_url": "https://clickwork.gumroad.com/l/posts-by-months",
 	"demo_url": "",
-	"information_url": "https://github.com/clickwork-git/posts-by-months",
+	"information_url": "",
 	"description": "Posts ordered by years and months (for themes with a sidebar).",
 	"features": {
 		"0": "",
