@@ -1,0 +1,38 @@
+{
+	"name": "TD Countdown",
+	"version": "1.0.0",
+	"author_username": "tompidev",
+	"release_date": "2021-12-16",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/tompidev/td-countdown/releases",
+	"demo_url": "http://demo.tompidev.com/td-countdown-test-page",
+	"information_url": "https://tompidev.com/td-countdown",
+	"description": "The TD Countdown plugin is a Countdown plugin with custom date and time setting, header text and HTML formatted message display",
+	"features": {
+		"0": "Display the countdown before, after, or both of the content",
+		"1": "Custom HTML formatted message text",
+		"2": "Date and Time settings",
+		"3": "Display countdown on sidebar",
+		"4": "Display only on sidebar",
+		"5": "Display only on selected page or on all pages..."
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "_DESCRIPTION_SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
