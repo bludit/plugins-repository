@@ -11,13 +11,13 @@
 	"features": {
 		"0": "The categories can be shown in custom order.",
 		"1": "The categories can be shown with or without the number of contents.",
-		"2": ""
+		"2": "The categories without content can be shown or not."
 	},
 	"description_de": "Das Plugin zeigt Kategorien in der Seitenleiste mit verschiedenen Optionen.",
 	"features_de": {
 		"0": "Die Kategorien können in beliebiger Reihenfolge ausgegeben werden.",
 		"1": "Die Kategorien können mit oder ohne Anzahl der Inhalte einer Kategorie ausgegeben werden.",
-		"2": ""
+		"2": "Die Kategorien ohne Inhalte können ausgegeben werden oder nicht."
 	},
 	"author_username": "clickwork"
 }
