@@ -1,17 +1,16 @@
 {
 	"name": "Textarea",
-	"version": "2.2",
-	"release_date": "2019-01-31",
+	"version": "2.3",
+	"release_date": "2021-12-28",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url_v2": "https://github.com/clickwork-git/textarea/archive/1.0.zip",
-	"download_url": "https://clickwork.ch/download/2895/",
+	"download_url": "https://clickwork.gumroad.com/l/textarea",
 	"demo_url": "",
-	"information_url": "https://github.com/clickwork-git/textarea",
-	"description": "Textarea allows to show text in the sidebar (if your theme support the sidebar) using HTML code.",
+	"information_url": "",
+	"description": "The plugin Textarea allows to show text in the sidebar (if your theme support the sidebar) using HTML code.",
 	"features": {
 	},
-	"description_de": "Mit Textarea kann Text in der Seitenleiste mit HTML-Code formatiert werden.",
+	"description_de": "Mit dem plugin Textarea kann Text in der Seitenleiste mit HTML-Code formatiert werden.",
 	"features_de": {
 	},
 	"description_es": "Textarea te permite insertar código HTML en la barra lateral de forma muy fácil.",
