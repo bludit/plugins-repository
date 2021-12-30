@@ -1,5 +1,5 @@
 {
-	"name": "Textarea",
+	"name": "Textarea Light",
 	"version": "2.3",
 	"release_date": "2021-12-28",
 	"license": "MIT",
@@ -7,7 +7,7 @@
 	"download_url": "https://clickwork.gumroad.com/l/textarea-light",
 	"demo_url": "",
 	"information_url": "",
-	"description": "The plugin Textarea allows to show text in the sidebar (if your theme support the sidebar) using HTML code.",
+	"description": "The plugin Textarea allows to show text in the sidebar using HTML code.",
 	"features": {
 	},
 	"description_de": "Mit dem Plugin Textarea kann Text in der Seitenleiste mit HTML-Code formatiert werden.",
