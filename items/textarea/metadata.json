@@ -7,17 +7,11 @@
 	"download_url": "https://clickwork.gumroad.com/l/textarea",
 	"demo_url": "",
 	"information_url": "",
-	"description": "The plugin Textarea allows to show text in the sidebar (if your theme support the sidebar) using HTML code.",
+	"description": "The plugin Textarea allows to show text in the sidebar, at the top or at the end of pages using HTML code.",
 	"features": {
 	},
-	"description_de": "Mit dem plugin Textarea kann Text in der Seitenleiste mit HTML-Code formatiert werden.",
+	"description_de": "Das Plugin Textarea erlaubt es, in der Seitenleiste, am Anfang oder am Ende von Seiten mit HTML-Code strukturierte Inhalte anzuzeigen",
 	"features_de": {
-	},
-	"description_es": "Textarea te permite insertar código HTML en la barra lateral de forma muy fácil.",
-	"features_es": {
-	},
-	"description_ru": "Плагин Textarea позволяет отображать текст на боковой панели сайта (если тема поодерживает боковую панель) с помощью HTML-кода.",
-	"features_ru": {
 	},
 	"author_username": "clickwork"
 }
