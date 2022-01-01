@@ -4,7 +4,7 @@
 	"release_date": "2019-07-14",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://clickwork.ch/download/2887/",
+	"download_url": "https://github.com/clickwork-git/content-id/releases/download/v1.1/content-id.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/content-id",
 	"description": "The plugin shows the ID of content (page or post) above the editor field.",
