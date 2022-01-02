@@ -3,19 +3,19 @@
 	"version": "1.0",
 	"release_date": "2021-12-25",
 	"license": "MIT",
-	"price_usd": "1",
-	"download_url": "https://clickwork.gumroad.com/l/alternative-header",
+	"price_usd": "0",
+	"download_url": "https://github.com/clickwork-git/alternative-header/archive/refs/tags/v1.0.zip",
 	"demo_url": "",
-	"information_url": "",
-	"description": "The plugin allows to configurate the topbar of the themes Alternative and Blog X.",
+	"information_url": "https://github.com/clickwork-git/alternative-header",
+	"description": "The plugin allows to set the topbar of the themes Alternative and Blog X as fixed or not.",
 	"features": {
-		"0": "Topbar fixed or not.",
+		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_de": "Das Plugin erlaubt es, die Navigationsleiste derThemes Alternative und Blog X zu konfigurieren.",
+	"description_de": "Das Plugin erlaubt es, die Navigationsleiste derThemes Alternative und Blog X fixiert oder nicht zu zeigen.",
 	"features_de": {
-		"0": "Navigationsleiste fixiert oder nicht.",
+		"0": "",
 		"1": "",
 		"2": ""
 	},
