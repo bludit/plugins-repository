@@ -1,17 +1,23 @@
 {
-	"name": "Textarea",
-	"version": "1.0",
-	"release_date": "2021-12-30",
+	"name": "Textarea ",
+	"version": "2.3",
+	"release_date": "2021-12-28",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://clickwork.gumroad.com/l/textarea",
+	"download_url": "https://github.com/clickwork-git/textarea/archive/refs/tags/v2.3.zip",
 	"demo_url": "",
-	"information_url": "",
-	"description": "The plugin Textarea allows to show text in the sidebar, at the top or at the end of pages using HTML code.",
+	"information_url": "https://github.com/clickwork-git/textarea",
+	"description": "The plugin Textarea allows to show text in the sidebar using HTML code.",
 	"features": {
 	},
-	"description_de": "Das Plugin Textarea erlaubt es, in der Seitenleiste, am Anfang oder am Ende von Seiten mit HTML-Code strukturierte Inhalte anzuzeigen",
+	"description_de": "Mit dem Plugin Textarea kann Text in der Seitenleiste mit HTML-Code formatiert werden.",
 	"features_de": {
+	},
+	"description_es": "Textarea te permite insertar código HTML en la barra lateral de forma muy fácil.",
+	"features_es": {
+	},
+	"description_ru": "Плагин Textarea позволяет отображать текст на боковой панели сайта (если тема поодерживает боковую панель) с помощью HTML-кода.",
+	"features_ru": {
 	},
 	"author_username": "clickwork"
 }
