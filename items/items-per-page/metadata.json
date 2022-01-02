@@ -3,10 +3,10 @@
 	"version": "1.0",
 	"release_date": "2020-07-29",
 	"license": "MIT",
-	"price_usd": "1",
-	"download_url": "https://clickwork.gumroad.com/l/items-per-page",
+	"price_usd": "o",
+	"download_url": "https://github.com/clickwork-git/items-per-page/releases/download/v1.0/items-per-page.zip",
 	"demo_url": "",
-	"information_url": "",
+	"information_url": "https://github.com/clickwork-git/items-per-page",
 	"description": "The plugin allows to add an additional option to the field \"Items per page\" to the admin panel.",
 	"features": {
 		"0": "",
