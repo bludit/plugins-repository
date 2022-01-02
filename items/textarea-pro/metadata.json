@@ -1,0 +1,17 @@
+{
+	"name": "Textarea",
+	"version": "1.0",
+	"release_date": "2021-12-30",
+	"license": "MIT",
+	"price_usd": "1",
+	"download_url": "https://clickwork.gumroad.com/l/textarea-pro",
+	"demo_url": "",
+	"information_url": "",
+	"description": "The plugin Textarea allows to show text in the sidebar, at the top or at the end of pages using HTML code.",
+	"features": {
+	},
+	"description_de": "Das Plugin Textarea erlaubt es, in der Seitenleiste, am Anfang oder am Ende von Seiten mit HTML-Code strukturierte Inhalte anzuzeigen",
+	"features_de": {
+	},
+	"author_username": "clickwork"
+}
