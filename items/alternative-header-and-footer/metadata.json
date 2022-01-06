@@ -1,0 +1,23 @@
+{
+	"name": "Alternative Header and Footer",
+	"version": "1.1",
+	"release_date": "2022-01-05",
+	"license": "MIT",
+	"price_usd": "1",
+	"download_url": "https://clickwork.gumroad.com/l/alternative-header-and-footer",
+	"demo_url": "",
+	"information_url": "",
+	"description": "The plugin allows to set the topbar of the themes Alternative and Blog X as fixed or not and to display a logo.",
+	"features": {
+		"0": "Topbar can be fixed or not.",
+		"1": "Display of a logo.",
+		"2": "And more to come."
+	},
+	"description_de": "Das Plugin erlaubt es, die Navigationsleiste derThemes Alternative und Blog X fixiert oder nicht und ein Logo zu zeigen.",
+	"features_de": {
+		"0": "Navigationsleiste fixiert oder nicht.",
+		"1": "Verwendung eines Logo.",
+		"2": "Und bald mehr."
+	},
+	"author_username": "clickwork"
+}
