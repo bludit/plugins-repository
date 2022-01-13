@@ -1,13 +1,13 @@
 {
   "name": "ImageGallery Lite",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "author_username": "novafacile",
-  "release_date": "2021-09-08",
+  "release_date": "2022-01-13",
   "license": "AGPL-3.0",
   "price_usd": "0",
   "download_url": "https://download.novafacile.com/bludit-plugins/imagegallery-lite.zip",
   "demo_url": "",
-  "information_url": "https://bludit-plugins.novafacile.com",
+  "information_url": "https://bludit-plugins.com",
   "description": "Extends Bludit CMS with an image gallery. This can be added to a selected page. The images are managed in the admin interface.",
   "features": {
     "0": "Integrate image gallery on a page",
