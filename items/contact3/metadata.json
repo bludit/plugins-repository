@@ -7,7 +7,7 @@
   "price_usd": "0",
   "download_url": "https://download.novafacile.com/bludit-plugins/contact3.zip",
   "demo_url": "",
-  "information_url": "https://bludit-plugins.novafacile.com",
+  "information_url": "https://bludit-plugins.com",
   "description": "Inserts a contact form on a selected page. The template can be customized. Other features include spam protection, GDPR settings and an optional copy of the message to the sender. SMTP and the PHP mail() function are available for sending.",
   "features": {
     "0": "Adds a contact form to a selected page",

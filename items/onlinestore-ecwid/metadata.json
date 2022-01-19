@@ -1,0 +1,35 @@
+{
+	"name": "Online Store (by Ecwid)",
+	"version": "1.1.0",
+	"author_username": "novafacile",
+	"release_date": "2022-01-19",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://download.novafacile.com/bludit-plugins/onlinestore-ecwid.zip",
+	"demo_url": "",
+	"information_url": "https://bludit-plugins.com",
+	"description": "The Online Store (by Ecwid) plugin integrates a fully functional online store into Bludit, including cart and checkout.",
+	"features": {
+		"0": "Full integration of an Ecwid online store.",
+		"1": "Direct link to product & store management at Ecwid.",
+		"2": "Free for up to 10 products."
+	},
+	"description_de": "Das Plugin Online Store (by Ecwid) integriert einen voll funktionsfähigen Online-Shop in Bludit, einschließlich Warenkorb und Checkout.",
+	"features_de": {
+		"0": "Vollständige Integration eines Ecwid-Online-Shops.",
+		"1": "Direkter Link zur Produkt- und Shop-Verwaltung bei Ecwid.",
+		"2": "Kostenlos für bis zu 10 Produkte"
+	},
+	"description_es": "El plugin Online Store (by Ecwid) integra una tienda online totalmente funcional en Bludit, incluyendo el carrito y la caja.",
+	"features_es": {
+		"0": "Integración completa de una tienda online de Ecwid.",
+		"1": "Enlace directo a la gestión de productos y tiendas en Ecwid.",
+		"2": "Gratis para hasta 10 productos."
+	},
+	"description_ru": "Плагин Online Store (by Ecwid) интегрирует в Bludit полнофункциональный интернет-магазин, включая корзину и кассу.",
+	"features_ru": {
+		"0": "Полная интеграция интернет-магазина Ecwid.",
+		"1": "Прямая связь с управлением продуктами и магазинами в Ecwid.",
+		"2": "Бесплатно для 10 продуктов"
+	}
+}
