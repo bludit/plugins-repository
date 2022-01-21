@@ -7,15 +7,15 @@
 	"download_url": "https://clickwork.gumroad.com/l/textarea-pro",
 	"demo_url": "",
 	"information_url": "",
-	"description": "The plugin Textarea allows to show text in the sidebar, at the top or at the end of pages using HTML code.",
+	"description": "The plugin Textarea Pro allows to show text in the sidebar, at the top or at the end of pages using HTML code.",
 	"features": {
-		[0]: "Select a color for the title.",
-		[1]: "Use the editor TinyMCE, that comes with Bludit, for text editing."
+		"0": "Select a color for the title.",
+		"1": "Use the editor TinyMCE, that comes with Bludit, for text editing."
 	},
-	"description_de": "Das Plugin Textarea erlaubt es, in der Seitenleiste, am Anfang oder am Ende von Seiten mit HTML-Code strukturierte Inhalte anzuzeigen",
+	"description_de": "Das Plugin Textarea Pro erlaubt es, in der Seitenleiste, am Anfang oder am Ende von Seiten mit HTML-Code strukturierte Inhalte anzuzeigen",
 	"features_de": {
-		[0]: "Wähle eine Farbe für den Titel.",
-		[1]: "Verwende den Editor TinyMCE, der mit Bludit kommt, für die Textbearbeitung."
+		"0": "Wähle eine Farbe für den Titel.",
+		"1": "Verwende den Editor TinyMCE, der mit Bludit kommt, für die Textbearbeitung."
 	},
 	"author_username": "clickwork"
 }
