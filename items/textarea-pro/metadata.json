@@ -1,7 +1,7 @@
 {
 	"name": "Textarea Pro",
-	"version": "1.0",
-	"release_date": "2021-12-30",
+	"version": "2.0",
+	"release_date": "2022-01-21",
 	"license": "MIT",
 	"price_usd": "1",
 	"download_url": "https://clickwork.gumroad.com/l/textarea-pro",
@@ -9,9 +9,13 @@
 	"information_url": "",
 	"description": "The plugin Textarea allows to show text in the sidebar, at the top or at the end of pages using HTML code.",
 	"features": {
+		[0]: "Select a color for the title.",
+		[1]: "Use the editor TinyMCE, that comes with Bludit, for text editing."
 	},
 	"description_de": "Das Plugin Textarea erlaubt es, in der Seitenleiste, am Anfang oder am Ende von Seiten mit HTML-Code strukturierte Inhalte anzuzeigen",
 	"features_de": {
+		[0]: "Wähle eine Farbe für den Titel.",
+		[1]: "Verwende den Editor TinyMCE, der mit Bludit kommt, für die Textbearbeitung."
 	},
 	"author_username": "clickwork"
 }
