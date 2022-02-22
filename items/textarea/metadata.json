@@ -4,7 +4,7 @@
 	"release_date": "2021-12-28",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://clickwork.gumroad.com/l/textarea",
+	"download_url": "https://github.com/clickwork-git/textarea/releases/download/v2.3/textarea-2.3.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/textarea",
 	"description": "The plugin Textarea allows to show text in the sidebar using HTML code.",
