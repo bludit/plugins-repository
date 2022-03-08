@@ -1,0 +1,35 @@
+{
+  "name": "HTML Sidebar",
+  "version": "1.0.0",
+  "author_username": "tim-moritz",
+  "release_date": "2022-03-08",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://github.com/gaincoder/html-sidebar/archive/refs/tags/1.0.0.zip",
+  "demo_url": "",
+  "information_url": "https://github.com/gaincoder/html-sidebar",
+  "description": "Add custom HTML content to a sidebar panel",
+  "features": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_de": "Eigenes HTML in ein Sidebar-Panel einfügen",
+  "features_de": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_es": "",
+  "features_es": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_ru": "",
+  "features_ru": {
+    "0": "",
+    "1": "",
+    "2": ""
+  }
+}
