@@ -5,9 +5,9 @@
 	"release_date": "2019-05-06",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/pytesNET/snicker/archive/0.1.2.zip",
+	"download_url": "https://github.com/bludit-plugins/snicker/releases/download/v0.1.2/snicker-0.1.2.zip",
 	"demo_url": "",
-	"information_url": "https://codeblu.dev/plugins/snicker",
+	"information_url": "https://github.com/bludit-plugins/snicker",
 	
 	"description": "A native, AJAX-enabled FlatFile Comment system for bludit, including a comment subscription and completely compliant with the GDPR!",
 	"features":{
