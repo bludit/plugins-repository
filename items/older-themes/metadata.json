@@ -11,19 +11,13 @@
   "description": "Get older themes running in Bludit >= 4.0",
   "features": {
   },
-  "description_de": "Bringt ältere Themes in Bludit >= 4.0 zum laufenas",
+  "description_de": "Bringt ältere Themes in Bludit >= 4.0 zum laufenas.",
   "features_de": {
   },
   "description_es": "",
   "features_es": {
-    "0": "",
-    "1": "",
-    "2": ""
   },
-  "description_ru": "",
+  "description_ru": "Позволяет запускать и использовать старые темы в Bludit версии 4.0 и выше.",
   "features_ru": {
-    "0": "",
-    "1": "",
-    "2": ""
   }
 }
