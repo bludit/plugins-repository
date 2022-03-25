@@ -10,18 +10,26 @@
 	"information_url": "https://github.com/TheBuzzDee/InfoStripe",
 	"description": "InfoStripe adds a fully responsive CSS-Ribbon in a corner of your bludit-website.",
 	"features": {
-		"0": "Set color of ribbon",
-		"1": "Set color of font",
-		"2": "Set size of font",
-		"3": "Set text which is on your ribbon",
+		"0": "Set color of ribbon.",
+		"1": "Set color of font.",
+		"2": "Set size of font.",
+		"3": "Set text which is on your ribbon.",
 		"4": "Choose if your ribbon is displayed on the left or right upper corner of your website."
 	},
 	"description_de": "Das Plugin InfoStripe ermöglicht es, ein voll-responsives CSS-Ribbon in einer Ecke Ihrer Bludit-Webseite zu platzieren.",
 	"features_de": {
-		"0": "Farbe des Ribbons festlegen ",
-		"1": "Farbe des Textes festlegen",
-		"2": "Schriftgröße festlegen",
-		"3": "Text des Ribbons festlegen",
+		"0": "Farbe des Ribbons festlegen.",
+		"1": "Farbe des Textes festlegen.",
+		"2": "Schriftgröße festlegen.",
+		"3": "Text des Ribbons festlegen.",
 		"4": "Auswahl ob das Ribbon auf der Webseite links oben oder rechts oben angezeigt wird."
+	},
+	"description_ru": "Info Stripe добавляет полностью адаптивную CSS-Ленту в углу Вашего сайта Bludit.",
+	"features_ru": {
+		"0": "Можно устанавливать цвет ленты.",
+		"1": "Можно устанавливать цвет текста.",
+		"2": "Можно устанавливать размер текста.",
+		"3": "Можно редактировать текст ленты.",
+		"4": "Выберите, будет ли лента отображаться в левом или правом верхнем углу Вашего сайта."
 	}
 }
