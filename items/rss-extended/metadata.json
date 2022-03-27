@@ -10,15 +10,15 @@
   "information_url": "https://github.com/gaincoder/rss-extended",
   "description": "Creates multiple RSS feeds, optional with read-more link.",
   "features": {
-    "0": "short and long version of the RSS feed for all contents",
-    "1": "short and long RSS feed for every category",
-    "2": "drop-in-replacement for the original plugin by bludit"
+    "0": "Short and long version of the RSS feed for all contents.",
+    "1": "Short and long RSS feed for every category.",
+    "2": "Drop-in-replacement for the original plugin by Bludit."
   },
-  "description_de": "Erstellt mehrere RSS Feeds, optional mit weiterlesen-Link",
+  "description_de": "Erstellt mehrere RSS Feeds, optional mit weiterlesen-Link.",
   "features_de": {
-    "0": "kurze und lange Version des RSS Feeds für alle Inhalte",
-    "1": "kurze und lange RSS Feeds für jede Kategorie",
-    "2": "drop-in-replacement für das original Plugin von bludit"
+    "0": "Kurze und lange Version des RSS Feeds für alle Inhalte.",
+    "1": "Kurze und lange RSS Feeds für jede Kategorie.",
+    "2": "Drop-in-replacement für das original Plugin von Bludit."
   },
   "description_es": "",
   "features_es": {
@@ -26,10 +26,10 @@
     "1": "",
     "2": ""
   },
-  "description_ru": "",
+  "description_ru": "Создает несколько RSS-лент, также добавляет ссылки для дальнейшего чтения (настраивается дополнительно).",
   "features_ru": {
-    "0": "",
-    "1": "",
-    "2": ""
+    "0": "Короткая и длинная версии RSS-ленты для всего содержимого.",
+    "1": "Короткая и длинная RSS-лента для каждой категории.",
+    "2": "Удобная замена оригинального плагина Bludit на этот."
   }
 }
