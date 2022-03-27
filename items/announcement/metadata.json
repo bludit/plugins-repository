@@ -10,15 +10,15 @@
   "information_url": "https://github.com/gaincoder/announcement",
   "description": "Shows an announcement banner on the top of each page.",
   "features": {
-    "0": "set html content",
-    "1": "set start and end date/time",
-    "2": "set border color and width"
+    "0": "Set HTML content.",
+    "1": "Set start and end date/time.",
+    "2": "Set border color and width."
   },
   "description_de": "Zeigt einen Ankündigungs-Banner oberhalb jeder Seite.",
   "features_de": {
-    "0": "HTML Inhtalt setzen",
-    "1": "Start- und Endzeitpunkt festlegen",
-    "2": "Rahmenfarbe und -breite festlegen"
+    "0": "HTML Inhtalt setzen.",
+    "1": "Start- und Endzeitpunkt festlegen.",
+    "2": "Rahmenfarbe und -breite festlegen."
   },
   "description_es": "",
   "features_es": {
@@ -26,10 +26,10 @@
     "1": "",
     "2": ""
   },
-  "description_ru": "",
+  "description_ru": "Показывает баннер с объявлением в верхней части каждой страницы сайта.",
   "features_ru": {
-    "0": "",
-    "1": "",
-    "2": ""
+    "0": "Содержимое баннера может включать HTML.",
+    "1": "Присутствует установка даты начала и даты окончания для отображения баннера",
+    "2": "Присутствует настройка цвета и ширины рамки (границы) баннера."
   }
 }
