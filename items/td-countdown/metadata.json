@@ -8,13 +8,13 @@
 	"download_url": "https://github.com/tompidev/td-countdown/releases",
 	"demo_url": "http://demo.tompidev.com/td-countdown-test-page",
 	"information_url": "https://tompidev.com/td-countdown",
-	"description": "The TD Countdown plugin is a Countdown plugin with custom date and time setting, header text and HTML formatted message display",
+	"description": "The TD Countdown plugin is a Countdown plugin with custom date and time setting, header text and HTML formatted message display.",
 	"features": {
-		"0": "Display the countdown before, after, or both of the content",
-		"1": "Custom HTML formatted message text",
-		"2": "Date and Time settings",
-		"3": "Display countdown on sidebar",
-		"4": "Display only on sidebar",
+		"0": "Display the countdown before, after, or both of the content.",
+		"1": "Custom HTML formatted message text.",
+		"2": "Date and Time settings.",
+		"3": "Display countdown on sidebar.",
+		"4": "Display only on sidebar.",
 		"5": "Display only on selected page or on all pages..."
 	},
 	"description_de": "_DESCRIPTION_GERMAN_",
@@ -29,10 +29,13 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"description_ru": "Плагин обратного отсчёта с пользовательской настройкой даты и времени, текстом заголовка и отображением сообщений с поддержкой HTML.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Отображение плашки обратного отсчёта до содержимого страниц, после содержимого страниц, либо до и после.",
+		"1": "Пользовательский текст сообщения в формате HTML.",
+		"2": "Настройки даты и времени.",
+		"3": "Возможность отображения обратного отсчёта в боковой панели.",
+		"4": "Возможность отображения в боковой панели.",
+		"5": "Возможность отображения только на выбранной странице или на всех страницах..."
 	}
 }
