@@ -19,5 +19,11 @@
 		"1": "Die Kategorien können mit oder ohne Anzahl der Inhalte einer Kategorie ausgegeben werden.",
 		"2": "Die Kategorien ohne Inhalte können ausgegeben werden oder nicht."
 	},
+	"description_ru": "Плагин показывает категории на боковой панели с различными опциями.",
+	"features_ru": {
+		"0": "Категории могут быть показаны в произвольном порядке.",
+		"1": "Категории могут отображаться с указанием количества содержимого или без этого указания.",
+		"2": "Категории без содержимого могут быть показаны или скрыты."
+	},
 	"author_username": "clickwork"
 }
