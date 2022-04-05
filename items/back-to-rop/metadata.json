@@ -1,0 +1,23 @@
+{
+	"name": "Back to Top+",
+	"version": "0.5",
+	"release_date": "2022-04-05",
+	"license": "MIT",
+	"price_usd": "1",
+	"download_url": "https://github.com/clickwork-git/back-to-top/releases/download/v0.5/back-to-top-0.5.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/clickwork-git/back-to-top",
+	"description": "The plugin Back to Top dds a button to return to the top of the page.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Button, um an den Seitenanfang zurückzukehren",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+,
+	"author_username": "clickwork"
+}
