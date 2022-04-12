@@ -4,10 +4,10 @@
 	"author_username": "sambrishes",
 	"release_date": "2021-02-01",
 	"license": "MIT",
-	"price_usd": "3+",
-	"download_url": "https://gum.co/mediaplus",
+	"price_usd": "",
+	"download_url": "https://github.com/bludit-plugins/media-plus/releases/download/v0.2.1/media-plus-0.2.1.zips",
 	"demo_url": "",
-	"information_url": "https://codeblu.dev/plugins/media",
+	"information_url": "https://github.com/bludit-plugins/media-plus",
 	"description": "The even more advanced, PHP 7.2.0 written Media & File content manager for the Bludit CMS. It allows you to easily re-use your files with support for Images, Videos, Audios and PDF Files.",
 	"features": {
 		"0": "Requires PHP 7.2.0 — Please check your PHP Version first!",
