@@ -1,0 +1,36 @@
+{
+  "name": "Tags At Page End",
+  "version": "1.0.0",
+  "author_username": "tim-moritz",
+  "release_date": "2022-04-13",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://github.com/gaincoder/tags-at-page-end/archive/refs/tags/v1.0.0.zip",
+  "download_url_v4": "https://github.com/gaincoder/tags-at-page-end/archive/refs/tags/v1.0.0.zip",
+  "demo_url": "",
+  "information_url": "https://github.com/gaincoder/tags-at-page-end",
+  "description": "Shows List of assigned Tags at the end of every page.",
+  "features": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_de": "Zeigt eine Liste zugeordneter Tags unter jeder Seite.",
+  "features_de": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_es": "",
+  "features_es": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_ru": "",
+  "features_ru": {
+    "0": "",
+    "1": "",
+    "2": ""
+  }
+}
