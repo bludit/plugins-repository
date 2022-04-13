@@ -1,27 +1,28 @@
 {
     "name": "Sitemap Table Generator",
-    "version": "1.3",
+    "version": "1.5",
     "author_username": "mrresc",
-    "release_date": "2022-03-05",
+    "release_date": "2022-04-11",
     "license": "MIT",
     "price_usd": "0",
-    "download_url": "https://github.com/MrReSc/sitemap-table-generator/archive/refs/tags/1.3.zip",
+    "download_url": "https://github.com/MrReSc/sitemap-table-generator/archive/refs/tags/1.5.zip",
+    "download_url_v4": "https://github.com/MrReSc/sitemap-table-generator/archive/refs/tags/1.5.zip",
     "demo_url": "https://gnulinux.ch/artikelindex",
     "information_url": "https://github.com/MrReSc/sitemap-table-generator",
-    "description": "A Bludit plugin that generates a sortable and searchable table from the overview (json from the API) of all blogposts.",    
+    "description": "A Bludit plugin that generates a sortable and searchable table of all blogposts.",
     "features": {
-        "0": "This is not a plug and play extension. A pages.json file must be created on the server otherwise the extension will not work."
+        "0": ""
     },
-    "description_de": "Ein Bludit-Plugin, das aus der Übersicht (json aus der API) aller Blogposts eine sortierbare und durchsuchbare Tabelle erzeugt.",
+    "description_de": "Ein Bludit-Plugin, das eine sortierbare und durchsuchbare Tabelle aller Blogposts erzeugt.",
     "features_de": {
-        "0": "Dies ist keine Plug-and-Play-Erweiterung. Es muss eine pages.json Datei auf dem Server erstellt werden, sonst funktioniert die Erweiterung nicht."
+        "0": ""
     },
     "description_es": "Un plugin de Bludit que genera una tabla ordenable y buscable a partir del resumen (json de la API) de todos los blogposts.",
     "features_es": {
-        "0": "Esta no es una extensión plug and play. Debe crearse un archivo pages.json en el servidor, de lo contrario la extensión no funcionará."
+        "0": ""
     },
     "description_ru": "Генерирует сортируемую и доступную для систем поиска таблицу на основе информации (json из API) всех записей.",
     "features_ru": {
-        "0": "Плагин не заработает сам по себе после установки и активации. Файл pages.json должен быть создан на сервере, иначе плагин не будет работать."
+        "0": ""
     }
 }
