@@ -4,10 +4,9 @@
 	"release_date": "2018-10-23",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/anaggh/private-mode/archive/v3.2.zip",
-	"download_url_v2": "https://github.com/anaggh/private-mode/archive/v2.3.zip",
+	"download_url": "https://github.com/bludit-plugins/private-mode/releases/download/v3.2/private-mode-3.2.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/anaggh/private-mode",
+	"information_url": "https://github.com/bludit-plugins/private-mode",
 	"description": "Enable private mode and be redirected to the authentication page for viewing the site.",
 	"features": {
 		"0":"Enable/Disable private mode.",
