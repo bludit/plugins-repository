@@ -1,0 +1,35 @@
+{
+  "name": "Tag Selection",
+  "version": "1.0.0",
+  "author_username": "tim-moritz",
+  "release_date": "2022-04-21",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://github.com/gaincoder/tag-selection/archive/refs/tags/1.0.0.zip",
+  "demo_url": "",
+  "information_url": "https://github.com/gaincoder/tag-selection",
+  "description": "Replace the comma-separated tag input with a selectable tag list",
+  "features": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_de": "Ersetzt die komma-separierte Liste der Tags mit einer Tag Auswahl",
+  "features_de": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_es": "",
+  "features_es": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_ru": "",
+  "features_ru": {
+    "0": "",
+    "1": "",
+    "2": ""
+  }
+}
