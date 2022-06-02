@@ -1,0 +1,23 @@
+{
+	"name": "Easy_ContactForm",
+	"version": "1.0",
+	"release_date": "2022-06-02",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/easy-contactform-bludit/raw/main/easy-contactform.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/easy-contactform-bludit",
+	"description": "Easy contact form is contact form with tinymce support, you can change text, required input with captcha included.",
+	"features": {
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
