@@ -13,8 +13,14 @@
 		"1": "",
 		"2": ""
 	},
-	"description_de": "Button, um an den Seitenanfang zurückzukehren",
+	"description_de": "Button, um an den Seitenanfang zurückzukehren.",
 	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "Плагин Back to Top добавляет кнопку для возврата в начало страницы (наверх).",
+	"features_ru": {
 		"0": "",
 		"1": "",
 		"2": ""

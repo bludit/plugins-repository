@@ -7,7 +7,7 @@
 	"download_url": "https://github.com/multicolor-rgb/bootrap-toolbar/raw/2.0/bootstrap-toolbar2.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/bootrap-toolbar/tree/main",
-	"description": "bootrap-toolbar for tinyMCE (with grid buttons, and css implementation)",
+	"description": "This is bootrap-toolbar for tinyMCE (with grid buttons, and CSS implementation).",
 	"features": {
 	},
 	"description_de": "",
@@ -16,7 +16,7 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Это bootrap-панель инструментов для TinyMCE редактора (с кнопками сетки и реализацией на CSS).",
 	"features_ru": {
 	},
 	"author_username": "multicolor"
