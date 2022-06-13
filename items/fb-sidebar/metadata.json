@@ -7,7 +7,7 @@
 	"download_url": "https://github.com/multicolor-rgb/facebook-sidebar-bluditcms/raw/main/fb-sidebar.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/facebook-sidebar-bluditcms",
-	"description": "This plugin add nice facebook sidebar to your website",
+	"description": "This plugin add nice Facebook sidebar to your website.",
 	"features": {
 	},
 	"description_de": "",
@@ -16,7 +16,7 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "А этот плагин добавит красивую боковую панель Facebook на ваш сайт.",
 	"features_ru": {
 	},
 	"author_username": "multicolor"
