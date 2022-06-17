@@ -1,0 +1,23 @@
+{
+	"name": "Carousel Creator",
+	"version": "1.0",
+	"release_date": "2022-06-17",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/carousel-creator-bludit/raw/main/carousel-creator.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/carousel-creator-bludit/",
+	"description": "This plugin can create carousel with settings on your template",
+	"features": {
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
