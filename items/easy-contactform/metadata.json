@@ -9,10 +9,6 @@
 	"information_url": "https://github.com/multicolor-rgb/easy-contactform-bludit",
 	"description": "Easy contact form is contact form with TinyMCE support, you can change text, required input with captcha included.",
 	"features": {
-		"0":"Added captcha option:",
-		"1":"Google recaptcha v2 (i am not a robot)",
-		"2":"Default recaptcha included on plugin",
-
 	},
 	"description_de": "",
 	"features_de": {
