@@ -1,0 +1,25 @@
+{
+	"name": "Preloader Creator",
+	"version": "1.0",
+	"release_date": "2022-06-24",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/preloader-creator-for-bluditcms/raw/main/preloader-creator.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/preloader-creator-for-bluditcms",
+	"description": "This plugin create preolader for your website",
+	"features": {
+		"0":"12 types of preloader",
+		"1":"Easy to use"
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
