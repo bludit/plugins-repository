@@ -1,10 +1,10 @@
 {
 	"name": "NewGalleryFolder",
-	"version": "1.0",
-	"release_date": "2022-05-27",
+	"version": "2.0",
+	"release_date": "2022-06-26",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/newgalleryfolder-for-bluditcms/raw/main/newgalleryfolder.zip",
+	"download_url": "https://github.com/multicolor-rgb/newgalleryfolder-for-bluditcms/raw/2.0/newgalleryfolder20.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/newgalleryfolder-for-bluditcms",
 	"description": "This plugin create gallery automatic from your upload for every page what you want.",
