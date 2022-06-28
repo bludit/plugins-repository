@@ -26,11 +26,11 @@
 		"1":"",
 		"2":""
 	},
-	"description_es": "Add advertising on your site with Ads4U.",
+	"description_es": "Agregue publicidad en su sitio con Ads4U.",
 	"features_es": {
-		"0":"",
-		"1":"",
-		"2":""		
+		"0":"Obligatorio: el tema implementa la función pageEnd.",
+		"1":"Habilitar/Deshabilitar en páginas publicadas/estáticas.",
+		"2":"En el campo de código pegue sus anuncios. Permite HTML y JS."		
 	},
 	"description_ru": "Добавьте рекламу на свой сайт с помощью Ads4U.",
 	"features_ru": {
