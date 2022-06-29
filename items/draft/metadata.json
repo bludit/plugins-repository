@@ -15,6 +15,13 @@
 		"2": "Adds the additional 'Save' button back on drafts.",
 		"3": "Adds the additional 'Save as draft' button back on published pages."
 	},
+	"description_es": "Agrega una función de vista previa para borradores y publicaciones guardadas automáticamente para Bludit anterior a v3.9.0.",
+	"features_es": {
+		"0": "Obtenga una vista previa de los borradores y las páginas guardadas automáticamente antes de publicarlas.",
+		"1": "(Auto-) Guarda el contenido, al hacer clic en el botón 'Vista previa'.",
+		"2": "Agrega el botón adicional 'Guardar' nuevamente en los borradores.",
+		"3": "Agrega el botón adicional 'Guardar como borrador' en las páginas publicadas."
+	},
 	"description_de": "Eine Vorschau-Funktion für Entwürfe und automatisch-gespeicherte Seiten für Bludit vor Version 3.9.0.",
 	"features_de": {
 		"0": "Vorschau von Entwürfen und automatisch gespeicherten Seiten.",

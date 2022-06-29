@@ -20,10 +20,10 @@
 		"1": "SEO optimiert: Das Banner wird Suchmaschinen-Bots nicht angezeigt.",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Cookies Banner muestra un banner que permite al usuario aceptar o rechazar cookies de aplicaciones de seguimiento como Google Analytics o Matomo.",
 	"features_es": {
-		"0": "",
-		"1": "",
+		"0": "Cumple con el RGPD.",
+		"1": "Optimizado para SEO: el banner no se muestra si el visitante es un robot de motor de búsqueda.",
 		"2": ""
 	},
 	"description_ru": "Отображает баннер, который позволяет пользователю принимать или отклонять файлы cookie из приложений отслеживания, таких как Google Analytics или Matomo.",

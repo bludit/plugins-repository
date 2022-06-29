@@ -19,10 +19,10 @@
 		"1": "Die Referenzen haben ein Link zurück zum Text.",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "El complemento Footnotes permite agregar notas al pie de una manera fácil a un texto. Se puede utilizar como extensión del editor EasyMDE.",
 	"features_es": {
-		"0": "",
-		"1": "",
+		"0": "No es necesario numerar las notas a pie de página.",
+		"1": "Las referencias tienen un enlace para volver a la posición de lectura anterior.",
 		"2": ""
 	},
 	"description_ru": "Плагин позволяет легко добавлять примечания к тексту. Нет необходимости в нумерации сносок.",

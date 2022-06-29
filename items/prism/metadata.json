@@ -19,7 +19,7 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Prism agrega el CSS necesario a los temas para resaltar el código si el editor TinyMCE usa el complemento Codesample.",
 	"features_es": {
 		"0": "",
 		"1": "",

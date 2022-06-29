@@ -16,6 +16,14 @@
 		"3": "Set text which is on your ribbon.",
 		"4": "Choose if your ribbon is displayed on the left or right upper corner of your website."
 	},
+	"description_es": "InfoStripe agrega una cinta o banner totalmente responsiva o adaptable en una esquina de su sitio web bludit.",
+	"features_es": {
+		"0": "Establecer el color de la cinta.",
+		"1": "Establecer el color de la fuente tipográfica.",
+		"2": "Establecer el tamaño de la fuente tipográfica.",
+		"3": "Establezca el texto que se mostrará en su cinta.",
+		"4": "Elija si su cinta se muestra en la esquina superior izquierda o derecha de su sitio web."
+	},
 	"description_de": "Das Plugin InfoStripe ermöglicht es, ein voll-responsives CSS-Ribbon in einer Ecke Ihrer Bludit-Webseite zu platzieren.",
 	"features_de": {
 		"0": "Farbe des Ribbons festlegen.",

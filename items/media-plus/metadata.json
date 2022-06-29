@@ -16,6 +16,14 @@
 		"3": "Favourite your folders and files, so you will never lose them again.",
 		"4": "One-Time Payment: Pay once and get all future updates!"
 	},
+	"description_es": "El administrador de contenido multimedia y de archivos escrito en PHP 7.2.0, aún más avanzado, para Bludit CMS. Le permite reutilizar fácilmente sus archivos con soporte para imágenes, videos, audios y archivos PDF.",
+	"features_es": {
+		"0": "Requiere PHP 7.2.0: ¡compruebe primero su versión de PHP!",
+		"1": "Todas las funciones y características del complemento multimedia gratuito.",
+		"2": "Busque en sus carpetas de carga y encuentre sus archivos rápidamente.",
+		"3": "Marca tus carpetas y archivos como favoritos, para que nunca los vuelvas a perder.",
+		"4": "Pago único: ¡Pague una vez y obtenga todas las actualizaciones futuras!"
+	},
 	"description_de": "Ein noch mehr erweiterter, PHP 7.2.0 geschriebener Medien & Dateimanager für das Bludit CMS. Es erlaubt die einfache Wiedernutzung deiner Dateien, mit Unterstützung für Bilder, Videos, Audios und PDF Dateien.",
 	"features_de": {
 		"0": "Erfordert PHP 7.2.0 — Bitte prüfe vorerst deine PHP Version!",
