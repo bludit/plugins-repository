@@ -1,0 +1,23 @@
+{
+	"name": "Popup Plugin",
+	"version": "1.0",
+	"release_date": "2022-06-29",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/popupplugin-for-bluditcms/raw/main/popup-plugin.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/popupplugin-for-bluditcms/",
+	"description": "This plugin add popup to your website.",
+	"features": {
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
