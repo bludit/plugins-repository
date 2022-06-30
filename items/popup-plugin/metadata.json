@@ -7,10 +7,10 @@
 	"download_url": "https://github.com/multicolor-rgb/popupplugin-for-bluditcms/raw/main/popup-plugin.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/popupplugin-for-bluditcms/",
-	"description": "This plugin add popup to your website.",
+	"description": "This plugin allows to add a popup to your website.",
 	"features": {
 	},
-	"description_de": "",
+	"description_de": "Das Plugin erlaubt es, ein Popup zur Website hinzuzufügen.",
 	"features_de": {
 	},
 	"description_es": "Este complemento agrega una ventana emergente a su sitio web.",
