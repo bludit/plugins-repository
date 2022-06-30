@@ -22,11 +22,11 @@
 		"2": ""
 	},
 	
-	"description_es": "",
+	"description_es": "Habilite la barra de depuración y eche un vistazo a los componentes internos de Bludit.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Verifica los archivos incluidos en el servidor en cada solicitud.",
+		"1": "Comprueba el uso de RAM.",
+		"2": "Comprueba el tiempo necesario para renderizar."
 	},
 
 	"description_ru": "Позволяет включить панель отладки и заглянуть во внутреннее устройство Bludit.",

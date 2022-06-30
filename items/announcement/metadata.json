@@ -20,11 +20,11 @@
     "1": "Start- und Endzeitpunkt festlegen.",
     "2": "Rahmenfarbe und -breite festlegen."
   },
-  "description_es": "",
+  "description_es": "Muestra un banner de anuncio en la parte superior de cada página.",
   "features_es": {
-    "0": "",
-    "1": "",
-    "2": ""
+    "0": "Establezca contenido en HTML.",
+    "1": "Establezca la fecha/hora de inicio y finalización.",
+    "2": "Establezca el color y el ancho del borde."
   },
   "description_ru": "Показывает баннер с объявлением в верхней части каждой страницы сайта.",
   "features_ru": {

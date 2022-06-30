@@ -20,10 +20,10 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Lightbox y galería basados en el lightbox script de Lokesh Dhakar. Consulte la explicación en el archivo README.md en el directorio de complementos.",
 	"features_es": {
-		"0": "",
-		"1": "",
+		"0": "Agregue un atributo de data-lightbox a cualquier enlace de imagen para habilitar Lightbox. Para el valor del atributo, use un nombre único para cada imagen.",
+		"1": "Si tiene un grupo de imágenes relacionadas que le gustaría combinar en un conjunto, use el mismo valor de atributo de data-lightbox para todas las imágenes.",
 		"2": ""
 	},
 	"description_ru": "Лайтбокс и галерея на основе скрипта лайтбокса Локеша Дакара. Для подробного объяснения работы плагина смотрите файл README.md в каталоге плагина.",

@@ -11,14 +11,16 @@
 	"features": {
 		"0": "Now compatible with tinyMCE",
 		"1": "Added 2 arrows styles",
-		"2": "Fixed some bugs"
-		
+		"2": "Fixed some bugs"		
 	},
 	"description_de": "",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "Este complemento puede crear carrusel con configuraciones en su plantilla",
 	"features_es": {
+		"0": "Ahora compatible con tinyMCE",
+		"1": "Se agregaron 2 estilos de flechas.",
+		"2": "Se corrigieron algunos errores"
 	},
 	"description_ru": "",
 	"features_ru": {

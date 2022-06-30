@@ -23,11 +23,14 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "FontAwesome Helper es un complemento de Bludit que puede ayudar a los desarrolladores a revisar e insertar íconos rápidamente en el código HTML.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Más de 650 iconos del archivo lineawesome.css de Bludit.",
+		"1": "Iconos en los que se puede hacer clic en una ventana modal.",
+		"2": "Una función \"copiar con un clic\" que le ayudará a copiar el código del icono con formato HTML en el portapapeles.",
+		"3": "Cuadro de búsqueda para encontrar iconos.",
+		"4": "Selector de tamaño de icono.",
+		"5": "Interfaz de usuario multilingüe."
 	},
 	"description_ru": "Плагин для Bludit, который может помочь разработчикам быстро просматривать и вставлять значки из набора FontAwesome в исходный HTML-код.",
 	"features_ru": {

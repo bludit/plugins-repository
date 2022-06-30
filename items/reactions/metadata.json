@@ -16,6 +16,14 @@
 		"2": "Active Bot-Rating Protection rules.",
 		"3": "AJAX-enabled rating & many options to configure the Reactions panel."
 	},
+
+	"description_es": "¡Permita que sus lectores reaccionen a su increíble contenido usando un botón Me gusta (y opcionalmente también un botón No me gusta), 3 o 5 estrellas o uno de los cinco Emojis seleccionables libremente!",
+	"features_es":{
+		"0": "Tres modos de calificación diferentes: Me gusta / No me gusta, 3 / 5 estrellas o 5 emojis.",
+		"1": "Ocho formas de inyectar el panel Reacciones en su plantilla.",
+		"2": "Reglas activas de protección contra clasificación por bots.",
+		"3": "Clasificación habilitada mediante llamadas AJAX y muchas opciones para configurar el panel de Reacciones."
+	},
 	
 	"description_de": "Lasse deine Leser deine großartigen Inhalte mit einem Like (optional auch einem Dislike) -Button, 3 / 5 Sternen oder einem von fünf frei wählbaren Emojies bewerten!",
 	"features_de":{

@@ -14,8 +14,9 @@
 	"description_de": "Plugin zur Bereitstellung von Dateien für den Download.",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "Complemento para proporcionar contenido descargable al usuario.",
 	"features_es": {
+		"0": "Este complemento busca el siguiente patrón en el contenido de sus páginas y lo reemplaza con un enlace en el que se puede hacer clic: <code>DOC{&lt;FILENAME&gt;;&lt;NAME&gt;;&lt;DESCRIPTION&gt;}</code>"
 	},
 	"description_ru": "Позволяет делать ссылки для загружаемого контента, чтобы пользователи могли скачивать файлы кликая по этим ссылкам на страницах сайта.",
 	"features_ru": {

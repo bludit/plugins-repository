@@ -20,11 +20,11 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Un complemento que agrega fuentes Atom y RSS a sitios web con tecnología Bludit.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Feed Copyright: configurable a través del menú del complemento.",
+		"1": "Feed Generator: configurable a través del menú del complemento",
+		"2": "Feed Item Limit: configurable a través del menú del complemento."
 	},
 	"description_ru": "Добавляет Atom и RSS-каналы на сайт с Bludit.",
 	"features_ru": {

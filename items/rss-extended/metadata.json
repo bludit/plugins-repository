@@ -20,11 +20,11 @@
     "1": "Kurze und lange RSS Feeds für jede Kategorie.",
     "2": "Drop-in-replacement für das original Plugin von Bludit."
   },
-  "description_es": "",
+  "description_es": "Crea múltiples fuentes RSS, con enlace para leer más opcional.",
   "features_es": {
-    "0": "",
-    "1": "",
-    "2": ""
+    "0": "Versión corta y larga del feed RSS de todos los contenidos.",
+    "1": "Feed RSS corto y largo para cada categoría.",
+    "2": "Reemplazo directo del complemento original de Bludit."
   },
   "description_ru": "Создает несколько RSS-лент, также добавляет ссылки для дальнейшего чтения (настраивается дополнительно).",
   "features_ru": {

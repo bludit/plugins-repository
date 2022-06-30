@@ -28,9 +28,9 @@
 	},
 	"description_es": "Genere la metaetiqueta para validar su sitio con Yandex Webmasters Tools y el código JavaScript para rastrear con Yandex.Metrika.",
 	"features_es": {
-		"0":"",
-		"1":"",
-		"2":""		
+		"0":"Counter ID: escriba su ID para habilitar el seguimiento por Yandex.Metrica.",
+		"1":"Index Webmaster: configura el código generado en tu cuenta para verificar que eres el propietario del sitio. Esto está confirmado por la etiqueta meta.",
+		"2":"Requerido: su tema activo necesita la función de llamado 'siteBodyEnd' implementado."		
 	},
 	"description_ru": "Генерирует метатег для проверки Вашего сайта с помощью инструментов Yandex Webmasters и JavaScript кода для отслеживания с помощью Яндекс.Метрики.",
 	"features_ru": {

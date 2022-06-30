@@ -14,6 +14,12 @@
 		"1": "Contact form with customizable template.",
 		"2": "Messages are sent to Telegram bots."
 	},
+	"description_es": "Agregue un formulario de contacto a Bludit, enviará un mensaje a su bot de Telegram.",
+	"features_es": {
+		"0": "Agrega formulario de contacto en una página estática.",
+		"1": "Formulario de contacto con plantilla personalizable.",
+		"2": "Los mensajes se envían a los bots de Telegram."
+	},
 	"description_de": "Kontaktformular für Bludit, Senden einer Nachricht an den Telegram-Bot.",
 	"features_de": {
 		"0": "Kontaktformular bei einer statischen Seite integrieren.",

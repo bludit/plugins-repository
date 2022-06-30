@@ -12,6 +12,12 @@
 		"1": "Configurable comment position.",
 		"2": "Configurable target category in the forums for new comment discussions."
 	},
+	"description_es": "Utilice los comentarios incrustados de Vanilla Forum.",
+	"features_es": {
+		"0": "Activación/desactivación condicional de comentarios por página.",
+		"1": "Posición de comentario configurable.",
+		"2": "Categoría de destino configurable en los foros para nuevo comentario de discusiones."
+	},
 	"description_de": "Verwende Vanilla Forum zum Einbetten von Kommentaren.",
 	"features_de": {
 		"0": "(De)aktiviere Kommentare bei Bedarf auf einzelnen Seiten.",

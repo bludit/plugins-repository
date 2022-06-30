@@ -16,8 +16,11 @@
 	"description_de": "",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "El formulario de contacto fácil es un formulario de contacto con soporte de TinyMCE, puede cambiar el texto, la entrada requerida con captcha incluido.",
 	"features_es": {
+		"0":"Opción de captcha agregada:",
+		"1":"Google recaptcha v2 (no soy un robot)",
+		"2":"Recaptcha predeterminado incluido en el complemento"
 	},
 	"description_ru": "Плагинчик простой контактной формы с поддержкой TinyMCE, вы можете изменить текст формы, обязательные поля ввода включают в себя даже капчу.",
 	"features_ru": {

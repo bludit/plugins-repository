@@ -12,6 +12,11 @@
 		"0": "Select a color for the title.",
 		"1": "Use the editor TinyMCE, that comes with Bludit, for text editing."
 	},
+	"description_es": "El complemento Textarea Pro permite mostrar texto en la barra lateral, en la parte superior o al final de las páginas usando código HTML.",
+	"features_es": {
+		"0": "Seleccione un color para el título.",
+		"1": "Utiliza el editor TinyMCE, que viene con Bludit, para la edición de texto."
+	},
 	"description_de": "Das Plugin Textarea Pro erlaubt es, in der Seitenleiste, am Anfang oder am Ende von Seiten mit HTML-Code strukturierte Inhalte anzuzeigen.",
 	"features_de": {
 		"0": "Wähle eine Farbe für den Titel.",

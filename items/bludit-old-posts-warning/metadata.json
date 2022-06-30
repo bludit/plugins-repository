@@ -16,8 +16,10 @@
 	"description_de": "",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "Los complementos muestran una notificación antes o después de su publicación, indicando que la publicación podría estar desactualizada.",
 	"features_es": {
+		"0": "Mostrando una notificación.",
+		"1": "Cambie el mensaje y la plantilla."
 	},
 	"description_ru": "Плагины показывают уведомление до или после вашей записи, указывая на то, что запись может быть устаревшей.",
 	"features_ru": {

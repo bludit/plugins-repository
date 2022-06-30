@@ -15,8 +15,10 @@
 	"description_de": "",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "Este complemento crea precarga para su sitio web",
 	"features_es": {
+		"0":"12 tipos de precargas",
+		"1":"Fácil de usar"
 	},
 	"description_ru": "",
 	"features_ru": {

@@ -20,7 +20,7 @@
 		"7": "ability to change color on some admin bar items",
 		"8": "hide or show BDA menu item on admin bar",
 		"9": "plugin update notification system",
-		"9": "admin theme changing/reverting tool"
+		"10": "admin theme changing/reverting tool"
 	},
 	"description_de": "",
 	"features_de": {
@@ -28,11 +28,19 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Complemento del tema Booty Dark Admin. Este complemento le brinda la oportunidad de cambiar algunas partes del tema de administración Booty Dark. Para usar este complemento, primero debe instalar el tema de administración Booty Dark.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Barra lateral fija y coloreada",
+		"1": "La apariencia de los elementos del menú de la barra lateral",
+		"2": "Mostrar el área principal a la derecha en un panel",
+		"3": "Algunos elementos del menú convertidos en iconos",
+		"4": "Ocultar o mostrar insignias de cantidad de artículos",
+		"5": "Ocultar o mostrar el texto del pie de página en todas las páginas de administración",
+		"6": "Mostrar iconos de controles personalizados fijos en la parte superior o inferior de la barra de administración",
+		"7": "Posibilidad de cambiar el color en algunos elementos de la barra de administración",
+		"8": "Ocultar o mostrar el elemento del menú BDA en la barra de administración",
+		"9": "Sistema de notificación de actualización de complementos",
+		"10": "Herramienta de cambio/reversión de tema de administración"
 	},
 	"description_ru": "Плагин для темы Booty Dark Admin даёт Вам возможность изменить некоторые части темы Booty Dark Admin. Чтобы использовать этот плагин, Вам необходимо сначала установить Booty Dark Admin Theme.",
 	"features_ru": {

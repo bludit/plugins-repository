@@ -21,11 +21,12 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Soporte AMP para sus páginas web para acelerar el sitio, obtener más tráfico móvil y posiciones altas en los motores de búsqueda.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Agrega automáticamente la etiqueta <code>amphtml</code>.",
+		"1": "El tema HTML permite el zoom de imágenes con un clic.",
+		"2": "El soporte completo para el estándar AMP. Se puede verificar con la herramienta de validación de AMP de Google.",
+		"3": "Seleccione el contenido para el que se deben deshabilitar las páginas de AMP. (Su contenido -> Opciones -> Personalizado)"
 	},	
 	"description_ru": "Добавьте полную поддержку AMP стандарта для страниц вашего сайта, чтобы ускорить загрузку и работу сайта, получить высокую долю трафика с мобильных устройств и более высокие позиции в поисковых выдачах.",
 	"features_ru": {

@@ -13,6 +13,12 @@
 		"1": "Display a logo.",
 		"2": "Change the color of header and footer."
 	},
+	"description_es": "¡Configura el encabezado y el pie de página de los temas Alternative y Blog X como quieras!",
+	"features_es": {
+		"0": "Mostrar encabezado fijo o no.",
+		"1": "Mostrar un logotipo.",
+		"2": "Cambiar el color del encabezado y pie de página."
+	},
 	"description_de": "Das Plugin erlaubt es, die Navigationsleiste derThemes Alternative und Blog X fixiert oder nicht und ein Logo zu zeigen.",
 	"features_de": {
 		"0": "Fixiere die Kopfleiste oder nicht.",

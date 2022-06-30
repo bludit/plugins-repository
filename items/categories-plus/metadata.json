@@ -13,6 +13,12 @@
 		"1": "The categories can be shown with or without the number of contents.",
 		"2": "The categories without content can be shown or not."
 	},
+	"description_es": "El complemento muestra categorías en la barra lateral con diferentes opciones.",
+	"features_es": {
+		"0": "Las categorías se pueden mostrar en orden personalizado.",
+		"1": "Las categorías se pueden mostrar con o sin el número de contenidos.",
+		"2": "Las categorías sin contenido se pueden mostrar o no."
+	},
 	"description_de": "Das Plugin zeigt Kategorien in der Seitenleiste mit verschiedenen Optionen.",
 	"features_de": {
 		"0": "Die Kategorien können in beliebiger Reihenfolge ausgegeben werden.",

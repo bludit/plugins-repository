@@ -21,11 +21,12 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "_DESCRIPTION_SPANISH_",
+	"description_es": "Tracking Master es un rastreador de análisis web de múltiples proveedores. Puede configurar para usar solo uno o todos los proveedores de análisis web al mismo tiempo.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Multiproveedor como Google Analytics, Clicky e Histats.",
+		"1": "Usando todos los rastreadores al mismo tiempo.",
+		"2": "Código de seguimiento asíncrono y No-Javascript (como lo está seleccionando).",
+		"3": "Sistema integrado de actualización de complemento."
 	},
 	"description_ru": "Трекеры веб-аналитики от нескольких провайдеров. Вы можете настроить и использовать только одного или всех поставщиков веб-аналитики одновременно.",
 	"features_ru": {

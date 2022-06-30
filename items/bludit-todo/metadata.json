@@ -16,6 +16,14 @@
 		"3": "Delete a ToDo.",
 		"4": "Delete the ToDo-List."
 	},
+	"description_es": "Cree una lista de tareas pendientes en el área de administración. Todas las tareas pendientes se guardan en LocalStorage.",
+	"features_es": {
+		"0": "Agregue tareas a su lista de tareas pendientes.",
+		"1": "Complete su tarea cuando la tarea haya terminado.",
+		"2": "Restaurar una tarea.",
+		"3": "Eliminar una tarea pendiente.",
+		"4": "Eliminar la lista de tareas pendientes."
+	},
 	"description_de": "Erstellen Sie im Admin-Bereich eine einfache ToDo-Liste. Die ToDos werden im LocalStorage gespeichert.",
 	"features_de": {
 		"0": "Ein ToDo zu deiner ToDo-Liste hinzufügen.",

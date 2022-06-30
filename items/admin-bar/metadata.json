@@ -14,7 +14,7 @@
 	"description_de": "Zeigt eine Werkzeugleiste, mit der ein Administrator über das Frontend Inhalte erstellen und bearbeiten kann.",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "Muestra la barra de herramientas del administrador cuando el administrador ha iniciado sesión. Permite crear y editar contenido mientras navega por el sitio.",
 	"features_es": {
 	},
 	"description_ru": "Отображает панель инструментов администратора при входе в систему. Вы можете редактировать записи, а также создавать их во время просмотра сайта.",

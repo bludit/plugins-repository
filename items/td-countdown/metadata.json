@@ -23,11 +23,14 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "_DESCRIPTION_SPANISH_",
+	"description_es": "El complemento TD Countdown es un complemento de cuenta regresiva con configuración personalizada de fecha y hora, texto de encabezado y visualización de mensajes con formato HTML.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Muestra la cuenta regresiva antes, después o ambos del contenido.",
+		"1": "Texto de mensaje con formato HTML personalizado.",
+		"2": "Configuración de fecha y hora.",
+		"3": "Muestra la cuenta regresiva en la barra lateral.",
+		"4": "Mostrar solo en la barra lateral.",
+		"5": "Mostrar solo en la página seleccionada o en todas las páginas..."
 	},
 	"description_ru": "Плагин обратного отсчёта с пользовательской настройкой даты и времени, текстом заголовка и отображением сообщений с поддержкой HTML.",
 	"features_ru": {

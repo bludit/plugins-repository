@@ -1,0 +1,39 @@
+{
+	"name": "Hero Banner",
+	"version": "1.1.0",
+	"author_username": "kraiosis",
+	"release_date": "2022-06-28",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/kraiosis/hero-banner/releases",
+	"demo_url": "",
+	"information_url": "https://github.com/kraiosis/hero-banner",
+	"description": "Hero Banner allows to display a fully customizable pattern Hero Banner on your **Bludit CMS** Home Page.",
+	"features": {
+		"0": "Customizable heading and description paragraph",
+		"1": "Customizable Call to Action button text",
+		"2": "Customizable text color",
+		"3": "Customizable Hero area background color"
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	},
+	"description_es": "Hero Banner permite mostrar un banner de portada totalmente personalizable en su página de inicio de **Bludit CMS**.",
+	"features_es": {
+		"0": "Encabezado y párrafo de descripción personalizables.",
+		"1": "Texto del botón de llamada a la acción personalizable.",
+		"2": "Color de texto personalizable.",
+		"3": "Color de fondo personalizable."
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	}
+}
