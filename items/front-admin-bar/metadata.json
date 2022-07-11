@@ -1,0 +1,25 @@
+{
+	"name": "Front Admin Bar",
+	"version": "1.0",
+	"release_date": "2022-07-11",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/front-admin-bar/raw/main/front-admin-bar.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/front-admin-bar",
+	"description": "This plugin add edit bar on frontend when your logged",
+	"features": {
+    "0":"Panel color bar settings",
+		"1":"Panel position (top or bottom) settings"
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
