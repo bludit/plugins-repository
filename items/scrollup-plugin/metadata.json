@@ -1,0 +1,26 @@
+{
+	"name": "scrollUp plugin",
+	"version": "1.0",
+	"release_date": "2022-07-11",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/scrollUp-plugin-bluditcms/raw/main/scrollup-plugin.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/scrollUp-plugin-bluditcms/",
+	"description": "This plugin add ScrollUp button to your website",
+	"features": {
+    "0":"scrollup size settings",
+		"1":"9 type icons settings",
+    "2":"Invert color icon, background, border, show on mobile settings"
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
