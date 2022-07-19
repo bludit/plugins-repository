@@ -1,0 +1,28 @@
+{
+	"name": "Views Counter",
+	"version": "1.0",
+	"release_date": "2022-07-19",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/views-counter-for-bludit-cms/raw/main/views-counter.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/views-counter-for-bludit-cms/",
+	"description": "Shows views counter on website",
+	"features": {
+		"0":"Start count number settings",
+		"1":"Font color settings",
+		"2":"Font size settings",	
+		"3":"Background color settings",
+ 
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
