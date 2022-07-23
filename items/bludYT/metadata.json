@@ -1,16 +1,17 @@
 {
 	"name": "BludYT",
-	"version": "1.0",
-	"release_date": "2022-07-22",
+	"version": "2.0",
+	"release_date": "2022-07-23",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/bludYT/raw/main/bludYT.zip",
+	"download_url": "https://github.com/multicolor-rgb/bludYT/raw/main/bludYT20.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/bludYT/",
 	"description": "This add youtube video on your website with shortcode",
 	"features": {
     "0":"Shortcode support",
-		"1":"Width/height settings"
+		"1":"Width/height settings",
+		"2":"2.0 - Fixed conflict with newGalleryFolder plugins"
 	},
 	"description_de": "",
 	"features_de": {
