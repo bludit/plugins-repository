@@ -1,10 +1,10 @@
 {
 	"name": "NewGalleryFolder",
-	"version": "5.0",
-	"release_date": "2022-07-22",
+	"version": "5.0.1",
+	"release_date": "2022-07-23",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/newgalleryfolder-for-bluditcms/raw/main/newgalleryfolder-v5.zip",
+	"download_url": "https://github.com/multicolor-rgb/newgalleryfolder-for-bluditcms/raw/main/newgalleryfolder-v501.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/newgalleryfolder-for-bluditcms",
 	"description": "This plugin create gallery automatic from your upload for every page what you want.",
@@ -16,7 +16,7 @@
 		"4":"Thumbnails generates from Thumbnails folder from BLUDIT",
 		"5":"Possibility to add a gallery via tinyMCE",
 		"6":"Added hover effects options",
-		"7":"Fixed problem with thumbnails on IOS (bad url-dot problem)",
+		"7":"Fixed problem with thumbnails on IOS (bad url-dot problem) v 5.0.1",
 		"8":"added options thumbnails generate (original thumbnails from bludit, or generated from plugin)"
 	},
 	"description_de": "",
