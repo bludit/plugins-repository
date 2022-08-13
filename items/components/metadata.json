@@ -1,0 +1,26 @@
+{
+	"name": "Components",
+	"version": "1.0",
+	"release_date": "2022-08-13",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/components-plugin-for-bludit/raw/main/components10.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/components-plugin-for-bludit/",
+	"description": "This plugin create components support for you website",
+	"features": {
+    "0":"Easy to use (great for sidebar, footer and every place what do you want edit on your template)",
+		"1":"Wysywig support (ckeditor)",
+		"2":"Save edit/delete options"
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
