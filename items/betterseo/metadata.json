@@ -9,11 +9,11 @@
 	"information_url": "https://github.com/multicolor-rgb/BetterSEO-for-bludit/",
 	"description": "This plugin create better header function for SEO.",
 	"features": {
-    "0":"GeoLocation Settings",
+    		"0":"GeoLocation Settings",
 		"1":"Facebook Open Graph protocol (with auto settings)",
 		"2":"Dublin Core Metadata",
-		"3":"Favicons generate meta - icons need to be included in a folder named 'fav' within your themes dir. (check help)"
-    "4":"Easy to use!"
+		"3":"Favicons generate meta - icons need to be included in a folder named 'fav' within your themes dir. (check help)",
+    		"4":"Easy to use!"
 	},
 	"description_de": "",
 	"features_de": {
