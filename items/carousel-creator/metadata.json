@@ -9,14 +9,10 @@
 	"information_url": "https://github.com/multicolor-rgb/carousel-creator-bludit/",
 	"description": "This plugin can create carousel with settings on your template",
 	"features": {
-		"0": "Compatible with CKEditor",
-		"1": "Added 2 arrows styles",
-		"2": "Fixed some bugs",
-		"3": "sortable options",
-		"4": "better tab view",
-		"5": "thumbnails & title for slide",
-		"6": "new filebrowser",
-		"7": "emoji on admin panel"
+		"0": "Compatible with TinyMCE",
+		"1": "2 arrows styles",
+		"2": "sortable options",
+		"3": "easy filebrowser & uploader"
 	},
 	"description_de": "",
 	"features_de": {
