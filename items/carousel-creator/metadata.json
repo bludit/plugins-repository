@@ -1,17 +1,18 @@
 {
 	"name": "Carousel Creator",
-	"version": "2.0",
-	"release_date": "2022-06-21",
+	"version": "3.0",
+	"release_date": "2022-09-05",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/carousel-creator-bludit/raw/2.0/carousel-creator.zip",
+	"download_url": "https://github.com/multicolor-rgb/carousel-creator-bludit/raw/3.0/carousel-creator3.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/carousel-creator-bludit/",
 	"description": "This plugin can create carousel with settings on your template",
 	"features": {
-		"0": "Now compatible with tinyMCE",
-		"1": "Added 2 arrows styles",
-		"2": "Fixed some bugs"		
+		"0": "Compatible with TinyMCE",
+		"1": "2 arrows styles",
+		"2": "sortable options",
+		"3": "easy filebrowser & uploader"
 	},
 	"description_de": "",
 	"features_de": {
