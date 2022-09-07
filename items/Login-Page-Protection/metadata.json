@@ -28,7 +28,7 @@
 	},
 	"description_ru": "Whitelist ip's and add a captcha to the login page",
 	"features_ru": {
-			"0": "The best way to secure your admin panel",
+		"0": "The best way to secure your admin panel",
 		"1": "Simple settings, easy to setup.",
 		"2": "Add hCaptcha to the login form"
 	}
