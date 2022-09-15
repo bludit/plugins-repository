@@ -1,0 +1,28 @@
+{
+	"name": "MultiBlock",
+	"version": "1.0",
+	"release_date": "2022-09-15",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/multiBlock-for-bludit/raw/main/multiBlock.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/multiBlock-for-bludit/",
+	"description": "With this plugin you can create every block with custom fields what you want.",
+	"features": {
+		"0": "Custom fields for every section",
+		"1": "Section creator",
+		"2": "Custom function",
+		"3": "Template creator",
+    "4": "Image browser input support"
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
