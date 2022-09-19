@@ -12,13 +12,13 @@
 	"features": {
 		"0":"Required: theme implements pageEnd hook.",
 		"1":"Enable/Disable on published/static pages.",
-		"2":"In code field paste your ads / It allows HTML e JS."		
+		"2":"In code field paste your ads. It allows HTML and JS."		
 	},
 	"description_pt": "Adicione publicidade em seu site com Ads4U.",
 	"features_pt": {
 		"0":"Obrigatório: tema deve implementar o gancho pageEnd.",
 		"1":"Ative/desative em páginas publicadas/estáticas.",
-		"2":"No campo de código cole seus anúncios / Permite HTML e JS."
+		"2":"No campo de código cole seus anúncios. Permite HTML e JS."
 	},	
 	"description_de": "Add advertising on your site with Ads4U.",
 	"features_de": {
@@ -34,9 +34,9 @@
 	},
 	"description_ru": "Добавьте рекламу на свой сайт с помощью Ads4U.",
 	"features_ru": {
-		"0":"",
-		"1":"",
-		"2":""		
+		"0":"Обязательно: в теме должен быть использован хук pageEnd.",
+		"1":"Включение/выключение на опубликованных/статических страницах.",
+		"2":"Вставьте в соответствующее поле код своих объявлений. Поле поддерживает и позволяет использовать HTML и JS."	
 	},
 	"author_username": "xm74"
 }
