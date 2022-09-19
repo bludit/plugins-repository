@@ -8,28 +8,24 @@
   "download_url": "https://gitlab.com/bludit-plugins1/mastodon/-/archive/1.0.0/mastodon-1.0.0.zip",
   "demo_url": "",
   "information_url": "https://gitlab.com/bludit-plugins1/mastodon",
-  "description": "Publish new posts on Mastodon",
+  "description": "Publish new posts on Mastodon. Mastodon is free and open-source software for running self-hosted social networking services.",
   "features": {
     "0": "",
-    "1": "",
-    "2": ""
+    "1": ""
   },
-  "description_de": "Neue Inhalte auf Mastodon veröffentlichen",
+  "description_de": "Neue Inhalte auf Mastodon veröffentlichen.",
   "features_de": {
     "0": "",
-    "1": "",
-    "2": ""
+    "1": ""
   },
   "description_es": "",
   "features_es": {
     "0": "",
-    "1": "",
-    "2": ""
+    "1": ""
   },
-  "description_ru": "",
+  "description_ru": "Публикуйте новые посты в Mastodon. Mastodon — свободное программное обеспечение для развёртывания распределённых социальных сетей.",
   "features_ru": {
     "0": "",
-    "1": "",
-    "2": ""
+    "1": ""
   }
 }
