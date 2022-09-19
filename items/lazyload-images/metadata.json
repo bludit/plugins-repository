@@ -7,7 +7,7 @@
 	"download_url": "https://github.com/multicolor-rgb/lazyload-images-for-bludit/raw/main/lazyload-images.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/lazyload-images-for-bludit/",
-	"description": "This plugin add lazyLoading to your images in content",
+	"description": "This plugin add lazyLoading to your images in content.",
 	"features": {
 	},
 	"description_de": "",
@@ -16,7 +16,7 @@
 	"description_es": "Este complemento agrega lazyLoading a sus imágenes en el contenido.",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Этот плагин добавляет отложенную загрузку ваших изображений на страницах с контентом.",
 	"features_ru": {
 	},
 	"author_username": "multicolor"
