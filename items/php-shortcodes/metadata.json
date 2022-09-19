@@ -10,7 +10,7 @@
 	"information_url": "http://aestheticode.net",
 	"description": "Add PHP snippets to your pages easily using your own custom shortcodes.",
 	"features": {
-		"0": "Super useful, run php from any page",
+		"0": "Super useful, run PHP from any page.",
 		"1": "Easy to use, only activate the plugin.",
 		"2": "Compatible with Bludit v3+."
 	},
@@ -22,14 +22,14 @@
 	},
 	"description_es": "Agregue fragmentos de PHP a sus páginas fácilmente utilizando sus propios códigos cortos personalizados.",
 	"features_es": {
-		"0": "Súper útil, ejecuta php desde cualquier página",
+		"0": "Súper útil, ejecuta PHP desde cualquier página.",
 		"1": "Fácil de usar, solo active el complemento.",
-		"2": "Compatible con Bludit v3 +"
+		"2": "Compatible con Bludit v3+"
 	},
-	"description_ru": "С легкостью добавляйте фрагменты PHP на свои страницы, используя собственные короткие коды.",
+	"description_ru": "С лёгкостью добавляйте фрагменты PHP-кода на свои страницы, используя собственные шорткоды.",
 	"features_ru": {
-		"0": "Супер полезно, запускайте php с любой страницы",
-		"1": "Простота использования, активируйте только плагин.",
-		"2": "Совместимость с Bludit v3 +"
+		"0": "Супер полезно, запускайте PHP-код с любой страницы.",
+		"1": "Прост в использовании, только активируйте плагин и уже можно работать.",
+		"2": "Совместим с Bludit v3+"
 	}
 }
