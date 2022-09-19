@@ -7,12 +7,12 @@
 	"download_url": "https://github.com/multicolor-rgb/infopop-for-bludit/raw/main/infopop.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/infopop-for-bludit",
-	"description": "This plugin add info for users yours website.",
+	"description": "This plugin add info for users on your website.",
 	"features": {
-    "0":"Width and height settings",
-		"1":"Position settings",
-		"2":"Background and font color settings",
-    "3":"TinyMCE content editor"
+		"0":"Width and height settings.",
+		"1":"Position settings.",
+		"2":"Background and font color settings.",
+		"3":"TinyMCE content editor."
 	},
 	"description_de": "",
 	"features_de": {
@@ -20,8 +20,12 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Этот плагин добавляет информацию для пользователей вашего сайта.",
 	"features_ru": {
+		"0":"Настройки ширины и высоты.",
+		"1":"Настройки положения.",
+		"2":"Настройки цвета фона и цвета шрифта.",
+		"3":"Редактировать содержимое можно с помощью TinyMCE."
 	},
 	"author_username": "multicolor"
 }
