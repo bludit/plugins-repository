@@ -9,11 +9,11 @@
 	"information_url": "https://github.com/multicolor-rgb/multiBlock-for-bludit/",
 	"description": "With this plugin you can create every block with custom fields what you want.",
 	"features": {
-		"0": "Custom fields for every section",
-		"1": "Section creator",
-		"2": "Custom function",
-		"3": "Template creator",
-    "4": "Image browser input support"
+		"0": "Custom fields for every section.",
+		"1": "Section creator.",
+		"2": "Custom function.",
+		"3": "Template creator.",
+		"4": "Image browser input support."
 	},
 	"description_de": "",
 	"features_de": {
@@ -21,8 +21,13 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "С помощью этого плагина вы можете создавать блоки с такими пользовательскими полями, какие вы хотите.",
 	"features_ru": {
+		"0": "Настраиваемые поля для каждого раздела/секции.",
+		"1": "Создание разделов/секций.",
+		"2": "Пользовательские функции.",
+		"3": "Создание шаблонов.",
+		"4": "Поддержка вставки из браузера изображений."
 	},
 	"author_username": "multicolor"
 }
