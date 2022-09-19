@@ -7,24 +7,28 @@
 	"download_url": "https://github.com/multicolor-rgb/carousel-creator-bludit/raw/3.0/carousel-creator3.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/carousel-creator-bludit/",
-	"description": "This plugin can create carousel with settings on your template",
+	"description": "This plugin can create carousel with settings on your template.",
 	"features": {
-		"0": "Compatible with TinyMCE",
-		"1": "2 arrows styles",
-		"2": "sortable options",
-		"3": "easy filebrowser & uploader"
+		"0": "Compatible with TinyMCE.",
+		"1": "2 arrows styles.",
+		"2": "Sortable options.",
+		"3": "Easy filebrowser & uploader."
 	},
 	"description_de": "",
 	"features_de": {
 	},
-	"description_es": "Este complemento puede crear carrusel con configuraciones en su plantilla",
+	"description_es": "Este complemento puede crear carrusel con configuraciones en su plantilla.",
 	"features_es": {
-		"0": "Ahora compatible con tinyMCE",
+		"0": "Ahora compatible con tinyMCE.",
 		"1": "Se agregaron 2 estilos de flechas.",
-		"2": "Se corrigieron algunos errores"
+		"2": "Se corrigieron algunos errores."
 	},
-	"description_ru": "",
+	"description_ru": "Этот плагин может создать карусель изображений с настройками в вашем шаблоне.",
 	"features_ru": {
+		"0": "Совместим с TinyMCE.",
+		"1": "Два вида стрелочек.",
+		"2": "Сортируемые параметры.",
+		"3": "Простой файловый браузер и загрузчик изображений."
 	},
 	"author_username": "multicolor"
 }
