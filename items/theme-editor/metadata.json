@@ -9,9 +9,9 @@
 	"information_url": "https://github.com/multicolor-rgb/Theme-Editor/",
 	"description": "This plugin gives edit theme code from admin panel.",
 	"features": {
-    		"0":"CodeMirror included",
-		"1":"Easy to use with theme activated",
-		"2":"Compatible with all themes"
+    		"0":"CodeMirror included.",
+		"1":"Easy to use with theme activated.",
+		"2":"Compatible with all themes."
 	},
 	"description_de": "",
 	"features_de": {
@@ -19,8 +19,11 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Этот плагин позволяет редактировать код темы из панели администратора.",
 	"features_ru": {
+		"0":"В состав плагина включён CodeMirror.",
+		"1":"Прост в использовании с активированной темой.",
+		"2":"Совместим со всеми темами из официального каталога Bludit."
 	},
 	"author_username": "multicolor"
 }
