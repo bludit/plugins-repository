@@ -10,7 +10,7 @@
 	"description": "Upload Plugins and Themes direct from Bludit CMS",
 	"features": {
 		"0": "Upload themes .zip from CMS",
-		"1": "Upload plugins .zip from CMS",
+		"1": "Upload plugins .zip from CMS"
 
 	},
 	"description_de": "",
