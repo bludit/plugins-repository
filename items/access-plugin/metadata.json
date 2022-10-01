@@ -1,0 +1,26 @@
+{
+	"name": "Access Plugin",
+	"version": "1.0",
+	"release_date": "2022-10-01",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/access-plugin-for-bludit/raw/main/access-plugin.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/access-plugin-for-bludit/",
+	"description": "Create information for acceptation to your website",
+	"features": {
+		"0": "Settings for text color and background",
+		"1": "Tinymce included for change content and title",
+		"2": "Settings for disable/enable after next view website"
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
