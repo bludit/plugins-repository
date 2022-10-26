@@ -1,0 +1,39 @@
+{
+	"name": "Hosting Space Detector",
+	"version": "1.0",
+	"author_username": "multicolor",
+	"release_date": "2022-10-26",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/hosting-space-detector-bludit/archive/refs/heads/main.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/hosting-space-detector-bludit/",
+	"description": "this plugin send info to admin when website uses too much size",
+	"features": {
+		"0": "Custom size info",
+		"1": "Easy to use",
+		"2": "Automatic mail when customer use too much space on hosting",
+		"3": ""
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	}
+}
