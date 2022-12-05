@@ -1,23 +1,35 @@
 {
 	"name": "G3Nshop",
-	"version": "v1.1",
+	"version": "v2",
 	"author_username": "g3n_es",
-	"release_date": "2019-02-09",
+	"release_date": "2022-12-05",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/G3N-es/G3nshop-for-Bludit/releases",
 	"demo_url": "",
-	"information_url": "https://github.com/G3N-es/G3nshop-for-Bludit",
-	"description": "It is an elegant web software solution so you can create your own online store. This software is OpenSource and FreeSoftware. It works as plugin of Bludit CMS, adding the necessary functionalities so that you can sell online.",
+	"information_url": "https://github.com/G3N-es/G3nshop-for-Bludit/",
+	"description": "It is an elegant web software solution for you to create your own store and sell On-Line.",
 	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
 	},
-	"description_de": "G3Nshop ist eine elegante Web-Software-Lösung, damit Sie Ihren eigenen Online-Shop erstellen können. Diese Software ist OpenSource und FreeSoftware. Sie arbeitet als Plugin von Bludit CMS und fügt die notwendigen Funktionalitäten hinzu, damit Sie online verkaufen können.",
+	"description_de": "G3Nshop ist eine elegante Web-Software-Lösung, damit Sie Ihren eigenen Online-Shop erstellen können.",
 	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
 	},
-	"description_es": "Es una elegante solución de software web para que puedas crear tu propia tienda On-Line. Funciona como pluguin de Bludit CMS, añadiendo las funcionalidades necesarias para que puedas vender on-line.",
+	"description_es": "Es una elegante solución de software web para que puedas crear tu propia tienda y vender On-Line.",
 	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
 	},
-	"description_ru": "Элегантный плагин, позволяющий создать собственный интернет-магазин. Имеет открытый исходный код и распространяется свободно. Работает как плагин Bludit CMS, добавляя необходимые функции, чтобы Вы могли продавать онлайн.",
+	"description_ru": "Это элегантное программное решение, позволяющее создать собственный интернет-магазин.",
 	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
 	}
 }
