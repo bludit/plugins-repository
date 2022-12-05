@@ -1,0 +1,36 @@
+{
+	"name": "Cookies Banner",
+	"version": "1.0",
+	"release_date": "2020-10-06",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url_v2": "",
+	"download_url": "https://github.com/clickwork-git/cookies-banner/releases/download/v1.0/cookies-banner.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/clickwork-git/cookies-banner",
+	"description": "Cookies Banner displays a banner which allows user to accept or reject cookies from tracking applications like Google Analytics or Matomo.",
+	"features": {
+		"0": "Compliant with GDPR.",
+		"1": "Optimized for SEO: the banner is not displayed if the visitor is a search engine bot.",
+		"2": ""
+	},
+	"description_de": "Cookies Banner blendet ein Banner ein, das es dem Besucher erlaubt, Cookies von Tracking-Anwendungen wie Google Analaytics oder Matomo zu akzeptieren oder abzulehnen.",
+	"features_de": {
+		"0": "Entspricht den Anforderungen der DSGVO.",
+		"1": "SEO optimiert: Das Banner wird Suchmaschinen-Bots nicht angezeigt.",
+		"2": ""
+	},
+	"description_es": "Cookies Banner muestra un banner que permite al usuario aceptar o rechazar cookies de aplicaciones de seguimiento como Google Analytics o Matomo.",
+	"features_es": {
+		"0": "Cumple con el RGPD.",
+		"1": "Optimizado para SEO: el banner no se muestra si el visitante es un robot de motor de búsqueda.",
+		"2": ""
+	},
+	"description_ru": "Отображает баннер, который позволяет пользователю принимать или отклонять файлы cookie из приложений отслеживания, таких как Google Analytics или Matomo.",
+	"features_ru": {
+		"0": "Соответствует правилам GDPR.",
+		"1": "Оптимизирован для SEO: баннер не отображается, если посетитель сайта - бот поисковой системы.",
+		"2": ""
+	},
+	"author_username": "clickwork"
+}

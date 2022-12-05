@@ -1,0 +1,39 @@
+{
+	"name": "AMPER",
+	"version": "1.0.1",
+	"release_date": "2020-07-19",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/Tykov/AMPER/archive/master.zip",
+	"download_url_v2": "",
+	"demo_url": "",
+	"information_url": "https://github.com/Tykov/AMPER",
+	"description": "AMP support for your webpages to speed up the site, get more mobile traffic and high positions in search engines.",
+	"features": {
+		"0": "Automatically adds the <code>amphtml</code> tag.",
+		"1": "HTML theme supports zooming images with a click.",
+		"2": "Full support for the AMP standard, can be checked with the AMP validation tool from Google.",
+		"3": "Select the content for which AMP pages should be disabled. (Your Content -> Options -> Custom)"
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "Soporte AMP para sus páginas web para acelerar el sitio, obtener más tráfico móvil y posiciones altas en los motores de búsqueda.",
+	"features_es": {
+		"0": "Agrega automáticamente la etiqueta <code>amphtml</code>.",
+		"1": "El tema HTML permite el zoom de imágenes con un clic.",
+		"2": "El soporte completo para el estándar AMP. Se puede verificar con la herramienta de validación de AMP de Google.",
+		"3": "Seleccione el contenido para el que se deben deshabilitar las páginas de AMP. (Su contenido -> Opciones -> Personalizado)"
+	},	
+	"description_ru": "Добавьте полную поддержку AMP стандарта для страниц вашего сайта, чтобы ускорить загрузку и работу сайта, получить высокую долю трафика с мобильных устройств и более высокие позиции в поисковых выдачах.",
+	"features_ru": {
+		"0": "Автоматически добавляет тег <code>amphtml</code> в шапку Вашего сайта.",
+		"1": "Поддерживает увеличение изображений касанием.",
+		"2": "Полная поддержка AMP стандарта, проверить можно через инструмент для валидации AMP страниц от Google.",
+		"3": "Выборочное отключение AMP для отдельных страниц. (Ваша контент -> Настройки -> Дополнительно)"
+	},
+	"author_username": "constantine"
+}

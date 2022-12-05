@@ -1,0 +1,51 @@
+{
+	"name": "Private Mode NG",
+	"version": "1.0.1",
+	"author_username": "jlandt",
+	"release_date": "2022-08-03",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/JuergenLandt/bludit-private-mode-ng/archive/refs/tags/v1.0.1.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/JuergenLandt/bludit-private-mode-ng",
+	"description": "Private mode for the entire website or articles in a selected category.",
+	"features": {
+		"0": "Enable/disable private mode.",
+		"1": "Setting a text for the modal message pop-up window.",
+		"2": "URL for redirection (admin area or page with call-to-action button).",
+		"3": "Private mode for the complete website (on/off).",
+		"4": "Private mode for the selected category (if the mode for the website is set to 'off').",
+		"5": "Linking in sidebar on/off (with status display).",
+		"6": "Languages: de + en + ru."
+	},
+	"description_de": "Privater Modus für die gesamte Website oder Artikel einer ausgewählten Kategorie.",
+	"features_de": {
+		"0": "Privatmodus aktivieren/deaktivieren.",
+		"1": "Einstellen eines Textes für das Pop-up-Fenster.",
+		"2": "URL für Weiterleitung (Adminbereich oder Seite mit Call-To-Action Button).",
+		"3": "Privater Modus für die gesamte Website (ein/aus).",
+		"4": "Privater Modus für die ausgewählte Kategorie (wenn der Modus für die Website auf 'off' eingestellt ist).",
+		"5": "Verlinkung in der Sidebar ein/aus (mit Statusanzeige).",
+		"6": "Sprachen: de + en + ru."
+	},
+	"description_es": "Modo privado para todo el sitio web o los artículos de una categoría seleccionada.",
+	"features_es": {
+		"0": "Activar/desactivar el modo privado.",
+		"1": "Establecer un texto para la ventana emergente de mensajes modales.",
+		"2": "URL de redirección (área de administración o página con botón de llamada a la acción).",
+		"3": "Modo privado para todo el sitio web (activado/desactivado).",
+		"4": "Modo privado para la categoría seleccionada (si el modo para el sitio web está configurado en 'off').",
+		"5": "Activación/desactivación de los enlaces en la barra lateral (con visualización del estado).",
+		"6": "Idiomas: de + en + ru."
+	},
+	"description_ru": "Добавляет приватный режим для всего сайта или статей в выбранной категории.",
+	"features_ru": {
+		"0": "Можно включить/выключить приватный режим.",
+		"1": "Установка текста для всплывающего окна модального сообщения.",
+		"2": "Можно указать URL для перенаправления (область администратора или страница с кнопкой призыва к действию).",
+		"3": "Приватный режим для всего веб-сайта (вкл/выкл).",
+		"4": "Приватный режим для выбранной категории (если режим для всего сайта установлен на 'выключено').",
+		"5": "Включение/выключение ссылок в боковой панели (с отображением состояния).",
+		"6": "Языки: de + en + ru."
+	}
+}

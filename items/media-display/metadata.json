@@ -1,0 +1,23 @@
+{
+	"name": "Media Display",
+	"version": "1.0",
+	"release_date": "2019-08-09",
+	"license": "MIT",
+	"price_usd": "-1",
+	"download_url": "https://gumroad.com/l/mediadisplay",
+	"demo_url": "",
+	"information_url": "https://gumroad.com/l/mediadisplay",
+	"description": "One click media embedding of content of YouTube and Soundcloud.",
+	"features": {
+	},
+	"description_de": "Einbettung von Inhalten wie YouTube und Soundcloud.",
+	"features_de": {
+	},
+	"description_es": "Permite insertar con un clic de contenido embedido de YouTube y Soundcloud.",
+	"features_es": {
+	},
+	"description_ru": "Добавляет встраиваемые видео с YouTube и Soundcloud в один клик.",
+	"features_ru": {
+	},
+	"author_username": "cajzer"
+}

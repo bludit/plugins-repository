@@ -1,0 +1,26 @@
+{
+	"name": "TinyMCEfileman",
+	"version": "0.0.1",
+	"author_username": "mirivlad",
+	"release_date": "2020-01-07",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/mirivlad/bludit/tree/master/bl-plugins/tinymcefileman.zip",
+	"demo_url": "https://mirv.top",
+	"information_url": "https://github.com/mirivlad/bludit/tree/master/bl-plugins/tinymcefileman/README.md",
+	"description": "The plugin implements TinyMCE editor for formatting content with a built-in file manager RESPONSIVE filemanager.",
+	"features": {
+		"0": "TinyMCE editor 5 version.",
+		"1": "RESPONSIVE filemanager 9.14.0."
+	},
+	"description_ru": "Добавляет HTML-редактор для написания и форматирования контента со встроенным файловым менеджером RESPONSIVE filemanager.",
+	"features_ru": {
+		"0": "Включает в себя редактор TinyMCE версии 5.",
+		"1": "Включает в себя RESPONSIVE filemanager версии 9.14.0."
+	},
+	"description_es": "El complemento implementa el editor TinyMCE para formatear el contenido con un administrador de archivos integrado 'RESPONSIVE' filemanager.",
+	"features_es": {
+		"0": "Versión 5 del editor TinyMCE.",
+		"1": "RESPONSIVE filemanager 9.14.0."
+	}
+}

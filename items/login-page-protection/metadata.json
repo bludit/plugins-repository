@@ -1,0 +1,35 @@
+{
+	"name": "Login Page Protection",
+	"version": "1.1.0",
+	"author_username": "dinodabs",
+	"release_date": "2022-09-07",
+	"license": "MIT",
+	"price_usd": "4",
+	"download_url": "https://payhip.com/b/ig5TH",
+	"demo_url": "https://imgur.com/a/vxQ3nUf",
+	"information_url": "https://payhip.com/b/ig5TH",
+	"description": "Whitelist ip's and add a captcha to the login page.",
+	"features": {
+		"0": "The best way to secure your admin panel.",
+		"1": "Simple settings, easy to setup.",
+		"2": "Add hCaptcha to the login form."
+	},
+	"description_de": "IPs auf die Whitelist setzen und der Anmeldeseite ein Captcha hinzufügen.",
+	"features_de": {
+		"0": "Der beste Weg, um Ihr Admin-Panel zu sichern.",
+		"1": "Einfache Einstellungen, einfach einzurichten.",
+		"2": "Fügen Sie hCaptcha zur Anmeldeseite hinzu."
+	},
+	"description_es": "Whitelist ip's and add a captcha to the login page.",
+	"features_es": {
+		"0": "The best way to secure your admin panel.",
+		"1": "Simple settings, easy to setup.",
+		"2": "Add hCaptcha to the login form."
+	},
+	"description_ru": "Внесите IP-адреса в белый список и добавьте капчу на страницу входа в систему.",
+	"features_ru": {
+		"0": "Лучший способ обезопасить вашу панель управления (администратора).",
+		"1": "Прост в настройке, простота установки.",
+		"2": "Добавьте капчу в форму входа."
+	}
+}

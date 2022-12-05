@@ -1,0 +1,43 @@
+{
+	"name": "ToDo",
+	"version": "0.3",
+	"author_username": "thebuzzdee",
+	"release_date": "2021-08-25",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/TheBuzzDee/bludit-todo",
+	"demo_url": "",
+	"information_url": "https://github.com/TheBuzzDee/bludit-todo",
+	"description": "Create a simple ToDo-List in the Admin area. All ToDos are saved to LocalStorage.",
+	"features": {
+		"0": "Add ToDo to your ToDo-List.",
+		"1": "Complete your ToDo when task is done.",
+		"2": "Restore a task.",
+		"3": "Delete a ToDo.",
+		"4": "Delete the ToDo-List."
+	},
+	"description_es": "Cree una lista de tareas pendientes en el área de administración. Todas las tareas pendientes se guardan en LocalStorage.",
+	"features_es": {
+		"0": "Agregue tareas a su lista de tareas pendientes.",
+		"1": "Complete su tarea cuando la tarea haya terminado.",
+		"2": "Restaurar una tarea.",
+		"3": "Eliminar una tarea pendiente.",
+		"4": "Eliminar la lista de tareas pendientes."
+	},
+	"description_de": "Erstellen Sie im Admin-Bereich eine einfache ToDo-Liste. Die ToDos werden im LocalStorage gespeichert.",
+	"features_de": {
+		"0": "Ein ToDo zu deiner ToDo-Liste hinzufügen.",
+		"1": "Ein ToDo fertigstellen, wenn die Aufgabe erledigt ist.",
+		"2": "Ein ToDo wiederherstellen.",
+		"3": "Ein ToDo löschen.",
+		"4": "Die ToDo-Liste löschen."
+	},
+	"description_ru": "Создайте простой список задач (ToDo-лист) в разделе администрирования. Все задачи сохраняются в локальном хранилище.",
+	"features_ru": {
+		"0": "Добавление задач в список.",
+		"1": "Завершение дела в списке, когда задача будет выполнена.",
+		"2": "Восстановление задач из списка.",
+		"3": "Удаление задач из списка.",
+		"4": "Удаление списков задач."
+	}
+}

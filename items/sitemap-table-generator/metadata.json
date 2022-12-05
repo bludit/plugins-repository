@@ -1,0 +1,28 @@
+{
+    "name": "Sitemap Table Generator",
+    "version": "1.5",
+    "author_username": "mrresc",
+    "release_date": "2022-04-11",
+    "license": "MIT",
+    "price_usd": "0",
+    "download_url": "https://github.com/MrReSc/sitemap-table-generator/archive/refs/tags/1.5.zip",
+    "download_url_v4": "https://github.com/MrReSc/sitemap-table-generator/archive/refs/tags/1.5.zip",
+    "demo_url": "https://gnulinux.ch/artikelindex",
+    "information_url": "https://github.com/MrReSc/sitemap-table-generator",
+    "description": "A Bludit plugin that generates a sortable and searchable table of all blogposts.",
+    "features": {
+        "0": ""
+    },
+    "description_de": "Ein Bludit-Plugin, das eine sortierbare und durchsuchbare Tabelle aller Blogposts erzeugt.",
+    "features_de": {
+        "0": ""
+    },
+    "description_es": "Un plugin de Bludit que genera una tabla ordenable y buscable a partir del resumen (json de la API) de todos los blogposts.",
+    "features_es": {
+        "0": ""
+    },
+    "description_ru": "Генерирует сортируемую и доступную для систем поиска таблицу на основе информации (json из API) всех записей.",
+    "features_ru": {
+        "0": ""
+    }
+}

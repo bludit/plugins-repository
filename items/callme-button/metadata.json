@@ -1,0 +1,23 @@
+{
+	"name": "CallMe Button",
+	"version": "1.0",
+	"release_date": "2022-06-08",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/callMe-button-for-bluditcms/raw/main/callme-button.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/callMe-button-for-bluditcms/",
+	"description": "This plugin add call button to your website on mobile phone.",
+	"features": {
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "Este complemento agrega un botón de llamar a su sitio web en el teléfono móvil.",
+	"features_es": {
+	},
+	"description_ru": "Этот плагин добавляет кнопку вызова на ваш сайт при просмотре сайта с телефона.",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}

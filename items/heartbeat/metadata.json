@@ -1,0 +1,31 @@
+{
+	"name": "Heartbeat",
+	"version": "3.12",
+	"author_username": "anaggh",
+	"release_date": "2020-05-26",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/anaggh/heartbeat/archive/3.12.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/anaggh/heartbeat",
+	"description": "Alerts you to take a backup when network loss or session expiry occurs.",
+	"features": {
+		"0": "",
+		"1": ""
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": ""
+	},
+	"description_es": "Le avisa para que realice una copia de seguridad cuando se produce una pérdida de red o el vencimiento de la sesión.",
+	"features_es": {
+		"0": "",
+		"1": ""
+	},
+	"description_ru": "Предупреждает о необходимости создания резервной копии при потере соединения с сетью или при истечении сеанса.",
+	"features_ru": {
+		"0": "",
+		"1": ""
+	}
+}

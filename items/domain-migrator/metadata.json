@@ -1,8 +1,8 @@
 {
 	"name": "Domain Migrator",
-	"version": "1.1",
+	"version": "3.9.2",
 	"author_username": "diego",
-	"release_date": "2019-01-23",
+	"release_date": "2019-06-21",
 	"license": "Bludit PRO",
 	"price_usd": "-1",
 	"download_url": "https://gum.co/domain-migrator",
@@ -13,10 +13,14 @@
 		"0": "Migrate from domain to another.",
 		"1": "Migrate from a domain to a subdomain.",
 		"2": "Migrate from http to https.",
-		"3": "Migrate absolute images links to the new domain."
+		"3": "Migrate absolute documents and images links to the new domain."
 	},
-	"description_de": "",
+	"description_de": "Migrieren Sie Ihre Bludit-Installation auf einen neuen Server mit einer anderen Domain. Migrieren Sie von einer Domain zu einer anderen, migrieren Sie von einer Domain zu einer Subdomain oder migrieren Sie von http nach https.",
 	"features_de": {
+		"0": "Migriere von einer Domain zur anderen.",
+		"1": "Migriere von einer Domain zu einer Subdomain",
+		"2": "Migriere von http nach https.",
+		"3": "Migriere absolute Bildpfade zur neuen Domain."
 	},
 	"description_es": "Migre la instalación de Bludit a un nuevo servidor con un dominio diferente. Migre de un dominio a otro, migre de un dominio a un subdominio o migre de http a https.",
 	"features_es": {
@@ -25,11 +29,11 @@
 		"2": "Soporta migrar de http a https.",
 		"3": "Soporta migrar enalces de imágenes al nuevo dominio."
 	},
-	"description_ru": "Переместите ваш сайт с Bludit на новый сервер с другим доменом. Миграция с одного домена на другой, а также миграция с домена на поддомен или миграция с http на https.",
+	"description_ru": "Переместите Ваш сайт с Bludit на новый сервер с другим доменом. Поддерживается миграция с одного домена на другой, а также миграция с домена на поддомен или миграция с http на https.",
 	"features_ru": {
 		"0": "Миграция с одного домена на другой.",
 		"1": "Миграция с домена на поддомен.",
 		"2": "Переход с http на https.",
-		"3": "Миграция абсолютных ссылок на изображения на новый домен."
+		"3": "Миграция абсолютных ссылок на документы а также медиа-файлы на новый домен."
 	}
 }

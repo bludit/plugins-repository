@@ -1,0 +1,43 @@
+{
+	"name": "FontAwesome Helper",
+	"version": "1.0.7",
+	"author_username": "tompidev",
+	"release_date": "2021-07-09",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/tompidev/fontawesome-helper/releases",
+	"demo_url": "http://demo.tompidev.com/",
+	"information_url": "https://tompidev.com/fontawesome-helper",
+	"description": "FontAwesome Helper is a Bludit plugin which can help for developers quickly review and insert icons into the HTML source.",
+	"features": {
+		"0": "More than 650 icons by the lineawesome.css file of Bludit.",
+		"1": "Clickable icons in a modal window.",
+		"2": "A \"one click copy\" feature which will help you to copy the HTML formatted icon code to the clipboard.",
+		"3": "Search box to find icons.",
+		"4": "Icon size selector.",
+		"5": "Multi-language UI."
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "FontAwesome Helper es un complemento de Bludit que puede ayudar a los desarrolladores a revisar e insertar íconos rápidamente en el código HTML.",
+	"features_es": {
+		"0": "Más de 650 iconos del archivo lineawesome.css de Bludit.",
+		"1": "Iconos en los que se puede hacer clic en una ventana modal.",
+		"2": "Una función \"copiar con un clic\" que le ayudará a copiar el código del icono con formato HTML en el portapapeles.",
+		"3": "Cuadro de búsqueda para encontrar iconos.",
+		"4": "Selector de tamaño de icono.",
+		"5": "Interfaz de usuario multilingüe."
+	},
+	"description_ru": "Плагин для Bludit, который может помочь разработчикам быстро просматривать и вставлять значки из набора FontAwesome в исходный HTML-код.",
+	"features_ru": {
+		"0": "Более 650 иконок в файле lineawesome.css для Bludit.",
+		"1": "Кликабедьные значки в модальном окне.",
+		"2": "Функция копирования в один клик, которая поможет Вам скопировать код значка в формате HTML в буфер обмена.",
+		"3": "Поле поиска чтобы бысто искать значки.",
+		"4": "Селектор размера значка."
+	}
+}

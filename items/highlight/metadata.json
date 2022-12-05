@@ -7,29 +7,25 @@
 	"download_url_v2": "https://github.com/bludit-plugins/highlight-bludit/archive/highlight-1.3.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/bludit-plugins/highlight-bludit",
-	"description": "Highlight your code.",
+	"description": "Choose from several themes and highlight your code.",
 	"features": {
-		"0": "Library highlight.js",
-		"1": "",
-		"2": ""
+		"0": "The plugin uses the highlight.js library. Create your content and place your code between the '<pre> <code> ... </code> </pre>' tags to render it with the selected theme automatically."
 	},
+	"description_pt": "Escolha entre vários temas e destaque seu código.",
+	"features_pt":	{
+		"0": "O plugin utiliza a biblioteca highlight.js. Crie seu conteúdo e coloque seu código entre as tags '<pre><code>...</code></pre>' para renderizá-lo com o tema selecionado automaticamente."		
+	},	
 	"description_de": "Mit dem Plugin kann Code mit Syntax-Highlighting angezeigt werden.",
 	"features_de": {
-		"0": "Library highlight.js",
-		"1": "",
-		"2": ""
+		"0": "Das Plugin verwendet die Bibliothek high.js. Erstellen Sie Ihren Inhalt und platzieren Sie Ihren Code zwischen den Tags '<pre> <code> ... </ code> </ pre>', um ihn automatisch mit dem ausgewählten Thema zu rendern."
 	},
 	"description_es": "Resaltador de sintaxis de código.",
 	"features_es": {
-		"0": "Libreria highlight.js",
-		"1": "",
-		"2": ""
+		"0": "El complemento usa la biblioteca highlight.js. Crea tu contenido y coloca tu código entre las etiquetas '<pre> <code> ... </code> </pre>' para renderizarlo con el tema seleccionado automáticamente."
 	},
 	"description_ru": "С помощью этого плагина может отображаться подсветка синтаксиса на странице записи.",
 	"features_ru": {
-		"0": "Использует библиотеку highlight.js",
-		"1": "",
-		"2": ""
+		"0": "Плагин использует библиотеку highlight.js. Создайте свой контент и поместите свой код между тегами '<pre> <code> ... </code> </pre>', чтобы автоматически отобразить его с выбранной темой."
 	},
 	"author_username": "hydrock"
 }

@@ -1,0 +1,36 @@
+{
+  "name": "Admin Tag Charts",
+  "version": "1.0.0",
+  "author_username": "tim-moritz",
+  "release_date": "2022-04-21",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://github.com/gaincoder/admin-tag-charts/archive/refs/tags/1.0.0.zip",
+  "download_url_v4": "https://github.com/gaincoder/admin-tag-charts/archive/refs/tags/1.0.0.zip",
+  "demo_url": "",
+  "information_url": "https://github.com/gaincoder/admin-tag-charts",
+  "description": "Shows a sorted list of used tags within the admin area.",
+  "features": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_de": "Stellt eine, nach Nutzung sortierte, Liste verwendeter Tags im Admin Bereich zur Verfügung.",
+  "features_de": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_es": "Muestra una lista ordenada de etiquetas usadas dentro del área de administración.",
+  "features_es": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_ru": "Показывает отсортированный по популярности список используемых тегов в панели управления.",
+  "features_ru": {
+    "0": "",
+    "1": "",
+    "2": ""
+  }
+}

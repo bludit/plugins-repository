@@ -1,0 +1,35 @@
+{
+	"name": "Categories+",
+	"version": "1.0",
+	"release_date": "2021-12-23",
+	"license": "MIT",
+	"price_usd": "1,50",
+	"download_url": "https://payhip.com/b/C1fAl",
+	"demo_url": "",
+	"information_url": "",
+	"description": "The plugin shows categories in the sidebar with different options.",
+	"features": {
+		"0": "The categories can be shown in custom order.",
+		"1": "The categories can be shown with or without the number of contents.",
+		"2": "The categories without content can be shown or not."
+	},
+	"description_es": "El complemento muestra categorías en la barra lateral con diferentes opciones.",
+	"features_es": {
+		"0": "Las categorías se pueden mostrar en orden personalizado.",
+		"1": "Las categorías se pueden mostrar con o sin el número de contenidos.",
+		"2": "Las categorías sin contenido se pueden mostrar o no."
+	},
+	"description_de": "Das Plugin zeigt Kategorien in der Seitenleiste mit verschiedenen Optionen.",
+	"features_de": {
+		"0": "Die Kategorien können in beliebiger Reihenfolge ausgegeben werden.",
+		"1": "Die Kategorien können mit oder ohne Anzahl der Inhalte einer Kategorie ausgegeben werden.",
+		"2": "Die Kategorien ohne Inhalte können ausgegeben werden oder nicht."
+	},
+	"description_ru": "Плагин показывает категории на боковой панели с различными опциями.",
+	"features_ru": {
+		"0": "Категории могут быть показаны в произвольном порядке.",
+		"1": "Категории могут отображаться с указанием количества содержимого или без этого указания.",
+		"2": "Категории без содержимого могут быть показаны или скрыты."
+	},
+	"author_username": "clickwork"
+}

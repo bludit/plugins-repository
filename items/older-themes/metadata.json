@@ -1,0 +1,23 @@
+{
+  "name": "Older Themes",
+  "version": "1.0.0",
+  "author_username": "tim-moritz",
+  "release_date": "2022-03-07",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url_v4": "https://github.com/gaincoder/older-themes/archive/refs/tags/1.0.0.zip",
+  "demo_url": "",
+  "information_url": "https://github.com/gaincoder/older-themes",
+  "description": "Get older themes running in Bludit >= 4.0",
+  "features": {
+  },
+  "description_de": "Bringt ältere Themes in Bludit >= 4.0 zum laufenas.",
+  "features_de": {
+  },
+  "description_es": "Permite que los temas antiguos funcionen en Bludit >= 4.0",
+  "features_es": {
+  },
+  "description_ru": "Позволяет запускать и использовать старые темы в Bludit версии 4.0 и выше.",
+  "features_ru": {
+  }
+}

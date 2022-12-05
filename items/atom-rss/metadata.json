@@ -1,0 +1,35 @@
+{
+	"name": "Atom RSS",
+	"version": "0.0.1",
+	"author_username": "erdifr",
+	"release_date": "2019-04-06",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/erdifr/atom-rss/archive/v0.0.1.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/erdifr/atom-rss",
+	"description": "A plugin that adds Atom and RSS feeds to Bludit powered websites.",
+	"features": {
+		"0": "Feed Copyright — configurable via plugin menu.",
+		"1": "Feed Generator — configurable via plugin menu",
+		"2": "Feed Item Limit — configurable via plugin menu."
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "Un complemento que agrega fuentes Atom y RSS a sitios web con tecnología Bludit.",
+	"features_es": {
+		"0": "Feed Copyright: configurable a través del menú del complemento.",
+		"1": "Feed Generator: configurable a través del menú del complemento",
+		"2": "Feed Item Limit: configurable a través del menú del complemento."
+	},
+	"description_ru": "Добавляет Atom и RSS-каналы на сайт с Bludit.",
+	"features_ru": {
+		"0": "Информация об австорких правах — настраивается в меню плагина.",
+		"1": "Информация о генераторе канала — настраивается в меню плагина.",
+		"2": "Лимит записей для отображения — настраивается в меню плагина."
+	}
+}

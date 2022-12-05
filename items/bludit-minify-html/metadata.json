@@ -5,19 +5,28 @@
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url_v2": "https://github.com/dimobelov/bludit-minify-html/archive/master.zip",
+	"download_url": "https://github.com/dimobelov/bludit-minify-html/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/dimobelov/bludit-minify-html",
-	"description": "A plugin the minify html output from the Bludit CMS. It has no settings, just activate or deactivate it.",
+	"description": "A plugin the minify HTML output from the Bludit CMS. It has no settings, just activate or deactivate it.",
 	"features": {
+		"0":"This implements regex-based removal of unnecessary whitespace, comments and tokens, leaving your code cleaner."
 	},
-	"description_de": "",
+	"description_pt": "Um plugin que reduz a saída HTML do Bludit CMS. Não tem configurações, basta ativar ou desativar.",
+	"features_pt": {
+		"0":"Implementa uma remoção baseada em regex de espaços em branco, comentários e tokens desnecessários, deixando seu código mais limpo."
+	},	
+	"description_de": "Ein Plugin, das die HTML-Ausgabe von Bludit CMS reduziert. Es hat keine Einstellungen, nur aktivieren oder deaktivieren.",
 	"features_de": {
+		"0":"Dies implementiert die Regex-basierte Entfernung unnötiger Leerzeichen, Kommentare und Token, wodurch Ihr Code sauberer wird."
 	},
-	"description_es": "",
+	"description_es": "Un complemento que reduce la salida HTML de Bludit CMS. No tiene configuración, solo habilitar o deshabilitar.",
 	"features_es": {
+		"0":"Esto implementa la eliminación basada en expresiones regulares de espacios en blanco, comentarios y tokens innecesarios, dejando su código más limpio."
 	},
-	"description_ru": "Плагин минифицирует вывод html при загрузке страниц Bludit CMS. Он не имеет настроек, так что просто активируйте или деактивируйте его.",
+	"description_ru": "Плагин минифицирует вывод HTML при загрузке страниц Bludit CMS. Он не имеет настроек, так что просто активируйте или деактивируйте его.",
 	"features_ru": {
+		"0":"Это реализует удаление ненужных пробелов, комментариев и токенов на основе регулярных выражений, делая ваш код более чистым."
 	},
 	"author_username": "dimobelov"
 }

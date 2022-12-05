@@ -1,18 +1,18 @@
 {
 	"name": "Lightbox",
-	"version": "1.1",
-	"release_date": "2019-01-31",
+	"version": "1.5",
+	"release_date": "2020-08-04",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url_v2": "https://github.com/clickwork-git/lightbox/archive/v1.1.zip",
-	"download_url": "https://github.com/clickwork-git/lightbox/archive/v1.1.zip",
+	"download_url": "https://github.com/clickwork-git/lightbox/releases/download/v1.5/lightbox.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/clickwork-git/lightbox",
 	"description": "Lightbox and gallery based on the lightbox script by Lokesh Dhakar. See for explanation the file README.md in the plugin directory.",
 	"features": {
 		"0": "Add a data-lightbox attribute to any image link to enable Lightbox. For the value of the attribute, use a unique name for each image.",
 		"1": "If you have a group of related images that you would like to combine into a set, use the same data-lightbox attribute value for all of the images.",
-		"2": "Important: The link to the image must contain the path to the directory (\/bl-content\/uploads\/)."
+		"2": ""
 	},
 	"description_de": "Lightbox und Galerie basierend auf dem Lightbox-Skript von Lokesh Dhakar. Informationen zur Verwendung des Plugins sind in der Datei liesmich.txt im Plugin-Verzeichnis zu finden.",
 	"features_de": {
@@ -20,17 +20,17 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Lightbox y galería basados en el lightbox script de Lokesh Dhakar. Consulte la explicación en el archivo README.md en el directorio de complementos.",
 	"features_es": {
-		"0": "",
-		"1": "",
+		"0": "Agregue un atributo de data-lightbox a cualquier enlace de imagen para habilitar Lightbox. Para el valor del atributo, use un nombre único para cada imagen.",
+		"1": "Si tiene un grupo de imágenes relacionadas que le gustaría combinar en un conjunto, use el mismo valor de atributo de data-lightbox para todas las imágenes.",
 		"2": ""
 	},
-	"description_ru": "Лайтбокс и галерея на основе сценария лайтбокса Локеша Дакара. Для подробного объяснения работы плагина см. файл README.md в каталоге плагина.",
+	"description_ru": "Лайтбокс и галерея на основе скрипта лайтбокса Локеша Дакара. Для подробного объяснения работы плагина смотрите файл README.md в каталоге плагина.",
 	"features_ru": {
-		"0": "Добавьте атрибут data-lightbox к любой ссылке на изображение, чтобы включить Лайтбокс. Для значения атрибута используйте уникальное имя для каждого изображения.",
-		"1": "Если у вас есть группа связанных изображений, которые вы хотите объединить в набор, используйте одно и то же значение атрибута-lightbox для всех изображений.",
-		"2": "Важно: ссылка на изображение должна содержать путь к каталогу (\/bl-content\/uploads\/)."
+		"0": "Добавьте атрибут <code>data-lightbox</code> к любой ссылке на изображение, чтобы включить Лайтбокс. Для значения атрибута используйте уникальное имя для каждого изображения.",
+		"1": "Если у Вас есть группа связанных изображений, которые Вы хотите объединить в набор, используйте одно и то же значение атрибута <code>lightbox</code> для всех изображений.",
+		"2": "<b>Важно:</b> ссылка на изображение должна содержать путь к каталогу (<code>.\/bl-content\/uploads\/</code>)."
 	},
 	"author_username": "clickwork"
 }

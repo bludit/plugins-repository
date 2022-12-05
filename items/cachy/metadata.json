@@ -1,8 +1,8 @@
 {
 	"name": "Cachy",
-	"version": "3.0",
+	"version": "3.1",
 	"author_username": "blackneron",
-	"release_date": "2018-12-10",
+	"release_date": "2019-07-03",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url_v2": "https://bitbucket.org/Blackneron/cachy/downloads/cachy_2.zip",
@@ -18,7 +18,7 @@
 	"description_es": "Plugin para crear una cache de las paginas de Bludit.",
 	"features_es": {
 	},
-	"description_ru": "Плагин для кэширования страниц Bludit.",
+	"description_ru": "Плагин для кеширования страниц Bludit.",
 	"features_ru": {
 	}
 }

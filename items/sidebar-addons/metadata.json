@@ -1,0 +1,24 @@
+{
+	"name": "Sidebar Addons",
+	"version": "3.9",
+	"release_date": "2019-09-02",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/anaggh/sidebar-addons/archive/3.9.zip",
+	"download_url_v2": "",
+	"demo_url": "",
+	"information_url": "https://github.com/anaggh/sidebar-addons",
+	"description": "Display random and/or recommended pages on the sidebar.",
+	"features": {
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "Mostrar páginas aleatorias y/o recomendadas en la barra lateral.",
+	"features_es": {
+	},
+	"description_ru": "Отображает случайные и/или рекомендуемые страницы на боковой панели сайта.",
+	"features_ru": {
+	},
+	"author_username": "anaggh"
+}

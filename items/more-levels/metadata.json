@@ -1,0 +1,30 @@
+{
+	"name": "More Levels",
+	"version": "0.2.0",
+	"release_date": "2020-05-22",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/bludit-plugins/more-levels/releases/download/v0.2.0/more-levels.zip",
+	"demo_url": "",
+	"author_username": "sambrishes",
+	"information_url": "https://github.com/bludit-plugins/more-levels",
+	"description": "Create a deeper page hierarchy, by selecting any available page you want, using the More Levels plugin.",
+	"features": {
+		"1": "Select each available page as parent one."
+	},
+	
+	"description_de": "Erlaube eine tiefere Seitenhierachie, mit der Auswahl jeder verfügbaren Seite, mithilfe des More Levels Plugins.",
+	"features_de": {
+		"1": "Wähle jede verfügbare Seite als Eltern-Seite."
+	},
+	
+	"description_es": "El plugin permite utilizar más de 2 niveles de páginas.",
+	"features_es": {
+		"1": "Select each available page as parent one."
+	},
+	
+	"description_ru": "Плагин позволяет использовать более двух уровней страниц.",
+	"features_ru": {
+		"1": "Select each available page as parent one."
+	}
+}

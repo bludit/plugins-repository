@@ -1,0 +1,31 @@
+{
+	"name": "navX",
+	"version": "1.0",
+	"release_date": "2022-08-08",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/navX-for-bludit/raw/main/navx10.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/navX-for-bludit/",
+	"description": "Plugin create menu with menu dropdown support.",
+	"features": {
+		"0":"Custom class settings.",
+		"1":"Support default Bootstrap navigation.",
+		"2":"Supports for no style options for custom template.",
+		"3":"Homepage on navigation settings."
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "Плагин создает красивое выпадающее меню.",
+	"features_ru": {
+		"0":"Пользовательские настройки CSS класса.",
+		"1":"По умолчанию поддерживает навигацию от Bootstrap.",
+		"2":"Поддержка отсутствия параметров стиля для пользовательских настроек CSS класса.",
+		"3":"Присутствуют настройки домашней страницы для меню."
+	},
+	"author_username": "multicolor"
+}

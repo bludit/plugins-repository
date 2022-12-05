@@ -9,15 +9,28 @@
 	"information_url": "https://g3ar.xyz/projects/wordpress-bludit-converter/",
 	"description": "Converts the WordPress database xml file to Bludit's data structure.",
 	"features": {
+		"0":"The exported XML must be placed in the /bl-content/uploads folder and then inserted in the plugin configuration to import. Images and uploads must be moved manually as it is not supported when exporting Wordpress.",
+		"1":"Replacement of links by embedded code; Leave the current Bludit data; enter Disqus ID to convert comments as well."
 	},
+	"description_pt": "Converta o arquivo de XML exportado do WordPress para a estrutura de dados do Bludit.",
+	"features_pt": {
+		"0":"O XML exportado deve ser colocado na pasta /bl-content/uploads e depois inserido na configuração do plugin para importar. Imagens e uploads devem ser movidos manualmente pois não é suportado na exportação do Wordpress.",
+		"1":"Substituição de links por código embutido; Deixar os dados do Bludit atual; coloque o Disqus ID para converter também os comentários."		
+	},	
 	"description_de": "Mit dem Plugin kann eine XML-Datei von WordPress in Bludit importiert werden.",
 	"features_de": {
+		"0":"Das exportierte XML muss im Ordner /bl-content/uploads abgelegt und dann zum Import in die Plugin-Konfiguration eingefügt werden. Bilder und Uploads müssen manuell verschoben werden, da dies beim Exportieren von Wordpress nicht unterstützt wird.",
+		"1":"Ersetzen von Links durch eingebetteten Code; Belassen Sie die aktuellen Bludit-Daten. Geben Sie die Disqus-ID ein, um auch Kommentare zu konvertieren."
 	},
-	"description_es": "",
+	"description_es": "Convierta el archivo XML exportado desde WordPress a la estructura de datos de Bludit.",
 	"features_es": {
+		"0":"El XML exportado debe colocarse en la carpeta /bl-content/uploads y luego insertarse en la configuración del complemento para importar. Las imágenes y las cargas deben moverse manualmente, ya que no es compatible al exportar Wordpress.",
+		"1":"Reemplazo de enlaces por código incrustado; Deja los datos actuales de Bludit; ingrese Disqus ID para convertir comentarios también."		
 	},
 	"description_ru": "Преобразует XML-файл базы данных WordPress в структуру данных Bludit.",
 	"features_ru": {
+		"0":"Экспортированный XML должен быть помещен в папку /bl-content/uploads, а затем вставлен в конфигурацию плагина для импорта. Изображения и загрузки необходимо перемещать вручную, так как это не поддерживается при экспорте Wordpress.",
+		"1":"Замена ссылок встроенным кодом; Оставьте текущие данные Bludit; введите Disqus ID, чтобы также конвертировать комментарии."		
 	},
 	"author_username": "krakengr"
 }

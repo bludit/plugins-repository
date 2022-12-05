@@ -1,21 +1,28 @@
 {
 	"name": "Recent Tweets",
-	"version": "2.3",
-	"release_date": "2018-03-25",
+	"version": "3.5",
+	"release_date": "2019-01-15",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url_v2": "https://github.com/anaggh/recent-tweets/archive/master.zip",
+	"download_url": "https://github.com/anaggh/recent-tweets/archive/3.5.zip",
+	"download_url_v2": "https://github.com/anaggh/recent-tweets/archive/2.3.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/anaggh/recent-tweets",
-	"description": "Displays twitter timeline on the sidebar.",
+	"description": "Displays twitter timeline on the sidebar (if your theme support the sidebar).",
 	"features": {
 		"0": "Adds a follow button.",
 		"1": "Adds a scrollable timeline.",
 		"2": "Will not work on browsers having AdBlock enabled."
 	},
-	"description_ru": "Отображает ленту с твитами на боковой панели.",
+	"description_es": "Muestra la línea de tiempo de Twitter en la barra lateral (si su tema soporta barra lateral).",
+	"features_es": {
+		"0": "Añade un botón de seguimiento.",
+		"1": "Agrega una línea de tiempo desplazable.",
+		"2": "No funcionará en navegadores que tengan habilitado AdBlock."
+	},
+	"description_ru": "Отображает ленту с твитами на боковой панели сайта (если выбранная тема поодерживает боковую панель).",
 	"features_ru": {
-		"0": "Добавляет кнопку \"Читать\"",
+		"0": "Добавляет кнопку «Читать»",
 		"1": "Добавляет прокручиваемую ленту.",
 		"2": "Не будет работать в браузерах с включенным AdBlock."
 	},

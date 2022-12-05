@@ -1,0 +1,35 @@
+{
+	"name": "GitHub comments",
+	"version": "v1.0",
+	"author_username": "ALGZB",
+	"release_date": "2020-09-11",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/algzb/github-comments-for-bludit/releases",
+	"demo_url": "https://algzb.com/github-comments-plugin-for-bludit",
+	"information_url": "https://algzb.com/github-comments-plugin-for-bludit",
+	"description": "Add a comment section to your blog using utterances, an open source lightweight comments system built on GitHub issues.",
+	"features": {
+		"0": "Add a comment section.",
+		"1": "Choose your comments section theme.",
+		"2": "Manage the comments in your GitHub repo."
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "Añade una sección de comentarios a tu blog utilizando utterances, un ligero sistema de comentarios de código abierto construdio sobre Github.",
+	"features_es": {
+		"0": "Añade una sección de comentarios.",
+		"1": "Escoge el tema de la sección de comentarios.",
+		"2": "Maneja los comentarios en tu repositorio de GitHub."
+	},
+	"description_ru": "Добавьте в свой блог раздел комментариев, используя utterances, облегченную систему комментариев с открытым исходным кодом, основанную на разделе issues в GitHub.",
+	"features_ru": {
+		"0": "Добавляет раздел комментариев.",
+		"1": "Можно выбрать тему для раздела комментариев.",
+		"2": "Управляйте комментариями через репозиторий в GitHub."
+	}
+}

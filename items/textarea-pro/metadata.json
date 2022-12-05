@@ -1,0 +1,31 @@
+{
+	"name": "Textarea Pro",
+	"version": "2.1",
+	"release_date": "2022-02-08",
+	"license": "MIT",
+	"price_usd": "1.50",
+	"download_url": "https://payhip.com/b/kBWG3",
+	"demo_url": "",
+	"information_url": "",
+	"description": "The plugin Textarea Pro allows to show text in the sidebar, at the top or at the end of pages using HTML code.",
+	"features": {
+		"0": "Select a color for the title.",
+		"1": "Use the editor TinyMCE, that comes with Bludit, for text editing."
+	},
+	"description_es": "El complemento Textarea Pro permite mostrar texto en la barra lateral, en la parte superior o al final de las páginas usando código HTML.",
+	"features_es": {
+		"0": "Seleccione un color para el título.",
+		"1": "Utiliza el editor TinyMCE, que viene con Bludit, para la edición de texto."
+	},
+	"description_de": "Das Plugin Textarea Pro erlaubt es, in der Seitenleiste, am Anfang oder am Ende von Seiten mit HTML-Code strukturierte Inhalte anzuzeigen.",
+	"features_de": {
+		"0": "Wähle eine Farbe für den Titel.",
+		"1": "Verwende den Editor TinyMCE, der mit Bludit kommt, für die Textbearbeitung."
+	},
+	"description_ru": "Плагин Textarea Pro позволяет отображать текст в боковой панели, вверху или в конце страниц с помощью HTML-кода.",
+	"features_ru": {
+		"0": "Выбирайте цвет для заголовка.",
+		"1": "Используйте редактор TinyMCE, который поставляется с Bludit, для редактирования текста."
+	},
+	"author_username": "clickwork"
+}

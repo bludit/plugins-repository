@@ -1,0 +1,35 @@
+{
+	"name": "Alternative Header and Footer",
+	"version": "1.2",
+	"release_date": "2022-01-08",
+	"license": "MIT",
+	"price_usd": "1.50",
+	"download_url": "https://payhip.com/b/J43Tx",
+	"demo_url": "",
+	"information_url": "",
+	"description": "Configure the header and footer of the themes Alternative and Blog X as you want!",
+	"features": {
+		"0": "Display header fixed or not.",
+		"1": "Display a logo.",
+		"2": "Change the color of header and footer."
+	},
+	"description_es": "¡Configura el encabezado y el pie de página de los temas Alternative y Blog X como quieras!",
+	"features_es": {
+		"0": "Mostrar encabezado fijo o no.",
+		"1": "Mostrar un logotipo.",
+		"2": "Cambiar el color del encabezado y pie de página."
+	},
+	"description_de": "Das Plugin erlaubt es, die Navigationsleiste derThemes Alternative und Blog X fixiert oder nicht und ein Logo zu zeigen.",
+	"features_de": {
+		"0": "Fixiere die Kopfleiste oder nicht.",
+		"1": "Verwende eine Logo.",
+		"2": "Wähle die Farbe der Kopf- und Fussleiste."
+	},
+	"description_ru": "Настройте верхний и нижний колонтитулы тем Alternative и Blog X так, как Вы хотите!",
+	"features_ru": {
+		"0": "Отображение фиксированной либо плавающей шапки страницы.",
+		"1": "Настройка и отображение логотипа.",
+		"2": "Изменение цветового оформления шапки и подвала."
+	},
+	"author_username": "clickwork"
+}

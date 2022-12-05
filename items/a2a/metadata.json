@@ -1,22 +1,29 @@
 {
 	"name": "a2a share buttons",
-	"version": "0.3.0",
-	"release_date": "2017-10-27",
+	"version": "0.3.3",
+	"release_date": "2019-09-17",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url_v2": "https://github.com/xm74/a2a/archive/master.zip",
+	"download_url_v2": "https://github.com/xm74/a2a-2/archive/master.zip",
+	"download_url": "https://github.com/xm74/a2a/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/xm74/a2a",
 	"description": "AddToAny is a set of social sharing buttons.",
 	"features": {
 	},
-	"description_de": "",
+	"description_pt": "AddToAny é um conjunto de botões de compartilhamento social.",
+	"features_pt":{
+		"0": "Habilite/Desabilite em páginas estáticas, publicadas.",
+		"1": "Adicione CSS para corrigir o tema dos botões.",
+		"2": "Requerido que o tema tenha o gancho pageEnd."
+	},	
+	"description_de": "AddToAny ist eine Reihe von Social-Sharing-Schaltflächen.",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "AddToAny es un conjunto de botones para compartir en redes sociales.",
 	"features_es": {
 	},
-	"description_ru": "AddToAny - набор кнопок \"поделиться\" для социальных сетей.",
+	"description_ru": "AddToAny — набор кнопок «поделиться» для социальных сетей.",
 	"features_ru": {
 	},
 	"author_username": "xm74"

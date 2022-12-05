@@ -1,22 +1,26 @@
 {
 	"name": "Mail Encoder",
-	"version": "1.1",
+	"version": "1.4",
 	"release_date": "2016-07-04",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url_v2": "https://github.com/HarleyDavidson86/encodemail/archive/master.zip",
+	"download_url_v2": "https://github.com/HarleyDavidson86/encodemail/archive/29f8c2d97f6acfa62a65ec8ce081dbaac58f729d.zip",
+	"download_url": "https://github.com/HarleyDavidson86/encodemail/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/HarleyDavidson86/encodemail",
-	"description": "Encodes all email addresses in pages and posts to prevent SPAM Mails.",
+	"description": "Encodes all email addresses in pages and posts to prevent spam mails.",
 	"features": {
 	},
-	"description_de": "",
+	"description_pt": "Codifica todos os endereços de e-mail em páginas e postagens para evitar spam de e-mails.",
+	"features_pt": {
+	},
+	"description_de": "Codiert alle E-Mail-Adressen in Seiten und Posts, um Spam-Mails zu vermeiden.",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "Codifica todas las direcciones de correo electrónico en páginas y publicaciones para evitar spam de correos.",
 	"features_es": {
 	},
-	"description_ru": "Кодирует все адреса электронной почты на страницах записей и в сообщениях, чтобы предотвратить спам-сообщения",
+	"description_ru": "Кодирует все адреса электронной почты на страницах и в записях, чтобы предотвратить спам-сообщения.",
 	"features_ru": {
 	},
 	"author_username": "harleydavidson86"

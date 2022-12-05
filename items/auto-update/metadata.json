@@ -1,22 +1,26 @@
 {
 	"name": "Auto Update",
-	"version": "1.0",
-	"release_date": "2018-03-10",
+	"version": "2.0",
+	"release_date": "2019-03-10",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url_v2": "https://github.com/Hatschipuh/plugin_update/archive/master.zip",
+	"download_url_v2": "https://github.com/Hatschipuh/plugin_update/archive/51ecfcbbda449f769f7019b579bcf5813263000b.zip",
+	"download_url": "https://github.com/Hatschipuh/plugin_update/archive/master.zip",					 
 	"demo_url": "",
 	"information_url": "https://github.com/Hatschipuh/plugin_update",
 	"description": "Automatically updates the newest version of Bludit and all plugins and themes from the repositories.",
 	"features": {
 	},
+	"description_pt": "Atualiza automaticamente para a versão mais recente do Bludit e todos os plug-ins e temas dos repositórios.",
+	"features_pt": {
+	},	
 	"description_de": "Aktualisiert automatisch auf die aktuelle Version von Bludit sowie der Plugins und Themes, die in den Repositories angeboten werden.",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "Actualiza automáticamente la versión más reciente de Bludit y todos los complementos y temas de los repositorios.",
 	"features_es": {
 	},
-	"description_ru": "Автоматически обновляет до новейшей версию Bludit и все плагины и темы беря обновления напрямую из репозиториев.",
+	"description_ru": "Автоматически обновляет версию Bludit до самой последней, а также все плагины и темы, беря обновления напрямую из репозиториев.",
 	"features_ru": {
 	},
 	"author_username": "hertste"

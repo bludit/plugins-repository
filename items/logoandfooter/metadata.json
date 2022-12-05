@@ -7,16 +7,28 @@
 	"download_url_v2": "https://github.com/Hatschipuh/logoandfooter/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/Hatschipuh/logoandfooter",
-	"description": "Logo and Footer.",
+	"description": "Plugin for interacting with the logo and site footer.",
 	"features": {
+		"0":"Enable/Disable the logo: Send an image to the folder /bl-content/uploads/ and paste the path or use an external image.",
+		"1":"Enables / Disables Footer and it is also possible to insert text and a background color.",
+		"2":"Enables/Disables the link to go to the top and also set your background color."
 	},
-	"description_de": "Logo und Fusszeile",
+	"description_pt": "Plugin para interagir com o logotipo e rodapé do site.",	
+	"features_pt": {
+		"0":"Habilita/Desabilita o logotipo: Envie uma image para pasta /bl-content/uploads/ e cole o endereço ou utilize uma imagem externa.",
+		"1":"Habilita/Desabilita o Footer e também é possível inserir um texto e uma cor de fundo.",
+		"2":"Habilita/Desabilita o link para ir ao topo e também definir sua cor de fundo"
+	},	
+	"description_de": "Plugin für die Interaktion mit dem Logo und der Fußzeile der Website.",	
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "Complemento para interactuar con el logo y el pie de página del sitio.",
 	"features_es": {
+		"0":"Habilitar/Deshabilitar el logo: Envía una imagen a la carpeta /bl-content/uploads/ y pega la ruta o usa una imagen externa.",
+		"1":"Habilitar/Deshabilitar el pie de página y también es posible insertar texto y un color de fondo.",
+		"2":"Habilitar/deshabilitar el enlace para ir a la parte superior y también establece el color de fondo."
 	},
-	"description_ru": "Плагин для взаимодействия с логотипом и подвалом сайта. ",
+	"description_ru": "Плагин для взаимодействия с логотипом и подвалом сайта.",
 	"features_ru": {
 	},
 	"author_username": "hertste"
