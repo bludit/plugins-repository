@@ -2,18 +2,34 @@
 	"name": "G3Nshop",
 	"version": "v2",
 	"author_username": "g3n_es",
-	"release_date": "2022-12-03",
+	"release_date": "2022-12-05",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/G3N-es/G3nshop-for-Bludit/releases",
 	"demo_url": "",
 	"information_url": "https://github.com/G3N-es/G3nshop-for-Bludit/",
-	"description": "It is an elegant web software solution so you can create your own online store. This software is OpenSource and FreeSoftware.",
-	"features": { },
-	"description_de": "",
-	"features_de": { },
-	"description_es": "Es una elegante solución de software web para que puedas crear tu propia tienda On-Line.",
-	"features_es": { },
-	"description_ru": "Это элегантное программное решение, позволяющее создать собственный интернет-магазин. Это программное обеспечение с открытым исходным кодом и распространяется свободно. Он работает как плагин Bludit CMS, добавляя необходимые функции, чтобы вы могли продавать онлайн.",
-	"features_ru": { }
+	"description": "It is an elegant web software solution for you to create your own store and sell On-Line.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "Es una elegante solución de software web para que puedas crear tu propia tienda y vender On-Line.",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
 }
