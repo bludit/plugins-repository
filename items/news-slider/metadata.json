@@ -1,19 +1,20 @@
 {
 	"name": "News Slider",
-	"version": "3.0",
-	"release_date": "2022-12-15",
+	"version": "2.0",
+	"release_date": "2022-12-20",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/news-slider-for-bludit/archive/refs/tags/1.0.zip",
+	"download_url": "https://github.com/multicolor-rgb/news-slider-for-bludit/archive/refs/tags/2.0.0.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/multicolor-rgb/news-slider-for-bludit/releases/tag/1.0",
+	"information_url": "https://github.com/multicolor-rgb/news-slider-for-bludit/releases/tag/2.0.0",
 	"description": "This plugin create carousel on yours template based on posts",
 	"features": {
 		"0": "category post selection",
 		"1": "6 different styles carousel",
 		"2": "words description length",
 		"3": "custom button text and color link to post",
-    "4": "custom speed, height on mobile and desktop"
+		"4": "custom border radius arrows",
+                "5": "custom speed, height on mobile and desktop"
 	},
 	"description_de": "",
 	"features_de": {
