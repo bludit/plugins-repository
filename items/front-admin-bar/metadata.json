@@ -1,12 +1,12 @@
 {
 	"name": "Front Admin Bar",
-	"version": "2.0.1",
-	"release_date": "2022-07-21",
+	"version": "3.0",
+	"release_date": "2022-12-20",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/front-admin-bar/archive/refs/tags/2.0.1.zip",
+	"download_url": "https://github.com/multicolor-rgb/front-admin-bar/archive/refs/tags/3.0.0.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/multicolor-rgb/front-admin-bar/releases/tag/2.0.1",
+	"information_url": "https://github.com/multicolor-rgb/front-admin-bar/releases/tag/3.0.0",
 	"description": "This plugin add edit bar on frontend when your logged.",
 	"features": {
 		"0":"Panel color bar settings.",
