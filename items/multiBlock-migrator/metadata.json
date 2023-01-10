@@ -7,10 +7,10 @@
 	"download_url": "https://github.com/multicolor-rgb/multiBlock-Migrator-for-Bludit/archive/refs/heads/main.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/multiBlock-Migrator-for-Bludit/",
-	"description": "Plugin will update the url of the new page address in MultiBlock",
+	"description": "Plugin will update the URL of the new page address in MultiBlock.",
 	"features": {
-		"0": "Easy to use",
-    "1":"Will replace url's on whole MultiBlock"
+		"0": "Easy to use.",
+		"1": "Will replace URL's on whole MultiBlock."
 	},
 	"description_de": "",
 	"features_de": {
@@ -18,8 +18,10 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Плагин обновит URL нового адреса страницы в MultiBlock.",
 	"features_ru": {
+		"0": "Чертовски прост в использовании.",
+		"1": "Заменит URL-адреса во всём MultiBlock."
 	},
 	"author_username": "multicolor"
 }
