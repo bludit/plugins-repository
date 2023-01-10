@@ -8,36 +8,36 @@
   "download_url": "https://download.novafacile.com/bludit-plugins/imagegallery-lite.zip",
   "demo_url": "",
   "information_url": "https://bludit-plugins.com",
-  "description": "Extends Bludit CMS with an image gallery. This can be added to a selected page. The images are managed in the admin interface.",
+  "description": "Extends Bludit with an image gallery. This can be added to a selected page. The images are managed in the admin interface.",
   "features": {
-    "0": "Integrate image gallery on a page",
-    "1": "Manage the images in the admin interface",
-    "2": "Thumbnails are generated automatically",
-    "3": "Design can be customized",
-    "4": "Lightbox view integrated"
+    "0": "Integrate image gallery on a page.",
+    "1": "Manage the images in the admin interface.",
+    "2": "Thumbnails are generated automatically.",
+    "3": "Design can be customized.",
+    "4": "Lightbox view integrated."
   },
-  "description_de": "Erweitert Bludit CMS um eine Bildergalerie. Diese kann auf einer ausgewählten Seite hinzugefügt werden. Die Bilder werden im Admin-Interface verwaltet.",
+  "description_de": "Erweitert Bludit um eine Bildergalerie. Diese kann auf einer ausgewählten Seite hinzugefügt werden. Die Bilder werden im Admin-Interface verwaltet.",
   "features_de": {
-    "0": "Bildergalerie auf einer Seite integrieren",
-    "1": "Verwaltung der Bilder im Admin-Interface",
-    "2": "Vorschaubilder werden automatisch generiert",
-    "3": "Design kann angepasst werden",
-    "4": "Lightbox-Ansicht integriert"
+    "0": "Bildergalerie auf einer Seite integrieren.",
+    "1": "Verwaltung der Bilder im Admin-Interface.",
+    "2": "Vorschaubilder werden automatisch generiert.",
+    "3": "Design kann angepasst werden.",
+    "4": "Lightbox-Ansicht integriert."
   },
   "description_es": "Amplía el CMS de Bludit con una galería de imágenes. Se puede añadir a una página seleccionada. Las imágenes se gestionan en la interfaz de administración.",
   "features_es": {
-    "0": "Integrar la galería de imágenes en una página",
-    "1": "Gestionar las imágenes en la interfaz de administración",
-    "2": "Las miniaturas se generan automáticamente",
-    "3": "El diseño se puede personalizar",
-    "4": "Vista de caja de luz integrada"
+    "0": "Integrar la galería de imágenes en una página.",
+    "1": "Gestionar las imágenes en la interfaz de administración.",
+    "2": "Las miniaturas se generan automáticamente.",
+    "3": "El diseño se puede personalizar.",
+    "4": "Vista de caja de luz integrada."
   },
-  "description_ru": "Расширяет CMS Bludit галереей изображений. Это можно добавить к выбранной странице. Управление изображениями осуществляется в интерфейсе администратора.",
+  "description_ru": "Расширяет возможности Bludit добавляя галереи изображений. Они могут отображаться на выбранных страницах. Управление изображениями осуществляется в интерфейсе администратора.",
   "features_ru": {
-    "0": "Интеграция галереи изображений на страницу",
-    "1": "Управление изображениями в интерфейсе администратора",
-    "2": "Эскизы создаются автоматически",
-    "3": "Дизайн может быть настроен",
-    "4": "Интегрирован просмотр лайтбокса"
+    "0": "Интеграция галереи изображений на выбранных страницах.",
+    "1": "Управление изображениями в интерфейсе администратора.",
+    "2": "Эскизы изображений (их миниатюры) создаются автоматически.",
+    "3": "Настраиваемый дизайн галерей.",
+    "4": "Просмотр изображений галереи в лайтбоксе."
   }
 }

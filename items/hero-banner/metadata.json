@@ -8,7 +8,7 @@
 	"download_url": "https://github.com/kraiosis/hero-banner/releases",
 	"demo_url": "",
 	"information_url": "https://github.com/kraiosis/hero-banner",
-	"description": "Hero Banner allows to display a fully customizable pattern Hero Banner on your Bludit CMS Home Page.",
+	"description": "Hero Banner allows to display a fully customizable pattern Hero Banner on your Bludit Home Page.",
 	"features": {
 		"0": "Customizable heading and description paragraph.",
 		"1": "Customizable Call to Action button text.",
@@ -22,16 +22,16 @@
 		"2": "",
 		"3": ""
 	},
-	"description_es": "Hero Banner permite mostrar un banner de portada totalmente personalizable en su página de inicio de Bludit CMS.",
+	"description_es": "Hero Banner permite mostrar un banner de portada totalmente personalizable en su página de inicio de Bludit.",
 	"features_es": {
 		"0": "Encabezado y párrafo de descripción personalizables.",
 		"1": "Texto del botón de llamada a la acción personalizable.",
 		"2": "Color de texto personalizable.",
 		"3": "Color de fondo personalizable."
 	},
-	"description_ru": "Плагин Главного баннера позволяет отображать полностью настраиваемый шаблон баннера для домашней страницы сайта на Bludit CMS.",
+	"description_ru": "Плагин главного баннера (это основной баннер, отображаемый вверху главной страницы) позволяет отображать полностью настраиваемый шаблон баннера для домашней страницы сайта с Bludit.",
 	"features_ru": {
-		"0": "Настраиваемые заголовок и описание.",
+		"0": "Настраиваемые заголовок и описание баннера.",
 		"1": "Настраиваемый текст кнопки призыва к действию.",
 		"2": "Настраиваемые цвета текста.",
 		"3": "Настраиваемый цвет фона области баннера."

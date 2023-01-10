@@ -17,7 +17,7 @@
 	"description_es": "Escanea tu sitio web en busqueda de enlaces rotos e imágenes.",
 	"features_es": {
 	},
-	"description_ru": "Сканирует Ваш сайт на наличие неработающих ссылок и изображений а также помогает в их исправлении.",
+	"description_ru": "Сканирует сайт на наличие нерабочих (битых) ссылок и изображений, а также помогает в их исправлении.",
 	"features_ru": {
 	},
 	"author_username": "anaggh"

@@ -19,7 +19,7 @@
 	"description_es": "Complemento sin configuración que habilita los botones Todo, Activar y Desactivar en la página de complementos que filtra según el botón presionado.",
 	"features_es": {
 	},
-	"description_ru": "Плагин без конфигурации, который включает кнопки Все, Включить и Отключить на странице плагинов, фильтрующий в соответствии с нажатой кнопкой.",
+	"description_ru": "Плагин добавляет кнопки Все, Включенные и Отключенные в Панели управления на странице плагинов, фильтруя список установленных плагинов в соответствии с нажатой кнопкой. Данный плагин не имеет дополнительных настроек.",
 	"features_ru": {
 	},
 	"author_username": "frederic"

@@ -10,38 +10,38 @@
   "information_url": "https://bludit-plugins.com",
   "description": "Extends Bludit with an image gallery, with multiple albums. Images & albums are managed through the admin interface.",
   "features": {
-    "0": "Integrates an image gallery with multiple albums on a page",
-    "1": "Individual albums can be assigned to a separate page",
-    "2": "Images are managed via admin interface",
-    "3": "Thumbnails are generated automatically",
-    "4": "Design can be customized",
-    "5": "Integrated Lightbox view"
+    "0": "Integrates an image gallery with multiple albums on a page.",
+    "1": "Individual albums can be assigned to a separate page.",
+    "2": "Images are managed via admin interface.",
+    "3": "Thumbnails are generated automatically.",
+    "4": "Design can be customized.",
+    "5": "Integrated Lightbox view."
   },
   "description_de": "Erweitert Bludit mit einer Bildergalerie, mit mehreren Alben. Bilder & Alben werden über das Admin-Interface verwaltet.",
   "features_de": {
-    "0": "Integriert eine Bildergalerie mit mehreren Alben auf einer Seite",
-    "1": "Einzelne Alben können einer eigenen Seite zugewiesen werden",
-    "2": "Bilder werden über Admin Interface verwaltet",
-    "3": "Vorschaubilder werden automatisch generiert",
-    "4": "Design kann angepasst werden",
-    "5": "Integrierte Lightbox-Ansicht"
+    "0": "Integriert eine Bildergalerie mit mehreren Alben auf einer Seite.",
+    "1": "Einzelne Alben können einer eigenen Seite zugewiesen werden.",
+    "2": "Bilder werden über Admin Interface verwaltet.",
+    "3": "Vorschaubilder werden automatisch generiert.",
+    "4": "Design kann angepasst werden.",
+    "5": "Integrierte Lightbox-Ansicht."
   },
   "description_es": "Amplía Bludit con una galería de imágenes, con varios álbumes. Las imágenes y los álbumes se gestionan a través de la interfaz de administración.",
   "features_es": {
-    "0": "Integra una galería de imágenes con múltiples álbumes en una página",
-    "1": "Los álbumes individuales pueden asignarse a su propia página",
-    "2": "Las imágenes se gestionan a través de la interfaz de administración",
-    "3": "Las miniaturas se generan automáticamente",
-    "4": "El diseño se puede personalizar",
-    "5": "Vista de la caja de luz integrada"
+    "0": "Integra una galería de imágenes con múltiples álbumes en una página.",
+    "1": "Los álbumes individuales pueden asignarse a su propia página.",
+    "2": "Las imágenes se gestionan a través de la interfaz de administración.",
+    "3": "Las miniaturas se generan automáticamente.",
+    "4": "El diseño se puede personalizar.",
+    "5": "Vista de la caja de luz integrada."
   },
   "description_ru": "Расширяет Bludit галереей фотографий с несколькими альбомами. Управление изображениями и альбомами осуществляется через интерфейс администратора.",
   "features_ru": {
-    "0": "Интегрирует фотогалерею с несколькими альбомами на одной странице",
-    "1": "Отдельные альбомы могут быть назначены на свою собственную страницу",
-    "2": "Управление изображениями осуществляется через интерфейс администратора",
-    "3": "Эскизы создаются автоматически",
-    "4": "Дизайн может быть выполнен по индивидуальному заказу",
-    "5": "Встроенный просмотр лайтбокса"
+    "0": "Интеграция фотогалереи с несколькими альбомами на одной странице.",
+    "1": "Отдельные альбомы могут быть прикреплены на свою собственную страницу.",
+    "2": "Управление изображениями осуществляется через интерфейс администратора.",
+    "3": "Эскизы изображений (их миниатюры) создаются автоматически.",
+    "4": "Настраиваемый дизайн галерей.",
+    "5": "Просмотр изображений галереи в лайтбоксе."
   }
 }
