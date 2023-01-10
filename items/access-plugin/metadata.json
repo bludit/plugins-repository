@@ -7,11 +7,11 @@
 	"download_url": "https://github.com/multicolor-rgb/access-plugin-for-bludit/raw/main/access-plugin.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/access-plugin-for-bludit/",
-	"description": "Create information for acceptation to your website",
+	"description": "Create information for acceptation to your website.",
 	"features": {
-		"0": "Settings for text color and background",
-		"1": "Tinymce included for change content and title",
-		"2": "Settings for disable/enable after next view website"
+		"0": "Settings for text color and background.",
+		"1": "TinyMCE included for change content and title.",
+		"2": "Settings for disable/enable after next view website."
 	},
 	"description_de": "",
 	"features_de": {
@@ -19,8 +19,11 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Создайте блок с информацией для принятия условий сайта пользователями и разместите его на страницах сайта.",
 	"features_ru": {
+		"0": "Настройки цвета текста и фона.",
+		"1": "Используется TinyMCE для изменения содержимого и названия.",
+		"2": "Настройки для отключения / включения блока при повторном просмотре сайта пользователями."
 	},
 	"author_username": "multicolor"
 }
