@@ -8,7 +8,7 @@
 	"download_url": "https://github.com/bludit-plugins/yandex-metrica/archive/1.1.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/bludit-plugins/yandex-metrica",
-	"description": "Yandex Metrica is a web analytics tool that helps you get visual reports and track traffic sources. To use this plugin you need to create an account in <a href=\"https://metrica.yandex.com\">Yandex Metrica</a>.",
+	"description": "Yandex.Metrica is a web analytics tool that helps you get visual reports and track traffic sources. To use this plugin you need to create an account in <a href=\"https://metrica.yandex.com\">Yandex.Metrica</a>.",
 	"features": {
 		"0": "Records all sessions to watch later.",
 		"1": "Referring domains.",
@@ -16,7 +16,7 @@
 		"3": "Behavior analytics.",
 		"4": "Technology analytics."
 	},
-	"description_de": "Yandex Metrica ist eine Werkzeug für die Erfassung und Analyse des Besucherverhaltens. Für die Verwendung des Plugins wird ein Konto bei <a href=\"https://metrica.yandex.com\">Yandex Metrica</a> benötigt.",
+	"description_de": "Yandex.Metrica ist eine Werkzeug für die Erfassung und Analyse des Besucherverhaltens. Für die Verwendung des Plugins wird ein Konto bei <a href=\"https://metrica.yandex.com\">Yandex.Metrica</a> benötigt.",
 	"features_de": {
 		"0": "Aufzeichnung aller Aktionen der Besucher.",
 		"1": "Verweisende Domains.",
@@ -24,7 +24,7 @@
 		"3": "Analyse der Besuchervehaltens.",
 		"4": "Analyse der verwendeten Geräte."		
 	},
-	"description_es": "Yandex Metrica es una herramienta para analizar el trafico en su sitio web. Para utilizar este plugin es necesario una cuenta en <a href=\"https://metrica.yandex.com\">Yandex Metrica</a>.",
+	"description_es": "Yandex.Metrica es una herramienta para analizar el trafico en su sitio web. Para utilizar este plugin es necesario una cuenta en <a href=\"https://metrica.yandex.com\">Yandex.Metrica</a>.",
 	"features_es": {
 		"0": "Graba todas las sesiones para ver más tarde.",
 		"1": "Análisis de dominios de referencia.",
@@ -32,7 +32,7 @@
 		"3": "Análisis de comportamiento.",
 		"4": "Análisis de tecnología."
 	},
-	"description_ru": "Яндекс Метрика — это инструмент веб-аналитики, который помогает получать визуальные отчёты и отслеживать источники трафика. Для использования этого плагина необходимо создать учётную запись в <a href=\"https://metrica.yandex.ru\">Яндекс Метрике</a>.",
+	"description_ru": "Яндекс.Метрика — это инструмент веб-аналитики, который помогает получать визуальные отчёты и отслеживать источники трафика. Для использования этого плагина необходимо создать учётную запись в <a href=\"https://metrica.yandex.ru\">Яндекс.Метрике</a>.",
 	"features_ru": {
 		"0": "Записывает все визиты для просмотра позже.",
 		"1": "Записывает сайты источники трафика.",
