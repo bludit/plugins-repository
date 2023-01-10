@@ -8,32 +8,28 @@
 	"download_url": "https://github.com/multicolor-rgb/hosting-space-detector-bludit/archive/refs/heads/main.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/hosting-space-detector-bludit/",
-	"description": "this plugin send info to admin when website uses too much size",
+	"description": "This plugin send info to admin when website uses too much size.",
 	"features": {
-		"0": "Custom size info",
-		"1": "Easy to use",
-		"2": "Automatic mail when customer use too much space on hosting",
-		"3": ""
+		"0": "Custom size info.",
+		"1": "Easy to use.",
+		"2": "Automatic mail when customer use too much space on hosting."
 	},
 	"description_de": "",
 	"features_de": {
 		"0": "",
 		"1": "",
-		"2": "",
-		"3": ""
+		"2": ""
 	},
 	"description_es": "",
 	"features_es": {
 		"0": "",
 		"1": "",
-		"2": "",
-		"3": ""
+		"2": ""
 	},
-	"description_ru": "",
+	"description_ru": "Отправляет уведомление с информацией администратору, когда сайт занимает слишком много места на хостинге.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": "",
-		"3": ""
+		"0": "Настройка порогового значения размера файлов сайта.",
+		"1": "Плагин прост в использовании и интуитивно понятен.",
+		"2": "Автоматически отправляет email, когда используется слишком много места на хостинге."
 	}
 }
