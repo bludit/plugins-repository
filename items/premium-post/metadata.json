@@ -7,10 +7,10 @@
 	"download_url": "https://github.com/multicolor-rgb/premium-post/raw/premium-post/premium-post.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/premium-post/",
-	"description": "Create content with password",
+	"description": "Create content with password.",
 	"features": {
-		"0": "Custom function get_passContent() for access content with password",
-    "1": "Easy create password for every post/page"
+		"0": "Custom function <code>get_passContent()</code> for access content with password.",
+		"1": "Easy create password for every post/page."
 	},
 	"description_de": "",
 	"features_de": {
@@ -19,9 +19,10 @@
 	"features_es": {
  
 	},
-	"description_ru": "",
+	"description_ru": "Создавайте и публикуйте контент защищая его с помощью пароля.",
 	"features_ru": {
- 
+		"0": "Добавляет пользовательскую функцию <code>get_passContent()</code> для доступа к контенту защищённым паролем.",
+		"1": "С лёгкостью создавайте пароли для каждой записи/страницы."
 	},
 	"author_username": "multicolor"
 }
