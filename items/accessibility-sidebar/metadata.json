@@ -9,8 +9,8 @@
 	"information_url": "https://github.com/multicolor-rgb/accessibility-sidebar-for-bludit/",
 	"description": "This plugin will add Accessibility Sidebar to your website with options like zoom fonts, grayscale, high contrast.",
 	"features": {
-		"0": "Easy to use",
-    "1":"Settings for name buttons and position"
+		"0": "Easy to use.",
+		"1": "Settings for name buttons and position."
 	},
 	"description_de": "",
 	"features_de": {
@@ -18,8 +18,10 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Добавляет боковую панель специальных возможностей (для людей с дефектами зрения) на сайт с такими опциями, как масштабирование шрифтов, оттенки серого, высокая контрастность.",
 	"features_ru": {
+		"0": "Как обычно, очень прост в использовании.",
+		"1": "Есть настройки для названий кнопок и их положения."
 	},
 	"author_username": "multicolor"
 }
