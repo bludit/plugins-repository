@@ -12,7 +12,7 @@
 	"features": {
 		"0": "Restore point on every event.",
 		"1": "Easy to use, only activate the plugin.",
-		"2": "Compatible with Bludit v3.9."
+		"2": "Compatible with Bludit v3.9. or higher."
 	},
 	"description_de": "Timemachine X erlaubt die Wiederherstellung der Website zu früheren Zeitpunkten. Dies ist nützlich, wenn Inhalte gelöscht oder bearbeitet oder die Einstellungen geändert wurden und dies rückgängig gemacht werden soll.",
 	"features_de": {
@@ -26,10 +26,10 @@
 		"1": "Fácil de usar, sólo tiene que activar el plugin.",
 		"2": "Compatible con Bludit v3.9."
 	},
-	"description_ru": "Позволяет вернуться на Ваш сайт в какой-то момент в прошлом, до того как Вы внесли некоторые изменения. Полезно, если Вы удалили запись, файл или внесли изменения в настройки, и хотите вернуть всё назад.",
+	"description_ru": "Позволяет вернуть сайт в какой-то момент в прошлом, до того как были внесены некоторые изменения. Полезно, если удалили запись, файл или внесли изменения в настройки, и хотите вернуть всё назад.",
 	"features_ru": {
 		"0": "Создаёт точку восстановления для каждого события.",
-		"1": "Простота использования, следует только активировать плагин.",
-		"2": "Совместим с Bludit версии 3.9."
+		"1": "Прост в использовании, следует только активировать плагин.",
+		"2": "Совместим с Bludit версиями 3.9 и выше."
 	}
 }
