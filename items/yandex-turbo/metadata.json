@@ -26,7 +26,7 @@
 		"1": "Seleccionar el número de entradas en el feed.",
 		"2": "Seleccione el nombre del archivo para el feed."
 	},
-	"description_ru": "Создаёт RSS-ленту подходящую для генерации страниц Yandex Turbo. Подробнее о технологии Yandex Turbo <a href=\"https:\/\/tech.yandex.ru\/turbo\/doc\/concepts\/index-docpage\/\" target=\"_blank\">читайте тут<\/a>.",
+	"description_ru": "Создаёт RSS-ленту подходящую для генерации Турбо-страниц от Яндекса. Подробнее о технологии Турбо-страниц читайте <a href=\"https:\/\/tech.yandex.ru\/turbo\/doc\/concepts\/index-docpage\/\" target=\"_blank\">тут<\/a> и <a href=\"https:\/\/yandex.ru\/dev\/turbo/\" target=\"_blank\">там<\/a>.",
 	"features_ru": {
 		"0": "Генерация разметки для технологии Yandex Turbo.",
 		"1": "Выбор количества записей в RSS-ленте.",
