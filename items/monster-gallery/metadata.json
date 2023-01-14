@@ -1,0 +1,31 @@
+{
+	"name": "Carousel Creator",
+	"version": "1.0",
+	"release_date": "2023-01-14",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/Bludit-MonsterGallery/archive/refs/tags/1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/Bludit-MonsterGallery/releases/tag/1.0",
+	"description": "Gallery plugin you want use it!",
+	"features": {
+		"0": "Multi gallery creator",
+		"1": "5 types gallery",
+		"2": "shortcode compatible with tinyMCE",
+		"3": "Easy filebrowser & uploader.",
+    "4": "Automatic thumbnails creator with your size"
+
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+
+	},
+	"description_ru": "",
+	"features_ru": {
+ 
+	},
+	"author_username": "multicolor"
+}
