@@ -6,7 +6,7 @@
 	"price_usd": "0",
 	"download_url": "https://github.com/multicolor-rgb/Bludit-MonsterGallery/archive/refs/tags/2.0.0.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/multicolor-rgb/Bludit-MonsterGallery/archive/refs/tags/2.0.0.zip",
+	"information_url": "https://github.com/multicolor-rgb/Bludit-MonsterGallery/",
 	"description": "Gallery plugin you want use it!",
 	"features": {
 		"0": "Multi galleries creator",
@@ -14,19 +14,16 @@
 		"2": "shortcode compatible with tinyMCE",
 		"3": "Easy filebrowser & uploader.",
     "4": "Automatic thumbnails creator with your size",
-		"5":"Migrate URL gallery included"
-
+		"5": "Migrate URL gallery included"
 	},
 	"description_de": "",
 	"features_de": {
 	},
 	"description_es": "",
 	"features_es": {
-
 	},
 	"description_ru": "",
 	"features_ru": {
- 
 	},
 	"author_username": "multicolor"
 }
