@@ -1,15 +1,15 @@
 {
 	"name": "Harmony",
-	"version": "1.0",
-	"release_date": "2023-02-22",
+	"version": "2.0",
+	"release_date": "2023-02-23",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/harmony-plugin-bluditCMS/archive/refs/tags/1.0.zip",
+	"download_url": "https://github.com/multicolor-rgb/harmony-plugin-bluditCMS/archive/refs/tags/2.0.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/harmony-plugin-bluditCMS/",
-	"description": "Easy accordion and tabs creator based on Bootstrap",
+	"description": "Easy accordion and tabs creator based on Bootstrap and prebuild styles",
 	"features": {
-		"0": "Accordion and tabs support based on Bootstrap",
+		"0": "Accordion and tabs support based on Bootstrap and prebuild styles",
 		"1": "Shortcode for tinyMCE",
 		"2": "Easy to use."
  	},
