@@ -1,0 +1,27 @@
+
+
+{
+	"name": "Read Time",
+	"version": "1.0",
+	"release_date": "2023-02-25",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/Read-Time-plugin-for-bludit/archive/refs/tags/1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/Read-Time-plugin-for-bludit/",
+	"description": "This plugin will show estimated time for read page content",
+	"features": {
+		"0": "Easy to use",
+		"1": "Custom mesaage 'minute to read' settings."
+ 	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
