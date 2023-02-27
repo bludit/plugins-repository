@@ -2,13 +2,13 @@
 
 {
 	"name": "Read Time",
-	"version": "1.0",
+	"version": "2.0",
 	"release_date": "2023-02-25",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/Read-Time-plugin-for-bludit/archive/refs/tags/1.0.zip",
+	"download_url": "https://github.com/multicolor-rgb/Read-Time-plugin-for-bludit/archive/refs/tags/2.0.0.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/multicolor-rgb/Read-Time-plugin-for-bludit/",
+	"information_url": "https://github.com/multicolor-rgb/Read-Time-plugin-for-bludit/releases/tag/2.0.0",
 	"description": "This plugin will show estimated time for read page content",
 	"features": {
 		"0": "Easy to use",
