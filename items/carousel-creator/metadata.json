@@ -12,17 +12,19 @@
 		"0": "Compatible with TinyMCE.",
 		"1": "3 arrows styles.",
 		"2": "Sortable options.",
-		"3": "Easy filebrowser & uploader."
-		"4": "Shortcode for tinyMCE support"
+		"3": "Easy filebrowser & uploader.",
+		"4": "Shortcode for TinyMCE support"
 	},
 	"description_de": "",
 	"features_de": {
 	},
 	"description_es": "Este complemento puede crear carrusel con configuraciones en su plantilla.",
 	"features_es": {
-		"0": "Ahora compatible con tinyMCE.",
-		"1": "Se agregaron 2 estilos de flechas.",
-		"2": "Se corrigieron algunos errores."
+		"0": "Compatible con TinyMCE.",
+		"1": "3 estilos de flechas.",
+		"2": "Opciones ordenables.",
+		"3": "Navegador y cargador de archivos.",
+		"4": "Código abreviado para TinyMCE."
 	},
 	"description_ru": "Этот плагин может создать карусель изображений с настройками в вашем шаблоне.",
 	"features_ru": {
