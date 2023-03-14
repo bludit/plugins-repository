@@ -4,9 +4,9 @@
 	"release_date": "2023-04-05",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/carousel-creator-bludit/archive/refs/tags/5.2.0.zip",
+	"download_url": "https://github.com/multicolor-rgb/carousel-creator-bludit/archive/refs/tags/6.0.0.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/multicolor-rgb/carousel-creator-bludit/releases/tag/5.2.0",
+	"information_url": "https://github.com/multicolor-rgb/carousel-creator-bludit/releases/tag/6.0.0",
 	"description": "This plugin can create carousel with settings on your template or post content.",
 	"features": {
 		"0": "Compatible with TinyMCE.",
@@ -15,7 +15,8 @@
 		"3": "Easy filebrowser & uploader with option delete old images",
 		"4": "Shortcode for TinyMCE support",
 		"5": "Support many carousels",
-		"6": "migrator domain for carousel image url"
+		"6": "migrator domain for carousel image url",
+		"7":"Transition and autoplay settings speed"
 	},
 	"description_de": "",
 	"features_de": {
