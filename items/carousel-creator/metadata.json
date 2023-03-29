@@ -7,21 +7,21 @@
 	"download_url": "https://github.com/multicolor-rgb/carousel-creator-bludit/archive/refs/tags/6.0.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/carousel-creator-bludit/releases/tag/6.0.0",
-	"description": "This plugin can create carousel with settings on your template or post content.",
+	"description": "This plugin can create carousels with settings on your template or post content.",
 	"features": {
 		"0": "Compatible with TinyMCE.",
 		"1": "3 arrows styles.",
 		"2": "Sortable options.",
-		"3": "Easy filebrowser & uploader with option delete old images",
-		"4": "Shortcode for TinyMCE support",
-		"5": "Support many carousels",
-		"6": "migrator domain for carousel image url",
-		"7":"Transition and autoplay settings speed"
+		"3": "Easy filebrowser & uploader with option delete old images.",
+		"4": "Shortcode for TinyMCE support.",
+		"5": "Support many carousels.",
+		"6": "Migrator domain for carousel image URL.",
+		"7": "Transition and autoplay settings speed."
 	},
 	"description_de": "",
 	"features_de": {
 	},
-	"description_es": "Este complemento puede crear carrusel con configuraciones en su plantilla.",
+	"description_es": "Este complementos puede crear carrusel con configuraciones en su plantilla.",
 	"features_es": {
 		"0": "Compatible con TinyMCE.",
 		"1": "3 estilos de flechas.",
@@ -29,12 +29,16 @@
 		"3": "Navegador y cargador de archivos.",
 		"4": "Código abreviado para TinyMCE."
 	},
-	"description_ru": "Этот плагин может создать карусель изображений с настройками в вашем шаблоне.",
+	"description_ru": "Этот плагин может создать «карусели» изображений с настройками в вашем шаблоне.",
 	"features_ru": {
 		"0": "Совместим с TinyMCE.",
-		"1": "Два вида стрелочек.",
+		"1": "Три вида стрелочек.",
 		"2": "Сортируемые параметры.",
-		"3": "Простой файловый браузер и загрузчик изображений."
+		"3": "Простой файловый менеджер и удобная загрузка изображений.",
+		"4": "Поддержка шорткодов для TinyMCE.",
+		"5": "Поддержка нескольких видов «каруселей».",
+		"6": "Возможен перенос для URL-адреса изображения в «карусели».",
+		"7": "Настройки скорости прокрутки изображений и автозапуска."
 	},
 	"author_username": "multicolor"
 }
