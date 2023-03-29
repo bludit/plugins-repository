@@ -9,11 +9,11 @@
 	"download_url": "https://github.com/multicolor-rgb/SEOGPT-for-bludit-CMS/archive/refs/tags/1.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/SEOGPT-for-bludit-CMS/releases/tag/1.0",
-	"description": "SEO text generator based on Open AI",
+	"description": "SEO text generator based on Open AI.",
 	"features": {
-		"0": "button to easily put text in tinyMCE",
-		"1": "easy to use",
-		"2": "support many language with question"
+		"0": "Button to easily put text in TinyMCE.",
+		"1": "Easy and convenient to use.",
+		"2": "Support many language with question."
 	},
 	"description_de": "",
 	"features_de": {
@@ -21,8 +21,11 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Генератор SEO-текстов на основе нейросети от Open AI.",
 	"features_ru": {
+		"0": "Кнопка для лёгкого ввода текста в TinyMCE.",
+		"1": "Простой и удобный в использовании плагин.",
+		"2": "Поддерживается множество языков для запросов."
 	},
 	"author_username": "multicolor"
 }
