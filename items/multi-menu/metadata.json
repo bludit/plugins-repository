@@ -9,9 +9,9 @@
 	"information_url": "https://github.com/multicolor-rgb/multiMenu-for-bludit/releases/tag/1.0.1",
 	"description": "Now you can create menu what you want mix with link inside page and outside, only you must is create menu and place function on your template.",
 	"features": {
-		"0": "Easy to use.",
-		"1": "Make menus how many you want",
-		"2": "Compatible with external link"
+		"0": "Simple and convenient to use.",
+		"1": "Make menus how many you want.",
+		"2": "Compatible with external link."
 	},
 	"description_de": "",
 	"features_de": {
@@ -19,9 +19,11 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Cоздайте меню, в которое вы можете намешать ссылки как внитристраничные, так и внешние. Вам всегол ишь необходимо создать меню и разместить его в вашем шаблоне.",
 	"features_ru": {
-	 
+	 	"0": "Прост и удобен в использовании.",
+		"1": "Делайте столько разных меню, сколько захотите.",
+		"2": "Совместим и пригоден для работы с внешними ссылками."
 	},
 	"author_username": "multicolor"
 }
