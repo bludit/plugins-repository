@@ -7,13 +7,12 @@
 	"download_url": "https://github.com/multicolor-rgb/company-slider-for-bludit-cms/archive/refs/tags/1.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/company-slider-for-bludit-cms/releases/tag/1.0",
-	"description": "Carousel creator for logos yours partner",
+	"description": "Carousel creator for logos yours partner.",
 	"features": {
-		"0": "TinyMCE shortode support",
-		"1": "PHP function for template support",
-		"2": "easy to use and many settings option",
-    "3": "based on slick.js"
-
+		"0": "TinyMCE shortode support.",
+		"1": "PHP function for template support.",
+		"2": "Easy to use and many settings option.",
+		"3": "Based on slick.js"
 	},
 	"description_de": "",
 	"features_de": {
@@ -21,8 +20,12 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Создаёт галерею в виде карусели для логотипов ваших партнеров или с подборкой фото и тому подобное.",
 	"features_ru": {
+		"0": "Поддержка шорткода для TinyMCE.",
+		"1": "PHP функция для поддержки шаблонов.",
+		"2": "Простой в использовании, но с множеством настроек.",
+		"3": "Основан на библиотеке slick.js"
 	},
 	"author_username": "multicolor"
 }
