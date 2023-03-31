@@ -7,12 +7,11 @@
 	"download_url": "https://github.com/multicolor-rgb/photoGrabber-for-BluditCMS/archive/refs/tags/1.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/photoGrabber-for-BluditCMS/releases/tag/1.0",
-	"description": "Photos database for commercial use direct to your cms",
+	"description": "Photos database for commercial use direct to your CMS.",
 	"features": {
-		"0": "Functional button PG & PG list integrated with TinyMCE",
+		"0": "Functional button PG & PG list integrated with TinyMCE.",
 		"1": "Easy search and download to your page.",
-		"2": "No api required"
-
+		"2": "No API required."
 	},
 	"description_de": "",
 	"features_de": {
@@ -20,8 +19,11 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "База данных фотографий для коммерческого использования прямо на вашей CMS.",
 	"features_ru": {
+		"0": "Функциональная кнопка «PG & PG list» интегрирована с TinyMCE.",
+		"1": "Удобный поиск и загрузка на вашу страницу.",
+		"2": "Для работы API не требуется."
 	},
 	"author_username": "multicolor"
 }

@@ -9,10 +9,10 @@
 	"download_url": "https://github.com/multicolor-rgb/Read-Time-plugin-for-bludit/archive/refs/tags/2.0.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/Read-Time-plugin-for-bludit/releases/tag/2.0.0",
-	"description": "This plugin will show estimated time for read page content",
+	"description": "This plugin will show estimated time for read page content.",
 	"features": {
-		"0": "Easy to use",
-		"1": "Custom mesaage 'minute to read' settings."
+		"0": "Easy and convenient to use.",
+		"1": "Custom mesaage «minute(s) to read» settings."
  	},
 	"description_de": "",
 	"features_de": {
@@ -20,8 +20,10 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Показывает предполагаемое время для чтения содержимого страницы.",
 	"features_ru": {
+		"0": "Прост и удобен в использовании.",
+		"1": "Можно изменить и настроить сообщение «минут для прочтения»."
 	},
 	"author_username": "multicolor"
 }
