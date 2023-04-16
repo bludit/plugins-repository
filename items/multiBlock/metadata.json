@@ -1,10 +1,10 @@
 {
 	"name": "MultiBlock",
-	"version": "3.0",
-	"release_date": "2022-09-26",
+	"version": "3.1",
+	"release_date": "2022-04-16",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/multiBlock-for-bludit/archive/refs/heads/3.0.zip",
+	"download_url": "https://github.com/multicolor-rgb/multiBlock-for-bludit/archive/refs/heads/3.1.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/multiBlock-for-bludit/",
 	"description": "With this plugin you can create every block with custom fields what you want.",
