@@ -13,8 +13,11 @@
 		"1": "Make menus how many you want.",
 		"2": "Compatible with external link."
 	},
-	"description_de": "",
-	"features_de": {
+	"description_de": "Jetzt können Sie ein Menü erstellen, das Sie mit Link innerhalb und außerhalb der Seite einfügen können. Sie müssen lediglich ein Menü erstellen und die Funktion auf Ihrer Vorlage platzieren.",
+	"features_de":  {
+		"0": "Einfach und bequem in der Anwendung.",
+		"1": "Machen Sie Menüs, wie viele Sie wollen.",
+		"2": "Kompatibel mit externen Links."
 	},
 	"description_es": "",
 	"features_es": {
