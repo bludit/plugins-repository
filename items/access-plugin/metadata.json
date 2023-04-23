@@ -1,10 +1,10 @@
 {
 	"name": "Access Plugin",
-	"version": "1.0",
+	"version": "1.2",
 	"release_date": "2022-10-01",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/access-plugin-for-bludit/raw/main/access-plugin.zip",
+	"download_url": "https://github.com/multicolor-rgb/access-plugin-for-bludit/archive/refs/heads/1.2.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/access-plugin-for-bludit/",
 	"description": "Create information for acceptation to your website.",
