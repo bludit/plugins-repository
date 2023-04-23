@@ -1,0 +1,29 @@
+{
+	"name": "MultiList",
+	"version": "1.0",
+	"release_date": "2023-04-22",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/MultiList-for-BluditCMS/archive/refs/heads/main.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/MultiList-for-BluditCMS/",
+	"description": "Show Categories and Tags with custom settings",
+	"features": {
+		"0": "Easy custom title and button settings",
+		"1": "Categories and Tags limit Settings.",
+		"2": "Turn on/off on sidebar"
+
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+		
+	},
+	"description_ru": "",
+	"features_ru": {
+	
+	},
+	"author_username": "multicolor"
+}
