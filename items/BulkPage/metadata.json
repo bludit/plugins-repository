@@ -1,0 +1,27 @@
+{
+	"name": "BulkPage",
+	"version": "1.0",
+	"release_date": "2023-05-22",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/BulkPage-for-bludit/archive/refs/tags/1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/BulkPage-for-bludit/releases/tag/1.0",
+	"description": "Create Many page & categories fast as you can ",
+	"features": {
+		"0":"create many pages or categories on one time.",
+		"1":"easy to use field for categories and pages.",
+		"2":"preloaded input pages - [tags,content,parent,categories].",
+    "3":"You can create 1000+ pages on one time:)"
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
