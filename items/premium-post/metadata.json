@@ -1,10 +1,10 @@
 {
 	"name": "Premium Post",
-	"version": "1.0",
-	"release_date": "2022-10-15",
+	"version": "2.0",
+	"release_date": "2022-06-01",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/premium-post/raw/premium-post/premium-post.zip",
+	"download_url": "https://github.com/multicolor-rgb/premium-post/archive/refs/heads/2.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/premium-post/",
 	"description": "Create content with password.",
