@@ -1,17 +1,20 @@
 {
 	"name": "MultiMenu",
-	"version": "1.0",
-	"release_date": "2023-02-16",
+	"version": "2.0",
+	"release_date": "2023-06-04",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/multiMenu-for-bludit/archive/refs/tags/1.0.1.zip",
+	"download_url": "https://github.com/multicolor-rgb/multiMenu-for-bludit/archive/refs/heads/2.0-big-update.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/multicolor-rgb/multiMenu-for-bludit/releases/tag/1.0.1",
+	"information_url":"https://github.com/multicolor-rgb/multiMenu-for-bludit/tree/2.0-big-update",
 	"description": "Now you can create menu what you want mix with link inside page and outside, only you must is create menu and place function on your template.",
 	"features": {
 		"0": "Simple and convenient to use.",
 		"1": "Make menus how many you want.",
 		"2": "Compatible with external link."
+		"3":"Compatible with child static site and dropdown",
+		"4":"input for own class",
+		"5":"Clean control panel"
 	},
 	"description_de": "Jetzt können Sie ein Menü erstellen, das Sie mit Link innerhalb und außerhalb der Seite einfügen können. Sie müssen lediglich ein Menü erstellen und die Funktion auf Ihrer Vorlage platzieren.",
 	"features_de":  {
