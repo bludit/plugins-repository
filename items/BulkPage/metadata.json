@@ -1,10 +1,10 @@
 {
 	"name": "BulkPage",
-	"version": "2.2",
-	"release_date": "2023-06-03",
+	"version": "3.0",
+	"release_date": "2023-06-09",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/BulkPage-for-bludit/archive/refs/heads/2.2--now-list-parents-generates-from-json---set_time_limit-changed.zip",
+	"download_url": "https://github.com/multicolor-rgb/BulkPage-for-bludit/archive/refs/heads/3.0----searchbar-default.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/BulkPage-for-bludit/",
 	"description": "Create Many page & categories fast as you can ",
