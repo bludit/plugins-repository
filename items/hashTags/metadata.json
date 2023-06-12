@@ -1,0 +1,25 @@
+{
+	"name": "hashTags",
+	"version": "1.0",
+	"release_date": "2023-07-12",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/hashTags-plugin-for-Bludit-CMS/archive/refs/heads/main.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/hashTags-plugin-for-Bludit-CMS/",
+	"description": "Create hashtags with link to concrete tags.",
+	"features": {
+		"0":"Create link with hashtag or not with link to concrete tags",
+		"1":"Shortcode easy to use"
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
