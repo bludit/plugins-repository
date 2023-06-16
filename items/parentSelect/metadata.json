@@ -1,0 +1,26 @@
+{
+	"name": "parentSelect",
+	"version": "1.0",
+	"release_date": "2023-06-16",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/parentSelect-plugin-for-bludit-cms/archive/refs/heads/main.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/parentSelect-plugin-for-bludit-cms/",
+	"description": " Better parent select input",
+	"features": {
+		"0":"Easy to use",
+		"1":"Settings for return value name"
+ 
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
