@@ -7,11 +7,10 @@
 	"download_url": "https://github.com/multicolor-rgb/parentSelect-plugin-for-bludit-cms/archive/refs/heads/main.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/parentSelect-plugin-for-bludit-cms/",
-	"description": " Better parent select input",
+	"description": "Better parent select input.",
 	"features": {
-		"0":"Easy to use",
-		"1":"Settings for return value name"
- 
+		"0": "Easy to use.",
+		"1": "Settings for return value name."
 	},
 	"description_de": "",
 	"features_de": {
@@ -19,8 +18,10 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Удобный выбор родительской страницы/категории по умолчанию.",
 	"features_ru": {
+		"0": "Плагин прост в использовании.",
+		"1": "Настройки для возвращаемого значения в поле родительской страницы/категории."
 	},
 	"author_username": "multicolor"
 }
