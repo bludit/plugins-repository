@@ -9,8 +9,8 @@
 	"information_url": "https://github.com/multicolor-rgb/hashTags-plugin-for-Bludit-CMS/",
 	"description": "Create hashtags with link to concrete tags.",
 	"features": {
-		"0":"Create link with hashtag or not with link to concrete tags",
-		"1":"Shortcode easy to use"
+		"0": "Create link with hashtag or not with link to concrete tags.",
+		"1": "Shortcode easy to use."
 	},
 	"description_de": "",
 	"features_de": {
@@ -18,8 +18,10 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Создавайте хэштеги со ссылками на конкретные теги.",
 	"features_ru": {
+		"0": "Создайте ссылку с хэштегом или без него, со ссылкой на конкретные теги.",
+		"1": "Этот плагин прост в использовании и у него есть шорткод."
 	},
 	"author_username": "multicolor"
 }
