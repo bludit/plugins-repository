@@ -1,0 +1,32 @@
+{
+	"name": "_NAME_",
+	"version": "1",
+	"author_username": "lhenriksson",
+	"release_date": "2023-07-17",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/lhenriksson/bludit-authorprofiles/archive/refs/tags/Release.zip",
+	"demo_url": "https://demo.lhenriksson.se/author/lhenriksson",
+	"information_url": "https://github.com/lhenriksson/bludit-authorprofiles/",
+	"description": "Plugin that makes author profile available. Also ads functionality to write bio for logged in user.",
+	"features": {
+		"0": "Author pages",
+		"1": "Biographical text for users"
+	},
+	"description_de": "Plugin, das Autorenprofile verfügbar macht. Außerdem wird die Funktion zum Schreiben von Biografien für angemeldete Benutzer angezeigt.",
+	"features_de": {
+		"0": "Autorenseiten",
+		"1": "Biografischer Text für Benutzer"
+	},
+	"description_es": "Complemento que hace que el perfil del autor esté disponible. También funcionalidad de anuncios para escribir biografía para usuarios registrados.",
+	"features_es": {
+		"0": "Páginas de autor",
+		"1": "Texto biográfico para usuarios"
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
