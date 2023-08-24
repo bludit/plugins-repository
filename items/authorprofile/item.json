@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/lhenriksson/bludit-authorprofiles/archive/refs/tags/Release.zip",
-	"demo_url": "https://demo.lhenriksson.se/author/lhenriksson",
+	"demo_url": "",
 	"information_url": "https://github.com/lhenriksson/bludit-authorprofiles/",
 	"description": "Plugin that makes author profile available. Also ads functionality to write bio for logged in user.",
 	"features": {
