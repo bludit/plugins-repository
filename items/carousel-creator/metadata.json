@@ -18,8 +18,16 @@
 		"6": "Migrator domain for carousel image URL.",
 		"7": "Transition and autoplay settings speed."
 	},
-	"description_de": "",
+	"description_de": "Dieses Plugin erlaubt das Erstellen von Karussellen mit Einstellungen auf der Template oder dem Post-Inhalt.",
 	"features_de": {
+		"0": "Kompatible mit TinyMCE.",
+		"1": "3-Pfeile Stil.",
+		"2": "Sortier-Option.",
+		"3": "Einfacher Datei-Browser & Hochlader mit Option alte Bilder zu löschen.",
+		"4": "Kurzcode für TinyMCE Unterstützung.",
+		"5": "Unterstützt mehrere Karusselle.",
+		"6": "Migrator Domain für Karussellbild-URL.",
+		"7": "Geschwindigkeit für Wechsel und Autoplay einstellbar."
 	},
 	"description_es": "Este complementos puede crear carrusel con configuraciones en su plantilla.",
 	"features_es": {
