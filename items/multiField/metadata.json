@@ -1,16 +1,16 @@
 {
 	"name": "MultiField",
-	"version": "1.0",
-	"release_date": "2023-05-22",
+	"version": "2.0",
+	"release_date": "2023-09-17",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/multiFields-for-Bludit/archive/refs/tags/1.0.zip",
+	"download_url": "https://github.com/multicolor-rgb/multiFields-for-Bludit/archive/refs/heads/2.0.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/multicolor-rgb/multiFields-for-Bludit/releases/tag/1.0",
-	"description": "MultiField is Creator for Custom Fields for concrete page.",
+	"information_url": "https://github.com/multicolor-rgb/multiFields-for-Bludit/releases/tag/2.0.0",
+	"description": "MultiField is Creator for Custom Fields for concrete page or All.",
 	"features": {
 		"0":"Easy to use.",
-		"1":"Many custom input (photo, date, color, textarea, TinyMCE).",
+		"1":"Many custom input (photo, date, color, textarea,dropdown,checkbox, TinyMCE).",
 		"2":"Generates function Field for paste on your template."
 	},
 	"description_de": "",
