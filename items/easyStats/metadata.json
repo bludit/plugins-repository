@@ -1,18 +1,20 @@
 {
 	"name": "easyStats",
-	"version": "1.0",
-	"release_date": "2023-09-12",
+	"version": "2.0",
+	"release_date": "2023-10-02",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/easyStats-Plugin-for-bludit-CMS/archive/refs/heads/main.zip",
+	"download_url": "https://github.com/multicolor-rgb/easyStats-Plugin-for-bludit-CMS/archive/refs/heads/2.1.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/multicolor-rgb/easyIcons-for-bluditCMS",
+	"information_url": "https://github.com/multicolor-rgb/easyStats-Plugin-for-bludit-CMS",
 	"description": "this plugin shows statistics by counting only unique IP addresses on a website",
 	"features": {
 		"0": "Easy to use - just plug & play",
 		"1": "counting only unique IP and hash to file for security reason",
-    "2": "Shows Stats for All time, 30 days, 7 days and last 24 hours",
-    "3": "Shows most visits page from whole website"
+    "2": "Shows Stats for All time, 30 days, 7 days and last 1hour,5 minutes and 24 hours",
+    "3": "Shows most visits page from whole website",
+	"4":"Reset count button"
+		
 	},
 	"description_de": "",
 	"features_de": {
