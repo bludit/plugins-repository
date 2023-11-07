@@ -7,12 +7,12 @@
 	"download_url": "https://github.com/multicolor-rgb/easyIcons-for-bluditCMS/archive/refs/heads/main.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/easyIcons-for-bluditCMS",
-	"description": "Use Shortcode on TinyMCE or Markdown for support FontAwesome or Unicons",
+	"description": "Use Shortcode on TinyMCE or Markdown for support FontAwesome or Unicons.",
 	"features": {
 		"0": "Compatible with TinyMCE and markdown.",
-		"1": "Fontawesome css and unicons css compatible",
-		"2": "CSS Style CDN on/off switcher",
-    "3": "Easy to use"
+		"1": "Fontawesome CSS and Unicons CSS compatible.",
+		"2": "CSS Style CDN on/off switcher.",
+		"3": "Easy to use."
 	},
 	"description_de": "",
 	"features_de": {
@@ -21,8 +21,12 @@
 	"features_es": {
  
 	},
-	"description_ru": "",
+	"description_ru": "Использует шорткод в TinyMCE или Markdown для поддержки шрифтов Awesome или Unicons.",
 	"features_ru": {
+		"0": "Совместим с TinyMCE и Markdown.",
+		"1": "Совместим с Fontawesome CSS и Unicons CSS.",
+		"2": "Переключатель включения/выключения CSS стиля в CDN.",
+		"3": "Прост в использовании."
 	},
 	"author_username": "multicolor"
 }

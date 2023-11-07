@@ -7,14 +7,13 @@
 	"download_url": "https://github.com/multicolor-rgb/easyStats-Plugin-for-bludit-CMS/archive/refs/heads/2.1.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/easyStats-Plugin-for-bludit-CMS",
-	"description": "this plugin shows statistics by counting only unique IP addresses on a website",
+	"description": "This plugin shows statistics by counting only unique IP addresses on a website.",
 	"features": {
-		"0": "Easy to use - just plug & play",
-		"1": "counting only unique IP and hash to file for security reason",
-    "2": "Shows Stats for All time, 30 days, 7 days and last 1hour,5 minutes and 24 hours",
-    "3": "Shows most visits page from whole website",
-	"4":"Reset count button"
-		
+		"0": "Easy to use — just plug & play.",
+		"1": "Counting only unique IP and hash to file for security reason.",
+		"2": "Shows Stats for All time, 30 days, 7 days and last 1 hour, 5 minutes and 24 hours.",
+		"3": "Shows most visits page from whole website.",
+		"4": "Reset count button."
 	},
 	"description_de": "",
 	"features_de": {
@@ -23,8 +22,13 @@
 	"features_es": {
 
 	},
-	"description_ru": "",
+	"description_ru": "Этот плагин показывает статистику, подсчитывая только уникальные IP-адреса посетителей на сайте.",
 	"features_ru": {
+		"0": "Простота в использовании — просто подключи и используй.",
+		"1": "Учитывается только уникальные IP-адреса и хэши для файлов из соображений безопасности.",
+		"2": "Показывает статистику: за всё время, 30 дней, 7 дней, за последний 1 час, 5 минут, 24 часа.",
+		"3": "Показывает страницу с наибольшим количеством посещений на всём сайте.",
+		"4": "Кнопка сброса стасистики."
 	},
 	"author_username": "multicolor"
 }
