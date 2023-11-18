@@ -1,0 +1,35 @@
+{
+    "name": "Debug",
+    "version": "1.0.0",
+    "author_username": "Mr.Bot",
+    "release_date": "2023-11-16",
+    "license": "MIT",
+    "price_usd": "0",
+    "download_url": "https://github.com/Scribilicious/bludit-plugin-debug/archive/refs/tags/v1.0.0.zip",
+    "demo_url": "",
+    "information_url": "https://github.com/Scribilicious/bludit-plugin-debug/blob/main/README.md",
+    "description": "Ever wanted to know what is happening behind the curtains of Bludit? With this plugin you can turn on error logging and see what's happening. It comes in handy when developing templates or plugins.",
+    "features": {
+        "0": "Show server logs (you need to set the correct path for your server logs).",
+        "1": "Ability to clear the server logs (depending on your user rights).",
+        "2": "Turn on PHP logging for the administration side, page, or both."
+    },
+    "description_de": "Haben Sie sich jemals gefragt, was hinter den Kulissen von Bludit passiert? Mit diesem Plugin können Sie die Fehlerprotokollierung aktivieren und sehen, was passiert. Es ist nützlich beim Entwickeln von Vorlagen oder Plugins.",
+    "features_de": {
+        "0": "Serverprotokolle anzeigen (Sie müssen den richtigen Pfad für Ihre Serverprotokolle festlegen).",
+        "1": "Möglichkeit, die Serverprotokolle zu löschen (abhängig von Ihren Benutzerrechten).",
+        "2": "Aktivieren Sie die PHP-Protokollierung für die Administration, die Seite oder beides."
+    },
+    "description_es": "¿Alguna vez has querido saber qué está sucediendo detrás de las cortinas de Bludit? Con este complemento, puedes activar el registro de errores y ver qué está sucediendo. Es útil al desarrollar plantillas o complementos.",
+    "features_es": {
+        "0": "Mostrar registros del servidor (debes establecer la ruta correcta para los registros del servidor).",
+        "1": "Capacidad para borrar los registros del servidor (dependiendo de tus derechos de usuario).",
+        "2": "Activar el registro de PHP para la administración, la página o ambos."
+    },
+    "description_ru": "Когда-нибудь хотели знать, что происходит за кулисами Bludit? С помощью этого плагина вы можете включить регистрацию ошибок и увидеть, что происходит. Он пригодится при разработке шаблонов или плагинов.",
+    "features_ru": {
+        "0": "Показывать журналы сервера (вам нужно установить правильный путь для журналов сервера).",
+        "1": "Возможность очистки журналов сервера (в зависимости от ваших прав пользователей).",
+        "2": "Включение регистрации PHP для административной части, страницы или обоих."
+    }
+}
