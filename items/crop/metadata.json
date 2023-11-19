@@ -1,35 +1,35 @@
 {
-    "name": "Debug",
+    "name": "Crop",
     "version": "1.0.0",
     "author_username": "mrbot",
     "release_date": "2023-11-16",
     "license": "MIT",
     "price_usd": "0",
-    "download_url": "https://github.com/Scribilicious/bludit-plugin-debug/archive/refs/tags/v1.0.0.zip",
+    "download_url": "https://github.com/Scribilicious/bludit-plugin-crop/archive/refs/tags/v1.0.0.zip",
     "demo_url": "",
-    "information_url": "https://github.com/Scribilicious/bludit-plugin-debug/blob/main/README.md",
-    "description": "Ever wanted to know what is happening behind the curtains of Bludit? With this plugin you can turn on error logging and see what's happening. It comes in handy when developing templates or plugins.",
+    "information_url": "https://github.com/Scribilicious/bludit-plugin-crop/blob/main/README.md",
+    "description": "Be in control of how the images are scaled and make content and templating easy and consistent 🌻.",
     "features": {
-        "0": "Show server logs (you need to set the correct path for your server logs).",
-        "1": "Ability to clear the server logs (depending on your user rights).",
-        "2": "Turn on PHP logging for the administration side, page, or both."
+        "0": "Resize images to a specified scale.",
+        "1": "Avoid using unnecessarily large user images in your templates.",
+        "2": "Cache control for improved performance."
     },
-    "description_de": "Haben Sie sich jemals gefragt, was hinter den Kulissen von Bludit passiert? Mit diesem Plugin können Sie die Fehlerprotokollierung aktivieren und sehen, was passiert. Es ist nützlich beim Entwickeln von Vorlagen oder Plugins.",
+    "description_de": "Behalten Sie die Kontrolle darüber, wie die Bilder skaliert werden, und machen Sie Inhalte und Vorlagen einfach und konsistent 🌻.",
     "features_de": {
-        "0": "Serverprotokolle anzeigen (Sie müssen den richtigen Pfad für Ihre Serverprotokolle festlegen).",
-        "1": "Möglichkeit, die Serverprotokolle zu löschen (abhängig von Ihren Benutzerrechten).",
-        "2": "Aktivieren Sie die PHP-Protokollierung für die Administration, die Seite oder beides."
+        "0": "Bilder auf einen bestimmten Maßstab verkleinern.",
+        "1": "Vermeiden Sie die Verwendung unnötig großer Benutzerbilder in Ihren Vorlagen.",
+        "2": "Cache-Steuerung für verbesserte Leistung."
     },
-    "description_es": "¿Alguna vez has querido saber qué está sucediendo detrás de las cortinas de Bludit? Con este complemento, puedes activar el registro de errores y ver qué está sucediendo. Es útil al desarrollar plantillas o complementos.",
+    "description_es": "Tenga el control de cómo se escalan las imágenes y haga que el contenido y las plantillas sean fáciles y consistentes 🌻.",
     "features_es": {
-        "0": "Mostrar registros del servidor (debes establecer la ruta correcta para los registros del servidor).",
-        "1": "Capacidad para borrar los registros del servidor (dependiendo de tus derechos de usuario).",
-        "2": "Activar el registro de PHP para la administración, la página o ambos."
+        "0": "Redimensionar imágenes a una escala especificada.",
+        "1": "Evitar el uso de imágenes de usuario innecesariamente grandes en sus plantillas.",
+        "2": "Control de caché para mejorar el rendimiento."
     },
-    "description_ru": "Когда-нибудь хотели знать, что происходит за кулисами Bludit? С помощью этого плагина вы можете включить регистрацию ошибок и увидеть, что происходит. Он пригодится при разработке шаблонов или плагинов.",
+    "description_ru": "Управляйте масштабированием изображений и обеспечьте простоту и последовательность контента и шаблонов 🌻.",
     "features_ru": {
-        "0": "Показывать журналы сервера (вам нужно установить правильный путь для журналов сервера).",
-        "1": "Возможность очистки журналов сервера (в зависимости от ваших прав пользователей).",
-        "2": "Включение регистрации PHP для административной части, страницы или обоих."
+        "0": "Изменение размера изображений до указанного масштаба.",
+        "1": "Избегайте использования избыточно больших изображений пользователей в ваших шаблонах.",
+        "2": "Управление кэшем для повышения производительности."
     }
 }
