@@ -1,10 +1,10 @@
 {
 	"name": "Newsletter plugin",
-	"version": "1.0",
-	"release_date": "2022-11-09",
+	"version": "2.0",
+	"release_date": "2023-24-11",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/newsletter-plugin-for-bludit/raw/main/newsletter.zip",
+	"download_url": "https://github.com/multicolor-rgb/newsletter-plugin-for-bludit/archive/refs/heads/2.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/",
 	"description": "This plugin create easy newsletter for your page.",
@@ -12,7 +12,8 @@
 		"0": "Uses SMTP PHPMailer.",
 		"1": "Add invitiation to newsletter on website.",
 		"2": "Customize invitation message and text button.",
-		"3": "Send newsletter from list on Admin Panel."
+		"3": "Send newsletter from list on Admin Panel.",
+		"4": "Support SMTP and MailTo"
 	},
 	"description_de": "",
 	"features_de": {
