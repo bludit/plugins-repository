@@ -1,0 +1,35 @@
+{
+    "name": "MinJS Compiler",
+    "version": "1.0.0",
+    "author_username": "Mr.Bot",
+    "release_date": "2023-11-26",
+    "license": "MIT",
+    "price_usd": "0",
+    "download_url": "https://github.com/Scribilicious/bludit-plugin-minjs/archive/refs/tags/v1.0.0.zip",
+    "demo_url": "",
+    "information_url": "https://github.com/Scribilicious/bludit-plugin-minjs/blob/main/README.md",
+    "description": "MinJS Compiler compiles your JS files into one compact JS file.",
+    "features": {
+        "0": "Compile multiple JS files into one.",
+        "1": "Have a developer mode for compiling changes on the fly.",
+        "2": "Optional save an uncompressed version of the JS file."
+    },
+    "description_de": "MinJS Compiler kompiliert Ihre JS-Dateien zu einer kompakten JS-Datei.",
+    "features_de": {
+        "0": "Kompilieren Sie mehrere JS-Dateien zu einer einzigen.",
+        "1": "Entwicklermodus zum Kompilieren von Änderungen in Echtzeit.",
+        "2": "Optional eine unkomprimierte Version der JS-Datei speichern."
+    },
+    "description_es": "MinJS Compiler compila tus archivos JS en un archivo JS compacto.",
+    "features_es": {
+        "0": "Compila múltiples archivos JS en uno solo.",
+        "1": "Tiene un modo de desarrollador para compilar cambios sobre la marcha.",
+        "2": "Opcionalmente guarda una versión sin comprimir del archivo JS."
+    },
+    "description_ru": "MinJS Compiler компилирует ваши JS-файлы в один компактный JS-файл.",
+    "features_ru": {
+        "0": "Компилируйте несколько JS-файлов в один.",
+        "1": "Имеет режим разработчика для компиляции изменений на лету.",
+        "2": "Опционально сохраняйте несжатую версию JS-файла."
+    }
+}
