@@ -5,7 +5,7 @@
     "release_date": "2023-11-16",
     "license": "MIT",
     "price_usd": "0",
-    "download_url": "https://github.com/Scribilicious/bludit-plugin-debug/archive/refs/tags/v1.0.0.zip",
+    "download_url": "https://github.com/Scribilicious/bludit-plugin-crop/archive/refs/tags/v1.0.1.zip",
     "demo_url": "",
     "information_url": "https://github.com/Scribilicious/bludit-plugin-debug/blob/main/README.md",
     "description": "Ever wanted to know what is happening behind the curtains of Bludit? With this plugin you can turn on error logging and see what's happening. It comes in handy when developing templates or plugins.",
