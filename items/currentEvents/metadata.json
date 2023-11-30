@@ -1,0 +1,28 @@
+{
+	"name": "CurrentEvents",
+	"version": "1.0",
+	"release_date": "2023-11-30",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/CurrentEvents-plugin-for-Bludit-CMS/archive/refs/tags/1.0.zip",
+	"demo_url": "",
+	"information_url": "https://ko-fi.com/multicolorplugins",
+	"description": "Easy to use calendar plugin",
+	"features": {
+		"0":"🔥 ShortCode and function",
+		"1":"🔥 Creator Events for put on Calendar",
+		"2":"🔥 Based on FullCalendar.io - many option views",
+		"3":"🔥 Custom Lang, first day week and more...",
+    "4":"🔥 Like always, easy to use:)"
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": ".",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
