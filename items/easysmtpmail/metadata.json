@@ -1,4 +1,5 @@
-  "name": "easySMTPmail",
+{
+	"name": "easySMTPmail",
 	"version": "1.0",
 	"release_date": "2023-11-28",
 	"license": "MIT",
