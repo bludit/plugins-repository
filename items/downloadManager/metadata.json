@@ -1,10 +1,10 @@
 {
 	"name": "downloadManager",
-	"version": "1.0",
+	"version": "1.1",
 	"release_date": "2023-12-11",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/downloadManager-Plugin-for-Bludit-CMS/archive/refs/tags/1.0.zip",
+	"download_url": "https://github.com/multicolor-rgb/downloadManager-Plugin-for-Bludit-CMS/archive/refs/tags/1.1.0.zip",
 	"demo_url": "",
 	"information_url": "https://ko-fi.com/multicolorplugins",
 	"description": "Easy create file download link based on shortcode",
