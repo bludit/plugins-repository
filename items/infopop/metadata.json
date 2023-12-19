@@ -1,10 +1,10 @@
 {
 	"name": "Infopop",
-	"version": "1.0",
-	"release_date": "2022-07-25",
+	"version": "2.0",
+	"release_date": "2022-12-19",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/infopop-for-bludit/raw/main/infopop.zip",
+	"download_url": "https://github.com/multicolor-rgb/infopop-for-bludit/archive/refs/tags/2.0.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/infopop-for-bludit",
 	"description": "This plugin add info for users on your website.",
