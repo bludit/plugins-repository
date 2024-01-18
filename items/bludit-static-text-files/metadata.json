@@ -1,0 +1,17 @@
+{
+	"name": "Static Text Files",
+	"version": "0.0.1",
+	"author_username": "abhishek-verma",
+	"release_date": "2024-01-18",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/abhiverma23/bludit-static-text-files/archive/refs/tags/0.0.1.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/abhiverma23/bludit-static-text-files",
+	"description": "Nothing fancy!. Just a plugin for hosting static text files at your desired route. Helpful when you need to enable Ads or requires domain validation by hosting text files.",
+	"features": {
+		"0": "Host static text file",
+		"1": "Create multiple files as many as you like",
+		"2": "-- Create Issues/Bug -- https://github.com/abhiverma23/bludit-static-text-files/issues"
+	}
+}
