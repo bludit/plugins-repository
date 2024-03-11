@@ -1,0 +1,17 @@
+{
+	"name": "Under Construction OR Maintenance",
+	"version": "0.0.2",
+	"author_username": "abhishek-verma",
+	"release_date": "2024-01-18",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/abhiverma23/bludit-under-construction-maintenance/archive/refs/tags/0.0.2.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/abhiverma23/bludit-under-construction-maintenance",
+	"description": "Now get more control on your maintenance page with this plugin. Set what you want to show when your website is under development or maintenance and decide to who you want to show these pages.",
+	"features": {
+		"0": "Set comming soon, under construction, under maintenance, site is offline",
+		"1": "Give flexibility to your developers, admins or editors to see what they are doing on website without worring about your audience seeing the live changes.",
+		"2": "Esay to grant access to logged in users"
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"name": "downloadManager",
+	"version": "1.1",
+	"release_date": "2023-12-11",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/downloadManager-Plugin-for-Bludit-CMS/archive/refs/tags/1.1.0.zip",
+	"demo_url": "",
+	"information_url": "https://ko-fi.com/multicolorplugins",
+	"description": "Easy create file download link based on shortcode",
+	"features": {
+		"0": "Easy to use File Uploader",
+		"1": "Link settings (target,title,class)",
+		"2": "Shortcode and pure url generator",
+    "3": "Access to list files and delete option inside backend",
+    "4": "Support many popular extension"
+	},
+	"description_de": "Erstellen Sie einfach Downloads basierend auf einen Kurzcode.",
+	"features_de": {
+		"0": "Einfach zu benutzender Datei Upload",
+		"1": "Link-Einstellung (Ziel, Titel, Klasse)",
+		"2": "Shortcode und normal URL erzeugen.",
+		"3": "Zugriff über Dateiliste und löschfunktion über Oberfläche",
+		"4": "Support für viele Endungen"
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}

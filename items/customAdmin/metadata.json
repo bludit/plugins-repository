@@ -1,0 +1,31 @@
+{
+	"name": "CustomAdmin",
+	"version": "1.0",
+	"release_date": "2023-12-05",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/CustomAdmin-Plugin-for-BluditCMS/archive/refs/tags/1.0.zip",
+	"demo_url": "",
+	"information_url": "https://ko-fi.com/multicolorplugins",
+	"description": "This plugin open new settings for custom admin dashboard",
+	"features": {
+		"0":"🔥 15+ custom style based on Bootswatch",
+		"1":"🔥 2 custom Login Admin styles",
+		"2":"🔥 Normal/Left/Top Navbar Option",
+    "3":"🔥 Hide name website on Login",
+    "4":"🔥 Dynamic wallpaper from Login",
+    "5":"🔥 Show/Hide Avatar image on Login"
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+		
+	},
+	"description_ru": "",
+	"features_ru": {
+		
+	},
+	"author_username": "multicolor"
+}
