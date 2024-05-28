@@ -1,0 +1,19 @@
+{
+	"name": "SKYNET TECHNOLOGIES USA LLC",
+	"version": "1.0",
+	"author_username": "Rajesh Bhimani",
+	"release_date": "25-05-2024",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/skynettechnologies/bludit-allinoneaccessibility.git",
+	"demo_url": "https://www.skynettechnologies.com",
+	"information_url": "https://www.skynettechnologies.com/sites/default/files/accessibility-widget-features-list.pdf",
+	"description": "All in One Accessibility widget improves website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards. All in One Accessibility Widget complies with GDPR, COPPA regulations.",
+	"features": {
+		"0": "Screen Reader, Talk & Type, Voice Navigation, Dictionary, Virtual Keyboard are the top features",
+		"1": "Accessibility Profiles, Custom Widget Color, Icon size and Position",
+		"2": "AI Widget Supports 140 Languages and Voice Over",
+		"3": "Flexible and lightweight widget that can be changed according to law.",
+		"4": "Remediates image Alternative text"
+	}
+}
