@@ -1,0 +1,39 @@
+{
+	"name": "Maintenance Mode+",
+	"version": "1.1",
+	"author_username": "bluditlab",
+	"release_date": "2024-06-07",
+	"license": "CC BY-NC",
+	"price_usd": "0",
+	"download_url": "https://bluditlab.com/plugins/customization/maintenance-mode-plus/download",
+	"demo_url": "",
+	"information_url": "https://bluditlab.com/plugins/customization/maintenance-mode-plus",
+	"description": "Enhance your site's maintenance mode with our comprehensive plugin, offering customizable options including background and text color adjustments, the choice to display a custom image, and personalized messages for your visitors during downtime.",
+	"features": {
+		"0": "Personalize Background and Text Colors: Gone are the days of a one-size-fits-all maintenance page. With our plugin, you can easily adjust the background and text colors to match your brand or mood. Whether you prefer a calming blue or a vibrant yellow, your maintenance page can be as unique as your website.",
+		"1": "Customizable Maintenance Message: Communication is key during maintenance periods. With our plugin, you can customize the message displayed to your visitors, ensuring they know exactly why your site is down and what they can look forward to when it's back up.",
+		"2": "Display Custom Images: A picture is worth a thousand words, especially when it comes to keeping your visitors informed and engaged. Our plugin allows you to display a custom image above your maintenance message. Whether it's a sneak peek of the upcoming features, a calming landscape, or your logo, the choice is yours.",
+		"3": "Toggle Image Display: We understand that simplicity is sometimes the best approach. That's why our plugin gives you the option to toggle the display of the image. Depending on your preference, you can choose to have a more minimalist maintenance page or one that's more visually engaging."
+	},
+	"description_de": "Verbessern Sie den Wartungsmodus Ihrer Website mit unserem umfassenden Plugin, das anpassbare Optionen wie Hintergrund- und Textfarbanpassungen, die Wahl zur Anzeige eines benutzerdefinierten Bildes und personalisierte Nachrichten für Ihre Besucher während der Ausfallzeit bietet.",
+	"features_de": {
+		"0": "Personalisieren Sie Hintergrund- und Textfarben: Die Zeiten einer einheitlichen Wartungsseite sind vorbei. Mit unserem Plugin können Sie die Hintergrund- und Textfarben ganz einfach an Ihre Marke oder Stimmung anpassen. Egal, ob Sie ein beruhigendes Blau oder ein lebhaftes Gelb bevorzugen, Ihre Wartungsseite kann so einzigartig sein wie Ihre Website.",
+		"1": "Anpassbare Wartungsnachricht: Kommunikation ist während Wartungsperioden entscheidend. Mit unserem Plugin können Sie die Nachricht, die Ihren Besuchern angezeigt wird, anpassen, damit sie genau wissen, warum Ihre Website nicht erreichbar ist und worauf sie sich freuen können, wenn sie wieder online ist.",
+		"2": "Benutzerdefinierte Bilder Anzeigen: Ein Bild sagt mehr als tausend Worte, besonders wenn es darum geht, Ihre Besucher informiert und engagiert zu halten. Unser Plugin ermöglicht es Ihnen, ein benutzerdefiniertes Bild über Ihrer Wartungsnachricht anzuzeigen. Ob es sich um einen Vorgeschmack auf kommende Funktionen, eine beruhigende Landschaft oder Ihr Logo handelt, die Wahl liegt bei Ihnen.",
+		"3": "Bildanzeige Umschalten: Wir verstehen, dass Einfachheit manchmal der beste Ansatz ist. Deshalb bietet unser Plugin Ihnen die Möglichkeit, die Anzeige des Bildes umzuschalten. Je nach Ihren Vorlieben können Sie eine minimalistischere Wartungsseite oder eine visuell ansprechendere Seite wählen."
+	},
+	"description_es": "Mejora el modo de mantenimiento de tu sitio con nuestro plugin integral, que ofrece opciones personalizables como ajustes de color de fondo y texto, la opción de mostrar una imagen personalizada y mensajes personalizados para tus visitantes durante el tiempo de inactividad.",
+	"features_es": {
+		"0": "Personaliza los Colores de Fondo y Texto: Atrás quedaron los días de una página de mantenimiento uniforme. Con nuestro plugin, puedes ajustar fácilmente los colores de fondo y texto para que coincidan con tu marca o estado de ánimo. Ya sea que prefieras un azul relajante o un amarillo vibrante, tu página de mantenimiento puede ser tan única como tu sitio web.",
+		"1": "Mensaje de Mantenimiento Personalizable: La comunicación es clave durante los períodos de mantenimiento. Con nuestro plugin, puedes personalizar el mensaje que se muestra a tus visitantes, asegurándote de que sepan exactamente por qué tu sitio está fuera de línea y qué pueden esperar cuando vuelva a estar en línea.",
+		"2": "Mostrar Imágenes Personalizadas: Una imagen vale más que mil palabras, especialmente cuando se trata de mantener informados y comprometidos a tus visitantes. Nuestro plugin te permite mostrar una imagen personalizada sobre tu mensaje de mantenimiento. Ya sea un adelanto de las próximas características, un paisaje relajante o tu logotipo, la elección es tuya.",
+		"3": "Alternar la Visualización de Imágenes: Entendemos que a veces la simplicidad es el mejor enfoque. Es por eso que nuestro plugin te da la opción de alternar la visualización de la imagen. Dependiendo de tus preferencias, puedes optar por una página de mantenimiento más minimalista o una más visualmente atractiva."
+	},
+	"description_ru": "Улучшите режим обслуживания вашего сайта с помощью нашего комплексного плагина, предлагающего настраиваемые параметры, включая регулировку фона и цвета текста, возможность отображения пользовательского изображения и персонализированные сообщения для ваших посетителей во время простоя.",
+	"features_ru": {
+		"0": "Персонализация Фона и Цвета Текста: Времена универсальной страницы обслуживания прошли. С нашим плагином вы можете легко настроить фон и цвет текста в соответствии с вашим брендом или настроением. Независимо от того, предпочитаете ли вы успокаивающий синий или яркий желтый, ваша страница обслуживания может быть такой же уникальной, как и ваш сайт.",
+		"1": "Настраиваемое Сообщение о Техобслуживании: Общение важно в периоды обслуживания. С нашим плагином вы можете настроить сообщение, отображаемое вашим посетителям, чтобы они точно знали, почему ваш сайт недоступен и что их ждет, когда он снова будет в сети.",
+		"2": "Отображение Пользовательских Изображений: Изображение стоит тысячи слов, особенно когда речь идет о том, чтобы держать ваших посетителей в курсе и заинтересованными. Наш плагин позволяет отображать пользовательское изображение над сообщением о техобслуживании. Будь то предварительный просмотр предстоящих функций, успокаивающий пейзаж или ваш логотип, выбор за вами.",
+		"3": "Переключение Отображения Изображений: Мы понимаем, что простота иногда лучший подход. Поэтому наш плагин дает вам возможность переключать отображение изображения. В зависимости от ваших предпочтений вы можете выбрать более минималистичную страницу обслуживания или более визуально привлекательную."
+	}
+}
