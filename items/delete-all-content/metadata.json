@@ -1,0 +1,35 @@
+{
+	"name": "Delete All Content",
+	"version": "1.0",
+	"author_username": "bluditlab",
+	"release_date": "2024-06-12",
+	"license": "CC BY-NC",
+	"price_usd": "0",
+	"download_url": "https://bluditlab.com/plugins/utility/delete-all-content/download",
+	"demo_url": "",
+	"information_url": "https://bluditlab.com/plugins/utility/delete-all-content",
+	"description": "Clear out your website's content effortlessly with Delete All Content. This user-friendly tool backs up your existing pages before securely deleting them, ensuring you can start fresh with confidence while maintaining the ability to restore if needed.",
+	"features": {
+		"0": "Comprehensive Backup: Before deleting any content, the plugin automatically creates backups of your existing pages and content. This ensures that you can restore your site to its previous state if necessary, providing peace of mind.",
+		"1": "Easy to Use: With a simple interface and intuitive controls, the Delete All Content plugin makes it easy to clear your site. Just a few clicks and your site is ready for a fresh start.",
+		"2": "Safety First: The plugin includes a confirmation alert to prevent accidental deletions. You'll always have the opportunity to confirm your actions, ensuring that your content is only deleted when you truly intend to do so."
+	},
+	"description_de": "Löschen Sie den Inhalt Ihrer Website mühelos mit Delete All Content. Dieses benutzerfreundliche Tool sichert Ihre vorhandenen Seiten, bevor es sie sicher löscht, sodass Sie mit Zuversicht neu beginnen können und die Möglichkeit zur Wiederherstellung bleibt, falls nötig.",
+	"features_de": {
+		"0": "Umfassende Sicherung: Bevor Inhalte gelöscht werden, erstellt das Plugin automatisch Sicherungen Ihrer vorhandenen Seiten und Inhalte. Dies stellt sicher, dass Sie Ihre Website bei Bedarf in den vorherigen Zustand wiederherstellen können, was Ihnen Sicherheit gibt.",
+		"1": "Einfach zu Bedienen: Mit einer einfachen Benutzeroberfläche und intuitiven Steuerungen erleichtert das Delete All Content Plugin das Löschen Ihrer Website. Nur ein paar Klicks und Ihre Website ist bereit für einen Neuanfang.",
+		"2": "Sicherheit Geht Vor: Das Plugin enthält eine Bestätigungswarnung, um versehentliche Löschungen zu verhindern. Sie haben immer die Möglichkeit, Ihre Aktionen zu bestätigen, sodass Ihre Inhalte nur dann gelöscht werden, wenn Sie dies wirklich beabsichtigen."
+	},
+	"description_es": "Limpia el contenido de tu sitio web sin esfuerzo con Delete All Content. Esta herramienta fácil de usar respalda tus páginas existentes antes de eliminarlas de manera segura, asegurando que puedas comenzar de nuevo con confianza mientras mantienes la capacidad de restaurar si es necesario.",
+	"features_es": {
+		"0": "Respaldo Integral: Antes de eliminar cualquier contenido, el plugin crea automáticamente respaldos de tus páginas y contenidos existentes. Esto asegura que puedas restaurar tu sitio a su estado anterior si es necesario, proporcionando tranquilidad.",
+		"1": "Fácil de Usar: Con una interfaz simple y controles intuitivos, el plugin Delete All Content facilita la limpieza de tu sitio. Solo unos pocos clics y tu sitio estará listo para un nuevo comienzo.",
+		"2": "Seguridad Primero: El plugin incluye una alerta de confirmación para evitar eliminaciones accidentales. Siempre tendrás la oportunidad de confirmar tus acciones, asegurando que tu contenido solo se elimine cuando realmente lo deseas."
+	},
+	"description_ru": "Легко очистите содержимое вашего сайта с помощью Delete All Content. Этот удобный инструмент создает резервные копии ваших существующих страниц перед их безопасным удалением, обеспечивая вам уверенность в начале с нуля и возможность восстановления при необходимости.",
+	"features_ru": {
+		"0": "Полное Резервное Копирование: Перед удалением любого содержимого плагин автоматически создает резервные копии ваших существующих страниц и содержимого. Это гарантирует, что вы сможете восстановить ваш сайт в предыдущем состоянии, если это необходимо, обеспечивая спокойствие.",
+		"1": "Легкость в Использовании: С простым интерфейсом и интуитивно понятными элементами управления, плагин Delete All Content облегчает очистку вашего сайта. Всего несколько кликов, и ваш сайт готов к новому началу.",
+		"2": "Безопасность Превыше Всего: Плагин включает предупреждение для подтверждения, чтобы предотвратить случайные удаления. У вас всегда будет возможность подтвердить свои действия, обеспечивая, что ваше содержимое удаляется только тогда, когда вы действительно этого хотите."
+	}
+}
