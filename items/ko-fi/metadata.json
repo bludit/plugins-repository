@@ -1,0 +1,35 @@
+{
+	"name": "Ko-fi",
+	"version": "1.1",
+	"author_username": "bluditlab",
+	"release_date": "2024-04-24",
+	"license": "CC BY-NC",
+	"price_usd": "0",
+	"download_url": "https://bluditlab.com/plugins/e-commerce/ko-fi/download",
+	"demo_url": "",
+	"information_url": "https://bluditlab.com/plugins/e-commerce/ko-fi",
+	"description": "Enhance your site with the 'Ko-fi' plugin! Add customizable donation buttons to your sidebar or content posts to connect with your audience and fuel your creativity.",
+	"features": {
+		"0": "Customizable Support Buttons: Opt for a vibrant 'Ko-fi' image or a refined, modern button using Bootstrap styling. Adjust the button's color to harmonize with your website's design, ensuring it integrates smoothly or pops out to capture attention.",
+		"1": "Adaptable Button Placement: Choose to display the support button in the sidebar for consistent visibility across your site, or position it below your posts to engage readers right when they are most connected to your content.",
+		"2": "Custom Messages: Craft the message that appears below your posts. Whether you prefer a sincere thank you, a witty remark, or a straightforward call to action, you can tailor the text to resonate with your followers and boost contributions."
+	},
+	"description_de": "Verbessern Sie Ihre Website mit dem 'Ko-fi' Plugin! Fügen Sie anpassbare Spendenbuttons in Ihre Seitenleiste oder Content-Posts ein, um mit Ihrem Publikum in Kontakt zu treten und Ihre Kreativität zu fördern.",
+	"features_de": {
+		"0": "Anpassbare Unterstützungsbuttons: Wählen Sie ein lebendiges 'Ko-fi' Bild oder einen eleganten, modernen Button mit Bootstrap-Styling. Passen Sie die Farbe des Buttons an, um das Design Ihrer Website zu harmonisieren, sodass er sich nahtlos integriert oder hervorhebt, um Aufmerksamkeit zu erregen.",
+		"1": "Anpassbare Platzierung des Buttons: Entscheiden Sie, ob der Unterstützungsbutton in der Seitenleiste für eine gleichbleibende Sichtbarkeit auf Ihrer Website angezeigt werden soll, oder platzieren Sie ihn unter Ihren Beiträgen, um Leser genau dann anzusprechen, wenn sie am meisten mit Ihrem Inhalt verbunden sind.",
+		"2": "Personalisierte Nachrichten: Gestalten Sie die Nachricht, die unter Ihren Beiträgen erscheint. Ob Sie eine aufrichtige Dankesnachricht, eine witzige Bemerkung oder einen einfachen Aufruf zum Handeln bevorzugen, Sie können den Text so anpassen, dass er bei Ihren Followern Anklang findet und Beiträge steigert."
+	},
+	"description_es": "¡Mejora tu sitio con el plugin 'Ko-fi'! Añade botones de donación personalizables a tu barra lateral o a las publicaciones de contenido para conectarte con tu audiencia y alimentar tu creatividad.",
+	"features_es": {
+		"0": "Botones de Apoyo Personalizables: Opta por una imagen vibrante de 'Ko-fi' o un botón refinado y moderno utilizando el estilo de Bootstrap. Ajusta el color del botón para armonizar con el diseño de tu sitio web, asegurando que se integre sin problemas o resalte para captar la atención.",
+		"1": "Colocación Adaptable del Botón: Elige mostrar el botón de apoyo en la barra lateral para una visibilidad constante en todo tu sitio, o colócalo debajo de tus publicaciones para atraer a los lectores justo cuando están más conectados con tu contenido.",
+		"2": "Mensajes Personalizados: Diseña el mensaje que aparece debajo de tus publicaciones. Ya sea que prefieras un sincero agradecimiento, un comentario ingenioso o un simple llamado a la acción, puedes adaptar el texto para que resuene con tus seguidores y aumente las contribuciones."
+	},
+	"description_ru": "Улучшите свой сайт с помощью плагина 'Ko-fi'! Добавьте настраиваемые кнопки пожертвований в боковую панель или посты с контентом, чтобы связаться с вашей аудиторией и поддержать ваше творчество.",
+	"features_ru": {
+		"0": "Настраиваемые Кнопки Поддержки: Выберите яркое изображение 'Ko-fi' или утонченную, современную кнопку с использованием стиля Bootstrap. Настройте цвет кнопки, чтобы он гармонировал с дизайном вашего сайта, обеспечивая плавное интегрирование или выделение для привлечения внимания.",
+		"1": "Адаптируемое Размещение Кнопки: Выберите отображение кнопки поддержки в боковой панели для постоянной видимости на вашем сайте или разместите ее под вашими постами, чтобы привлечь внимание читателей именно тогда, когда они наиболее связаны с вашим контентом.",
+		"2": "Пользовательские Сообщения: Создайте сообщение, которое будет отображаться под вашими постами. Независимо от того, предпочитаете ли вы искреннюю благодарность, остроумное замечание или простой призыв к действию, вы можете настроить текст так, чтобы он находил отклик у ваших подписчиков и увеличивал количество пожертвований."
+	}
+}
