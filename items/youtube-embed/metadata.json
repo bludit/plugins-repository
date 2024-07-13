@@ -1,0 +1,39 @@
+{
+	"name": "YouTube Embed",
+	"version": "1.1",
+	"author_username": "bluditlab",
+	"release_date": "2024-04-04",
+	"license": "CC BY-NC",
+	"price_usd": "0",
+	"download_url": "https://bluditlab.com/plugins/media/youtube-embed/download",
+	"demo_url": "https://demo.bluditlab.com/plugin/youtube-embed/",
+	"information_url": "https://bluditlab.com/plugins/media/youtube-embed",
+	"description": "Enhance your Bludit site with the YouTube Embed plugin, allowing easy integration of YouTube videos directly into your content with simple shortcodes. Elevate your blog's visual appeal and engagement effortlessly.",
+	"features": {
+		"0": "Simple Shortcode Embedding: Embed YouTube videos with just a simple shortcode.",
+		"1": "Automatic Responsiveness: Videos automatically adjust to the screen size, ensuring a perfect fit on any device.",
+		"2": "Enhanced User Engagement: Keep visitors on your site longer by offering engaging video content.",
+		"3": "No Configuration Hassle: The plugin works out of the box, with no need for complex setups."
+	},
+	"description_de": "Verbessern Sie Ihre Bludit-Website mit dem YouTube Embed Plugin, das eine einfache Integration von YouTube-Videos direkt in Ihren Inhalt mit einfachen Shortcodes ermöglicht. Steigern Sie die visuelle Attraktivität und das Engagement Ihres Blogs mühelos.",
+	"features_de": {
+		"0": "Einfache Shortcode-Einbettung: Betten Sie YouTube-Videos mit nur einem einfachen Shortcode ein.",
+		"1": "Automatische Reaktionsfähigkeit: Videos passen sich automatisch der Bildschirmgröße an und sorgen für eine perfekte Darstellung auf jedem Gerät.",
+		"2": "Erhöhte Benutzerbindung: Halten Sie Besucher länger auf Ihrer Website, indem Sie ansprechende Videoinhalte anbieten.",
+		"3": "Keine Konfigurationsprobleme: Das Plugin funktioniert sofort, ohne dass komplizierte Einstellungen erforderlich sind."
+	},
+	"description_es": "Mejora tu sitio de Bludit con el plugin YouTube Embed, permitiendo la integración fácil de videos de YouTube directamente en tu contenido con simples códigos cortos. Mejora el atractivo visual de tu blog y la participación de la audiencia sin esfuerzo.",
+	"features_es": {
+		"0": "Incorporación Simple con Código Corto: Incorpora videos de YouTube con solo un simple código corto.",
+		"1": "Adaptabilidad Automática: Los videos se ajustan automáticamente al tamaño de la pantalla, asegurando un ajuste perfecto en cualquier dispositivo.",
+		"2": "Mayor Participación del Usuario: Mantén a los visitantes en tu sitio por más tiempo ofreciendo contenido de video atractivo.",
+		"3": "Sin Problemas de Configuración: El plugin funciona de inmediato, sin necesidad de configuraciones complejas."
+	},
+	"description_ru": "Улучшите свой сайт на Bludit с помощью плагина YouTube Embed, обеспечивающего легкую интеграцию видео YouTube непосредственно в ваш контент с помощью простых шорткодов. Поднимите визуальную привлекательность и вовлеченность вашего блога без особых усилий.",
+	"features_ru": {
+		"0": "Простое Встраивание с помощью Шорткодов: Встраивайте видео YouTube с помощью простого шорткода.",
+		"1": "Автоматическая Адаптивность: Видео автоматически подстраиваются под размер экрана, обеспечивая идеальное отображение на любом устройстве.",
+		"2": "Повышенное Вовлечение Пользователей: Удерживайте посетителей на вашем сайте дольше, предлагая увлекательный видеоконтент.",
+		"3": "Отсутствие Сложностей с Настройкой: Плагин работает сразу, без необходимости сложных настроек."
+	}
+}
