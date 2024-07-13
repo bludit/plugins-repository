@@ -1,0 +1,36 @@
+{
+	"name": "Buy Me A Coffee",
+	"version": "1.1",
+	"author_username": "bluditlab",
+	"release_date": "2024-04-02",
+	"license": "CC BY-NC",
+	"price_usd": "0",
+	"download_url": "https://bluditlab.com/plugins/e-commerce/buy-me-a-coffee/download",
+	"demo_url": "",
+	"information_url": "https://bluditlab.com/plugins/e-commerce/buy-me-a-coffee",
+	"description": "Enhance your site with the 'Buy Me A Coffee' plugin! Add customizable donation buttons to your sidebar or content posts to connect with your audience and fuel your creativity.",
+	"features": {
+		"0": "Anpassbare Spendenbuttons: Wählen Sie zwischen einem auffälligen 'Buy Me A Coffee' Bild oder einem schlanken, modernen Bootstrap-Button. Sie können auch die Farbe des Buttons anpassen, um das Thema Ihrer Website zu ergänzen, damit er perfekt passt oder auffällt, um die Aufmerksamkeit zu erregen.",
+		"1": "Flexible Platzierung: Entscheiden Sie, ob der Spendenbutton in der Seitenleiste für eine sichtbare Platzierung auf der gesamten Website erscheinen soll oder unter den Content-Posts, um die Aufmerksamkeit der Leser nach dem Lesen Ihres Inhalts zu erregen.",
+		"2": "Personalisierter Text: Passen Sie die Nachricht an, die unter Ihren Content-Posts erscheint. Ob es sich um eine herzliche Dankesnachricht, einen lustigen Spruch oder einen einfachen Aufruf zum Handeln handelt, Sie können den Text so gestalten, dass er bei Ihrem Publikum Anklang findet und Spenden fördert."
+	},
+	"description_de": "Verbessern Sie Ihre Website mit dem 'Buy Me A Coffee' Plugin! Fügen Sie anpassbare Spendenbuttons in Ihre Seitenleiste oder Content-Posts ein, um mit Ihrem Publikum in Kontakt zu treten und Ihre Kreativität zu fördern.",
+	"features_de": {
+		"0": "Personalisieren Sie Hintergrund- und Textfarben: Die Zeiten einer einheitlichen Wartungsseite sind vorbei. Mit unserem Plugin können Sie die Hintergrund- und Textfarben ganz einfach an Ihre Marke oder Stimmung anpassen. Egal, ob Sie ein beruhigendes Blau oder ein lebhaftes Gelb bevorzugen, Ihre Wartungsseite kann so einzigartig sein wie Ihre Website.",
+		"1": "Anpassbare Wartungsnachricht: Kommunikation ist während Wartungsperioden entscheidend. Mit unserem Plugin können Sie die Nachricht, die Ihren Besuchern angezeigt wird, anpassen, damit sie genau wissen, warum Ihre Website nicht erreichbar ist und worauf sie sich freuen können, wenn sie wieder online ist.",
+		"2": "Benutzerdefinierte Bilder Anzeigen: Ein Bild sagt mehr als tausend Worte, besonders wenn es darum geht, Ihre Besucher informiert und engagiert zu halten. Unser Plugin ermöglicht es Ihnen, ein benutzerdefiniertes Bild über Ihrer Wartungsnachricht anzuzeigen. Ob es sich um einen Vorgeschmack auf kommende Funktionen, eine beruhigende Landschaft oder Ihr Logo handelt, die Wahl liegt bei Ihnen.",
+		"3": "Bildanzeige Umschalten: Wir verstehen, dass Einfachheit manchmal der beste Ansatz ist. Deshalb bietet unser Plugin Ihnen die Möglichkeit, die Anzeige des Bildes umzuschalten. Je nach Ihren Vorlieben können Sie eine minimalistischere Wartungsseite oder eine visuell ansprechendere Seite wählen."
+	},
+	"description_es": "¡Mejora tu sitio con el plugin 'Buy Me A Coffee'! Añade botones de donación personalizables a tu barra lateral o a las publicaciones de contenido para conectarte con tu audiencia y alimentar tu creatividad.",
+	"features_es": {
+		"0": "Botones de Donación Personalizables: Elige entre una llamativa imagen de 'Buy Me A Coffee' o un botón moderno y elegante de Bootstrap. También puedes personalizar el color del botón para que coincida con el tema de tu sitio, asegurando que se integre perfectamente o destaque para captar la atención.",
+		"1": "Colocación Flexible: Decide si quieres que el botón de donación aparezca en la barra lateral para una visibilidad en todo el sitio o debajo de las publicaciones de contenido para captar la atención del lector después de interactuar con tu contenido.",
+		"2": "Texto Personalizado: Personaliza el mensaje que aparece debajo de tus publicaciones de contenido. Ya sea una nota de agradecimiento sincera, una broma divertida o un simple llamado a la acción, puedes personalizar el texto para que resuene con tu audiencia y fomente las donaciones."
+	},
+	"description_ru": "Улучшите свой сайт с помощью плагина 'Buy Me A Coffee'! Добавьте настраиваемые кнопки пожертвования в боковую панель или посты с контентом, чтобы связаться с вашей аудиторией и поддержать ваше творчество.",
+	"features_ru": {
+		"0": "Настраиваемые Кнопки Пожертвований: Выберите между привлекательным изображением 'Buy Me A Coffee' или стильной, современной кнопкой Bootstrap. Вы также можете настроить цвет кнопки, чтобы он соответствовал теме вашего сайта, гарантируя, что она идеально вписывается или выделяется, чтобы привлечь внимание.",
+		"1": "Гибкое Размещение: Решите, хотите ли вы, чтобы кнопка пожертвования отображалась в боковой панели для видимости на всем сайте или под постами с контентом, чтобы привлечь внимание читателя после взаимодействия с вашим контентом.",
+		"2": "Персонализированный Текст: Настройте сообщение, которое появляется под вашими постами с контентом. Будь то сердечная благодарственная записка, смешная шутка или простой призыв к действию, вы можете настроить текст так, чтобы он находил отклик у вашей аудитории и стимулировал пожертвования."
+	}
+}
