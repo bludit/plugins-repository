@@ -1,0 +1,47 @@
+{
+	"name": "Scroll-Up",
+	"version": "1.1",
+	"author_username": "bluditlab",
+	"release_date": "2024-05-28",
+	"license": "CC BY-NC",
+	"price_usd": "0",
+	"download_url": "https://bluditlab.com/plugins/utility/scroll-up/download",
+	"demo_url": "https://demo.bluditlab.com/plugin/scroll-up/",
+	"information_url": "https://bluditlab.com/plugins/utility/scroll-up",
+	"description": "Improve your website's navigation with our scroll-up button plugin, designed to improve user experience and usability on long, content-rich pages.",
+	"features": {
+		"0": "Customizable Appearance: Easily adjust the button's color, size, icon, and border to match your website's design. Use the integrated color picker for precise customization.",
+		"1": "Smooth Scrolling: Enable smooth scrolling behavior for a more polished user experience.",
+		"2": "Responsive Design: Choose whether to display the button on mobile devices, ensuring a seamless experience across all platforms.",
+		"3": "Icon Options: Select from a variety of icons to personalize the scroll-up button, making it a natural part of your site's aesthetic.",
+		"4": "Easy Integration: Simple setup and integration with your existing Bludit site, allowing you to enhance navigation with minimal effort.",
+		"5": "Lightweight and Efficient: The plugin is optimized for performance, ensuring that it won't slow down your website."
+	},
+	"description_de": "Verbessern Sie die Navigation Ihrer Website mit unserem Scroll-Up-Button-Plugin, das entwickelt wurde, um die Benutzererfahrung und Benutzerfreundlichkeit auf langen, inhaltsreichen Seiten zu verbessern.",
+	"features_de": {
+		"0": "Anpassbares Erscheinungsbild: Passen Sie die Farbe, Größe, das Symbol und den Rand des Buttons einfach an das Design Ihrer Website an. Verwenden Sie den integrierten Farbwähler für präzise Anpassungen.",
+		"1": "Sanftes Scrollen: Aktivieren Sie ein sanftes Scrollverhalten für ein optimiertes Benutzererlebnis.",
+		"2": "Responsives Design: Entscheiden Sie, ob der Button auf mobilen Geräten angezeigt werden soll, um ein nahtloses Erlebnis auf allen Plattformen zu gewährleisten.",
+		"3": "Symboloptionen: Wählen Sie aus einer Vielzahl von Symbolen, um den Scroll-Up-Button zu personalisieren und ihn zu einem natürlichen Bestandteil des Erscheinungsbildes Ihrer Website zu machen.",
+		"4": "Einfache Integration: Einfache Einrichtung und Integration in Ihre bestehende Bludit-Website, wodurch Sie die Navigation mit minimalem Aufwand verbessern können.",
+		"5": "Leicht und Effizient: Das Plugin ist auf Leistung optimiert und stellt sicher, dass es Ihre Website nicht verlangsamt."
+	},
+	"description_es": "Mejora la navegación de tu sitio web con nuestro plugin de botón de desplazamiento hacia arriba, diseñado para mejorar la experiencia del usuario y la usabilidad en páginas largas y ricas en contenido.",
+	"features_es": {
+		"0": "Apariencia Personalizable: Ajusta fácilmente el color, tamaño, ícono y borde del botón para que coincida con el diseño de tu sitio web. Usa el selector de color integrado para una personalización precisa.",
+		"1": "Desplazamiento Suave: Habilita el comportamiento de desplazamiento suave para una experiencia de usuario más pulida.",
+		"2": "Diseño Responsivo: Elige si deseas mostrar el botón en dispositivos móviles, asegurando una experiencia perfecta en todas las plataformas.",
+		"3": "Opciones de Íconos: Selecciona entre una variedad de íconos para personalizar el botón de desplazamiento hacia arriba, haciendo que sea una parte natural de la estética de tu sitio.",
+		"4": "Fácil Integración: Configuración e integración simple con tu sitio Bludit existente, permitiéndote mejorar la navegación con un esfuerzo mínimo.",
+		"5": "Ligero y Eficiente: El plugin está optimizado para el rendimiento, asegurando que no ralentice tu sitio web."
+	},
+	"description_ru": "Улучшите навигацию вашего сайта с помощью нашего плагина кнопки прокрутки вверх, разработанного для улучшения удобства использования и юзабилити на длинных страницах с богатым контентом.",
+	"features_ru": {
+		"0": "Настраиваемый Внешний Вид: Легко настройте цвет, размер, значок и границу кнопки в соответствии с дизайном вашего сайта. Используйте встроенный инструмент выбора цвета для точной настройки.",
+		"1": "Плавная Прокрутка: Включите плавное поведение прокрутки для более изысканного пользовательского опыта.",
+		"2": "Адаптивный Дизайн: Выберите, отображать ли кнопку на мобильных устройствах, обеспечивая бесшовный опыт на всех платформах.",
+		"3": "Выбор Значков: Выбирайте из множества значков, чтобы персонализировать кнопку прокрутки вверх, делая ее естественной частью эстетики вашего сайта.",
+		"4": "Легкая Интеграция: Простая настройка и интеграция с вашим существующим сайтом на Bludit, позволяя улучшить навигацию с минимальными усилиями.",
+		"5": "Легкий и Эффективный: Плагин оптимизирован для производительности, гарантируя, что он не замедлит ваш сайт."
+	}
+}
