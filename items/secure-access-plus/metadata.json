@@ -1,0 +1,39 @@
+{
+	"name": "Secure Access+",
+	"version": "1.1",
+	"author_username": "bluditlab",
+	"release_date": "2024-04-24",
+	"license": "CC BY-NC",
+	"price_usd": "0",
+	"download_url": "https://bluditlab.com/plugins/security/secure-access-plus/download",
+	"demo_url": "https://demo.bluditlab.com/plugin/secure-access-plus/",
+	"information_url": "https://bluditlab.com/plugins/security/secure-access-plus",
+	"description": "Enhance your website's security with Secure Access+, a fully customizable password protection plugin that transforms your login page into a seamless, brand-aligned gateway.",
+	"features": {
+		"0": "Personalize Background and Button Colors: Say goodbye to generic login pages. With Secure Access+, you can easily customize the colors of your login page to align with your brand's aesthetic. Choose from a dynamic palette to set the right tone for your site's entry point.",
+		"1": "Customizable Login Button Text: Communicate with your users from the get-go with customizable button text. Tailor the call-to-action to resonate more personally with your audience, whether you invite them to 'Enter', 'Join Us', or simply 'Login'.",
+		"2": "Adaptive Input Text: Flexibility extends to input fields. Adjust the placeholder text in your password field to guide your visitors smoothly, enhancing both security and usability.",
+		"3": "Responsive Design for All Devices: With mobile-first design principles, Secure Access+ ensures that your protected entry point is as elegant and functional on mobile devices as it is on desktops. Enjoy a flawless, responsive interface that adjusts to fit any screen size, guaranteeing that every user's first interaction with your site is a positive one."
+	},
+	"description_de": "Verbessern Sie die Sicherheit Ihrer Website mit Secure Access+, einem vollständig anpassbaren Passwortschutz-Plugin, das Ihre Login-Seite in ein nahtloses, markengerechtes Tor verwandelt.",
+	"features_de": {
+		"0": "Personalisieren Sie Hintergrund- und Button-Farben: Verabschieden Sie sich von generischen Login-Seiten. Mit Secure Access+ können Sie die Farben Ihrer Login-Seite ganz einfach an das Design Ihrer Marke anpassen. Wählen Sie aus einer dynamischen Palette, um den richtigen Ton für den Einstieg in Ihre Website zu setzen.",
+		"1": "Anpassbarer Login-Button-Text: Kommunizieren Sie von Anfang an mit Ihren Nutzern durch anpassbaren Button-Text. Gestalten Sie den Call-to-Action so, dass er persönlich mit Ihrem Publikum resoniert, ob Sie sie nun einladen, 'Betreten', 'Mitmachen' oder einfach 'Login' zu wählen.",
+		"2": "Adaptive Eingabetexte: Die Flexibilität erstreckt sich auf die Eingabefelder. Passen Sie den Platzhaltertext in Ihrem Passwortfeld an, um Ihre Besucher reibungslos zu leiten und sowohl die Sicherheit als auch die Benutzerfreundlichkeit zu verbessern.",
+		"3": "Responsives Design für Alle Geräte: Mit mobilen Designprinzipien sorgt Secure Access+ dafür, dass Ihr geschützter Einstiegspunkt auf mobilen Geräten genauso elegant und funktional ist wie auf Desktops. Genießen Sie eine fehlerfreie, responsive Benutzeroberfläche, die sich an jede Bildschirmgröße anpasst und garantiert, dass jede erste Interaktion eines Benutzers mit Ihrer Website positiv ist."
+	},
+	"description_es": "Mejora la seguridad de tu sitio web con Secure Access+, un plugin de protección con contraseña totalmente personalizable que transforma tu página de inicio de sesión en una puerta de entrada fluida y alineada con tu marca.",
+	"features_es": {
+		"0": "Personaliza los Colores de Fondo y Botón: Di adiós a las páginas de inicio de sesión genéricas. Con Secure Access+, puedes personalizar fácilmente los colores de tu página de inicio de sesión para alinearlos con la estética de tu marca. Elige entre una paleta dinámica para establecer el tono adecuado en el punto de entrada de tu sitio.",
+		"1": "Texto del Botón de Inicio de Sesión Personalizable: Comunica con tus usuarios desde el principio con texto personalizable en el botón. Adapta el llamado a la acción para resonar de manera más personal con tu audiencia, ya sea que los invites a 'Entrar', 'Únete a Nosotros' o simplemente 'Iniciar Sesión'.",
+		"2": "Texto de Entrada Adaptativo: La flexibilidad se extiende a los campos de entrada. Ajusta el texto del marcador de posición en tu campo de contraseña para guiar a tus visitantes sin problemas, mejorando tanto la seguridad como la usabilidad.",
+		"3": "Diseño Responsivo para Todos los Dispositivos: Con principios de diseño móvil primero, Secure Access+ garantiza que tu punto de entrada protegido sea tan elegante y funcional en dispositivos móviles como en escritorios. Disfruta de una interfaz receptiva impecable que se ajusta a cualquier tamaño de pantalla, garantizando que la primera interacción de cada usuario con tu sitio sea positiva."
+	},
+	"description_ru": "Улучшите безопасность вашего сайта с помощью Secure Access+, полностью настраиваемого плагина защиты паролем, который превращает вашу страницу входа в бесшовный, соответствующий бренду портал.",
+	"features_ru": {
+		"0": "Персонализация Цветов Фона и Кнопок: Попрощайтесь с обычными страницами входа. С помощью Secure Access+ вы можете легко настроить цвета вашей страницы входа в соответствии с эстетикой вашего бренда. Выберите из динамической палитры, чтобы задать правильный тон для точки входа на ваш сайт.",
+		"1": "Настраиваемый Текст Кнопки Входа: Общайтесь с пользователями с самого начала с помощью настраиваемого текста на кнопке. Настройте призыв к действию так, чтобы он лучше подходил вашей аудитории, будь то приглашение 'Войти', 'Присоединиться к нам' или просто 'Вход'.",
+		"2": "Адаптивный Текст Ввода: Гибкость распространяется на поля ввода. Настройте текст-заполнитель в поле пароля, чтобы плавно направлять ваших посетителей, повышая как безопасность, так и удобство использования.",
+		"3": "Адаптивный Дизайн для Всех Устройств: Следуя принципам мобильного дизайна, Secure Access+ обеспечивает, что ваша защищенная точка входа будет столь же элегантной и функциональной на мобильных устройствах, как и на настольных компьютерах. Наслаждайтесь безупречным, адаптивным интерфейсом, который подстраивается под любой размер экрана, гарантируя, что первое взаимодействие каждого пользователя с вашим сайтом будет положительным."
+	}
+}

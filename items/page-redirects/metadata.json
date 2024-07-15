@@ -1,0 +1,35 @@
+{
+	"name": "Page Redirects",
+	"version": "1.1",
+	"author_username": "bluditlab",
+	"release_date": "2024-04-14",
+	"license": "CC BY-NC",
+	"price_usd": "0",
+	"download_url": "https://bluditlab.com/plugins/utility/page-redirects/download",
+	"demo_url": "https://demo.bluditlab.com/plugin/page-redirects/",
+	"information_url": "https://bluditlab.com/plugins/utility/page-redirects",
+	"description": "Streamline your website's URL redirection with our Redirect Plugin, ideal for maintaining user experience and SEO during site changes or migrations.",
+	"features": {
+		"0": "Maintaining SEO Value: When URLs change, the SEO value accumulated over time can be lost. Proper redirection preserves these values, passing on the benefits to the new URL.",
+		"1": "Enhancing User Experience: Avoid the frustration associated with landing on outdated or broken links. Redirect users to the relevant content they are searching for without hassle.",
+		"2": "Securing Your Site: Automatically redirect HTTP traffic to HTTPS, enhancing your website's security and trustworthiness."
+	},
+	"description_de": "Optimieren Sie die URL-Weiterleitung Ihrer Website mit unserem Redirect Plugin, ideal für die Aufrechterhaltung der Benutzererfahrung und SEO während Website-Änderungen oder -Migrationen.",
+	"features_de": {
+		"0": "Erhaltung des SEO-Werts: Wenn sich URLs ändern, kann der über die Zeit angesammelte SEO-Wert verloren gehen. Durch die richtige Weiterleitung bleiben diese Werte erhalten und die Vorteile werden an die neue URL weitergegeben.",
+		"1": "Verbesserung der Benutzererfahrung: Vermeiden Sie die Frustration, die mit veralteten oder defekten Links verbunden ist. Leiten Sie Benutzer ohne Probleme zu den relevanten Inhalten weiter, nach denen sie suchen.",
+		"2": "Sicherung Ihrer Website: Leiten Sie automatisch den HTTP-Verkehr zu HTTPS um und erhöhen Sie so die Sicherheit und Vertrauenswürdigkeit Ihrer Website."
+	},
+	"description_es": "Optimiza la redirección de URL de tu sitio web con nuestro plugin de redirección, ideal para mantener la experiencia del usuario y el SEO durante los cambios o migraciones del sitio.",
+	"features_es": {
+		"0": "Mantener el Valor SEO: Cuando las URLs cambian, el valor SEO acumulado con el tiempo puede perderse. La redirección adecuada preserva estos valores, transfiriendo los beneficios a la nueva URL.",
+		"1": "Mejorar la Experiencia del Usuario: Evita la frustración asociada con enlaces obsoletos o rotos. Redirige a los usuarios al contenido relevante que están buscando sin complicaciones.",
+		"2": "Asegurar tu Sitio: Redirige automáticamente el tráfico HTTP a HTTPS, mejorando la seguridad y la confiabilidad de tu sitio web."
+	},
+	"description_ru": "Оптимизируйте перенаправление URL вашего сайта с помощью нашего плагина Redirect, идеально подходящего для поддержания пользовательского опыта и SEO во время изменений или миграций сайта.",
+	"features_ru": {
+		"0": "Сохранение SEO-значения: Когда URL-адреса изменяются, накопленное со временем SEO-значение может быть утрачено. Правильное перенаправление сохраняет эти значения, передавая преимущества новому URL-адресу.",
+		"1": "Улучшение Пользовательского Опыта: Избегайте разочарования, связанного с устаревшими или неработающими ссылками. Перенаправляйте пользователей к нужному контенту без лишних хлопот.",
+		"2": "Обеспечение Безопасности Вашего Сайта: Автоматически перенаправляйте HTTP-трафик на HTTPS, повышая безопасность и надежность вашего сайта."
+	}
+}
