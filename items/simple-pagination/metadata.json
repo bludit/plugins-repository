@@ -1,0 +1,39 @@
+{
+	"name": "Simple Pagination",
+	"version": "1.0",
+	"author_username": "bluditlab",
+	"release_date": "2024-07-18",
+	"license": "End User License Agreement (EULA)",
+	"price_usd": "3",
+	"download_url": "https://payhip.com/b/m0hrQ",
+	"demo_url": "https://demo.bluditlab.com/plugin/simple-pagination/",
+	"information_url": "https://bluditlab.com/plugins/content/simple-pagination",
+	"description": "Enable seamless navigation by splitting long articles into multiple pages. Enhance readability and user engagement effortlessly. Just insert <!-- pagebreak --> in your content, and let our Simple Pagination plugin do the rest.",
+	"features": {
+		"0": "Automatic Page Breaks: Just insert <!-- pagebreak --> in your content, and the Simple Pagination plugin will do the rest. It divides your content into separate pages, providing a seamless reading experience.",
+		"1": "Customizable Pagination Links: Our plugin generates elegant, styled pagination links that fit seamlessly into your website's design. You can easily customize the appearance to match your site's theme.",
+		"2": "Improved Readability: Breaking down long articles into smaller sections helps readers to digest information better. Simple Pagination ensures your content is easy to read and navigate, enhancing user engagement.",
+		"3": "SEO-Friendly: By splitting content into multiple pages, each with its own URL, Simple Pagination can help improve your site's SEO. More pages mean more opportunities for your content to be indexed and found by search engines."
+	},
+	"description_de": "Ermöglichen Sie eine nahtlose Navigation, indem Sie lange Artikel in mehrere Seiten aufteilen. Verbessern Sie die Lesbarkeit und das Benutzerengagement mühelos. Fügen Sie einfach <!-- pagebreak --> in Ihren Inhalt ein, und unser Simple Pagination Plugin erledigt den Rest.",
+	"features_de": {
+		"0": "Automatische Seitenumbrüche: Fügen Sie einfach <!-- pagebreak --> in Ihren Inhalt ein, und das Simple Pagination Plugin übernimmt den Rest. Es teilt Ihren Inhalt in separate Seiten auf und sorgt für ein nahtloses Leseerlebnis.",
+		"1": "Anpassbare Paginierungslinks: Unser Plugin generiert elegante, stilisierte Paginierungslinks, die sich nahtlos in das Design Ihrer Website einfügen. Sie können das Erscheinungsbild problemlos an das Thema Ihrer Website anpassen.",
+		"2": "Verbesserte Lesbarkeit: Das Aufteilen langer Artikel in kleinere Abschnitte hilft den Lesern, Informationen besser zu verarbeiten. Simple Pagination stellt sicher, dass Ihre Inhalte leicht zu lesen und zu navigieren sind, was das Benutzerengagement erhöht.",
+		"3": "SEO-freundlich: Durch das Aufteilen von Inhalten in mehrere Seiten, jede mit ihrer eigenen URL, kann Simple Pagination dazu beitragen, das SEO Ihrer Website zu verbessern. Mehr Seiten bedeuten mehr Möglichkeiten, dass Ihre Inhalte von Suchmaschinen indexiert und gefunden werden."
+	},
+	"description_es": "Habilite la navegación sin problemas dividiendo artículos largos en varias páginas. Mejore la legibilidad y el compromiso del usuario sin esfuerzo. Simplemente inserte <!-- pagebreak --> en su contenido, y nuestro plugin Simple Pagination hará el resto.",
+	"features_es": {
+		"0": "Saltos de página automáticos: Simplemente inserte <!-- pagebreak --> en su contenido, y el plugin Simple Pagination se encargará del resto. Divide su contenido en páginas separadas, proporcionando una experiencia de lectura sin interrupciones.",
+		"1": "Enlaces de paginación personalizables: Nuestro plugin genera elegantes enlaces de paginación estilizados que se integran perfectamente en el diseño de su sitio web. Puede personalizar fácilmente la apariencia para que coincida con el tema de su sitio.",
+		"2": "Mejora de la legibilidad: Dividir artículos largos en secciones más pequeñas ayuda a los lectores a digerir mejor la información. Simple Pagination asegura que su contenido sea fácil de leer y navegar, mejorando el compromiso del usuario.",
+		"3": "SEO-Amigable: Al dividir el contenido en múltiples páginas, cada una con su propia URL, Simple Pagination puede ayudar a mejorar el SEO de su sitio. Más páginas significan más oportunidades para que su contenido sea indexado y encontrado por los motores de búsqueda."
+	},
+	"description_ru": "Обеспечьте бесшовную навигацию, разделяя длинные статьи на несколько страниц. Улучшите читаемость и вовлеченность пользователей без особых усилий. Просто вставьте <!-- pagebreak --> в ваш контент, и наш плагин Simple Pagination сделает остальное.",
+	"features_ru": {
+		"0": "Автоматические разрывы страниц: Просто вставьте <!-- pagebreak --> в ваш контент, и плагин Simple Pagination сделает остальное. Он разделит ваш контент на отдельные страницы, обеспечивая бесшовное чтение.",
+		"1": "Настраиваемые ссылки на страницы: Наш плагин генерирует элегантные стилизованные ссылки на страницы, которые идеально вписываются в дизайн вашего сайта. Вы можете легко настроить внешний вид, чтобы он соответствовал теме вашего сайта.",
+		"2": "Улучшенная читаемость: Разделение длинных статей на меньшие части помогает читателям лучше усваивать информацию. Simple Pagination обеспечивает легкость чтения и навигации по вашему контенту, повышая вовлеченность пользователей.",
+		"3": "SEO-дружественность: Разделение контента на несколько страниц, каждая со своим URL, может помочь улучшить SEO вашего сайта. Больше страниц означает больше возможностей для индексации и нахождения вашего контента поисковыми системами."
+	}
+}
