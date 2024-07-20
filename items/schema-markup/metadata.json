@@ -1,0 +1,39 @@
+{
+	"name": "Schema Markup",
+	"version": "1.0",
+	"author_username": "bluditlab",
+	"release_date": "2024-07-19",
+	"license": "CC BY-NC",
+	"price_usd": "0",
+	"download_url": "https://bluditlab.com/plugins/content/schema-markup/download",
+	"demo_url": "https://demo.bluditlab.com/plugin/schema-markup/",
+	"information_url": "https://bluditlab.com/plugins/content/schema-markup",
+	"description": "Add structured data to your content seamlessly. Automatically incorporate Schema.org markup into your articles and pages, improving SEO and visibility in rich search results.",
+	"features": {
+		"0": "Automatic Schema.org Markup: The plugin automatically adds Schema.org structured data to your articles and pages, ensuring they are optimized for search engines without any manual effort.",
+		"1": "Customizable Content Types: Choose from various Schema.org content types, such as NewsArticle, BlogPosting, and more, to best fit your content. This flexibility allows you to tailor the structured data to your specific needs.",
+		"2": "Enhanced SEO: By including structured data, Schema Markup helps improve your site's SEO. Rich snippets and better search engine understanding can lead to higher rankings and more traffic.",
+		"3": "Improved Content Visibility: Structured data helps search engines understand your content better, making it more likely to appear in rich results, such as carousels and knowledge graphs, thereby increasing your content's visibility."
+	},
+	"description_de": "Fügen Sie nahtlos strukturierte Daten zu Ihrem Inhalt hinzu. Integrieren Sie automatisch Schema.org-Markup in Ihre Artikel und Seiten, um SEO und Sichtbarkeit in erweiterten Suchergebnissen zu verbessern.",
+	"features_de": {
+		"0": "Automatisches Schema.org-Markup: Das Plugin fügt automatisch Schema.org-strukturierte Daten zu Ihren Artikeln und Seiten hinzu, um sicherzustellen, dass sie ohne manuellen Aufwand für Suchmaschinen optimiert sind.",
+		"1": "Anpassbare Inhaltstypen: Wählen Sie aus verschiedenen Schema.org-Inhaltstypen, wie z.B. NewsArticle, BlogPosting und mehr, um Ihren Inhalt am besten anzupassen. Diese Flexibilität ermöglicht es Ihnen, die strukturierten Daten an Ihre spezifischen Bedürfnisse anzupassen.",
+		"2": "Verbesserte SEO: Durch die Einbeziehung strukturierter Daten hilft Schema Markup, das SEO Ihrer Website zu verbessern. Rich Snippets und ein besseres Verständnis durch Suchmaschinen können zu höheren Rankings und mehr Verkehr führen.",
+		"3": "Verbesserte Inhaltssichtbarkeit: Strukturierte Daten helfen Suchmaschinen, Ihren Inhalt besser zu verstehen, was die Wahrscheinlichkeit erhöht, dass er in erweiterten Ergebnissen wie Karussells und Wissensdiagrammen erscheint, wodurch die Sichtbarkeit Ihres Inhalts erhöht wird."
+	},
+	"description_es": "Agregue datos estructurados a su contenido sin problemas. Incorpore automáticamente el marcado de Schema.org en sus artículos y páginas, mejorando el SEO y la visibilidad en los resultados de búsqueda enriquecidos.",
+	"features_es": {
+		"0": "Marcado automático de Schema.org: El plugin agrega automáticamente datos estructurados de Schema.org a sus artículos y páginas, asegurando que estén optimizados para los motores de búsqueda sin ningún esfuerzo manual.",
+		"1": "Tipos de contenido personalizables: Elija entre varios tipos de contenido de Schema.org, como NewsArticle, BlogPosting y más, para adaptar mejor su contenido. Esta flexibilidad le permite personalizar los datos estructurados según sus necesidades específicas.",
+		"2": "Mejora del SEO: Al incluir datos estructurados, Schema Markup ayuda a mejorar el SEO de su sitio. Los fragmentos enriquecidos y una mejor comprensión por parte de los motores de búsqueda pueden llevar a rankings más altos y más tráfico.",
+		"3": "Mayor visibilidad del contenido: Los datos estructurados ayudan a los motores de búsqueda a comprender mejor su contenido, lo que aumenta la probabilidad de que aparezca en resultados enriquecidos, como carruseles y gráficos de conocimiento, aumentando así la visibilidad de su contenido."
+	},
+	"description_ru": "Добавьте структурированные данные в ваш контент без усилий. Автоматически включайте разметку Schema.org в ваши статьи и страницы, улучшая SEO и видимость в расширенных результатах поиска.",
+	"features_ru": {
+		"0": "Автоматическая разметка Schema.org: Плагин автоматически добавляет структурированные данные Schema.org в ваши статьи и страницы, гарантируя их оптимизацию для поисковых систем без каких-либо ручных усилий.",
+		"1": "Настраиваемые типы контента: Выбирайте из различных типов контента Schema.org, таких как NewsArticle, BlogPosting и другие, чтобы лучше соответствовать вашему контенту. Эта гибкость позволяет вам адаптировать структурированные данные к вашим конкретным потребностям.",
+		"2": "Улучшение SEO: Включение структурированных данных помогает улучшить SEO вашего сайта. Расширенные сниппеты и лучшее понимание со стороны поисковых систем могут привести к более высоким рейтингам и большему трафику.",
+		"3": "Улучшенная видимость контента: Структурированные данные помогают поисковым системам лучше понять ваш контент, что увеличивает вероятность его появления в расширенных результатах, таких как карусели и графы знаний, повышая видимость вашего контента."
+	}
+}
