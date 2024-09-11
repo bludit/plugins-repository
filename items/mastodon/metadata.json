@@ -1,19 +1,19 @@
 {
   "name": "Mastodon",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author_username": "tim-moritz",
-  "release_date": "2023-08-31",
+  "release_date": "2024-09-11",
   "license": "MIT",
   "price_usd": "0",
-  "download_url": "https://gitlab.com/bludit-plugins1/mastodon/-/archive/1.1.0/mastodon-1.1.0.zip",
+  "download_url": "https://gitlab.com/bludit-plugins1/mastodon/-/archive/1.2.0/mastodon-1.2.0.zip",
   "demo_url": "",
   "information_url": "https://gitlab.com/bludit-plugins1/mastodon",
-  "description": "Publish new posts on Mastodon. Mastodon is free and open-source software for running self-hosted social networking services.",
+  "description": "Publish new posts on Mastodon or Friendica. Mastodon is free and open-source software for running self-hosted social networking services.",
   "features": {
     "0": "",
     "1": ""
   },
-  "description_de": "Neue Inhalte auf Mastodon veröffentlichen.",
+  "description_de": "Neue Inhalte auf Mastodon oder Friendica veröffentlichen.",
   "features_de": {
     "0": "",
     "1": ""
@@ -23,7 +23,7 @@
     "0": "",
     "1": ""
   },
-  "description_ru": "Публикуйте новые посты в Mastodon. Mastodon — свободное программное обеспечение для развёртывания распределённых социальных сетей.",
+  "description_ru": "Публикуйте новые посты в Mastodon или Friendica. Mastodon — свободное программное обеспечение для развёртывания распределённых социальных сетей.",
   "features_ru": {
     "0": "",
     "1": ""
