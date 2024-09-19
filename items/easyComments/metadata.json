@@ -1,10 +1,10 @@
 {
 	"name": "easyComments",
-	"version": "3.0",
-	"release_date": "2024-08-26",
+	"version": "3.1",
+	"release_date": "2024-09-19",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/EasyComments-for-Bludit-CMS/archive/refs/heads/3.0.zip",
+	"download_url": "https://github.com/multicolor-rgb/EasyComments-for-Bludit-CMS/archive/refs/heads/3.1.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/EasyComments-for-Bludit-CMS/",
 	"description": "Easy Comments system for everyone for normal page and post",
