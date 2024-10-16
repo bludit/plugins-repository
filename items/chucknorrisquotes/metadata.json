@@ -1,0 +1,20 @@
+{
+    "name": "Chuck Norris Quotes Plugin",
+    "version": "1.0.0",
+    "author_username": "joho",
+    "release_date": "2024-10-16",
+    "license": "AGPLv3",
+    "price_usd": "0",
+    "download_url": "https://github.com/joho1968/bludit-chucknorrisquotes/archive/refs/tags/1.0.0.zip",
+    "demo_url": "https://bludit-bs5simplyblog.joho.se/chuck-norris-quotes",
+    "information_url": "https://bludit-bs5simplyblog.joho.se/chuck-norris-quotes",
+    "credits": "WebbPlatsen i Sverige AB",
+    "credits_url": "https://www.webbplatsen.se",
+    "description": "Chuck Norris Quotes Plugin for displaying random quotes in Bludit content",
+    "features": {
+        "0": "Uses a shortcode, making it versatile",
+        "1": "Configurable quote refresh times",
+        "2": "Configurable quote category",
+        "3": "Ignores content in pre HTML tags"
+    }
+}
