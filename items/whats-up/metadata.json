@@ -1,0 +1,23 @@
+{
+    "name": "What's Up",
+    "version": "1.0.0",
+    "author_username": "joho",
+    "release_date": "2024-11-13",
+    "license": "AGPLv3",
+    "price_usd": "0",
+    "download_url": "https://github.com/joho1968/bludit-whats-up/archive/refs/tags/1.0.0.zip",
+    "demo_url": "https://bludit-bs5simplyblog.joho.se/whatsup",
+    "information_url": "https://github.com/joho1968/bludit-whats-up",
+    "credits": "WebbPlatsen i Sverige AB",
+    "credits_url": "https://www.webbplatsen.se",
+    "description": "This plugin allows you to display events from an .ics source as an agenda with previous, current, and upcoming events on your website.",
+    "features": {
+        "0": "Calendar agenda display",
+        "1": "Uses a shortcode, making it versatile",
+        "2": "Ignores content in pre HTML tags",
+        "3": "Can be used in the sidebar",
+        "4": "Can be configured for HH:MM or AM/PM time display",
+        "5": "Display past, present, and future events",
+        "6": "Can use local .ics file or a remote .ics URL"
+    }
+}

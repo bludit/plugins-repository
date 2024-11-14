@@ -1,0 +1,19 @@
+{
+    "name": "Are We Open",
+    "version": "1.0.1",
+    "author_username": "joho",
+    "release_date": "2024-11-13",
+    "license": "AGPLv3",
+    "price_usd": "0",
+    "download_url": "https://github.com/joho1968/bludit-areweopen/archive/refs/tags/1.0.1.zip",
+    "demo_url": "https://bludit-bs5simplyblog.joho.se/areweopen",
+    "information_url": "https://github.com/joho1968/bludit-areweopen",
+    "credits": "WebbPlatsen i Sverige AB",
+    "credits_url": "https://www.webbplatsen.se",
+    "description": "This plugin allows you to display availability and/or business operating open/closed notices on your Bludit website",
+    "features": {
+        "0": "Display availability and/or business operating open/closed notices on your website.",
+        "1": "Uses a shortcode, making it versatile",
+        "2": "Ignores content in pre HTML tags"
+    }
+}
