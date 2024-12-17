@@ -10,13 +10,13 @@
 	"information_url": "https://github.com/xm74/ads4u",
 	"description": "Add advertising on your site with Ads4U.",
 	"features": {
-		"0":"Required: theme implements pageEnd hook.",
+		"0":"Required: theme implements <code>pageEnd</code> hook.",
 		"1":"Enable/Disable on published/static pages.",
 		"2":"In code field paste your ads. It allows HTML and JS."		
 	},
 	"description_pt": "Adicione publicidade em seu site com Ads4U.",
 	"features_pt": {
-		"0":"Obrigatório: tema deve implementar o gancho pageEnd.",
+		"0":"Obrigatório: tema deve implementar o gancho <code>pageEnd</code>.",
 		"1":"Ative/desative em páginas publicadas/estáticas.",
 		"2":"No campo de código cole seus anúncios. Permite HTML e JS."
 	},	
@@ -28,15 +28,15 @@
 	},
 	"description_es": "Agregue publicidad en su sitio con Ads4U.",
 	"features_es": {
-		"0":"Obligatorio: el tema implementa la función pageEnd.",
+		"0":"Obligatorio: el tema implementa la función <code>pageEnd</code>.",
 		"1":"Habilitar/Deshabilitar en páginas publicadas/estáticas.",
 		"2":"En el campo de código pegue sus anuncios. Permite HTML y JS."		
 	},
-	"description_ru": "Добавьте рекламу на свой сайт с помощью Ads4U.",
+	"description_ru": "Добавляет рекламу на ваш сайт с помощью партнёрской сети Ads4U.",
 	"features_ru": {
-		"0":"Обязательно: в теме должен быть использован хук pageEnd.",
+		"0":"Обязательно: в теме должен быть использован хук <code>pageEnd</code>.",
 		"1":"Включение/выключение на опубликованных/статических страницах.",
-		"2":"Вставьте в соответствующее поле код своих объявлений. Поле поддерживает и позволяет использовать HTML и JS."	
+		"2":"Вставьте в соответствующее поле настроек плагина код своих объявлений. Поле поддерживает и позволяет использовать HTML и JS."	
 	},
 	"author_username": "xm74"
 }
