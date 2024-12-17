@@ -9,27 +9,15 @@
 	"information_url": "https://github.com/philippd1/theme-uninstaller/",
 	"description": "This plugin show list all installed themes, and uninstall them with a single click.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "Dieses Plugin kann alle installierten Designs auflisten und mit einem einzigen Klick deinstallieren.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "Este complemento muestra una lista de todos los temas instalados y los desinstala con un solo clic.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
-	"description_ru": "Этот плагин отображает все установленные темы, и помогает удалять их одним щелчком мыши.",
+	"description_ru": "Показывает все установленные темы, помогает их удалять буквально одним щелчком мыши.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"author_username": "philippd"
 }
