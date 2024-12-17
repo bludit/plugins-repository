@@ -17,7 +17,7 @@
 	"description_es": "Una extensión de Parsedown que agrega soporte para Markdown extra.",
 	"features_es": {
 	},
-	"description_ru": "Расширение Parsedown, которое добавляет поддержку Markdown Extra.",
+	"description_ru": "Добавляет расширенный парсер Markdown с поддержой Markdown Extra.",
 	"features_ru": {
 	},
 	"author_username": "diego"
