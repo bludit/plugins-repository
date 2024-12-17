@@ -10,7 +10,7 @@
 	"description": "Enable private mode and be redirected to the authentication page for viewing the site.",
 	"features": {
 		"0":"Enable/Disable private mode.",
-		"1":"Type a message to show visitors."		
+		"1":"Type a message to show visitors."
 	},
 	"description_pt": "Habilite o modo privado e seja redirecionado para a página de autenticação para visualização do site.",
 	"features_pt": {
@@ -19,18 +19,18 @@
 	},	
 	"description_de": "Aktivieren Sie den privaten Modus und werden Sie zur Anzeige der Site auf die Authentifizierungsseite umgeleitet.",
 	"features_de": {
-		"0":"Aktivieren / Deaktivieren des privaten Modus.",
-		"1":"Setzen Sie eine Nachricht, um Besucher zu zeigen."		
+		"0":"Aktivieren/Deaktivieren des privaten Modus.",
+		"1":"Setzen Sie eine Nachricht, um Besucher zu zeigen."
 	},
 	"description_es": "Habilite el modo privado y sea redirigido a la página de autenticación para ver el sitio.",
 	"features_es": {
-		"0":"Activar / desactivar el modo privado.",
-		"1":"Pon un mensaje para mostrar a los visitantes."				
+		"0":"Activar/desactivar el modo privado.",
+		"1":"Pon un mensaje para mostrar a los visitantes."
 	},
-	"description_ru": "Включает приватный режим для вашего сайта. Пользователи будут перенаправлены на страницу аутентификации для просмотра сайта.",
+	"description_ru": "Включает приватный режим для вашего сайта. Пользователи будут перенаправлены на страницу аутентификации для просмотра содержимого сайта.",
 	"features_ru": {
-		"0":"Включить / выключить приватный режим.",
-		"1":"Поместите сообщение, чтобы показывать его посетителям сайта."				
+		"0":"Включает/выключает приватный режим.",
+		"1":"Напишите специальное сообщение, чтобы показывать его посетителям сайта."
 	},
 	"author_username": "anaggh"
 }
