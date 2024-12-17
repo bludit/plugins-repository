@@ -17,7 +17,7 @@
 	"description_es": "Breadcrumbs siguiendo el esquema de schema.org en <a href=\"https://schema.org/BreadcrumbList\" target=\"_blank\">schema.org</a>. Por lo general, es una listado de elementos que consiste en una cadena de páginas web vinculadas, descritas usando al menos su URL y su nombre, y que normalmente termina con la página actual.",
 	"features_es": {
 	},
-	"description_ru": "Плагин Breadcrumbs следует схеме правил представленных на <a href=\"https://schema.org/BreadcrumbList\" target=\"_blank\">schema.org</a>. Обычно это список состоящий из цепочки связанных веб-страниц, описываемых с использованием их URL-адреса и имени, и обычно заканчивающихся текущей страницей.",
+	"description_ru": "Добавляет хлебные крошки, соответствующие схеме на <a href=\"https://schema.org/BreadcrumbList\" target=\"_blank\">schema.org</a>. Обычно это ItemList, состоящий из цепочки связанных страниц, описанных с использованием их URL и имени, и заканчивающийся текущей страницей.",
 	"features_ru": {
 	},
 	"author_username": "cajzer"
