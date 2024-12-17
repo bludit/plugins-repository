@@ -7,13 +7,13 @@
 	"download_url": "https://github.com/multicolor-rgb/CurrentEvents-plugin-for-Bludit-CMS/archive/refs/tags/1.0.zip",
 	"demo_url": "",
 	"information_url": "https://ko-fi.com/multicolorplugins",
-	"description": "Easy to use calendar plugin",
+	"description": "Easy to use calendar plugin.",
 	"features": {
-		"0":"🔥 ShortCode and function",
-		"1":"🔥 Creator Events for put on Calendar",
-		"2":"🔥 Based on FullCalendar.io - many option views",
-		"3":"🔥 Custom Lang, first day week and more...",
-    "4":"🔥 Like always, easy to use:)"
+		"0":"🔥 ShortCode and function.",
+		"1":"🔥 Creator Events for put on Calendar.",
+		"2":"🔥 Based on FullCalendar.io — many option views.",
+		"3":"🔥 Custom language, first day week and more...",
+		"4":"🔥 Like always, easy to use :)"
 	},
 	"description_de": "",
 	"features_de": {
@@ -21,8 +21,13 @@
 	"description_es": ".",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Простой в использовании плагин календаря.",
 	"features_ru": {
+		"0":"🔥 Имеет свой шорткод и функцию.",
+		"1":"🔥 Емеет интерфейс создания событий для их последующего добавления в календарь.",
+		"2":"🔥 На основе FullCalendar.io — множество вариантов просмотра.",
+		"3":"🔥 Можно настроить язык, первый день недели и многое другое...",
+		"4":"🔥 Как всегда, лёгок в использовании 😊"
 	},
 	"author_username": "multicolor"
 }
