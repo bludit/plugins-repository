@@ -9,27 +9,15 @@
 	"information_url": "https://github.com/clickwork-git/content-id",
 	"description": "The plugin shows the ID of content (page or post) above the editor field.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "Das Plugin zeigt die ID eines Inhalts (Seite oder Beitrag) über dem Editorfeld.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
-	"description_es": "Este módulo logra que se muestre el número ID de contenido (Página o Post de Blog)",
+	"description_es": "Este módulo logra que se muestre el número ID de contenido (Página o Post de Blog).",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
-	"description_ru": "Плагин показывает уникальный идентификатор (ID) контента (выделенной страницы сайта или записи).",
+	"description_ru": "Добавляет отображение уникального идентификатора (ID) контента: любой страницы сайта или записи сайта.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"author_username": "clickwork"
 }
