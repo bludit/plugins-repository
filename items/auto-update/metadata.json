@@ -20,7 +20,7 @@
 	"description_es": "Actualiza automáticamente la versión más reciente de Bludit y todos los complementos y temas de los repositorios.",
 	"features_es": {
 	},
-	"description_ru": "Автоматически обновляет версию Bludit до самой последней, а также все плагины и темы, беря обновления напрямую из репозиториев.",
+	"description_ru": "Автоматически обновляет версию Bludit до самой последней, а также обновляет все установленные плагины и темы, беря обновления напрямую из репозиториев.",
 	"features_ru": {
 	},
 	"author_username": "hertste"
