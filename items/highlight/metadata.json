@@ -23,9 +23,9 @@
 	"features_es": {
 		"0": "El complemento usa la biblioteca highlight.js. Crea tu contenido y coloca tu código entre las etiquetas '<pre> <code> ... </code> </pre>' para renderizarlo con el tema seleccionado automáticamente."
 	},
-	"description_ru": "Плагин позволяет отображать контент в виде кода с подсветкой синтаксиса на страницах записей.",
+	"description_ru": "Позволяет отображать контент в виде кода с подсветкой синтаксиса на страницах записей.",
 	"features_ru": {
-		"0": "Плагин использует библиотеку highlight.js. Создайте свой контент и поместите свой код между тегами '<pre> <code> ... </code> </pre>', чтобы автоматически отобразить его с выбранной темой."
+		"0": "Для работы использует библиотеку highlight.js. Создайте свой контент и поместите свой код между тегами '<pre> <code> ... </code> </pre>', чтобы автоматически отобразить его с выбранной темой."
 	},
 	"author_username": "hydrock"
 }
