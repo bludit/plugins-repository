@@ -9,27 +9,15 @@
 	"information_url": "https://github.com/philippd1/theme-download/",
 	"description": "This plugin show list all officially available themes, download and install them with a single click.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "Dieses Plugin kann alle offiziell verfügbaren Designs auflisten, herunterladen und mit einem einzigen Klick installieren.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "Este complemento muestra una lista de todos los temas disponibles oficialmente, descárguelos e instálelos con un solo clic.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
-	"description_ru": "Этот плагин отображает все официально доступные темы, помогает скачивать и устанавливать их одним щелчком мыши.",
+	"description_ru": "Показывает все официально доступные темы, помогает их скачивать и устанавливать буквально одним щелчком мыши.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"author_username": "philippd"
 }
