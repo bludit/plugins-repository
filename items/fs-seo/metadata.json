@@ -13,9 +13,9 @@
 	"description": "Twitter, OpenGraph and Sitemap Plugins in one.",
 	"features": 
 	{
-		"0": "Facebook OpenGraph - improve the sharing of articles from your website on social networks with dynamic insertion of image, text and site name.",
-		"1": "Twitter Cards - by sharing a link on this social network your article will be more attractive.",
-		"2": "Sitemap - extension that generates an XML file of the pages of your site that help search engines in indexing the content.",
+		"0": "Facebook OpenGraph — improve the sharing of articles from your website on social networks with dynamic insertion of image, text and site name.",
+		"1": "Twitter Cards — by sharing a link on this social network your article will be more attractive.",
+		"2": "Sitemap — extension that generates an XML file of the pages of your site that help search engines in indexing the content.",
 		"3": "Improved social network plugins based on BluSEO plugin and added fallback where there no images, description etc."
 	},
 	"description_pt": "Plugins Twitter Cards, Open Graph e Sitemap em um.",
@@ -42,12 +42,12 @@
 		"2": "Sitemap - Erweiterung, die eine XML-Datei der Seiten Ihrer Website generiert, die Suchmaschinen bei der Indizierung des Inhalts unterstützt.",
 		"3": "Verbesserte Plugins für soziale Netzwerke basierend auf dem BluSEO-Plugin und Fallback hinzugefügt, wenn keine Bilder, Beschreibungen usw. vorhanden sind."
 	},	
-	"description_ru": "Плагины Twitter Cards, Open Graph и Sitemap в одном.",
+	"description_ru": "3 в 1. Содержит в себе плагины: Twitter Cards, Open Graph, карта сайта.",
 	"features_ru": 
 	{
-		"0": "Facebook OpenGraph - улучшите обмен статьями с вашего сайта в социальных сетях с помощью динамической вставки изображения, текста и имени сайта.",
-		"1": "Карты Twitter - если вы поделитесь ссылкой в ​​этой социальной сети, ваша статья будет более привлекательной.",
-		"2": "Карта сайта - расширение, которое генерирует XML-файл страниц вашего сайта, который помогает поисковым системам индексировать контент.",
-		"3": "Улучшены плагины социальных сетей на основе BluSeo и добавлен резервный вариант, где нет изображений, описания и т. Д."
+		"0": "Facebook OpenGraph — улучшите обмен статьями с вашего сайта в социальных сетях с помощью динамической вставки изображения, текста описания и имени сайта.",
+		"1": "Карты Twitter — если вы поделитесь ссылкой на страницу вашего сайта в ​​этой социальной сети, ваша ссылка будет выглядеть более привлекательно.",
+		"2": "Карта сайта — генерирует XML-файл страниц вашего сайта, который помогает поисковым системам индексировать контент сайта.",
+		"3": "Улучшены плагины социальных сетей на основе BluSeo и добавлен резервный вариант, где нет изображений, описания и так далее."
 	}
 }
