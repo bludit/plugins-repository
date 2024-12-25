@@ -10,38 +10,38 @@
   "information_url": "https://bludit-plugins.com",
   "description": "Inserts a contact form on a selected page. The template can be customized. Other features include spam protection, GDPR settings and an optional copy of the message to the sender. SMTP and the PHP mail() function are available for sending.",
   "features": {
-    "0": "Adds a contact form to a selected page",
-    "1": "Contact form with customizable template",
+    "0": "Adds a contact form to a selected page.",
+    "1": "Contact form with customizable template.",
     "2": "Supports PHP mail() and SMTP.",
-    "3": "GDPR compliant",
-    "4": "send copy of mail to user (optional)",
-    "5": "Spam protection with Google reCPATCHA v2, hCaptcha or a logical question"
+    "3": "GDPR compliant.",
+    "4": "send copy of mail to user (optional).",
+    "5": "Spam protection with Google reCPATCHA v2, hCaptcha or a logical question."
   },
   "description_de": "Fügt ein Kontaktformular auf einer ausgewählten Seiten ein. Das Template kann individuell angepasst werden. Weitere Features sind Spam-Schutz, DSGVO Einstellungen und eine optionale Kopie der Nachricht an den Absender. Zum Versenden stehen SMTP und die PHP-mail()-Funktion zur Verfügung.",
   "features_de": {
-    "0": "Kontaktformular auf einer Seite integrieren",
-    "1": "Template für das Formular kann angepasst werden",
-    "2": "Unterstützt PHP mail() oder SMTP",
-    "3": "EU-DSGVO konform",
-    "4": "E-Mail-Kopie an Absender (optional)",
-    "5": "Spam Schutz mit Google reCPATCHA v2, hCaptcha oder einer logischen Frage"
+    "0": "Kontaktformular auf einer Seite integrieren.",
+    "1": "Template für das Formular kann angepasst werden.",
+    "2": "Unterstützt PHP mail() oder SMTP.",
+    "3": "EU-DSGVO konform.",
+    "4": "E-Mail-Kopie an Absender (optional).",
+    "5": "Spam Schutz mit Google reCPATCHA v2, hCaptcha oder einer logischen Frage."
   },
   "description_es": "Inserta un formulario de contacto en una página seleccionada. La plantilla se puede personalizar. Otras características son la protección contra el spam, la configuración de GDPR y una copia opcional del mensaje al remitente. Para el envío están disponibles SMTP y la función PHP-mail().",
   "features_es": {
-    "0": "Añade un formulario de contacto a una página seleccionada",
-    "1": "Formulario de contacto con plantilla personalizable",
-    "2": "Soporta PHP mail() y SMTP",
-    "3": "Cumple con el GDPR",
-    "4": "enviar copia del correo al remitente (opcional)",
-    "5": "Protección contra el spam con Google reCPATCHA v2, hCaptcha o una pregunta lógica"
+    "0": "Añade un formulario de contacto a una página seleccionada.",
+    "1": "Formulario de contacto con plantilla personalizable.",
+    "2": "Soporta PHP mail() y SMTP.",
+    "3": "Cumple con el GDPR.",
+    "4": "enviar copia del correo al remitente (opcional).",
+    "5": "Protección contra el spam con Google reCPATCHA v2, hCaptcha o una pregunta lógica."
   },
-  "description_ru": "Вставляет контактную форму на выбранной странице. Шаблон можно настроить. Другие функции включают защиту от спама, настройки GDPR и дополнительную копию сообщения отправителю. Для отправки доступны SMTP и функция PHP-mail().",
+  "description_ru": "Вставляет контактную форму с настраиваемым шаблоном на выбранной странице. Есть защита от спама, настройки GDPR, можно отправить копию сообщения отправителю. Для отправки доступны SMTP и функция PHP mail().",
   "features_ru": {
-    "0": "Добавляет контактную форму на выбранную страницу",
-    "1": "Форма контакта с настраиваемым шаблоном",
-    "2": "Поддерживает PHP mail() и SMTP",
-    "3": "Соответствует GDPR",
-    "4": "отправить копию письма отправителю (необязательно)",
-    "5": "Защита от спама с помощью Google reCPATCHA v2, hCaptcha или логического вопроса"
+    "0": "Добавляет контактную форму на выбранную страницу.",
+    "1": "Контактная форма имеет настраиваемый шаблон.",
+    "2": "Поддерживает PHP mail() и SMTP.",
+    "3": "Соответствует GDPR.",
+    "4": "Можно отправлять копию письма отправителю (необязательно и настраивается).",
+    "5": "Защита от спама с помощью Google reCPATCHA v2, hCaptcha или логического вопроса."
   }
 }
