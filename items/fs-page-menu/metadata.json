@@ -16,7 +16,7 @@
 		"0": "Enable/Disable each subplugin and a sidebar link.",
 		"1": "Add spaces before code or remove all spaces.",
 		"2": "Reorder and delete pages.",
-		"3": "Compatible with PHP 8."
+		"3": "Compatible with PHP 8+."
 	},
 	
 	"description_pt": "Esta extensão contém três versões melhoradas dos plugins padrões do CMS Links, Navigation e Static Pages. Todos implementam o recurso de posicionamento em outros locais do tema.",
@@ -25,7 +25,7 @@
 		"0": "Habilita/desabilita cada subplugin e um link da barra lateral.",
 		"1": "Adicione espaços antes do código ou remova todos espaços.",
 		"2": "Reordene e exclua páginas.",
-		"3": "Compatível com PHP 8."
+		"3": "Compatível com PHP 8+."
 	},	
 	
 	"description_de": "Diese Erweiterung enthält drei verbesserte Versionen der Standard-CMS-Add-Ons: Links, Navigation und Static Pages. Alle implementieren die Standortfunktion in anderen Teilen des Themes.",
@@ -41,15 +41,15 @@
 		"0": "Habilite/deshabilite cada subplugin y un enlace de barra lateral.",
 		"1": "Agregue espacios antes del código.",
 		"2": "Reordenar y eliminar páginas.",
-		"3": "PHP 8 compatible."
+		"3": "PHP 8+ compatible."
 	},
 	
-	"description_ru": "Это расширение содержит три улучшенные версии плагинов: CMS Links, Navigation и Static Pages по умолчанию. Все они имеют функцию размещения информации в других местах темы.",
+	"description_ru": "3 в 1. Содержит три улучшенные версии плагинов: CMS Links, Navigation, Static Pages. Все они имеют функцию размещения информации в разных местах темы.",
 	"features_ru": 
 	{
-		"0": "Включить/отключить каждый субплагин и ссылку на боковой панели.",
-		"1": "Регулирует отступы перед кодом или удаляет их вовсе.",
-		"2": "Изменяет порядок страниц или удаляет их.",
-		"3": "Совместим с PHP 8."
+		"0": "Включайте и отключайте каждый субплагин и ссылку на боковой панели по отдельности.",
+		"1": "Регулируйте отступы перед кодом или удалите их вовсе.",
+		"2": "Изменяйте порядок страниц или удалите их.",
+		"3": "Совместим с версией PHP 8+."
 	}
 }
