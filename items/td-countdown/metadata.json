@@ -17,7 +17,7 @@
 		"4": "Display only on sidebar.",
 		"5": "Display only on selected page or on all pages..."
 	},
-	"description_de": "_DESCRIPTION_GERMAN_",
+	"description_de": "Das TD Countdown-Plugin ist ein Countdown-Plugin mit benutzerdefinierter Datums- und Uhrzeiteinstellung, Kopfzeilentext und HTML-formatierter Nachrichtenanzeige.",
 	"features_de": {
 		"0": "",
 		"1": "",
@@ -32,7 +32,7 @@
 		"4": "Mostrar solo en la barra lateral.",
 		"5": "Mostrar solo en la página seleccionada o en todas las páginas..."
 	},
-	"description_ru": "Плагин обратного отсчёта с настройкой даты и времени, текстом заголовка и отображением сообщений с поддержкой HTML.",
+	"description_ru": "Добавляет плашку обратного отсчёта с настройкой даты и времени, текстом заголовка и отображением сообщений с поддержкой HTML.",
 	"features_ru": {
 		"0": "Отображение плашки обратного отсчёта до содержимого страниц, после содержимого страниц, либо до и после.",
 		"1": "Пользовательский текст сообщения в формате HTML.",
