@@ -10,7 +10,7 @@
 	"information_url": "https://tompidev.com/fontawesome-helper",
 	"description": "FontAwesome Helper is a Bludit plugin which can help for developers quickly review and insert icons into the HTML source.",
 	"features": {
-		"0": "More than 650 icons by the lineawesome.css file of Bludit.",
+		"0": "More than 650 icons by the <code>lineawesome.css</code> file of Bludit.",
 		"1": "Clickable icons in a modal window.",
 		"2": "A \"one click copy\" feature which will help you to copy the HTML formatted icon code to the clipboard.",
 		"3": "Search box to find icons.",
@@ -25,19 +25,20 @@
 	},
 	"description_es": "FontAwesome Helper es un complemento de Bludit que puede ayudar a los desarrolladores a revisar e insertar íconos rápidamente en el código HTML.",
 	"features_es": {
-		"0": "Más de 650 iconos del archivo lineawesome.css de Bludit.",
+		"0": "Más de 650 iconos del archivo <code>lineawesome.css</code> de Bludit.",
 		"1": "Iconos en los que se puede hacer clic en una ventana modal.",
 		"2": "Una función \"copiar con un clic\" que le ayudará a copiar el código del icono con formato HTML en el portapapeles.",
 		"3": "Cuadro de búsqueda para encontrar iconos.",
 		"4": "Selector de tamaño de icono.",
 		"5": "Interfaz de usuario multilingüe."
 	},
-	"description_ru": "Плагин для Bludit, который может помочь разработчикам быстро просматривать и вставлять значки из набора FontAwesome в исходный HTML-код.",
+	"description_ru": "Помогает разработчикам быстро просматривать и вставлять значки из набора FontAwesome в исходный HTML-код страниц сайта.",
 	"features_ru": {
-		"0": "Более 650 иконок в файле lineawesome.css для Bludit.",
-		"1": "Кликабедьные значки в модальном окне.",
-		"2": "Функция копирования в один клик, которая поможет Вам скопировать код значка в формате HTML в буфер обмена.",
-		"3": "Поле поиска чтобы бысто искать значки.",
-		"4": "Селектор размера значка."
+		"0": "Более 650 иконок в файле <code>lineawesome.css</code> для Bludit.",
+		"1": "Кликабедьные иконки в модальном окне.",
+		"2": "Функция копирования в один клик, которая поможет вам скопировать код иконки в формате HTML в буфер обмена.",
+		"3": "Поле поиска чтобы бысто искать иконки.",
+		"4": "Селектор размера иконки.",
+		"5": "Многоязычный интерфейс плагина."
 	}
 }
