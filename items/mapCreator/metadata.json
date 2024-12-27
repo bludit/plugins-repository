@@ -9,10 +9,10 @@
 	"information_url": "https://github.com/multicolor-rgb/mapCreator-for-bludit/",
 	"description": "This plugin gives you tools for creating maps on your website.",
 	"features": {
-		"0":"Multipoints on one map support.",
-		"1":"Easy to use on TinyMCE.",
-		"2":"Easy to use on Template.",
-		"3":"Multimap and popup on points support."
+		"0": "Multipoints on one map support.",
+		"1": "Easy to use on TinyMCE.",
+		"2": "Easy to use on Template.",
+		"3": "Multimap and popup on points support."
 	},
 	"description_de": "",
 	"features_de": {
@@ -20,12 +20,12 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Этот плагин предоставляет инструменты для создания карт на вашем сайте.",
+	"description_ru": "Добавляет инструменты для создания интерактивных карт на вашем сайте.",
 	"features_ru": {
-		"0":"Поддержка нескольких точек на одной карте.",
-		"1":"Простота в использовании с помощью TinyMCE.",
-		"2":"Простота в использовании с помощью Template.",
-		"3":"Поддержка мультикарт и всплывающих окон с информацией о точках."
+		"0": "Возможность добавлять несколько точек на одной карте.",
+		"1": "Простота в использовании с помощью TinyMCE.",
+		"2": "Простота в использовании с помощью Template.",
+		"3": "Поддержка мультикарт и всплывающих окон с информацией о точках."
 	},
 	"author_username": "multicolor"
 }
