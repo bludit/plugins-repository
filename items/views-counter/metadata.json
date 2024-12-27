@@ -9,11 +9,11 @@
 	"information_url": "https://github.com/multicolor-rgb/views-counter-for-bludit-cms/",
 	"description": "Shows views counter on website.",
 	"features": {
-		"0":"Start count number settings.",
-		"1":"Font color settings.",
-		"2":"Font size settings.",	
-		"3":"Background color settings.",
-		"4":"Added options: counter for every visits, and unique visits."
+		"0": "Start count number settings.",
+		"1": "Font color settings.",
+		"2": "Font size settings.",	
+		"3": "Background color settings.",
+		"4": "Added options: counter for every visits, and unique visits."
 	},
 	"description_de": "",
 	"features_de": {
@@ -21,13 +21,13 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Показывает счётчик просмотров на вашем веб-сайте.",
+	"description_ru": "Показывает счётчик просмотров на вашем сайте.",
 	"features_ru": {
-		"0":"Можно задать начальное количество просмотров.",
-		"1":"Настройка цвета шрифта.",
-		"2":"Настройка размера шрифта.",	
-		"3":"Настройка цвета фона.",
-		"4":"Добавлены опции: счётчик для каждого посещения и счётчик уникальных посещений."
+		"0": "Можно задать начальное количество просмотров.",
+		"1": "Настройка цвета шрифта.",
+		"2": "Настройка размера шрифта.",	
+		"3": "Настройка цвета фона счётчика.",
+		"4": "Добавлены опции: счётчик для каждого посещения и счётчик уникальных посещений."
 	},
 	"author_username": "multicolor"
 }
