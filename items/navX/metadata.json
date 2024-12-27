@@ -9,10 +9,10 @@
 	"information_url": "https://github.com/multicolor-rgb/navX-for-bludit/",
 	"description": "Plugin create menu with menu dropdown support.",
 	"features": {
-		"0":"Custom class settings.",
-		"1":"Support default Bootstrap navigation.",
-		"2":"Supports for no style options for custom template.",
-		"3":"Homepage on navigation settings."
+		"0": "Custom class settings.",
+		"1": "Support default Bootstrap navigation.",
+		"2": "Supports for no style options for custom template.",
+		"3": "Homepage on navigation settings."
 	},
 	"description_de": "",
 	"features_de": {
@@ -20,12 +20,12 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Плагин создает красивое выпадающее меню.",
+	"description_ru": "Добавляет на сайт красивое выпадающее меню.",
 	"features_ru": {
-		"0":"Пользовательские настройки CSS класса.",
-		"1":"По умолчанию поддерживает навигацию от Bootstrap.",
-		"2":"Поддержка отсутствия параметров стиля для пользовательских настроек CSS класса.",
-		"3":"Присутствуют настройки домашней страницы для меню."
+		"0": "Пользовательские настройки CSS класса.",
+		"1": "По умолчанию поддерживает навигацию от Bootstrap.",
+		"2": "Можно вообще не настраивать CSS класс и всё будет прекрасно работать.",
+		"3": "Присутствуют настройки домашней страницы для меню."
 	},
 	"author_username": "multicolor"
 }
