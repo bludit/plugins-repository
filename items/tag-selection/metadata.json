@@ -10,26 +10,14 @@
   "information_url": "https://github.com/gaincoder/tag-selection",
   "description": "Replace the comma-separated tag input with a selectable tag list.",
   "features": {
-    "0": "",
-    "1": "",
-    "2": ""
   },
   "description_de": "Ersetzt die komma-separierte Liste der Tags mit einer Tag Auswahl.",
   "features_de": {
-    "0": "",
-    "1": "",
-    "2": ""
   },
   "description_es": "Reemplace la entrada de la etiqueta separada por comas con una lista de etiquetas seleccionables.",
   "features_es": {
-    "0": "",
-    "1": "",
-    "2": ""
   },
-  "description_ru": "Заменяет ввод тегов в строчку, разделенных запятыми на список тегов, из которого можно просто выбрать нужные теги.",
+  "description_ru": "Заменяет ввод тегов в строку разделенных запятыми, на список тегов из которого можно просто выбрать нужные теги.",
   "features_ru": {
-    "0": "",
-    "1": "",
-    "2": ""
   }
 }
