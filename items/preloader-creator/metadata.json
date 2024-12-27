@@ -9,21 +9,21 @@
 	"information_url": "https://github.com/multicolor-rgb/preloader-creator-for-bluditcms",
 	"description": "This plugin create preolader for your website.",
 	"features": {
-		"0":"12 types of preloader.",
-		"1":"Easy to use."
+		"0": "12 types of preloader.",
+		"1": "Easy to use."
 	},
 	"description_de": "",
 	"features_de": {
 	},
 	"description_es": "Este complemento crea precarga para su sitio web.",
 	"features_es": {
-		"0":"12 tipos de precargas.",
-		"1":"Fácil de usar."
+		"0": "12 tipos de precargas.",
+		"1": "Fácil de usar."
 	},
-	"description_ru": "Этот плагин создает предварительный загрузчик для вашего сайта.",
+	"description_ru": "Добавляет предварительный загрузчик для вашего сайта.",
 	"features_ru": {
-		"0":"12 вариантов предзагрузчика.",
-		"1":"Прост в использовании."
+		"0": "12 вариантов предзагрузчика.",
+		"1": "Прост в использовании."
 	},
 	"author_username": "multicolor"
 }
