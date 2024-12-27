@@ -9,15 +9,15 @@
 	"information_url": "https://github.com/multicolor-rgb/newgalleryfolder-for-bluditcms",
 	"description": "This plugin create gallery automatic from your upload for every page what you want.",
 	"features": {
-		"0":"Added option \"Show on every pages or only chosen\".",
-		"1":"Alt images generate from slug article/page.",
-		"2":"Fixed CSS for mobile.",	
-		"3":"Added border size/color settings.",
-		"4":"Thumbnails generates from Thumbnails folder from Bludit.",
-		"5":"Possibility to add a gallery via tinyMCE.",
-		"6":"Added hover effects options.",
-		"7":"Fixed problem with thumbnails on IOS (bad url-dot problem) v5.0.1.",
-		"8":"Added options thumbnails generate (use original thumbnails from Bludit, or generated from plugin)."
+		"0": "Added option \"Show on every pages or only chosen\".",
+		"1": "Alt images generate from slug article/page.",
+		"2": "Fixed CSS for mobile.",	
+		"3": "Added border size/color settings.",
+		"4": "Thumbnails generates from Thumbnails folder from Bludit.",
+		"5": "Possibility to add a gallery via tinyMCE.",
+		"6": "Added hover effects options.",
+		"7": "Fixed problem with thumbnails on iOS (bad url-dot problem) v5.0.1.",
+		"8": "Added options thumbnails generate (use original thumbnails from Bludit, or generated from plugin)."
 	},
 	"description_de": "",
 	"features_de": {
@@ -25,17 +25,17 @@
 	"description_es": "Este complemento crea una galería automática desde su archivos cargados para cada página que desee.",
 	"features_es": {
 	},
-	"description_ru": "Этот плагин автоматически создает галерею из загруженных файлов для каждой страницы, для которой вы хотите создать галерею.",
+	"description_ru": "Автоматически создаёт галерею из загруженных файлов для каждой страницы, для которой вы хотите создать галерею.",
 	"features_ru": {
-		"0":"Добавлена опция \"Показывать на всех страницах или только на выбранных\".",
-		"1":"Alt теги изображения генерируются из человекопонятного URL записи/страницы.",
-		"2":"Исправления CSS для мобильного вида.",	
-		"3":"Добавлены настройки  размера/цвета границ.",
-		"4":"Миниатюры генерируются из папки миниатюр Bludit.",
-		"5":"Возможность добавления галереи с помощью tinyMCE.",
-		"6":"Добавлены параметры эффектов наведения курсора.",
-		"7":"Исправлена проблема с миниатюрами на IOS 5.0.1 (проблема с неправильным URL-адресом).",
-		"8":"Добавлены опции генерации миниатюр (использовать исходные миниатюры из Bludit или сгенерированные плагином)."
+		"0": "Добавлена опция «Показывать на всех страницах или только на выбранных».",
+		"1": "Alt теги изображения генерируются из человекопонятного URL записи/страницы.",
+		"2": "Исправления CSS для мобильного вида.",	
+		"3": "Добавлены настройки размера и цвета границ.",
+		"4": "Миниатюры изображений генерируются из папки миниатюр Bludit.",
+		"5": "Возможность добавления галереи с помощью редактора tinyMCE.",
+		"6": "Добавлены параметры эффектов при наведении курсора.",
+		"7": "Исправлена проблема с миниатюрами на iOS 5.0.1 (проблема с неправильным URL-адресом).",
+		"8": "Добавлены опции генерации миниатюр «Использовать исходные миниатюры из Bludit» или «Использовать миниатюры сгенерированные плагином»."
 	},
 	"author_username": "multicolor"
 }
