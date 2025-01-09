@@ -9,10 +9,10 @@
 	"information_url": "https://github.com/multicolor-rgb/infopop-for-bludit",
 	"description": "This plugin add info for users on your website.",
 	"features": {
-		"0":"Width and height settings.",
-		"1":"Position settings.",
-		"2":"Background and font color settings.",
-		"3":"TinyMCE content editor."
+		"0": "Width and height settings.",
+		"1": "Position settings.",
+		"2": "Background and font color settings.",
+		"3": "TinyMCE content editor."
 	},
 	"description_de": "",
 	"features_de": {
@@ -22,10 +22,10 @@
 	},
 	"description_ru": "Добавляет всплывающее окошко с какой-либо информацией для пользователей сайта.",
 	"features_ru": {
-		"0":"Настройки ширины и высоты.",
-		"1":"Настройки положения на страницах.",
-		"2":"Настройки цвета фона и цвета шрифта.",
-		"3":"Редактировать содержимое можно с помощью TinyMCE."
+		"0": "Настройки ширины и высоты всплывающего окна.",
+		"1": "Настройки положения всплывающего окна на страницах сайта.",
+		"2": "Настройки цвета фона и цвета шрифта для всплывающего окна.",
+		"3": "Редактировать содержимое можно с помощью TinyMCE."
 	},
 	"author_username": "multicolor"
 }
