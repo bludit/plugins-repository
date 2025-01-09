@@ -14,9 +14,9 @@
 		"2": "Custom function.",
 		"3": "Template creator.",
 		"4": "Image browser input support.",
-		"5": "Image Thumbnail functions",
-		"6": "added link to subpage generator",
-		"7": "support many multiBlock Function on one page"
+		"5": "Image Thumbnail functions.",
+		"6": "Added link to subpage generator.",
+		"7": "Support many multiBlock Function on one page."
 	},
 	"description_de": "",
 	"features_de": {
@@ -24,16 +24,16 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "С помощью этого плагина вы можете создавать блоки с такими пользовательскими полями, какие вы хотите.",
+	"description_ru": "С помощью этого плагина вы можете создавать блоки с такими пользовательскими полями, какими вы захотите.",
 	"features_ru": {
 		"0": "Настраиваемые поля для каждого раздела/секции.",
 		"1": "Создание разделов/секций.",
 		"2": "Пользовательские функции.",
 		"3": "Создание шаблонов.",
-		"4": "Поддержка вставки из браузера изображений.",
-		"5": "Функции миниатюр изображений",
-		"6":"",
-		"7":""
+		"4": "Поддержка вставки из менеджера изображений.",
+		"5": "Функции генерации миниатюр изображений.",
+		"6": "Добавлена ​​ссылка на генератор подстраниц.",
+		"7": "Поддержка множества функций multiBlock на одной странице."
 	},
 	"author_username": "multicolor"
 }

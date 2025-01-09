@@ -9,29 +9,29 @@
 	"information_url": "https://github.com/Fred89/bludit-plugins/releases/tag/contact2.6",
 	"description": "Adds a contact form to a page or post. For mailing also an SMTP account can be used. Furthermore also a custom template can be used.",
 	"features": {
-		"0":"The theme must have the 'pageEnd hook' which is where the form will be inserted. In addition to sending via regular PHP email, sending via PHPMailer is also possible (configuration in the plugin of the required fields).",
-		"1":"Customize your form template by creating the page at '/bl-themes/YOURTHEME/php/contact.php'."		
+		"0":"The theme must have the '<code>pageEnd</code> hook' which is where the form will be inserted. In addition to sending via regular PHP email, sending via PHPMailer is also possible (configuration in the plugin of the required fields).",
+		"1":"Customize your form template by creating the page at <code>/bl-themes/YOURTHEME/php/contact.php</code>."		
 	},
 	"description_pt": "Adicione um formulário de contato a uma página.",
 	"features_pt":
 	{
-		"0":"Necessário que o tema tenha o 'gancho pageEnd' que é onde será inserido o formulário. Além do envio por email normal do PHP, também é possível o envio por meio do PHPMailer (configuração no plugin dos campos requeridos).",
-		"1":"Personalize seu template do formulário criando a página em '/bl-themes/SEUTEMA/php/contact.php'."
+		"0":"Necessário que o tema tenha o 'gancho <code>pageEnd</code>' que é onde será inserido o formulário. Além do envio por email normal do PHP, também é possível o envio por meio do PHPMailer (configuração no plugin dos campos requeridos).",
+		"1":"Personalize seu template do formulário criando a página em <code>/bl-themes/YOURTHEME/php/contact.php</code>."
 	},
 	"description_de": "Kontaktformular für eine Seite oder einen Beitrag. Für den Versand kann auch ein SMTP-Konto verwendet werden. Zudem erlaubt das Plugin, auch eigene Vorlagen zu verwenden.",
 	"features_de": {
-		"0":"Das Thema muss den 'pageEnd-Hook' haben, in den das Formular eingefügt wird. Neben dem Senden per regulärer PHP-E-Mail ist auch das Senden per PHPMailer möglich (Konfiguration der erforderlichen Felder im Plugin).",
-		"1":"Passen Sie Ihre Formularvorlage an, indem Sie die Seite unter erstellen'/bl-themes/YOURTHEME/php/contact.php'."		
+		"0":"Das Thema muss den '<code>pageEnd</code>-Hook' haben, in den das Formular eingefügt wird. Neben dem Senden per regulärer PHP-E-Mail ist auch das Senden per PHPMailer möglich (Konfiguration der erforderlichen Felder im Plugin).",
+		"1":"Passen Sie Ihre Formularvorlage an, indem Sie die Seite unter erstellen <code>/bl-themes/YOURTHEME/php/contact.php</code>."		
 	},
 	"description_es": "Agrega un formulario de contacto a una página.",
 	"features_es": {
-		"0":"El tema debe tener el 'gancho pageEnd' que es donde se insertará el formulario. Además de enviar a través de correo electrónico PHP regular, también es posible enviar a través de PHPMailer (configuración en el complemento de los campos obligatorios).",
-		"1":"Personalice su plantilla de formulario creando la página en '/bl-themes/YOURTHEME/php/contact.php'."
+		"0":"El tema debe tener el 'gancho <code>pageEnd</code>' que es donde se insertará el formulario. Además de enviar a través de correo electrónico PHP regular, también es posible enviar a través de PHPMailer (configuración en el complemento de los campos obligatorios).",
+		"1":"Personalice su plantilla de formulario creando la página en <code>/bl-themes/YOURTHEME/php/contact.php</code>."
 	},
 	"description_ru": "Добавляет форму обратной связи на страницу или запись. Для работы формы также можно использовать учётную запись SMTP. Кроме того, можно использовать настраиваемый шаблон.",
 	"features_ru": {
-		"0":"Тема должна иметь хук pageEnd, куда будет вставлена ​​форма. Помимо отправки через обычную почту PHP, также возможна отправка через PHPMailer (настройка в плагине обязательных полей).",
-		"1":"Настройте шаблон формы, создав страницу по адресу '/bl-themes/YOURTHEME/php/contact.php'."				
+		"0":"Тема должна иметь хук <code>pageEnd</code>, куда будет вставлена ​​форма. Помимо отправки через обычную почту посредством PHP, также возможна отправка через PHPMailer (для этого настройте в плагине необходимые поля).",
+		"1":"Настройте шаблон формы, создав страницу по адресу <code>/bl-themes/YOURTHEME/php/contact.php</code>."				
 	},
 	"author_username": "frederic"
 }

@@ -9,8 +9,8 @@
 	"information_url": "https://github.com/multicolor-rgb/upload-plugin-for-bludit/",
 	"description": "Upload Plugins and Themes direct from Bludit CMS.",
 	"features": {
-		"0": "Upload themes .zip from CMS.",
-		"1": "Upload plugins .zip from CMS."
+		"0": "Upload themes .zip from Bludit.",
+		"1": "Upload plugins .zip from Bludit."
 	},
 	"description_de": "",
 	"features_de": {
@@ -18,10 +18,10 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Загружайте плагины и темы непосредственно из Bludit CMS.",
+	"description_ru": "Загружайте плагины и темы непосредственно из панели управления сайта на Bludit.",
 	"features_ru": {
-		"0": "Загрузка и установка тем с помощью zip-архивов прямо из CMS.",
-		"1": "Загрузка и установка плагинов с помощью zip-архивов прямо из CMS."
+		"0": "Загрузка и установка тем с помощью zip-архивов прямо из панели управления Bludit.",
+		"1": "Загрузка и установка плагинов с помощью zip-архивов прямо из панели управления Bludit."
 	},
 	"author_username": "multicolor"
 }

@@ -9,11 +9,11 @@
 	"information_url": "https://github.com/multicolor-rgb/BetterSEO-for-bludit/",
 	"description": "This plugin create better header function for SEO.",
 	"features": {
-    		"0":"GeoLocation Settings.",
-		"1":"Add Facebook Open Graph protocol (with auto settings).",
-		"2":"Dublin Core Metadata.",
-		"3":"Favicons generate meta - icons need to be included in a folder named 'fav' within your themes dir (check help).",
-    		"4":"Easy to use!"
+    		"0": "GeoLocation Settings.",
+		"1": "Add Facebook Open Graph protocol (with auto settings).",
+		"2": "Dublin Core Metadata.",
+		"3": "Favicons generate meta — icons need to be included in a folder named <code>fav</code> within your themes dir (check help).",
+    		"4": "Easy to use!"
 	},
 	"description_de": "",
 	"features_de": {
@@ -21,13 +21,13 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Этот плагин создает лучшую функциональность заголовков страниц для SEO.",
+	"description_ru": "Обеспечивает лучшую функциональность заголовков страниц с точки зрения SEO.",
 	"features_ru": {
-		"0":"Настройки геолокации.",
-		"1":"Добавляет протокол Open Graph от Facebook (с автоматическими настройками).",
-		"2":"Включает в себя Дублинское ядро (Dublin Core).",
-		"3":"Генерация иконок сайта - иконки должны быть включены в папку с названием 'fav' в вашей папке с темами (подробнее в справке).",
-    		"4":"Прост в использовании!"
+		"0": "Настройки геолокации.",
+		"1": "Добавляет протокол Open Graph от Facebook (с автоматическими настройками).",
+		"2": "Включает в себя Дублинское ядро (Dublin Core).",
+		"3": "Генерация иконок сайта — иконки должны быть включены в папку с названием <code>fav</code> в вашей папке с темами (подробнее в справке плагина).",
+    		"4": "Прост в использовании!"
 	},
 	"author_username": "multicolor"
 }

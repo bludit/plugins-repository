@@ -19,7 +19,7 @@
 	"description_es": "Muestra las últimas publicaciones ordenadas por categoría y páginas fijas (resaltadas). Defina la etiqueta y el número de publicaciones que se mostrarán en la barra lateral.",
 	"features_es": {
 	},
-	"description_ru": "Добавляет отображение последних публикаций, отсортированных по категориям, а также прикреплённые страницы (закреплённые). Можно изменять метки для страниц (и их количество), которые будут отображаться на боковой панели.",
+	"description_ru": "Отображает последние записи, отсортированные по категориям, а также прикреплённые (закреплённые) страницы. Можно изменять метки и количество страниц, которые будут отображаться на боковой панели.",
 	"features_ru": {
 	},
 	"author_username": "cajzer"

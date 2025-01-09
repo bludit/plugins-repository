@@ -16,7 +16,7 @@
 	"description_es": "Textarea te permite insertar código HTML en la barra lateral de forma muy fácil.",
 	"features_es": {
 	},
-	"description_ru": "Плагин Textarea позволяет отображать текст на боковой панели сайта (если тема поодерживает боковую панель) с помощью HTML-кода.",
+	"description_ru": "Позволяет отображать текст на боковой панели сайта (если тема поддерживает эту самую боковую панель) с помощью HTML-кода.",
 	"features_ru": {
 	},
 	"author_username": "clickwork"

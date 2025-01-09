@@ -9,23 +9,15 @@
 	"information_url": "https://github.com/clickwork-git/items-per-page",
 	"description": "The plugin allows to add an additional option to the field \"Items per page\" to the admin panel.",
 	"features": {
-		"0": "",
-		"1": ""
 	},
 	"description_de": "Das Plugin erlaubt es, eine selbstdefinierte Option zum Feld \"Inhalte pro Seite\" im Administrationsbereich hinzuzufügen.",
 	"features_de": {
-		"0": "",
-		"1": ""
 	},
 	"description_es": "El complemento permite agregar una opción adicional al campo \"Elementos por página\" en el panel de administración.",
 	"features_es": {
-		"0": "",
-		"1": ""
 	},
-	"description_ru": "Добавляет дополнительную опцию в поле «Элементов на странице» в панели управления.",
+	"description_ru": "Добавляет дополнительную опцию в виде поля «Элементов на странице» в панели управления.",
 	"features_ru": {
-		"0": "",
-		"1": ""
 	},
 	"author_username": "clickwork"
 }

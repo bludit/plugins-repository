@@ -8,7 +8,7 @@
   "download_url_v4": "https://github.com/gaincoder/older-themes/archive/refs/tags/1.0.0.zip",
   "demo_url": "",
   "information_url": "https://github.com/gaincoder/older-themes",
-  "description": "Get older themes running in Bludit >= 4.0",
+  "description": "Get older themes running in Bludit >= 4.0 versions.",
   "features": {
   },
   "description_de": "Bringt ältere Themes in Bludit >= 4.0 zum laufenas.",
@@ -17,7 +17,7 @@
   "description_es": "Permite que los temas antiguos funcionen en Bludit >= 4.0",
   "features_es": {
   },
-  "description_ru": "Позволяет запускать и использовать старые темы в Bludit версии 4.0 и выше.",
+  "description_ru": "Позволяет запускать и использовать старые темы для Bludit, используя при этом Bludit 4.0 и более поздние версии.",
   "features_ru": {
   }
 }

@@ -9,9 +9,9 @@
 	"information_url": "https://github.com/multicolor-rgb/components-plugin-for-bludit/",
 	"description": "This plugin create components support for your website.",
 	"features": {
-		"0":"Easy to use (great for sidebar, footer and every place what do you want edit on your template).",
-		"1":"WYSIWYG support (CKEditor).",
-		"2":"Save edit/delete options."
+		"0": "Easy to use (great for sidebar, footer and every place what do you want edit on your template).",
+		"1": "WYSIWYG support (CKEditor).",
+		"2": "Save edit/delete options."
 	},
 	"description_de": "",
 	"features_de": {
@@ -19,11 +19,11 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Этот плагин создает поддержку компонентов не предусмотренных функциональностью темы для вашего сайта.",
+	"description_ru": "Добавляет поддержку компонентов не предусмотренных функциональностью темы для вашего сайта.",
 	"features_ru": {
-		"0":"Прост в использовании (отлично подходит для боковой панели, нижнего колонтитула (подвала сайта) и любого другого места, которое вы хотите отредактировать в своем шаблоне).",
-		"1":"Поддержка WYSIWYG (CKEditor).",
-		"2":"Сохранение параметров редактирования/удаления."
+		"0": "Прост в использовании (отлично подходит для боковой панели, нижнего колонтитула (подвала сайта) и любого другого места, которое вы хотите отредактировать в своем шаблоне).",
+		"1": "Поддеривает WYSIWYG редактор (CKEditor).",
+		"2": "Сохранение параметров редактирования/удаления."
 	},
 	"author_username": "multicolor"
 }

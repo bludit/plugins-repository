@@ -9,9 +9,9 @@
 	"information_url": "https://github.com/multicolor-rgb/bludYT/",
 	"description": "This add youtube video on your website with shortcode.",
 	"features": {
-		"0":"Shortcode support.",
-		"1":"Width/height settings.",
-		"2":"Version 2.0 - Fixed conflict with NewGalleryFolder plugin."
+		"0": "Shortcode support.",
+		"1": "Width/height settings.",
+		"2": "Version 2.0 and later — fixed conflict with NewGalleryFolder plugin."
 	},
 	"description_de": "",
 	"features_de": {
@@ -19,11 +19,11 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Позволяет добавлять видео с YouTube на ваш сайт с помощью шорткода.",
+	"description_ru": "Позволяет добавлять видео с YouTube на ваш сайт с помощью специального шорткода.",
 	"features_ru": {
-		"0":"Поддерживает шорткод.",
-		"1":"Есть настройки ширины/высоты.",
-		"2":"В версии 2.0 - Исправлен конфликт с плагином NewGalleryFolder."
+		"0": "Поддерживает специальный шорткод.",
+		"1": "Есть настройки ширины и высоты блока со встроенным видео.",
+		"2": "В плагине версии 2.0 и выше — исправлен конфликт с плагином NewGalleryFolder."
 	},
 	"author_username": "multicolor"
 }

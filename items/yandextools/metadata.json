@@ -8,35 +8,35 @@
 	"download_url": "https://github.com/xm74/yandextools/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/xm74/yandextools",
-	"description": "Generate the meta tag to validate your site with Yandex Webmasters Tools and the JavaScript code to track with Yandex.Metrika.",
+	"description": "Generate the meta tag to validate your site with Yandex Webmaster Tools and the JavaScript code to track with Yandex.Metrika.",
 	"features": {
 		"0":"Counter ID: type your ID to enable tracking by Yandex.Metrica.",
-		"1":"Index Webmaster: set the code generated in your account to verify that you own the site. This is confirmed by meta tag.",
-		"2":"Required: your active theme need implemented siteBodyEnd hook."
+		"1":"Yandex Webmaster: set the code generated in your account to verify that you own the site. This is confirmed by meta tag.",
+		"2":"Required: your active theme need implemented <code>siteBodyEnd</code> hook."
 	},
-	"description_pt": "Gere a metatag para validar seu site com as ferramentas Yandex Webmasters e o código JavaScript para rastrear com Yandex.Metrika.",
+	"description_pt": "Gere a metatag para validar seu site com as ferramentas Yandex Webmaster e o código JavaScript para rastrear com Yandex.Metrika.",
 	"features_pt": {
 		"0":"Counter ID: cole seu ID para habilitar o rastreamento por Yandex.Metrica.",
-		"1":"Index Webmaster: defina o código gerado em sua conta para verificar se você é o proprietário do site. Isso é confirmado pela metatag.",
-		"2":"Obrigatório: seu tema ativo precisa do gancho siteBodyEnd implementado."
+		"1":"Yandex Webmaster: defina o código gerado em sua conta para verificar se você é o proprietário do site. Isso é confirmado pela metatag.",
+		"2":"Obrigatório: seu tema ativo precisa do gancho <code>siteBodyEnd</code> implementado."
 	},	
-	"description_de": "Generieren Sie das Meta-Tag zur Validierung Ihrer Website mit den Yandex Webmasters Tools und den JavaScript-Code zur Verfolgung mit Yandex.Metrika.",
+	"description_de": "Generieren Sie das Meta-Tag zur Validierung Ihrer Website mit den Yandex Webmaster Tools und den JavaScript-Code zur Verfolgung mit Yandex.Metrika.",
 	"features_de": {
 		"0":"",
 		"1":"",
 		"2":""
 	},
-	"description_es": "Genere la metaetiqueta para validar su sitio con Yandex Webmasters Tools y el código JavaScript para rastrear con Yandex.Metrika.",
+	"description_es": "Genere la metaetiqueta para validar su sitio con Yandex Webmaster Tools y el código JavaScript para rastrear con Yandex.Metrika.",
 	"features_es": {
 		"0":"Counter ID: escriba su ID para habilitar el seguimiento por Yandex.Metrica.",
-		"1":"Index Webmaster: configura el código generado en tu cuenta para verificar que eres el propietario del sitio. Esto está confirmado por la etiqueta meta.",
-		"2":"Requerido: su tema activo necesita la función de llamado 'siteBodyEnd' implementado."		
+		"1":"Yandex Webmaster: configura el código generado en tu cuenta para verificar que eres el propietario del sitio. Esto está confirmado por la etiqueta meta.",
+		"2":"Requerido: su tema activo necesita la función de llamado <code>siteBodyEnd</code> implementado."		
 	},
-	"description_ru": "Генерирует метатег для проверки Вашего сайта с помощью инструментов Yandex Webmasters и JavaScript кода для отслеживания с помощью Яндекс.Метрики.",
+	"description_ru": "Генерирует метатег для проверки вашего сайта с помощью инструментов Яндекс Вебмастера и JavaScript кода для отслеживания с помощью Яндекс.Метрики.",
 	"features_ru": {
-		"0":"",
-		"1":"",
-		"2":""		
+		"0":"ID счётчика: введите свой ID, чтобы включить отслеживание с помощью Яндекс.Метрики.",
+		"1":"Яндекс Вебмастер: установите код, сгенерированный в вашей учётной записи, чтобы подтвердить, что вы являетесь владельцем (это подтверждается метатегом) сайта.",
+		"2":"Обязательно: в вашей активной теме необходимо реализовать хук <code>siteBodyEnd</code>."		
 	},
 	"author_username": "xm74"
 }

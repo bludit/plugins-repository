@@ -9,10 +9,10 @@
 	"information_url": "https://github.com/multicolor-rgb/scrollUp-plugin-bluditcms/",
 	"description": "This plugin add ScrollUp button to your website.",
 	"features": {
-		"0":"Scrollup size settings.",
-		"1":"9 types of icons for the button.",
-		"2":"Invert color icon, background, border of the button.",
-		"3":"Show on mobile screens settings."
+		"0": "Scrollup size settings.",
+		"1": "9 types of icons for the button.",
+		"2": "Invert color icon, background, border of the button.",
+		"3": "Show on mobile screens settings."
 	},
 	"description_de": "",
 	"features_de": {
@@ -20,12 +20,12 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Этот плагин добавляет кнопку прокрутки вверх на ваш веб-сайт.",
+	"description_ru": "Добавляет кнопку прокрутки страницы вверх на ваш сайт.",
 	"features_ru": {
-		"0":"Настройка размера кнопки.",
-		"1":"9 видов иконок для кнопки.",
-		"2":"Можно инвертировать цвет иконки, фона, границы кнопки.",
-		"3":"Настройка отображения кнопки на мобильных устройствах."
+		"0": "Пристутствуют настройки размера кнопки.",
+		"1": "На выбор 9 видов иконок для кнопки.",
+		"2": "Можно инвертировать цвет иконки, фона, границы кнопки.",
+		"3": "Отдельные настройки отображения кнопки на мобильных устройствах."
 	},
 	"author_username": "multicolor"
 }

@@ -18,10 +18,10 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Плагин обновит URL нового адреса страницы в MultiBlock.",
+	"description_ru": "Обновит URL для нового адреса страницы для плагина MultiBlock.",
 	"features_ru": {
 		"0": "Чертовски прост в использовании.",
-		"1": "Заменит URL-адреса во всём MultiBlock."
+		"1": "Заменит URL-адреса во всём плагине MultiBlock."
 	},
 	"author_username": "multicolor"
 }

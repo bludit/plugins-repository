@@ -10,26 +10,14 @@
 	"information_url": "https://github.com/gilbuc/losungen",
 	"description": "Displays the daily texts in the sidebar (only in german language).",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_de": "Anzeige der täglichen Losungstexte in der Sidebar.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
 	"description_es": "Muestra los textos diarios en la barra lateral (solo en idioma alemán).",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
 	},
-	"description_ru": "Отображает ежедневные тексты на боковой панели (плагин работает только на немецком языке).",
+	"description_ru": "Отображает ежедневные тексты на боковой панели сайта (к сожалению, пока что плагин работает только на немецком языке).",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
 	}
 }

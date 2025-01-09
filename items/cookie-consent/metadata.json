@@ -10,8 +10,8 @@
 	"information_url": "https://github.com/Fred89/bludit-plugins/tree/master/cookie-consent",
 	"description": "Cookie consent and AdBlock detector.",
 	"features": {
-		"0":"For cookies: enable / disable the save configuration, choose from 6 types of visualization, define the default button and message text in addition to the cookie policy link.",
-		"1":"For AdBlock: enable / disable, set the background color for the message and define a message."		
+		"0":"For cookies: enable/disable the save configuration, choose from 6 types of visualization, define the default button and message text in addition to the cookie policy link.",
+		"1":"For AdBlock: enable/disable detector, set the background color for the message and define a message."		
 	},
 	"description_pt": "Mostra a mensagem de consentimento de cookies e Detecta Bloqueador de Anúncios (AdBlock).",
 	"features_pt": {
@@ -20,18 +20,18 @@
 	},	
 	"description_de": "Zustimmungserklärung zur Verwendung von Cookies und AdBlock Detector.",
 	"features_de": {
-		"0":"Für Cookies: Aktivieren / Deaktivieren Sie die Speicherkonfiguration, wählen Sie aus 6 Visualisierungstypen aus, definieren Sie die Standardschaltfläche und den Nachrichtentext zusätzlich zum Link zur Cookie-Richtlinie.",
-		"1":"Für AdBlock: Aktivieren / Deaktivieren, legen Sie die Hintergrundfarbe für die Nachricht fest und definieren Sie eine Nachricht."		
+		"0":"Für Cookies: Aktivieren/Deaktivieren Sie die Speicherkonfiguration, wählen Sie aus 6 Visualisierungstypen aus, definieren Sie die Standardschaltfläche und den Nachrichtentext zusätzlich zum Link zur Cookie-Richtlinie.",
+		"1":"Für AdBlock: Aktivieren/Deaktivieren, legen Sie die Hintergrundfarbe für die Nachricht fest und definieren Sie eine Nachricht."		
 	},
 	"description_es": "Muestra el mensaje de consentimiento de cookies y detecta el bloqueador de anuncios (AdBlock).",
 	"features_es": {
-		"0":"Para las cookies: habilite / deshabilite la configuración de guardado, elija entre 6 tipos de visualización, defina el botón predeterminado y el texto del mensaje además del enlace de la política de cookies.",
-		"1":"Para AdBlock: habilitar / deshabilitar, establecer el color de fondo del mensaje y definir un mensaje."	
+		"0":"Para las cookies: habilite/deshabilite la configuración de guardado, elija entre 6 tipos de visualización, defina el botón predeterminado y el texto del mensaje además del enlace de la política de cookies.",
+		"1":"Para AdBlock: habilitar/deshabilitar, establecer el color de fondo del mensaje y definir un mensaje."	
 	},
-	"description_ru": "Согласие на обработку и хранение Cookie и детектор AdBlock.",
+	"description_ru": "Добавляет всплывающее окно с запросом на согласие на обработку и хранение файлов cookie и содержит детектор AdBlock.",
 	"features_ru": {
-		"0":"Для файлов cookie: включить / отключить конфигурацию сохранения, выбрать один из 6 типов визуализации, определить кнопку по умолчанию и текст сообщения в дополнение к ссылке на политику файлов cookie.",
-		"1":"Для AdBlock: включить / отключить, установить цвет фона для сообщения и определить сообщение."	
+		"0":"Для файлов cookie: включает/отключает конфигурацию сохранения, позволяет выбрать один из 6 типов визуализации, определить кнопку по умолчанию и текст сообщения в дополнение к ссылке на политику файлов cookie.",
+		"1":"Для AdBlock: включает/отключает детектор, можно установить цвет фона для сообщения и определить текст самого сообщения."	
 	},
 	"author_username": "frederic"
 }

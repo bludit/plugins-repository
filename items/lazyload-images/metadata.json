@@ -16,7 +16,7 @@
 	"description_es": "Este complemento agrega lazyLoading a sus imágenes en el contenido.",
 	"features_es": {
 	},
-	"description_ru": "Этот плагин добавляет отложенную загрузку ваших изображений на страницах с контентом.",
+	"description_ru": "Добавляет отложенную загрузку изображений. Загрузка изображений вне области просмотра откладывается. Изображения загружаются по мере того, как пользователь прокручивает страницу.",
 	"features_ru": {
 	},
 	"author_username": "multicolor"
