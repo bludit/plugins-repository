@@ -1,31 +1,31 @@
 {
-	"name": "Maintenance mode extended",
-	"version": "1.0",
-	"release_date": "2018-11-28",
-	"license": "MIT",
-	"price_usd": "0",
-	"download_url": "https://github.com/barthusz/bludit_maintenance-mode-extended/archive/master.zip",
-	"demo_url": "",
-	"information_url": "https://github.com/barthusz/bludit_maintenance-mode-extended",
-	"description": "Original maintenance mode plugin of Bludit, extended with some more configurable backend options. And also added a little styling to make it more attractive.",
-	"features": {
-		"0": "A logged in administrator or editor is able to see the live frontend.",
-	},
-	"description_pt": "Versão aprimorada do plugin modo de manutenção do Bludit com a algumas opções extras: alteração de cor de fundo e texto (ou adição de imagem) e definição de uma mensagem padrão.",
-	"features_pt": {
-		"0": "Não afeta o usuário logado.",
-	},
-	"description_es": "Mejora del plugin original \"Modo mantenimiento\" con algunas funciones extras. También se agrego mejoras en el estilo.",
-	"features_es": {
-		"0": "El administrador del sitio puede ver el sitio completamente.",
-	},
-	"description_de": "Dieses Plugin bietet mehr konfigurierbare Optionen als das Standard-Plugin.",
-	"features_de": {
-		"0": "Es bietet auch die Möglichkeit, dass eingeloggte Administratoren oder Redakteure das Frontend der Website einsehen können.",
-	},
-	"description_ru": "Добавляет режим технического обслуживания Bludit, это расширенная версия плагина: она имеет дополнительные опции в панели управления. Обновлён дизайн, теперь он более привлекательный.",
-	"features_ru": {
-		"0": "Авторизованный администратор или редактор по-прежнему будут видеть сайт полностью.",
-	},
-	"author_username": "barthusz"
+    "name": "Maintenance mode extended",
+    "version": "1.0",
+    "release_date": "2018-11-28",
+    "license": "MIT",
+    "price_usd": "0",
+    "download_url": "https://github.com/barthusz/bludit_maintenance-mode-extended/archive/master.zip",
+    "demo_url": "",
+    "information_url": "https://github.com/barthusz/bludit_maintenance-mode-extended",
+    "description": "Original maintenance mode plugin of Bludit, extended with some more configurable backend options. And also added a little styling to make it more attractive.",
+    "features": {
+        "0": "A logged in administrator or editor is able to see the live frontend."
+    },
+    "description_pt": "Versão aprimorada do plugin modo de manutenção do Bludit com a algumas opções extras: alteração de cor de fundo e texto (ou adição de imagem) e definição de uma mensagem padrão.",
+    "features_pt": {
+        "0": "Não afeta o usuário logado."
+    },
+    "description_es": "Mejora del plugin original \"Modo mantenimiento\" con algunas funciones extras. También se agrego mejoras en el estilo.",
+    "features_es": {
+        "0": "El administrador del sitio puede ver el sitio completamente."
+    },
+    "description_de": "Dieses Plugin bietet mehr konfigurierbare Optionen als das Standard-Plugin.",
+    "features_de": {
+        "0": "Es bietet auch die Möglichkeit, dass eingeloggte Administratoren oder Redakteure das Frontend der Website einsehen können."
+    },
+    "description_ru": "Добавляет режим технического обслуживания Bludit, это расширенная версия плагина: она имеет дополнительные опции в панели управления. Обновлён дизайн, теперь он более привлекательный.",
+    "features_ru": {
+        "0": "Авторизованный администратор или редактор по-прежнему будут видеть сайт полностью."
+    },
+    "author_username": "barthusz"
 }
