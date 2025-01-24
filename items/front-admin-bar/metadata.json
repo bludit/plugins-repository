@@ -9,10 +9,10 @@
 	"information_url": "https://github.com/multicolor-rgb/front-admin-bar/releases/tag/3.0.0",
 	"description": "This plugin add edit bar on frontend when your logged.",
 	"features": {
-		"0":"Panel color bar settings.",
-		"1":"Panel position (top or bottom) settings.",
-		"2":"For v2 added new position options with new sidebar layout (left or right).",
-		"3":"Fixes code for subdomain/subdir instalation (thx Larsene)."
+		"0": "Panel color bar settings.",
+		"1": "Panel position (top or bottom) settings.",
+		"2": "For v2 added new position options with new sidebar layout (left or right).",
+		"3": "Fixes code for subdomain/subdir instalation (thx Larsene)."
 		
 	},
 	"description_de": "",
@@ -21,12 +21,12 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Этот плагин добавляет панель редактирования на страницы сайта, когда вы вошли в систему.",
+	"description_ru": "Добавляет удобную панель редактирования на страницы сайта, когда вы вошли в систему.",
 	"features_ru": {
-		"0":"Настройки цветов панели редактирования.",
-		"1":"Настройки позиционирования панели (вверху или внизу страницы).",
-		"2":"Для версии 2 добавлены новые параметры позиционирования с новым расположением панели (слева или справа).",
-		"3":"Исправлен код для установки плагина на сайте в поддомене/подпапке (спасибки Larsene)."
+		"0": "Настройки цветов панели редактирования.",
+		"1": "Настройки позиционирования панели (вверху или внизу страницы).",
+		"2": "Для версии 2 добавлены новые параметры позиционирования с новым расположением панели (слева или справа).",
+		"3": "Исправлен код для установки плагина на сайте в поддомене/подпапке (спасибки Larsene)."
 	},
 	"author_username": "multicolor"
 }

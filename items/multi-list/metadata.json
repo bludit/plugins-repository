@@ -12,7 +12,7 @@
 		"0": "Easy custom title and button settings.",
 		"1": "Categories and Tags limit Settings.",
 		"2": "Turn on/off on sidebar.",
-		"3": "View mode option - form or cloud tag/categories."
+		"3": "View mode option — form or cloud tag/categories."
 	},
 	"description_de": "",
 	"features_de": {
@@ -21,11 +21,11 @@
 	"features_es": {
 		
 	},
-	"description_ru": "Отображает категории и теги с пользовательскими настройками.",
+	"description_ru": "Отображает категории и теги с дополнительными настройками.",
 	"features_ru": {
-		"0": "Простые пользовательские настройки заголовка и кнопок.",
+		"0": "Простые дополнительные настройки заголовка и кнопок.",
 		"1": "Ограничения категорий и тегов задаются в настройках.",
-		"2": "Включение/выключение на боковой панели.",
+		"2": "Включение/выключение отображения на боковой панели.",
 		"3": "Опции режима просмотра — обычный режим или в виде облака тегов/категорий."
 	},
 	"author_username": "multicolor"

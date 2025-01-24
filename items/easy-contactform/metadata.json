@@ -9,23 +9,23 @@
 	"information_url": "https://github.com/multicolor-rgb/easy-contactform-bludit",
 	"description": "Easy contact form is contact form with TinyMCE support, you can change text, required input with captcha included.",
 	"features": {
-		"0":"Added captcha option: Google recaptcha v2 (I am not a robot).",
-		"1":"Added captcha option: Default recaptcha included on plugin.",
-		"2":"Fixed bug on version 3.0 and below."
+		"0": "Added captcha option: Google recaptcha v2 (I am not a robot).",
+		"1": "Added captcha option: Default recaptcha included on plugin.",
+		"2": "Fixed bug on version 3.0 and below."
 	},
 	"description_de": "",
 	"features_de": {
 	},
 	"description_es": "El formulario de contacto fácil es un formulario de contacto con soporte de TinyMCE, puede cambiar el texto, la entrada requerida con captcha incluido.",
 	"features_es": {
-		"1":"Opción de captcha agregada: Google recaptcha v2 (no soy un robot).",
-		"2":"Opción de captcha agregada: Recaptcha predeterminado incluido en el complemento."
+		"1": "Opción de captcha agregada: Google recaptcha v2 (no soy un robot).",
+		"2": "Opción de captcha agregada: Recaptcha predeterminado incluido en el complemento."
 	},
 	"description_ru": "Добавляет простую контактную форму с поддержкой TinyMCE, при этом можно изменить текст формы, а обязательные поля ввода включают в себя даже капчу.",
 	"features_ru": {
-		"0":"Добавлена опция: Google recaptcha v2 (я не робот).",
-		"1":"Добавлена опция: Капча, включённая в плагин по умолчанию.",
-		"2":"Исправлена ошибка из предыдущих версий плагина (версии ниже 3.0)."
+		"0": "Добавлена опция: использовать Google recaptcha v2 (я не робот).",
+		"1": "Добавлена опция: использовать капчу, включённую в плагин по умолчанию.",
+		"2": "Исправлена ошибка из предыдущих версий плагина (версии ниже 3.0)."
 	},
 	"author_username": "multicolor"
 }

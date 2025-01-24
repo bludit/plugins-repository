@@ -21,9 +21,9 @@
 	"features_es": {
  
 	},
-	"description_ru": "Использует шорткод в TinyMCE или Markdown для поддержки шрифтов Awesome или Unicons.",
+	"description_ru": "Использует шорткод в TinyMCE или Markdown редакторе для поддержки шрифтов Fontawesome или Unicons.",
 	"features_ru": {
-		"0": "Совместим с TinyMCE и Markdown.",
+		"0": "Совместим с TinyMCE и Markdown редакторами.",
 		"1": "Совместим с Fontawesome CSS и Unicons CSS.",
 		"2": "Переключатель включения/выключения CSS стиля в CDN.",
 		"3": "Прост в использовании."
