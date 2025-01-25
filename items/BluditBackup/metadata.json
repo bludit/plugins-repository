@@ -7,13 +7,13 @@
 	"download_url": "https://github.com/multicolor-rgb/BluditBackup-plugin-for-Bludit-CMS/archive/refs/tags/1.1.0.zip",
 	"demo_url": "",
 	"information_url": "https://ko-fi.com/multicolorplugins",
-	"description": "Easy Backup bludit with support concrete folder option to zip",
+	"description": "Easy Backup bludit with support concrete folder option to zip.",
 	"features": {
-    		"0":"Easy to use",
-		"1":"Zip archive creator",
-		"2":"List backup zip with delete option",
-		"3":"support Whole page, plugins folder, upload folder, pages folder etc.",
-    		"4":" package is created without the BluditBackup folder"
+    	"0": "Easy to use.",
+		"1": "Zip archive creator.",
+		"2": "Show list of backups zip with delete option.",
+		"3": "Support: whole site, plugins folder, uploads folder, pages folder e t. c.",
+    	"4": "Backup package is created without the BluditBackup folder."
    
 	},
 	"description_de": "",
@@ -22,8 +22,13 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Простое резервное копирование Bludit с поддержкой опции создания конкретных папок для архивирования.",
 	"features_ru": {
+		"0": "Прост в использовании, как и всегда.",
+		"1": "Поддерживает создание zip-архива.",
+		"2": "Отображает список резервных zip-архивов с возможностью их удаления.",
+		"3": "Для резервного копирования можно выбрать: все страницы, папку плагинов, папку загрузок, папку страниц и т. д.",
+    	"4": "Резервная копия может создаваться без папки BluditBackup."
   },
 	"author_username": "multicolor"
 }

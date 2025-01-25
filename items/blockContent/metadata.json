@@ -7,12 +7,12 @@
 	"download_url": "https://github.com/multicolor-rgb/BlockContent-plugin-for-bludit-cms/archive/refs/tags/2.0.0.zip",
 	"demo_url": "",
 	"information_url": "https://ko-fi.com/multicolorplugins",
-	"description": "Modern Wysywig based on editor.js",
+	"description": "Modern WYSIWYG content editor based on editor.js library.",
 	"features": {
-    "0":"Easy to use Wysywig for Bludit CMS",
-		"1":"own uploader photo working direct from editor",
-		"2":"Included few plugins (paragraph, image, editor style, table, list, code)",
-		"3":"have few columns (required bootstrap css on layout)"
+    	"0": "Easy to use WYSIWYG content editor for Bludit CMS.",
+		"1": "Own uploader photo working direct from editor.",
+		"2": "Included few buttons (paragraph, image, editor style, table, list, code).",
+		"3": "Have few columns (required Bootstrap CSS on layout)."
    
 	},
 	"description_de": "",
@@ -21,8 +21,12 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Современный WYSIWYG-редактор на основе библиотеки editor.js.",
 	"features_ru": {
+		"0": "Простой в использовании WYSIWYG-редактор контента для Bludit CMS.",
+		"1": "Собственный загрузчик фотографий, работающий напрямую из редактора.",
+		"2": "Включает в себя несколько кнопок (абзац, изображение, редактор стилей, таблица, список, код).",
+		"3": "Поддерживает несколько столбцов (требуется Bootstrap CSS для макета)."
   },
 	"author_username": "multicolor"
 }
