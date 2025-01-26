@@ -8,12 +8,22 @@
 	"download_url": "https://github.com/skynettechnologies/bludit-allinoneaccessibility.git",
 	"demo_url": "https://www.skynettechnologies.com",
 	"information_url": "https://www.skynettechnologies.com/sites/default/files/accessibility-widget-features-list.pdf",
-	"description": "All in One Accessibility widget improves website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards. All in One Accessibility Widget complies with GDPR, COPPA regulations.",
+	"description": "Adds special viewing and interacting options for people with disabilities, complies with modern global requirements (see the description for the full list) and follow GDPR and COPPA requirements.",
 	"features": {
-		"0": "Screen Reader, Talk & Type, Voice Navigation, Dictionary, Virtual Keyboard are the top features",
-		"1": "Accessibility Profiles, Custom Widget Color, Icon size and Position",
-		"2": "AI Widget Supports 140 Languages and Voice Over",
+		"0": "Screen Reader, Talk & Type, Voice Navigation, Dictionary, Virtual Keyboard are the top features.",
+		"1": "Accessibility Profiles, Custom Widget Color, Icon size and Position.",
+		"2": "AI Widget Supports 140 Languages and Voice Over.",
 		"3": "Flexible and lightweight widget that can be changed according to law.",
-		"4": "Remediates image Alternative text"
+		"4": "Remediates image Alternative text.",
+		"5": "Full list of compliance with international standards and requirements: ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards."
+	},
+	"description_ru": "Добавляет специальные возможности просмотра для людей с физическими особенностями, соответствует современным мировым требованиям (полный список см. в описании) и отвечает требованиям GDPR и COPPA.",
+	"features_ru": {
+		"0": "Среди основных функций — экранный диктор, Talk & Type, голосовая навигация, словарь и виртуальная клавиатура.",
+		"1": "Профили доступности, настраиваемый цвет виджета, размер и положение значка.",
+		"2": "Виджет AI поддерживает 140 языков и озвучку.",
+		"3": "Гибкий и лёгкий виджет, который можно изменять в соответствии с законодательством.",
+		"4": "Исправляет альтернативный текст для изображений.",
+		"5": "Полный список соответствия мировым стандартам и требованиям: ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards."
 	}
 }

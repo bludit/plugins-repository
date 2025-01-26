@@ -10,10 +10,10 @@
 	"information_url": "https://bluditlab.com/plugins/user/twitch-login",
 	"description": "Enhance your Bludit site with our Twitch login plugin. Simplify user access, offer exclusive content, and personalize the user experience. Elevate your site today.",
 	"features": {
-		"0": "Effortless Twitch Integration: Enable your users to log in through Twitch effortlessly, providing a seamless and secure authentication experience.",
-		"1": "Exclusive Content Access: Leverage your website's potential by offering unique content to your followers. Establish special access permissions, hidden bonuses, or exclusive pages that only your subscribers can view.",
-		"2": "Personalized User Experience: Welcome your users by their Twitch display names and tailor the user experience on your site according to their Twitch profile. Boost user engagement by making each visit feel uniquely personal and appreciated.",
-		"3": "Simplified User Management: Managing your site's users is straightforward with Twitch authentication. Our plugin efficiently handles the login procedure, eliminating the need for multiple usernames and passwords."
+		"0": "Effortless Twitch integration: enable your users to log in through Twitch effortlessly, providing a seamless and secure authentication experience.",
+		"1": "Exclusive content access: leverage your website's potential by offering unique content to your followers. Establish special access permissions, hidden bonuses, or exclusive pages that only your subscribers can view.",
+		"2": "Personalized user experience: welcome your users by their Twitch display names and tailor the user experience on your site according to their Twitch profile. Boost user engagement by making each visit feel uniquely personal and appreciated.",
+		"3": "Simplified user management: managing your site's users is straightforward with Twitch authentication. Our plugin efficiently handles the login procedure, eliminating the need for multiple usernames and passwords."
 	},
 	"description_de": "Verbessern Sie Ihre Bludit-Website mit unserem Twitch-Login-Plugin. Vereinfachen Sie den Benutzerzugang, bieten Sie exklusive Inhalte an und personalisieren Sie das Benutzererlebnis. Erhöhen Sie heute die Qualität Ihrer Website.",
 	"features_de": {
@@ -31,9 +31,9 @@
 	},
 	"description_ru": "Улучшите ваш сайт на Bludit с помощью нашего плагина входа через Twitch. Упростите доступ пользователей, предлагайте эксклюзивный контент и персонализируйте пользовательский опыт. Улучшите ваш сайт уже сегодня.",
 	"features_ru": {
-		"0": "Легкая Интеграция с Twitch: Позвольте вашим пользователям легко входить через Twitch, обеспечивая плавный и безопасный процесс аутентификации.",
-		"1": "Доступ к Эксклюзивному Контенту: Используйте потенциал вашего сайта, предлагая уникальный контент вашим подписчикам. Настройте специальные разрешения на доступ, скрытые бонусы или эксклюзивные страницы, доступные только вашим подписчикам.",
-		"2": "Персонализированный Пользовательский Опыт: Приветствуйте своих пользователей по их отображаемым именам Twitch и настраивайте пользовательский опыт на вашем сайте в зависимости от их профиля в Twitch. Повышайте вовлеченность пользователей, делая каждое посещение уникальным и ценным.",
-		"3": "Упрощенное Управление Пользователями: С аутентификацией через Twitch управление пользователями вашего сайта становится проще. Наш плагин эффективно обрабатывает процесс входа, устраняя необходимость в нескольких именах пользователей и паролях."
+		"0": "Лёгкая интеграция с Twitch: позвольте вашим пользователям легко входить через Twitch, обеспечивая плавный и безопасный процесс аутентификации.",
+		"1": "Доступ к эксклюзивному контенту: используйте потенциал вашего сайта, предлагая уникальный контент вашим подписчикам. Настройте специальные разрешения на доступ, скрытые бонусы или эксклюзивные страницы, доступные только вашим подписчикам.",
+		"2": "Персонализированный пользовательский опыт: приветствуйте своих пользователей по их отображаемым именам в Twitch и настраивайте пользовательский опыт на вашем сайте в зависимости от их профиля в Twitch. Повышайте вовлечённость пользователей, делая каждое посещение уникальным и ценным.",
+		"3": "Упрощённое управление пользователями: с аутентификацией через Twitch управление пользователями вашего сайта становится проще. Наш плагин эффективно обрабатывает процесс входа, устраняя необходимость в нескольких именах пользователей и паролях."
 	}
 }

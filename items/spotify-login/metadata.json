@@ -10,10 +10,10 @@
 	"information_url": "https://bluditlab.com/plugins/user/spotify-login",
 	"description": "Enhance your Bludit site with our Spotify login plugin. Simplify user access, offer exclusive content, and personalize the user experience. Elevate your site today.",
 	"features": {
-		"0": "Effortless Spotify Integration: Allow your users to log in through Spotify effortlessly, providing a seamless and secure authentication process.",
-		"1": "Exclusive Content Access: Maximize your website's potential by offering special content to your followers. Set up unique access permissions, hidden bonuses, or exclusive pages accessible only to your subscribers.",
-		"2": "Personalized User Experience: Greet your users with their Spotify display names and customize the user experience on your site based on their Spotify profiles. Enhance user engagement by making each visit feel uniquely personal and valued.",
-		"3": "Simplified User Management: With Spotify authentication, managing your site's users becomes effortless. Our plugin streamlines the login process, removing the need for multiple usernames and passwords."
+		"0": "Effortless Spotify integration: allow your users to log in through Spotify effortlessly, providing a seamless and secure authentication process.",
+		"1": "Exclusive content access: maximize your website's potential by offering special content to your followers. Set up unique access permissions, hidden bonuses, or exclusive pages accessible only to your subscribers.",
+		"2": "Personalized user experience: greet your users with their Spotify display names and customize the user experience on your site based on their Spotify profiles. Enhance user engagement by making each visit feel uniquely personal and valued.",
+		"3": "Simplified user management: with Spotify authentication, managing your site's users becomes effortless. Our plugin streamlines the login process, removing the need for multiple usernames and passwords."
 	},
 	"description_de": "Verbessern Sie Ihre Bludit-Website mit unserem Spotify-Login-Plugin. Vereinfachen Sie den Benutzerzugang, bieten Sie exklusive Inhalte an und personalisieren Sie das Benutzererlebnis. Erhöhen Sie heute die Qualität Ihrer Website.",
 	"features_de": {
@@ -29,11 +29,11 @@
 		"2": "Experiencia de Usuario Personalizada: Saluda a tus usuarios con sus nombres de pantalla de Spotify y personaliza la experiencia del usuario en tu sitio según sus perfiles de Spotify. Mejora el compromiso del usuario haciendo que cada visita sea única y valiosa.",
 		"3": "Gestión Simplificada de Usuarios: Con la autenticación de Spotify, gestionar a los usuarios de tu sitio se vuelve sencillo. Nuestro plugin optimiza el proceso de inicio de sesión, eliminando la necesidad de múltiples nombres de usuario y contraseñas."
 	},
-	"description_ru": "Улучшите ваш сайт на Bludit с помощью нашего плагина входа через Spotify. Упростите доступ пользователей, предлагайте эксклюзивный контент и персонализируйте пользовательский опыт. Улучшите ваш сайт уже сегодня.",
+	"description_ru": "Улучшите ваш сайт с помощью входа через Spotify. Упростите доступ пользователей, предлагайте эксклюзивный контент и персонализируйте пользовательский опыт. Улучшите ваш сайт уже сегодня.",
 	"features_ru": {
-		"0": "Легкая Интеграция с Spotify: Позвольте вашим пользователям легко входить через Spotify, обеспечивая плавный и безопасный процесс аутентификации.",
-		"1": "Доступ к Эксклюзивному Контенту: Максимизируйте потенциал вашего сайта, предлагая специальный контент вашим подписчикам. Настройте уникальные разрешения на доступ, скрытые бонусы или эксклюзивные страницы, доступные только вашим подписчикам.",
-		"2": "Персонализированный Пользовательский Опыт: Приветствуйте своих пользователей с их отображаемыми именами Spotify и настраивайте пользовательский опыт на вашем сайте в зависимости от их профилей в Spotify. Повышайте вовлеченность пользователей, делая каждое посещение уникальным и ценным.",
-		"3": "Упрощенное Управление Пользователями: С аутентификацией через Spotify управление пользователями вашего сайта становится проще. Наш плагин оптимизирует процесс входа, устраняя необходимость в нескольких именах пользователей и паролях."
+		"0": "Лёгкая интеграция с Spotify: позвольте вашим пользователям легко входить через Spotify, обеспечивая плавный и безопасный процесс аутентификации.",
+		"1": "Доступ к эксклюзивному контенту: максимизируйте потенциал вашего сайта, предлагая специальный контент вашим подписчикам. Настройте уникальные разрешения на доступ, скрытые бонусы или эксклюзивные страницы, доступные только вашим подписчикам.",
+		"2": "Персонализированный пользовательский опыт: приветствуйте своих пользователей с их отображаемыми именами в Spotify и настраивайте пользовательский опыт на вашем сайте в зависимости от их профилей в Spotify. Повышайте вовлечённость пользователей, делая каждое посещение уникальным и ценным.",
+		"3": "Упрощённое управление пользователями: с аутентификацией через Spotify управление пользователями вашего сайта становится проще. Наш плагин оптимизирует процесс входа, устраняя необходимость в нескольких именах пользователей и паролях."
 	}
 }
