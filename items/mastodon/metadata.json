@@ -10,22 +10,14 @@
   "information_url": "https://gitlab.com/bludit-plugins1/mastodon",
   "description": "Publish new posts on Mastodon or Friendica. Mastodon is free and open-source software for running self-hosted social networking services.",
   "features": {
-    "0": "",
-    "1": ""
   },
   "description_de": "Neue Inhalte auf Mastodon oder Friendica veröffentlichen.",
   "features_de": {
-    "0": "",
-    "1": ""
   },
   "description_es": "",
   "features_es": {
-    "0": "",
-    "1": ""
   },
-  "description_ru": "Публикуйте новые посты в Mastodon или Friendica. Mastodon — свободное программное обеспечение для развёртывания распределённых социальных сетей.",
+  "description_ru": "Публикуйте новые записи параллельно и в Mastodon или Friendica. Mastodon и Friendica — свободное программное обеспечение для развёртывания распределённых социальных сетей.",
   "features_ru": {
-    "0": "",
-    "1": ""
   }
 }

@@ -12,12 +12,22 @@
     "credits_url": "https://www.webbplatsen.se",
     "description": "This plugin allows you to display events from an .ics source as an agenda with previous, current, and upcoming events on your website.",
     "features": {
-        "0": "Calendar agenda display",
-        "1": "Uses a shortcode, making it versatile",
-        "2": "Ignores content in pre HTML tags",
-        "3": "Can be used in the sidebar",
-        "4": "Can be configured for HH:MM or AM/PM time display",
-        "5": "Display past, present, and future events",
-        "6": "Can use local .ics file or a remote .ics URL"
+        "0": "Calendar agenda display.",
+        "1": "Uses a shortcode, making it versatile.",
+        "2": "Ignores content in <code>pre</code> HTML tags.",
+        "3": "Can be used in the sidebar.",
+        "4": "Can be configured for HH:MM or AM/PM time display.",
+        "5": "Display past, present, and future events.",
+        "6": "Can use local .ics file or a remote .ics URL."
+    },
+    "description_ru": "Этот плагин позволяет отображать события из источника в виде файлов .ics, показывая повестки дня с предыдущими, текущими и предстоящими событиями на сайте.",
+    "features_ru": {
+        "0": "Отображение календаря с повесткой дня.",
+        "1": "Использует шорткод, что делает плагин универсальным.",
+        "2": "Игнорирует содержимое в HTML тегах <code>pre</code>.",
+        "3": "Можно использовать на боковой панели сайта.",
+        "4": "Можно настроить формат для отображения времени в ЧЧ:ММ или AM/PM.",
+        "5": "Отображение прошлых, настоящих и будущих событий.",
+        "6": "Можно использовать локальный файл .ics или файл .ics находящийся по любому URL-адресу."
     }
 }

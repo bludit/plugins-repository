@@ -10,10 +10,16 @@
     "information_url": "https://github.com/joho1968/bludit-areweopen",
     "credits": "WebbPlatsen i Sverige AB",
     "credits_url": "https://www.webbplatsen.se",
-    "description": "This plugin allows you to display availability and/or business operating open/closed notices on your Bludit website",
+    "description": "This plugin allows you to display availability and/or business operating open/closed notices on your Bludit website.",
     "features": {
         "0": "Display availability and/or business operating open/closed notices on your website.",
-        "1": "Uses a shortcode, making it versatile",
-        "2": "Ignores content in pre HTML tags"
+        "1": "Uses a shortcode, making it versatile.",
+        "2": "Ignores content in pre HTML tags."
+    },
+    "description_ru": "Позволяет отображать уведомления о доступности и/или открытии/закрытии, графике работы организации/предприятия на вашем сайте.",
+    "features_ru": {
+        "0": "Отображает уведомления о доступности и/или графике работы бизнеса, об открытии/закрытии организации на вашем сайте.",
+        "1": "Использует шорткод, что делает плагин универсальным.",
+        "2": "Игнорирует содержимое в HTML тегах <code>pre</code>."
     }
 }

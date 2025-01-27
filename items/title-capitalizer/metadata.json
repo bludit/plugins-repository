@@ -10,10 +10,10 @@
 	"information_url": "https://bluditlab.com/plugins/content/title-capitalizer",
 	"description": "Optimize your website's readability with Title Capitalizer, a fully customizable plugin that automates title formatting, ensuring every title on your site adheres to professional capitalization standards.",
 	"features": {
-		"0": "Multiple Capitalization Styles: Whether you're following APA, CMS, AP, MLA, BB, AMA, or NYT style guides, the Title Capitalizer plugin has got you covered. Easily select your preferred style and let the plugin do the rest.",
-		"1": "Instant Application: As soon as you finish typing your title, the Title Capitalizer automatically formats it according to your chosen style. No need to go back and edit—your titles are formatted correctly from the start.",
-		"2": "Enhanced Readability: Proper title capitalization makes your content more accessible and easier to read, which can improve engagement and retention. The Title Capitalizer ensures that your titles are always reader-friendly.",
-		"3": "Consistency Across Your Site: Maintain a consistent look and feel across all your content. The Title Capitalizer plugin ensures that every title on your website adheres to the same standard, reinforcing your brand's professionalism."
+		"0": "Multiple capitalization styles: whether you're following APA, CMS, AP, MLA, BB, AMA, or NYT style guides, the Title Capitalizer plugin has got you covered. Easily select your preferred style and let the plugin do the rest.",
+		"1": "Instant application: as soon as you finish typing your title, the Title Capitalizer automatically formats it according to your chosen style. No need to go back and edit—your titles are formatted correctly from the start.",
+		"2": "Enhanced readability: proper title capitalization makes your content more accessible and easier to read, which can improve engagement and retention. The Title Capitalizer ensures that your titles are always reader-friendly.",
+		"3": "Consistency across your site: maintain a consistent look and feel across all your content. The Title Capitalizer plugin ensures that every title on your website adheres to the same standard, reinforcing your brand's professionalism."
 	},
 	"description_de": "Optimieren Sie die Lesbarkeit Ihrer Website mit Title Capitalizer, einem vollständig anpassbaren Plugin, das die Titelgestaltung automatisiert und sicherstellt, dass jeder Titel auf Ihrer Website professionellen Großschreibungsstandards entspricht.",
 	"features_de": {
@@ -29,11 +29,11 @@
 		"2": "Legibilidad Mejorada: La capitalización adecuada de los títulos hace que tu contenido sea más accesible y fácil de leer, lo que puede mejorar el compromiso y la retención. Title Capitalizer asegura que tus títulos sean siempre fáciles de leer.",
 		"3": "Consistencia en Todo tu Sitio: Mantén una apariencia y sensación consistentes en todo tu contenido. El plugin Title Capitalizer asegura que cada título en tu sitio web cumpla con el mismo estándar, reforzando el profesionalismo de tu marca."
 	},
-	"description_ru": "Оптимизируйте читаемость вашего сайта с Title Capitalizer, полностью настраиваемым плагином, который автоматизирует форматирование заголовков, обеспечивая соблюдение профессиональных стандартов капитализации для каждого заголовка на вашем сайте.",
+	"description_ru": "Оптимизируйте читаемость сайта автоматизировав форматирование заголовков, обеспечив соблюдение профессиональных стандартов капитализации для каждого заголовка на вашем сайте.",
 	"features_ru": {
-		"0": "Множество Стилей Капитализации: Независимо от того, следуете ли вы стилям APA, CMS, AP, MLA, BB, AMA или NYT, плагин Title Capitalizer покроет все ваши потребности. Просто выберите предпочитаемый стиль, и плагин сделает остальное.",
-		"1": "Мгновенное Применение: Как только вы закончите вводить заголовок, Title Capitalizer автоматически форматирует его в соответствии с выбранным стилем. Нет необходимости возвращаться и редактировать — ваши заголовки правильно отформатированы с самого начала.",
-		"2": "Улучшенная Читаемость: Правильная капитализация заголовков делает ваш контент более доступным и легким для чтения, что может повысить вовлеченность и удержание. Title Capitalizer гарантирует, что ваши заголовки всегда удобочитаемы.",
-		"3": "Последовательность На Вашем Сайте: Поддерживайте единый вид и стиль во всем вашем контенте. Плагин Title Capitalizer обеспечивает соответствие каждого заголовка на вашем сайте одному стандарту, укрепляя профессионализм вашего бренда."
+		"0": "Множество стилей капитализации: независимо от того, следуете ли вы стилям APA, CMS, AP, MLA, BB, AMA или NYT, плагин Title Capitalizer покроет все ваши потребности. Просто выберите предпочитаемый стиль, и плагин сделает остальное.",
+		"1": "Мгновенное применение: как только вы закончите вводить заголовок, Title Capitalizer автоматически форматирует его в соответствии с выбранным стилем. Нет необходимости возвращаться и редактировать — ваши заголовки правильно отформатированы с самого начала.",
+		"2": "Улучшенная читаемость: правильная капитализация заголовков делает ваш контент более доступным и лёгким для чтения, что может повысить вовлечённость и удержание. Title Capitalizer гарантирует, что ваши заголовки всегда удобочитаемы.",
+		"3": "Последовательность на вашем сайте: поддерживайте единый вид и стиль во всём вашем контенте. Плагин Title Capitalizer обеспечивает соответствие каждого заголовка на вашем сайте одному стандарту, укрепляя профессионализм вашего бренда."
 	}
 }

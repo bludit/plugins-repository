@@ -7,13 +7,13 @@
 	"download_url": "https://github.com/multicolor-rgb/EasyComments-for-Bludit-CMS/archive/refs/heads/3.1.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/EasyComments-for-Bludit-CMS/",
-	"description": "Easy Comments system for everyone for normal page and post",
+	"description": "Easy Comments system for everyone for normal page and post.",
 	"features": {
 		"0": "All comments waiting for accept from admin.",
-		"1": "Easy to use",
-		"2": "Build Hcaptcha",
-		"3": "reply to another comment option",
-		"4": "MultiLang support (Lang folder exist)"
+		"1": "Easy to use.",
+		"2": "Support hCaptcha.",
+		"3": "Reply to another comment option.",
+		"4": "MultiLang support (Lang folder exist)."
 	},
 	"description_de": "",
 	"features_de": {
@@ -21,8 +21,13 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Простая система комментариев для всех, работает как для обычных статичных страниц так и для записей.",
 	"features_ru": {
+		"0": "Все оставленные комментарии ждут одобрения администратора.",
+		"1": "Простот в использовании.",
+		"2": "Поддерживает капчу от hCaptcha.",
+		"3": "Есть опция «ответить на комментарий».",
+		"4": "Поддержка разных языков (папка Lang присутствует)."
 	},
 	"author_username": "multicolor"
 }
