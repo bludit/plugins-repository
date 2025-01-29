@@ -13,7 +13,7 @@
 		"1": "Add invitiation to newsletter on website.",
 		"2": "Customize invitation message and text button.",
 		"3": "Send newsletter from list on Admin Panel.",
-		"4": "Support SMTP and MailTo"
+		"4": "Support SMTP and MailTo."
 	},
 	"description_de": "",
 	"features_de": {
@@ -21,12 +21,13 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Позволяет легко создавать предложение подписаться на email-рассылку для посетителей сайта.",
+	"description_ru": "Позволяет легко создать форму с предложеним подписаться на email-рассылку для посетителей сайта.",
 	"features_ru": {
 		"0": "Использует SMTP PHPMailer.",
 		"1": "Добавляет предложение о подписке на email-рассылку на сайте.",
 		"2": "Можно настроить пригласительное сообщение и текст на кнопке.",
-		"3": "Отправляйте рассылки по списку адресатов прямо из Панели администратора."
+		"3": "Отправляйте рассылки по списку адресатов прямо из Панели управления.",
+		"4": "Поддержкивает SMTP и MailTo."
 	},
 	"author_username": "multicolor"
 }

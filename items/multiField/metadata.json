@@ -9,9 +9,9 @@
 	"information_url": "https://github.com/multicolor-rgb/multiFields-for-Bludit/releases/tag/2.0.0",
 	"description": "MultiField is Creator for Custom Fields for concrete page or All.",
 	"features": {
-		"0":"Easy to use.",
-		"1":"Many custom input (photo, date, color, textarea,dropdown,checkbox, TinyMCE).",
-		"2":"Generates function Field for paste on your template."
+		"0": "Easy to use.",
+		"1": "Many custom input (image, date, color, textarea,dropdown,checkbox, TinyMCE).",
+		"2": "Generates function Field for paste on your template."
 	},
 	"description_de": "",
 	"features_de": {
@@ -19,11 +19,11 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "MultiField — это инструмент для создания пользовательских полей для конкретной страницы.",
+	"description_ru": "MultiField — это инструмент для создания пользовательских полей для конкретной страницы сайта.",
 	"features_ru": {
-		"0":"Прост в использовании.",
-		"1":"Множество типов пользовательских данных (фотография, дата, цвет, текстовое поле, TinyMCE).",
-		"2":"Генерирует функциональные поля для вставки в выбранную тему."
+		"0": "Прост в использовании.",
+		"1": "Множество типов пользовательских данных (изображение, дата, цвет, текстовое поле, TinyMCE).",
+		"2": "Генерирует функциональные поля для вставки в выбранную тему."
 	},
 	"author_username": "multicolor"
 }

@@ -7,14 +7,14 @@
 	"download_url": "https://github.com/multicolor-rgb/CustomAdmin-Plugin-for-BluditCMS/archive/refs/tags/1.0.zip",
 	"demo_url": "",
 	"information_url": "https://ko-fi.com/multicolorplugins",
-	"description": "This plugin open new settings for custom admin dashboard",
+	"description": "This plugin open new settings for custom admin dashboard.",
 	"features": {
-		"0":"🔥 15+ custom style based on Bootswatch",
-		"1":"🔥 2 custom Login Admin styles",
-		"2":"🔥 Normal/Left/Top Navbar Option",
-    "3":"🔥 Hide name website on Login",
-    "4":"🔥 Dynamic wallpaper from Login",
-    "5":"🔥 Show/Hide Avatar image on Login"
+		"0":"🔥 15+ custom style based on Bootswatch.",
+		"1":"🔥 2 custom Login Admin styles.",
+		"2":"🔥 Normal/Left/Top Navbar Option.",
+    	"3":"🔥 Hide name website on Login page.",
+    	"4":"🔥 Dynamic wallpaper on Login page.",
+    	"5":"🔥 Show/Hide Avatar image on Login page."
 	},
 	"description_de": "",
 	"features_de": {
@@ -23,9 +23,14 @@
 	"features_es": {
 		
 	},
-	"description_ru": "",
+	"description_ru": "Добавляет новые настройки и кастомизирует панель управления (панель администратора).",
 	"features_ru": {
-		
+		"0":"🔥 Более 15 готовых индивидуальных стилей на основе Bootswatch.",
+		"1":"🔥 2 новых стиля для страницы входа в систему администратора.",
+		"2":"🔥 Варианты размещения панели навигации: обычное расположение/слева/верху.",
+    	"3":"🔥 Можно скрыть название сайта на странице входа в систему.",
+    	"4":"🔥 Динамические обои на странице входа в систему.",
+    	"5":"🔥 Можно показывать/скрывать изображение аватара на странице входа в систему."
 	},
 	"author_username": "multicolor"
 }

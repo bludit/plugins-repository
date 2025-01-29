@@ -12,9 +12,9 @@
 		"0": "Simple and convenient to use.",
 		"1": "Make menus how many you want.",
 		"2": "Compatible with external link.",
-		"3":"Compatible with child static site and dropdown",
-		"4":"input for own class",
-		"5":"Clean control panel"
+		"3": "Compatible with child static site and dropdown.",
+		"4": "Input for own class.",
+		"5": "Clean control panel."
 	},
 	"description_de": "Jetzt können Sie ein Menü erstellen, das Sie mit Link innerhalb und außerhalb der Seite einfügen können. Sie müssen lediglich ein Menü erstellen und die Funktion auf Ihrer Vorlage platzieren.",
 	"features_de":  {
@@ -25,11 +25,14 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "Cоздайте меню, в которое вы можете намешать ссылки как внитристраничные, так и внешние. Вам всегол ишь необходимо создать меню и разместить его в вашем шаблоне.",
+	"description_ru": "Теперь вы можете создать то меню, которое хотите, смешивая ссылки на внутренние и внешние страницы, вам нужно только создать меню и разместить функцию в своём шаблоне.",
 	"features_ru": {
 	 	"0": "Прост и удобен в использовании.",
 		"1": "Делайте столько разных меню, сколько захотите.",
-		"2": "Совместим и пригоден для работы с внешними ссылками."
+		"2": "Совместим и пригоден для работы с внешними ссылками.",
+		"3": "Совместим с дочерним статическим сайтом и раскрывающимся списком.",
+		"4": "Есть поле для ввода собственного класса.",
+		"5": "Простая панель управления плагином."
 	},
 	"author_username": "multicolor"
 }

@@ -10,10 +10,10 @@
 	"information_url": "https://bluditlab.com/plugins/user/patreon-login",
 	"description": "Enhance your Bludit site with our Patreon login plugin. Simplify user access, offer exclusive content to patrons, and personalize the user experience. Elevate your site today.",
 	"features": {
-		"0": "Seamless Patreon Integration: Allow your users to log in through Patreon with ease, ensuring a smooth and secure authentication process.",
-		"1": "Exclusive Content Access: Unlock the potential of your website by offering exclusive content to your patrons. Set up special access rights, hidden bonuses, or unique pages that only your supporters can access.",
-		"2": "Personalized User Experience: Greet your users by name and customize the user experience on your site based on their Patreon status. Enhance user engagement by making each visit feel special and valued.",
-		"3": "Simplified User Management: With Patreon authentication, managing your site's users becomes a breeze. Our plugin seamlessly handles the login process, reducing the need for additional username and password combinations."
+		"0": "Seamless Patreon integration: allow your users to log in through Patreon with ease, ensuring a smooth and secure authentication process.",
+		"1": "Exclusive Content access: unlock the potential of your website by offering exclusive content to your patrons. Set up special access rights, hidden bonuses, or unique pages that only your supporters can access.",
+		"2": "Personalized user experience: greet your users by name and customize the user experience on your site based on their Patreon status. Enhance user engagement by making each visit feel special and valued.",
+		"3": "Simplified user management: with Patreon authentication, managing your site's users becomes a breeze. Our plugin seamlessly handles the login process, reducing the need for additional username and password combinations."
 	},
 	"description_de": "Verbessern Sie Ihre Bludit-Website mit unserem Patreon-Login-Plugin. Vereinfachen Sie den Benutzerzugang, bieten Sie exklusive Inhalte für Unterstützer und personalisieren Sie das Benutzererlebnis. Erhöhen Sie heute die Qualität Ihrer Website.",
 	"features_de": {
@@ -29,11 +29,11 @@
 		"2": "Experiencia de Usuario Personalizada: Saluda a tus usuarios por su nombre y personaliza la experiencia del usuario en tu sitio según su estado en Patreon. Mejora el compromiso del usuario haciendo que cada visita se sienta especial y valorada.",
 		"3": "Gestión Simplificada de Usuarios: Con la autenticación de Patreon, gestionar a los usuarios de tu sitio se convierte en una tarea sencilla. Nuestro plugin maneja sin problemas el proceso de inicio de sesión, reduciendo la necesidad de combinaciones adicionales de nombre de usuario y contraseña."
 	},
-	"description_ru": "Улучшите ваш сайт на Bludit с помощью нашего плагина входа через Patreon. Упростите доступ пользователей, предлагайте эксклюзивный контент для патронов и персонализируйте пользовательский опыт. Улучшите ваш сайт уже сегодня.",
+	"description_ru": "Улучшите свой сайт с помощью плагина входа через Patreon. Упростите доступ пользователей, предлагайте эксклюзивный контент для патронов и персонализируйте пользовательский опыт. Улучшите ваш сайт уже сегодня.",
 	"features_ru": {
-		"0": "Бесшовная Интеграция с Patreon: Позвольте вашим пользователям легко входить через Patreon, обеспечивая плавный и безопасный процесс аутентификации.",
-		"1": "Доступ к Эксклюзивному Контенту: Раскройте потенциал вашего сайта, предлагая эксклюзивный контент для ваших патронов. Настройте специальные права доступа, скрытые бонусы или уникальные страницы, которые могут видеть только ваши поддерживающие.",
-		"2": "Персонализированный Пользовательский Опыт: Приветствуйте своих пользователей по имени и настраивайте пользовательский опыт на вашем сайте в зависимости от их статуса на Patreon. Улучшите вовлеченность пользователей, делая каждое посещение особенным и ценным.",
-		"3": "Упрощенное Управление Пользователями: С аутентификацией через Patreon управление пользователями вашего сайта становится проще. Наш плагин бесшовно обрабатывает процесс входа, уменьшая необходимость в дополнительных комбинациях имени пользователя и пароля."
+		"0": "Бесшовная интеграция с Patreon: позвольте вашим пользователям легко входить через Patreon, обеспечивая плавный и безопасный процесс аутентификации.",
+		"1": "Доступ к эксклюзивному контенту: раскройте потенциал вашего сайта, предлагая эксклюзивный контент для ваших патронов. Настройте специальные права доступа, скрытые бонусы или уникальные страницы, которые могут видеть только ваши поддерживающие (патроны).",
+		"2": "Персонализированный пользовательский опыт: приветствуйте своих пользователей по имени и настраивайте пользовательский опыт на вашем сайте в зависимости от их статуса на Patreon. Улучшите вовлечённость пользователей, делая каждое посещение особенным и ценным.",
+		"3": "Упрощённое управление пользователями: с аутентификацией через Patreon управление пользователями вашего сайта становится проще. Наш плагин бесшовно обрабатывает процесс входа, уменьшая необходимость в дополнительных комбинациях имени пользователя и пароля."
 	}
 }

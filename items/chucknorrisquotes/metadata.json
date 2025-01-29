@@ -10,11 +10,18 @@
     "information_url": "https://bludit-bs5simplyblog.joho.se/chuck-norris-quotes",
     "credits": "WebbPlatsen i Sverige AB",
     "credits_url": "https://www.webbplatsen.se",
-    "description": "Chuck Norris Quotes Plugin for displaying random quotes in Bludit content",
+    "description": "Chuck Norris Quotes Plugin for displaying random quotes in Bludit content.",
     "features": {
-        "0": "Uses a shortcode, making it versatile",
-        "1": "Configurable quote refresh times",
-        "2": "Configurable quote category",
-        "3": "Ignores content in pre HTML tags"
+        "0": "Uses a shortcode, making it versatile.",
+        "1": "Configurable quote refresh times.",
+        "2": "Configurable quote category.",
+        "3": "Ignores content in <code>pre</code> HTML tags."
+    },
+    "description_ru": "Плагин цитат Чака Норриса, как несложно догадаться, служит для отображения случайных цитат этого удивительного человека в контенте сайта на Bludit.",
+    "features_ru": {
+        "0": "Для работы использует шорткод, что делает плагин универсальным.",
+        "1": "Настраиваемое время обновления цитаты.",
+        "2": "Настраиваемая категория цитаты.",
+        "3": "Игнорирует содержимое в HTML тегах <code>pre</code>."
     }
 }

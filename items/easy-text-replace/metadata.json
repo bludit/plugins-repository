@@ -10,10 +10,10 @@
 	"information_url": "https://bluditlab.com/plugins/content/easy-text-replace",
 	"description": "Effortlessly update your website's content with Easy Text Replace. Replace specific words or phrases across all pages and back up existing content before making changes. Keep your site accurate and relevant while ensuring you can restore if needed.",
 	"features": {
-		"0": "Comprehensive Backup: Before making any changes, the plugin can automatically create backups of your existing pages and content. This ensures that you can restore your site to its previous state if necessary, providing peace of mind.",
-		"1": "Easy to Use: With a simple interface and intuitive controls, the Easy Text Replace plugin makes it easy to update your site. Just specify the words or phrases you want to replace and their replacements, and the plugin will handle the rest.",
-		"2": "Batch Replacement: The plugin supports replacing multiple words or phrases at a time, making it highly efficient for bulk updates. Simply separate the words with commas, and the plugin will replace them accordingly.",
-		"3": "Safety First: The plugin includes a confirmation alert to prevent accidental replacements. You'll always have the opportunity to confirm your actions, ensuring that your content is only modified when you truly intend to do so."
+		"0": "Comprehensive backup: before making any changes, the plugin can automatically create backups of your existing pages and content. This ensures that you can restore your site to its previous state if necessary, providing peace of mind.",
+		"1": "Easy to use: with a simple interface and intuitive controls, the Easy Text Replace plugin makes it easy to update your site. Just specify the words or phrases you want to replace and their replacements, and the plugin will handle the rest.",
+		"2": "Batch replacement: the plugin supports replacing multiple words or phrases at a time, making it highly efficient for bulk updates. Simply separate the words with commas, and the plugin will replace them accordingly.",
+		"3": "Safety first: the plugin includes a confirmation alert to prevent accidental replacements. You'll always have the opportunity to confirm your actions, ensuring that your content is only modified when you truly intend to do so."
 	},
 	"description_de": "Aktualisieren Sie mühelos den Inhalt Ihrer Website mit Easy Text Replace. Ersetzen Sie spezifische Wörter oder Phrasen auf allen Seiten und sichern Sie vorhandene Inhalte, bevor Sie Änderungen vornehmen. Halten Sie Ihre Website genau und relevant, während Sie sicherstellen, dass Sie bei Bedarf wiederherstellen können.",
 	"features_de": {
@@ -29,11 +29,11 @@
 		"2": "Reemplazo por Lotes: El plugin admite el reemplazo de múltiples palabras o frases a la vez, lo que lo hace muy eficiente para actualizaciones masivas. Simplemente separa las palabras con comas, y el plugin las reemplazará en consecuencia.",
 		"3": "Seguridad Primero: El plugin incluye una alerta de confirmación para evitar reemplazos accidentales. Siempre tendrás la oportunidad de confirmar tus acciones, asegurando que tu contenido solo se modifique cuando realmente lo desees."
 	},
-	"description_ru": "Легко обновляйте содержимое вашего сайта с Easy Text Replace. Заменяйте определенные слова или фразы на всех страницах и создавайте резервные копии существующего контента перед внесением изменений. Поддерживайте ваш сайт точным и актуальным, обеспечивая возможность восстановления при необходимости.",
+	"description_ru": "Легко обновляйте содержимое сайта. Заменяйте определенные слова или фразы на всех страницах и создавайте резервные копии существующего контента перед внесением изменений.",
 	"features_ru": {
-		"0": "Полное Резервное Копирование: Перед внесением изменений плагин может автоматически создавать резервные копии ваших существующих страниц и контента. Это гарантирует, что вы сможете восстановить ваш сайт в предыдущем состоянии, если это необходимо, обеспечивая спокойствие.",
-		"1": "Легкость в Использовании: С простым интерфейсом и интуитивно понятными элементами управления, плагин Easy Text Replace облегчает обновление вашего сайта. Просто укажите слова или фразы, которые вы хотите заменить, и их заменители, а плагин сделает остальное.",
-		"2": "Массовая Замена: Плагин поддерживает замену нескольких слов или фраз одновременно, что делает его очень эффективным для массовых обновлений. Просто разделите слова запятыми, и плагин заменит их соответственно.",
-		"3": "Безопасность Превыше Всего: Плагин включает предупреждение для подтверждения, чтобы предотвратить случайные замены. У вас всегда будет возможность подтвердить свои действия, обеспечивая, что ваш контент изменяется только тогда, когда вы действительно этого хотите."
+		"0": "Полное резервное копирование: перед внесением изменений плагин может автоматически создавать резервные копии ваших существующих страниц и контента. Это гарантирует, что вы сможете восстановить ваш сайт в предыдущем состоянии, если это необходимо, обеспечивая ваше спокойствие.",
+		"1": "Лёгкость в использовании: с простым интерфейсом и интуитивно понятными элементами управления, плагин Easy Text Replace облегчает обновление вашего сайта. Просто укажите слова или фразы, которые вы хотите заменить, и их заменители, а плагин сделает остальное.",
+		"2": "Массовая замена: плагин поддерживает замену нескольких слов или фраз одновременно, что делает его очень эффективным для массовых обновлений. Просто разделите слова запятыми, и плагин заменит их соответственно.",
+		"3": "Безопасность превыше всего: плагин включает предупреждение для подтверждения, чтобы предотвратить случайные замены. У вас всегда будет возможность подтвердить свои действия, гарантируя, что ваш контент изменяется только тогда, когда вы действительно этого хотите."
 	}
 }

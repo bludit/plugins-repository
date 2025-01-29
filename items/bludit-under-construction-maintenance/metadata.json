@@ -10,8 +10,14 @@
 	"information_url": "https://github.com/abhiverma23/bludit-under-construction-maintenance",
 	"description": "Now get more control on your maintenance page with this plugin. Set what you want to show when your website is under development or maintenance and decide to who you want to show these pages.",
 	"features": {
-		"0": "Set comming soon, under construction, under maintenance, site is offline",
+		"0": "Set comming soon, under construction, under maintenance, site is offline.",
 		"1": "Give flexibility to your developers, admins or editors to see what they are doing on website without worring about your audience seeing the live changes.",
-		"2": "Esay to grant access to logged in users"
-	}
+		"2": "Easy to grant access to logged in users."
+	},
+	"description_ru": "Получите больше контроля над страницей обслуживания. Настройте что показывать, когда ваш сайт находится на стадии разработки или обслуживания, и решите, кому вы хотите показывать эти страницы.",
+	"features_ru": {
+		"0": "Можно установить заголовок: скоро вернёмся, в разработке, на обслуживании, сайт не в сети.",
+		"1": "Дайте разработчикам, администраторам или редакторам возможность видеть, что они делают на сайте, не беспокоясь о том, что ваша аудитория увидит изменения в реальном времени.",
+		"2": "C лёгкостью предоставляйте доступ к сайту зарегистрированным пользователям, если это необходимо."
+ 	}
 }

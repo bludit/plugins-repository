@@ -7,27 +7,32 @@
 	"download_url": "https://github.com/multicolor-rgb/downloadManager-Plugin-for-Bludit-CMS/archive/refs/tags/1.1.0.zip",
 	"demo_url": "",
 	"information_url": "https://ko-fi.com/multicolorplugins",
-	"description": "Easy create file download link based on shortcode",
+	"description": "Easy create file download link based on shortcode.",
 	"features": {
-		"0": "Easy to use File Uploader",
-		"1": "Link settings (target,title,class)",
-		"2": "Shortcode and pure url generator",
-    "3": "Access to list files and delete option inside backend",
-    "4": "Support many popular extension"
+		"0": "Easy to use File Uploader.",
+		"1": "Link settings (target,title,class).",
+		"2": "Shortcode and pure url generator.",
+    	"3": "Access to list files and delete option inside backend.",
+    	"4": "Support many popular file extensions."
 	},
 	"description_de": "Erstellen Sie einfach Downloads basierend auf einen Kurzcode.",
 	"features_de": {
-		"0": "Einfach zu benutzender Datei Upload",
-		"1": "Link-Einstellung (Ziel, Titel, Klasse)",
+		"0": "Einfach zu benutzender Datei Upload.",
+		"1": "Link-Einstellung (Ziel, Titel, Klasse).",
 		"2": "Shortcode und normal URL erzeugen.",
-		"3": "Zugriff über Dateiliste und löschfunktion über Oberfläche",
-		"4": "Support für viele Endungen"
+		"3": "Zugriff über Dateiliste und löschfunktion über Oberfläche.",
+		"4": "Support für viele Endungen."
 	},
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Лёгкое создание ссылки для загрузки файла на основе шорткода.",
 	"features_ru": {
+		"0": "Простой в использовании загрузчик файлов.",
+		"1": "Настройки ссылок (такие как: цель, название, класс).",
+		"2": "Встроенный генератор шорткодов и чистых URL-адресов.",
+    	"3": "Доступ к списку файлов и возможность их удаления из панели управления.",
+    	"4": "Поддержка большинства популярных расширений файлов."
 	},
 	"author_username": "multicolor"
 }

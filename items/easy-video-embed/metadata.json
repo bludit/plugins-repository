@@ -10,17 +10,17 @@
 	"information_url": "https://bluditlab.com/plugins/media/easy-video-embed",
 	"description": "Upgrade your Bludit site with the Easy Video Embed plugin, enabling seamless integration of various video formats, including live streams, directly into your site with simple shortcodes. Improve your blog's visual appeal and audience engagement with ease.",
 	"features": {
-		"0": "Simple Shortcode Embedding: Embed various types of videos with just a simple shortcode.",
-		"1": "Automatic Responsiveness: Videos automatically adjust to the screen size, ensuring a perfect fit on any device.",
-		"2": "Support for Multiple Video Formats: Including '.mp4' and '.m3u8' live streams.",
-		"3": "Enhanced User Engagement: Keep visitors on your site longer by offering engaging video content.",
-		"4": "No Configuration Hassle: The plugin works out of the box, with no need for complex setups."
+		"0": "Simple shortcode embedding: embed various types of videos with just a simple shortcode.",
+		"1": "Automatic responsiveness: videos automatically adjust to the screen size, ensuring a perfect fit on any device.",
+		"2": "Support for multiple video formats: including <code>.mp4</code> and <code>.m3u8</code> live streams.",
+		"3": "Enhanced user engagement: keep visitors on your site longer by offering engaging video content.",
+		"4": "No configuration hassle: the plugin works out of the box, with no need for complex setups."
 	},
 	"description_de": "Verbessern Sie Ihre Bludit-Website mit dem Easy Video Embed Plugin, das nahtlose Integration verschiedener Videoformate, einschließlich Livestreams, direkt in Ihre Website mit einfachen Shortcodes ermöglicht. Steigern Sie die visuelle Attraktivität und das Engagement Ihres Blogs mit Leichtigkeit.",
 	"features_de": {
 		"0": "Einfache Shortcode-Einbettung: Betten Sie verschiedene Arten von Videos mit nur einem einfachen Shortcode ein.",
 		"1": "Automatische Reaktionsfähigkeit: Videos passen sich automatisch der Bildschirmgröße an und sorgen für eine perfekte Darstellung auf jedem Gerät.",
-		"2": "Unterstützung für Mehrere Videoformate: Einschließlich '.mp4' und '.m3u8' Livestreams.",
+		"2": "Unterstützung für Mehrere Videoformate: Einschließlich <code>.mp4</code> und <code>.m3u8</code> Livestreams.",
 		"3": "Erhöhte Benutzerbindung: Halten Sie Besucher länger auf Ihrer Website, indem Sie ansprechende Videoinhalte anbieten.",
 		"4": "Keine Konfigurationsprobleme: Das Plugin funktioniert sofort, ohne dass komplizierte Einstellungen erforderlich sind."
 	},
@@ -28,16 +28,16 @@
 	"features_es": {
 		"0": "Incorporación Simple con Código Corto: Incorpora varios tipos de videos con solo un simple código corto.",
 		"1": "Adaptabilidad Automática: Los videos se ajustan automáticamente al tamaño de la pantalla, asegurando un ajuste perfecto en cualquier dispositivo.",
-		"2": "Soporte para Múltiples Formatos de Video: Incluyendo transmisiones en vivo '.mp4' y '.m3u8'.",
+		"2": "Soporte para Múltiples Formatos de Video: Incluyendo transmisiones en vivo <code>.mp4</code> y <code>.m3u8</code>.",
 		"3": "Mayor Participación del Usuario: Mantén a los visitantes en tu sitio por más tiempo ofreciendo contenido de video atractivo.",
 		"4": "Sin Problemas de Configuración: El plugin funciona de inmediato, sin necesidad de configuraciones complejas."
 	},
-	"description_ru": "Обновите свой сайт на Bludit с помощью плагина Easy Video Embed, обеспечивающего бесшовную интеграцию различных видеоформатов, включая прямые трансляции, непосредственно на ваш сайт с помощью простых шорткодов. Улучшите визуальную привлекательность вашего блога и взаимодействие с аудиторией с легкостью.",
+	"description_ru": "Обеспечьте бесшовную интеграцию различных видеоформатов, включая прямые трансляции, на сайт с помощью шорткодов. Улучшите визуальную привлекательность и взаимодействие с аудиторией.",
 	"features_ru": {
-		"0": "Простое Встраивание с помощью Шорткодов: Встраивайте различные типы видео с помощью простого шорткода.",
-		"1": "Автоматическая Адаптивность: Видео автоматически подстраиваются под размер экрана, обеспечивая идеальное отображение на любом устройстве.",
-		"2": "Поддержка Множественных Видео Форматов: Включая прямые трансляции '.mp4' и '.m3u8'.",
-		"3": "Повышенное Вовлечение Пользователей: Удерживайте посетителей на вашем сайте дольше, предлагая увлекательный видеоконтент.",
-		"4": "Отсутствие Сложностей с Настройкой: Плагин работает сразу, без необходимости сложных настроек."
+		"0": "Простое встраивание с помощью шорткодов: встраивайте различные типы видео с помощью простого шорткода.",
+		"1": "Автоматическая адаптивность: видео автоматически подстраиваются под размер экрана, обеспечивая идеальное отображение на любом устройстве.",
+		"2": "Поддержка разных форматов видео: включая прямые трансляции, <code>.mp4</code> и <code>.m3u8</code>.",
+		"3": "Повышенное вовлечение пользователей: удерживайте посетителей на вашем сайте дольше, предлагая увлекательный видеоконтент.",
+		"4": "Отсутствие сложностей с настройкой: плагин работает сразу, без необходимости сложных настроек."
 	}
 }

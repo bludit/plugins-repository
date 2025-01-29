@@ -10,9 +10,9 @@
 	"information_url": "https://bluditlab.com/plugins/e-commerce/buy-me-a-coffee",
 	"description": "Enhance your site with the 'Buy Me A Coffee' plugin! Add customizable donation buttons to your sidebar or content posts to connect with your audience and fuel your creativity.",
 	"features": {
-		"0": "Customizable Donation Buttons: Choose between an eye-catching 'Buy Me A Coffee' image or a sleek, modern Bootstrap button. You can also personalize the button color to match your site's theme, ensuring it blends in perfectly or stands out to catch the eye.",
-		"1": "Flexible Placement: Decide whether you want the donation button to appear in the sidebar for site-wide visibility or below content posts to capture the reader's attention after engaging with your content.",
-		"2": "Personalized Text: Tailor the message that appears below your content posts. Whether it's a heartfelt thank you note, a funny quip, or a simple call-to-action, you can customize the text to resonate with your audience and encourage donations."
+		"0": "Customizable donation buttons: choose between an eye-catching 'Buy Me A Coffee' image or a sleek, modern Bootstrap button. You can also personalize the button color to match your site's theme, ensuring it blends in perfectly or stands out to catch the eye.",
+		"1": "Flexible placement: decide whether you want the donation button to appear in the sidebar for site-wide visibility or below content posts to capture the reader's attention after engaging with your content.",
+		"2": "Personalized text: tailor the message that appears below your content posts. Whether it's a heartfelt thank you note, a funny quip, or a simple call-to-action, you can customize the text to resonate with your audience and encourage donations."
 	},
 	"description_de": "Verbessern Sie den Wartungsmodus Ihrer Website mit unserem umfassenden Plugin, das anpassbare Optionen wie Hintergrund- und Textfarbanpassungen, die Wahl zur Anzeige eines benutzerdefinierten Bildes und personalisierte Nachrichten für Ihre Besucher während der Ausfallzeit bietet.",
 	"features_de": {
@@ -26,10 +26,10 @@
 		"1": "Colocación Flexible: Decide si quieres que el botón de donación aparezca en la barra lateral para una visibilidad en todo el sitio o debajo de las publicaciones de contenido para captar la atención del lector después de interactuar con tu contenido.",
 		"2": "Texto Personalizado: Personaliza el mensaje que aparece debajo de tus publicaciones de contenido. Ya sea una nota de agradecimiento sincera, una broma divertida o un simple llamado a la acción, puedes personalizar el texto para que resuene con tu audiencia y fomente las donaciones."
 	},
-	"description_ru": "Улучшите режим обслуживания вашего сайта с помощью нашего комплексного плагина, предлагающего настраиваемые параметры, включая регулировку фона и цвета текста, возможность отображения пользовательского изображения и персонализированные сообщения для ваших посетителей во время простоя.",
+	"description_ru": "Улучшите свой сайт с помощью плагина «Купи мне кофе»! Добавьте настраиваемые кнопки пожертвований на боковую панель или в записи, чтобы наладить связь с аудиторией и подстегнуть своё творчество.",
 	"features_ru": {
-		"0": "Настраиваемые Кнопки Пожертвований: Выберите между привлекательным изображением 'Buy Me A Coffee' или стильной, современной кнопкой Bootstrap. Вы также можете настроить цвет кнопки, чтобы он соответствовал теме вашего сайта, гарантируя, что она идеально вписывается или выделяется, чтобы привлечь внимание.",
-		"1": "Гибкое Размещение: Решите, хотите ли вы, чтобы кнопка пожертвования отображалась в боковой панели для видимости на всем сайте или под постами с контентом, чтобы привлечь внимание читателя после взаимодействия с вашим контентом.",
-		"2": "Персонализированный Текст: Настройте сообщение, которое появляется под вашими постами с контентом. Будь то сердечная благодарственная записка, смешная шутка или простой призыв к действию, вы можете настроить текст так, чтобы он находил отклик у вашей аудитории и стимулировал пожертвования."
+		"0": "Настраиваемые кнопки пожертвований: выберите между привлекательным изображением «Купи мне кофе» или стильной и современной кнопкой Bootstrap. Вы также можете настроить цвет кнопки, чтобы он соответствовал теме вашего сайта, гарантируя, что она идеально вписывается или, наоборот, выделяется, чтобы привлечь внимание.",
+		"1": "Гибкое размещение: решите, хотите ли вы, чтобы кнопка для пожертвований отображалась в боковой панели на всех страницах сайта или под записями с контентом, чтобы привлечь внимание читателя после взаимодействия с вашим контентом.",
+		"2": "Персонализированный текст: настройте сообщение, которое появляется под вашими записями с контентом. Будь то сердечная благодарственная записка, смешная шутка или простой призыв к действию, вы можете написать текст так, чтобы он находил отклик у вашей аудитории и стимулировал пожертвования."
 	}
 }

@@ -10,10 +10,10 @@
 	"information_url": "https://bluditlab.com/plugins/content/schema-markup",
 	"description": "Add structured data to your content seamlessly. Automatically incorporate Schema.org markup into your articles and pages, improving SEO and visibility in rich search results.",
 	"features": {
-		"0": "Automatic Schema.org Markup: The plugin automatically adds Schema.org structured data to your articles and pages, ensuring they are optimized for search engines without any manual effort.",
-		"1": "Customizable Content Types: Choose from various Schema.org content types, such as NewsArticle, BlogPosting, and more, to best fit your content. This flexibility allows you to tailor the structured data to your specific needs.",
-		"2": "Enhanced SEO: By including structured data, Schema Markup helps improve your site's SEO. Rich snippets and better search engine understanding can lead to higher rankings and more traffic.",
-		"3": "Improved Content Visibility: Structured data helps search engines understand your content better, making it more likely to appear in rich results, such as carousels and knowledge graphs, thereby increasing your content's visibility."
+		"0": "Automatic Schema.org markup: the plugin automatically adds Schema.org structured data to your articles and pages, ensuring they are optimized for search engines without any manual effort.",
+		"1": "Customizable content types: choose from various Schema.org content types, such as NewsArticle, BlogPosting, and more, to best fit your content. This flexibility allows you to tailor the structured data to your specific needs.",
+		"2": "Enhanced SEO: by including structured data, Schema Markup helps improve your site's SEO. Rich snippets and better search engine understanding can lead to higher rankings and more traffic.",
+		"3": "Improved content visibility: structured data helps search engines understand your content better, making it more likely to appear in rich results, such as carousels and knowledge graphs, thereby increasing your content's visibility."
 	},
 	"description_de": "Fügen Sie nahtlos strukturierte Daten zu Ihrem Inhalt hinzu. Integrieren Sie automatisch Schema.org-Markup in Ihre Artikel und Seiten, um SEO und Sichtbarkeit in erweiterten Suchergebnissen zu verbessern.",
 	"features_de": {
@@ -31,9 +31,9 @@
 	},
 	"description_ru": "Добавьте структурированные данные в ваш контент без усилий. Автоматически включайте разметку Schema.org в ваши статьи и страницы, улучшая SEO и видимость в расширенных результатах поиска.",
 	"features_ru": {
-		"0": "Автоматическая разметка Schema.org: Плагин автоматически добавляет структурированные данные Schema.org в ваши статьи и страницы, гарантируя их оптимизацию для поисковых систем без каких-либо ручных усилий.",
-		"1": "Настраиваемые типы контента: Выбирайте из различных типов контента Schema.org, таких как NewsArticle, BlogPosting и другие, чтобы лучше соответствовать вашему контенту. Эта гибкость позволяет вам адаптировать структурированные данные к вашим конкретным потребностям.",
+		"0": "Автоматическая разметка по правилам Schema.org: плагин автоматически добавляет структурированные данные Schema.org в ваши статьи и страницы, гарантируя их оптимизацию для поисковых систем без каких-либо ручных усилий.",
+		"1": "Настраиваемые типы контента: выбирайте из различных типов контента Schema.org, таких как NewsArticle, BlogPosting и других, чтобы лучше соответствовать вашему контенту. Эта гибкость позволяет вам адаптировать структурированные данные к вашим конкретным потребностям.",
 		"2": "Улучшение SEO: Включение структурированных данных помогает улучшить SEO вашего сайта. Расширенные сниппеты и лучшее понимание со стороны поисковых систем могут привести к более высоким рейтингам и большему трафику.",
-		"3": "Улучшенная видимость контента: Структурированные данные помогают поисковым системам лучше понять ваш контент, что увеличивает вероятность его появления в расширенных результатах, таких как карусели и графы знаний, повышая видимость вашего контента."
+		"3": "Улучшенная видимость контента: структурированные данные помогают поисковым системам лучше понять ваш контент, что увеличивает вероятность его появления в расширенных результатах поиска, таких как карусели и графы знаний, повышая видимость вашего контента."
 	}
 }

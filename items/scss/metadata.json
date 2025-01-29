@@ -8,28 +8,28 @@
     "download_url": "https://github.com/Scribilicious/bludit-plugin-scss/archive/refs/tags/v1.0.1.zip",
     "demo_url": "",
     "information_url": "https://github.com/Scribilicious/bludit-plugin-scss/blob/main/README.md",
-    "description": "Do you want to use SASS / SCSS for your new template? Mr. Bot's \"SCSS Compiler\" makes it possible...",
+    "description": "Do you want to use SASS / SCSS for your new template? This plugin makes it possible...",
     "features": {
         "0": "Compile multiple files from different locations easily.",
         "1": "Developer mode available for compiling changes on the fly.",
-        "2": "Created with love ❤️."
+        "2": "Created with ❤️."
     },
-    "description_de": "Möchten Sie SASS / SCSS für Ihr neues Template verwenden? Mr. Bot's \"SCSS Compiler\" macht es möglich...",
+    "description_de": "Möchten Sie SASS / SCSS für Ihr neues Template verwenden? Dieses Plugin macht es möglich...",
     "features_de": {
         "0": "Leichtes Kompilieren mehrerer Dateien aus verschiedenen Orten.",
         "1": "Entwicklermodus verfügbar, um Änderungen sofort zu kompilieren.",
-        "2": "Mit Liebe ❤️ erstellt."
+        "2": "Mit ❤️ erstellt."
     },
-    "description_es": "¿Quieres usar SASS / SCSS para tu nuevo template? El \"SCSS Compiler\" de Mr. Bot lo hace posible...",
+    "description_es": "¿Quieres usar SASS / SCSS para tu nuevo template? Este complemento hace posible...",
     "features_es": {
         "0": "Compila múltiples archivos de diferentes ubicaciones fácilmente.",
         "1": "Modo desarrollador disponible para compilar cambios al instante.",
-        "2": "Creado con amor ❤️."
+        "2": "Creado con ❤️."
     },
-    "description_ru": "Хотите использовать SASS / SCSS для своего нового шаблона? \"SCSS Compiler\" от Mr. Bot делает это возможным...",
+    "description_ru": "Хотите использовать SASS / SCSS для своей новой темы? Этот плагин с лёгкостью делает это возможным...",
     "features_ru": {
         "0": "Легко компилируйте несколько файлов из разных мест.",
         "1": "Режим разработчика доступен для компиляции изменений на лету.",
-        "2": "Создано с любовью ❤️."
+        "2": "Создано с ❤️."
     }
 }
