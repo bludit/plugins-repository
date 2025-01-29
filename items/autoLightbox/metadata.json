@@ -1,0 +1,25 @@
+{
+	"name": "autoLightbox",
+	"version": "1.0",
+	"release_date": "2025-01-29",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/autoLightbox-for-Bludit-CMS/archive/refs/heads/main.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/autoLightbox-for-Bludit-CMS/",
+	"description": "Automatically adds Lightbox to all images in content areas, gallery plugins not needed.",
+	"features": {
+		"0": "Just turn on and happy yours lightbox image on content page!",
+		"1": "No settings, no config, no problem:) (if you don't use any gallery plugin :D )"
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
