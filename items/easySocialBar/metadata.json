@@ -1,0 +1,26 @@
+{
+	"name": "easy Social Bar",
+	"version": "1.0",
+	"release_date": "2025-01-31",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/easySocialBar-for-bludit-CMS/archive/refs/heads/main.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/easySocialBar-for-bludit-CMS",
+	"description": "Easy to use social Link sidebar",
+	"features": {
+		"0": "Great looking social bar to yours social media on yours page",
+    "1": "Threads, X(old twitter), Facebook, Instagram link",
+    "2": "New window option and show/hide for every link"
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
