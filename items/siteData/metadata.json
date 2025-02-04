@@ -1,0 +1,27 @@
+{
+	"name": "siteData",
+	"version": "1.0",
+	"release_date": "2025-01-31",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/siteData-for-bluditCMS/archive/refs/heads/main.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/siteData-for-bluditCMS/",
+	"description": "Add custom easy to update fields in your site templates, like Phone Number, Email Address, Business Hours, etc.",
+	"features": {
+		"0": "support special function siteData('id')",
+		"1": "support shortcode",
+		"2": "At this moment no support PHP code, only html snippet"
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	
+	},
+	"author_username": "multicolor"
+}
