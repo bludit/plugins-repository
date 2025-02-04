@@ -1,0 +1,28 @@
+{
+	"name": "formCreator",
+	"version": "1.0",
+	"release_date": "2025-01-31",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/multicolor-rgb/formCreator-for-bludit-CMS/archive/refs/heads/main.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/multicolor-rgb/formCreator-for-bludit-CMS/",
+	"description": "Create own form!",
+	"features": {
+		"0": "Create 100+ forms on yours website",
+		"1": "many custom input,date, week, color,text,textarea etc.",
+		"2": "own function for paste in yours theme",
+		"4": "Easy to use",
+    "5": "google captcha and mail() use from build in PHP"
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	},
+	"author_username": "multicolor"
+}
