@@ -1,10 +1,10 @@
 {
 	"name": "siteData",
 	"version": "1.0",
-	"release_date": "2025-01-31",
+	"release_date": "2025-02-06",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/multicolor-rgb/siteData-for-bluditCMS/archive/refs/heads/main.zip",
+	"download_url": "https://github.com/multicolor-rgb/siteData-for-bluditCMS/archive/refs/heads/2.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/siteData-for-bluditCMS/",
 	"description": "Add custom easy to update fields in your site templates, like Phone Number, Email Address, Business Hours, etc.",
