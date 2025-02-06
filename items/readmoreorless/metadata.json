@@ -8,10 +8,10 @@
 	"download_url": "https://bodhinyanarama.net.nz/temp/read-more-or-less.zip",
 	"demo_url": "",
 	"information_url": "",
-	"description": "Works on both home and page display. Set tags wrapping the text to hide and the code does the rest. There is a guide to modify tinyMCE to add tag buttons.",
+	"description": "Works on both home and page display. Set tags wrapping the text to hide and the code does the rest. There is a guide to modify TinyMCE to add tag buttons.",
 	"features": {
-		"0": "Simple",
-		"1": "Small",
+		"0": "Simple.",
+		"1": "Small.",
 		"2": ""
 	},
 	"description_de": "",
@@ -26,10 +26,10 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "",
+	"description_ru": "Работает на главной странице и на страницах с контентом. Установите теги, оборачивающие текст, чтобы скрыть, и код сделает все остальное. Есть гайд по модификации TinyMCE для добавления кнопок тегов.",
 	"features_ru": {
-		"0": "",
-		"1": "",
+		"0": "Прост в использовании.",
+		"1": "Небольшой и полезный.",
 		"2": ""
 	}
 }

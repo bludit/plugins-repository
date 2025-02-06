@@ -9,9 +9,9 @@
 	"information_url": "https://github.com/multicolor-rgb/siteData-for-bluditCMS/",
 	"description": "Add custom easy to update fields in your site templates, like Phone Number, Email Address, Business Hours, etc.",
 	"features": {
-		"0": "support special function siteData('id')",
-		"1": "support shortcode",
-		"2": "At this moment no support PHP code, only html snippet"
+		"0": "Support special function <code>siteData('id')</code>.",
+		"1": "Support shortcode.",
+		"2": "At this moment no support PHP code, only html snippet."
 	},
 	"description_de": "",
 	"features_de": {
@@ -19,9 +19,11 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Добавьте в шаблоны вашего сайта настраиваемые, легко обновляемые поля, такие как: номер телефона, адрес электронной почты, часы работы и т. д.",
 	"features_ru": {
-	
+		"0": "Имеет специальную функцию <code>siteData('id')</code>.",
+		"1": "Имеет шорткод.",
+		"2": "В данный момент нет поддержки PHP-кода, вы можете использовать только HTML разметку."
 	},
 	"author_username": "multicolor"
 }
