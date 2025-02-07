@@ -10,7 +10,7 @@
 	"description": "Automatically adds Lightbox to all images in content areas, gallery plugins not needed.",
 	"features": {
 		"0": "Just turn on and happy yours lightbox image on content page!",
-		"1": "No settings, no config, no problem:) (if you don't use any gallery plugin :D )"
+		"1": "No settings, no config, no problem 😀 (if you don't use any gallery plugin 😁)."
 	},
 	"description_de": "",
 	"features_de": {
@@ -18,8 +18,10 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Автоматически добавляет лайтбокс ко всем изображениям в области с контентом, плагины галереи для этого не требуются.",
 	"features_ru": {
+		"0": "Просто включите плагин и наслаждайтесь своим лайтбоксом на странице с контентом!",
+		"1": "Никаких настроек, никаких конфигураций, а значит — никаких проблем 😀 (если вы не используете иные плагины для галерей 😁)."
 	},
 	"author_username": "multicolor"
 }
