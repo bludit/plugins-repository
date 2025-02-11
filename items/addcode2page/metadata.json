@@ -1,9 +1,10 @@
 {
-    "author": "Arfa",
+    "name": "Arfa",
     "email": "",
     "website": "",
     "version": "1.0",
-    "releaseDate": "2025-02-07",
+    "author_username": "Arfa",
+    "release_date": "2025-02-07",
     "license": "MIT",
     "price_usd": "MIT",
     "download_url": "https://bodhinyanarama.net.nz/temp/addCode2Page.zip",
@@ -13,5 +14,4 @@
         "1": "Can include jQuery.",
         "2": "Textarea for building code.",
         "3": "shortcode page-list list"
-    }
 }
