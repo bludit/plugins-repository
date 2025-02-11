@@ -7,11 +7,11 @@
 	"download_url": "https://github.com/multicolor-rgb/easySocialBar-for-bludit-CMS/archive/refs/heads/main.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/easySocialBar-for-bludit-CMS",
-	"description": "Easy to use social Link sidebar",
+	"description": "Easy to use social Link sidebar.",
 	"features": {
-		"0": "Great looking social bar to yours social media on yours page",
-    "1": "Threads, X(old twitter), Facebook, Instagram link",
-    "2": "New window option and show/hide for every link"
+		"0": "Great looking social bar to yours social media on yours page.",
+		"1": "Threads, X(old twitter), Facebook, Instagram link.",
+		"2": "New window option and show/hide for every link."
 	},
 	"description_de": "",
 	"features_de": {
@@ -19,8 +19,11 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Добавьте на страницы сайта простую в использовании боковую панель содержащую блок ссылок на социальные сети.",
 	"features_ru": {
+		"0": "Великолепная панель для ваших социальных сетей на ваших страницах.",
+		"1": "Треды, X (ранее Twitter), Facebook, ссылка на Instagram.",
+		"2": "Возможность открывать ссылки в новой вкладке и настройки отображения/скрытия для каждой ссылки."
 	},
 	"author_username": "multicolor"
 }
