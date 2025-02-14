@@ -7,6 +7,8 @@
     "license": "MIT",
     "price_usd": "0",
     "download_url": "https://bodhinyanarama.net.nz/temp/addCode2Page.zip",
+    "demo_url": "",
+	"information_url": "",
     "description": "Add php code to individual page(s) using shortcode.",
     "features": {
         "0": "Some PHP knowlege required.",
