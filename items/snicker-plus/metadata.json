@@ -5,9 +5,9 @@
 	"release_date": "2025-04-26",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/bludit-plugins/snicker-plus/releases/download/v1.0.0/snicker-1.0.0.zip",
+	"download_url": "https://github.com/harrislineage/snicker-plus/archive/refs/tags/v1.0.0.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/bludit-plugins/snicker-plus",
+	"information_url": "https://github.com/harrislineage/snicker-plus",
 	
 	"description": "Snicker Plus is a modern, fixed fork of the original Snicker plugin.",
 	"features": {
@@ -17,35 +17,5 @@
 		"3": "Moderatable Comments (Pending, Approved, Rejected, Spam).",
 		"4": "Extensive Backend with many possibilities.",
 		"5": "Updated for PHP 8+."
-	},
-
-	"description_de": "Snicker Plus ist ein moderner, aktualisierter Fork des ursprünglichen Snicker-Plugins für Bludit. Fehlerbehebung für PHP 8+ sowie neue Funktionen und Verbesserungen.",
-	"features_de": {
-		"0": "Level-basiertes, AJAX-unterstütztes Kommentarsystem für Gäste und Benutzer.",
-		"1": "Viele Konfigurationsmöglichkeiten und anpassbare Strings und Themes.",
-		"2": "Benutzerverwaltung für nicht eingeloggte Kommentatoren.",
-		"3": "Moderierbare Kommentare (Ausstehend, Genehmigt, Abgelehnt, Spam).",
-		"4": "Erweitertes Backend mit vielen Möglichkeiten.",
-		"5": "Kompatibel mit PHP 8+."
-	},
-
-	"description_es": "Snicker Plus es un fork moderno y actualizado del plugin Snicker original para Bludit. Arreglado para PHP 8+, con nuevas características y mejoras.",
-	"features_es": {
-		"0": "Sistema de comentarios basado en niveles, compatible con AJAX para invitados y usuarios.",
-		"1": "Muchas configuraciones y cadenas y temas personalizables.",
-		"2": "Gestión de usuarios para autores de comentarios no registrados.",
-		"3": "Comentarios moderables (Pendientes, Aprobados, Rechazados, Spam).",
-		"4": "Backend avanzado con muchas posibilidades.",
-		"5": "Compatible con PHP 8+."
-	},
-
-	"description_ru": "Snicker Plus — это современный, обновленный форк оригинального плагина Snicker для Bludit. Исправлен для PHP 8+, с новыми функциями и улучшениями.",
-	"features_ru": {
-		"0": "Комментирование с поддержкой уровней и AJAX для гостей и пользователей.",
-		"1": "Много настроек, изменяемые строки и темы.",
-		"2": "Управление пользователями для незарегистрированных авторов комментариев.",
-		"3": "Модерируемые комментарии (Ожидание, Одобрено, Отклонено, Спам).",
-		"4": "Расширенный бэкэнд с множеством возможностей.",
-		"5": "Совместимость с PHP 8+."
 	}
 }
