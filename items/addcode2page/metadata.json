@@ -14,7 +14,7 @@
         "0": "Some PHP knowlege required.",
         "1": "Can include jQuery.",
         "2": "Textarea for building code.",
-        "3": "shortcode page-list list"
+        "3": "Shortcode page-list list."
     },
     "description_de": "",
     "features_de": {
@@ -22,8 +22,12 @@
     "description_es": "",
     "features_es": {
     },
-    "description_ru": "",
+    "description_ru": "Добавляйте нужный вам php-код на отдельные страницы, используя для этого шорткод.",
     "features_ru": {
+	"0": "Для работы с плагином требуются некоторые знания PHP.",
+        "1": "Также можно использовать jQuery.",
+        "2": "У плагина есть текстовое поле для размещения в нём вашего php-кода.",
+        "3": "Отдельная страница со списком шорткодов."
     },
     "author_username": "arfa"    
 }
