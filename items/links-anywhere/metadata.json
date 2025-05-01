@@ -1,0 +1,18 @@
+{
+	"name": "Links anywhere",
+	"version": "1.0",
+	"author_username": "jboisseur",
+	"release_date": "2025-04-27",
+	"license": "MIT license",
+	"price_usd": "0",
+	"download_url": "https://github.com/jboisseur/bludit-plugins/raw/refs/heads/master/links-anywhere.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/jboisseur/bludit-plugins/blob/master/links-anywhere/README.md",
+	"credits": "Bludit",
+	"credits_url": "https://github.com/bludit/bludit/tree/v3.0/bl-plugins/links",
+	"description": "Based on the default Links plugin. Allows you to add links set in the admin area anywhere in your theme.",
+	"features": {
+		"0": "Add links in the admin area",
+		"1": "Display them in your theme via a custom hook"
+	}
+}
