@@ -9,11 +9,11 @@
 	"information_url": "https://github.com/multicolor-rgb/formCreator-for-bludit-CMS/",
 	"description": "Create own form!",
 	"features": {
-		"0": "Create 100+ forms on yours website",
-		"1": "many custom input,date, week, color,text,textarea etc.",
-		"2": "own function for paste in yours theme",
-		"4": "Easy to use",
-    "5": "google captcha and mail() use from build in PHP"
+		"0": "Create 100+ forms on yours website.",
+		"1": "Many custom input: date, week, color, text, textarea, etc.",
+		"2": "Own function for paste in yours theme.",
+		"4": "Easy to use.",
+		"5": "Google captcha and <code>mail()</code> use from build in PHP."
 	},
 	"description_de": "",
 	"features_de": {
@@ -23,6 +23,11 @@
 	},
 	"description_ru": "",
 	"features_ru": {
+		"0": "Создайте более 100 форм на своем сайте.",
+		"1": "Множество настраиваемых полей ввода: дата, неделя, цвет, текст, текстовая область и т. д.",
+		"2": "Собственная функция для интерграции в вашу тему.",
+		"4": "Прост в использовании.",
+		"5": "Есть Google captcha и используется функция <code>mail()</code> встроенная в PHP."
 	},
 	"author_username": "multicolor"
 }

@@ -1,0 +1,35 @@
+{
+    "name": "Fedi Comments",
+    "version": "1.0.1",
+    "author_username": "mrbot",
+    "release_date": "2025-02-19",
+    "license": "MIT",
+    "price_usd": "0",
+    "download_url": "https://github.com/Scribilicious/bludit-plugin-fedi/archive/refs/tags/1.0.1.zip",
+    "demo_url": "",
+    "information_url": "https://github.com/Scribilicious/bludit-plugin-fedi/blob/main/README.md",
+    "description": "Do you like Mastodon / the Fediverse and want to add comments to your posts? Mr. Bot's \"Fedi Comments\" makes it possible.",
+    "features": {
+        "0": "Add Fediverse comment / post section to your page.",
+        "1": "With API key support for secure Fedi handling.",
+        "2": "Opens a dialog for replying to a post."
+    },
+    "description_de": "Möchten Sie Mastodon / den Fediverse und Kommentare zu Ihren Beiträgen hinzufügen? Mr. Bot's \"Fedi Comments\" macht es möglich.",
+    "features_de": {
+        "0": "Fügen Sie einen Kommentar- / Beitragsbereich für den Fediverse zu Ihrer Seite hinzu.",
+        "1": "Mit API-Schlüsselsupport für eine sichere Fedi-Verwaltung.",
+        "2": "Öffnet einen Dialog zum Antworten auf einen Beitrag."
+    },
+    "description_es": "¿Te gusta Mastodon / el Fediverse y quieres agregar comentarios a tus publicaciones? Los \"Comentarios Fedi\" de Mr. Bot lo hacen posible.",
+    "features_es": {
+        "0": "Agrega una sección de comentarios / publicaciones del Fediverse a tu página.",
+        "1": "Con soporte para clave API para un manejo seguro de Fedi.",
+        "2": "Abre un diálogo para responder a una publicación."
+    },
+    "description_ru": "Вам нравится Mastodon и децентрализованные соцсети и вы хотите добавить комментарии к своим записям? Данный плагин от Mr. Bot делает это возможным.",
+    "features_ru": {
+        "0": "Добавьте раздел комментариев / публикаций на ваши страницы и записи.",
+        "1": "Поддержка API-ключа для безопасного управления Fedi.",
+        "2": "Открывает диалог для ответа на сообщение."
+    }
+}

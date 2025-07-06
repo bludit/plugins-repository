@@ -1,0 +1,21 @@
+{
+	"name": "Snicker Plus",
+	"version": "1.0.0",
+	"author_username": "harrislineage",
+	"release_date": "2025-04-26",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/harrislineage/snicker-plus/archive/refs/tags/v1.0.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/harrislineage/snicker-plus",
+	
+	"description": "Snicker Plus is a modern, fixed fork of the original Snicker plugin.",
+	"features": {
+		"0": "Level-Based, AJAX-enabled Commenting for Guests and Users.",
+		"1": "Many Configurations and adaptable Strings and Themes.",
+		"2": "User Management for Not-Logged-In Comment Authors.",
+		"3": "Moderatable Comments (Pending, Approved, Rejected, Spam).",
+		"4": "Extensive Backend with many possibilities.",
+		"5": "Updated for PHP 8+."
+	}
+}
