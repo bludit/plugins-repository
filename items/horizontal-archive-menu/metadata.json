@@ -1,17 +1,18 @@
 {
-	"name": "Horizontal Archive Menu",
-	"version": "1.0",
-	"author_username": "arfa",
-	"release_date": "2025-06-02",
-	"license": "MIT",
-	"price_usd": "0",
-	"download_url": "https://kusalo.net/temp/HorizontalArchiveMenu.zip",
-	"demo_url": "",
-	"information_url": "",
-	"description": "Direct links to all your posts in a horizontal menu format.",
-	"features": {
-		"0": "The horiz. format allows up to 9 years across at 390px.",
-		"1": "This could be css tweaked to about 12 years.",
-        "2": "12 month display is fine down to 370px.",
-		"3": "It includes a custom (horiz.) menu builder."
+  "name": "Horizontal Archive Menu",
+  "version": "1.0",
+  "author_username": "arfa",
+  "release_date": "2025-06-02",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://kusalo.net/temp/HorizontalArchiveMenu.zip",
+  "demo_url": "",
+  "information_url": "",
+  "description": "Direct links to all your posts in a horizontal menu format.",
+  "features": {
+    "0": "The horiz. format allows up to 9 years across at 390px.",
+    "1": "This could be css tweaked to about 12 years.",
+    "2": "12 month display is fine down to 370px.",
+    "3": "It includes a custom (horiz.) menu builder."
+  }
 }
