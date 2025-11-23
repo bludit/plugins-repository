@@ -2,7 +2,7 @@
   "author": "elig-45",
   "email": "elig-45@outlook.fr",
   "website": "https://github.com/elig-45/bludit-edit-author",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "releaseDate": "2025-11-23",
   "license": "GPLv3",
   "compatible": "3.0",
@@ -11,7 +11,7 @@
   "notes": "Replaces the disabled author field with a Select2 dropdown supporting search and user validation. Only administrators can change page authors. Fully multilingual (English & French).",
   "price": "0",
   "category": "administration",
-  "downloadURL": "https://github.com/elig-45/bludit-edit-author/archive/refs/tags/v1.1.0.zip",
+  "downloadURL": "https://github.com/elig-45/bludit-edit-author/archive/refs/tags/v1.0.0.zip",
   "homepage": "https://github.com/elig-45/bludit-edit-author",
   "authorWebsite": "https://elig-45.github.io/"
 }
