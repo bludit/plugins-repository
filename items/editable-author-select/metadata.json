@@ -1,0 +1,17 @@
+{
+  "author": "elig-45",
+  "email": "elig-45@outlook.fr",
+  "website": "https://github.com/elig-45/bludit-edit-author",
+  "version": "1.0.0",
+  "releaseDate": "2025-11-23",
+  "license": "GPLv3",
+  "compatible": "3.0",
+  "notes": "Makes the Author field editable in Bludit admin and adds autocomplete on existing users.",
+  "price": "0",
+  "downloadURL": "https://github.com/elig-45/bludit-edit-author/archive/refs/tags/v1.0.0.zip",
+  "homepage": "https://github.com/elig-45/bludit-edit-author",
+  "displayName": "Editable Author Select",
+  "description": "A Bludit plugin that enables editing the Author field with autocomplete and validates users before saving.",
+  "authorWebsite": "https://elig-45.github.io/",
+  "category": "administration"
+}
