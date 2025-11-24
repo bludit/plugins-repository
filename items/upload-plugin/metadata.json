@@ -12,8 +12,10 @@
 		"0": "Upload themes .zip from Bludit.",
 		"1": "Upload plugins .zip from Bludit."
 	},
-	"description_de": "",
+	"description_de": "Laden Sie Plugins und Themes direkt aus dem Bludit CMS hoch.",
 	"features_de": {
+		"0": "Laden Sie die Themes von Bludit im .zip-Format hoch.",
+		"1": "Laden Sie die Plugins von Bludit im .zip-Format hoch."
 	},
 	"description_es": "",
 	"features_es": {
