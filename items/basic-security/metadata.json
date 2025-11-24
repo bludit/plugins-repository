@@ -1,14 +1,14 @@
 {
 	"name": "Basic security",
-	"version": "1.0",
+	"version": "1.0.2",
 	"author_username": "jboisseur",
-	"release_date": "2025-08-15",
+	"release_date": "2025-10-21",
 	"license": "MIT license",
 	"price_usd": "0",
 	"download_url": "https://github.com/jboisseur/bludit-plugins/raw/refs/heads/master/basic-security.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/jboisseur/bludit-plugins/blob/master/basic-security/README.md",
-	"credits": "",
+	"credits": "Thanks to fls3131 (pt_BR) and HATTANTOCO (ja_JP) for their translations.",
 	"credits_url": "",
 	"description": "A plugin to let you check for suspicious IP trying to connect to the admin area, configure blocking IP settings and verify other security settings.",
 	"features": {
