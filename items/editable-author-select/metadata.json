@@ -1,17 +1,28 @@
 {
-  "author": "elig-45",
-  "email": "elig-45@outlook.fr",
-  "website": "https://github.com/elig-45/bludit-edit-author",
-  "version": "1.0.1",
-  "releaseDate": "2025-11-23",
-  "license": "GPLv3",
-  "compatible": "3.0",
-  "displayName": "Editable Author Select",
-  "description": "Select any Bludit user as the author of a page using a searchable Select2 dropdown. Admin-only. Multilingual EN/FR.",
-  "notes": "Replaces the disabled author field with a Select2 dropdown supporting search and user validation. Only administrators can change page authors. Fully multilingual (English & French).",
-  "price": "0",
-  "category": "administration",
-  "downloadURL": "https://github.com/elig-45/bludit-edit-author/archive/refs/tags/v1.0.1.zip",
-  "homepage": "https://github.com/elig-45/bludit-edit-author",
-  "authorWebsite": "https://elig-45.github.io/"
+	"name": "Editable Author Select",
+	"version": "1.0.1",
+	"release_date": "2025-11-23",
+	"license": "GPLv3",
+	"price_usd": "0",
+	"download_url": "https://github.com/elig-45/bludit-edit-author/archive/refs/tags/v1.0.1.zip",
+	"download_url_v2": "https://github.com/elig-45/bludit-edit-author",
+	"demo_url": "",
+	"information_url": "https://github.com/elig-45/bludit-edit-author",
+
+	"description": "Allows administrators to change the author of any page via a searchable Select2 dropdown. Supports English and French.",
+	"features": {},
+
+	"description_fr": "Permet aux administrateurs de modifier l’auteur d’une page grâce à un menu déroulant Select2 avec recherche. Compatible anglais et français.",
+	"features_fr": {},
+
+	"description_de": "Ermöglicht Administratoren, den Autor einer Seite über ein durchsuchbares Select2-Dropdown zu ändern. Unterstützt Englisch und Französisch.",
+	"features_de": {},
+
+	"description_es": "Permite a los administradores cambiar el autor de cualquier página mediante un menú Select2 con búsqueda. Compatible con inglés y francés.",
+	"features_es": {},
+
+	"description_ru": "Позволяет администраторам изменять автора любой страницы через выпадающее меню Select2 с поиском. Поддерживает английский и французский языки.",
+	"features_ru": {},
+
+	"author_username": "elig-45"
 }
