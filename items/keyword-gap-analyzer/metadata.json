@@ -1,0 +1,13 @@
+{
+	"name": "Keyword Gap Analyzer",
+	"version": "1.0",
+	"author_username": "magicmarcy",
+	"release_date": "2025-12-19",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/magicmarcy/keyword-gap-analyzer/releases/download/v1.0/keyword-gap-analyzer.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/magicmarcy/keyword-gap-analyzer",
+	"description": "Keyword Gap Analyzer helps Bludit editors and SEO-focused teams see where their content is missing, weak, or well-covered for specific keywords. It turns a curated keyword list into an actionable table with gaps, under-covered topics, and quick links to create or improve posts.",
+	"description_de": "Der Keyword Gap Analyzer hilft Bludit-Redakteuren und SEO-Teams, Lücken, Schwächen oder eine gute Abdeckung ihrer Inhalte in Bezug auf bestimmte Keywords zu erkennen. Er wandelt eine sorgfältig zusammengestellte Keyword-Liste in eine übersichtliche Tabelle mit Lücken, unterrepräsentierten Themen und Schnelllinks zum Erstellen oder Optimieren von Beiträgen um."
+}
