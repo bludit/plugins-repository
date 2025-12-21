@@ -1,0 +1,17 @@
+{
+	"name": "Asyntai - AI Chatbot",
+	"version": "1.0.0",
+	"author_username": "asyntai",
+	"release_date": "2025-12-09",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/asyntai/bludit-chatbot/archive/refs/heads/main.zip",
+	"demo_url": "https://asyntai.com",
+	"information_url": "https://github.com/asyntai/bludit-chatbot",
+	"description": "Create and launch AI assistant/chatbot for your Bludit website in minutes. It talks to your visitors, helps, explains, never misses a chat and can increase conversion rates!",
+	"features": {
+		"0": "Increase conversions with instant, human-like replies",
+		"1": "Never miss a chat - AI replies 24/7",
+		"2": "Works in all languages automatically"
+	}
+}
