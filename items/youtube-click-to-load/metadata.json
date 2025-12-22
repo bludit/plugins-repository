@@ -1,0 +1,13 @@
+{
+	"name": "YouTube Click Before View",
+	"version": "1.5",
+	"author_username": "magicmarcy",
+	"release_date": "2025-12-22",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/magicmarcy/youtube-click-to-load/releases/download/v1.5/youtube-click-to-load.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/magicmarcy/youtube-click-to-load",
+	"description": "Replaces YouTube embeds with a click-before-view wrapper with a focus on data privacy.",
+	"description_de": "Ersetzt YouTube-Einbettungen durch einen Click-before-view Wrapper mit Fokus auf Datenschutz."
+}
