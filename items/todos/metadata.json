@@ -9,5 +9,31 @@
 	"demo_url": "",
 	"information_url": "https://github.com/magicmarcy/todos",
 	"description": "This plugin adds lightweight todo lists directly to the Bludit admin area. It is aimed at editors and site owners who need to track small tasks without leaving the dashboard.",
-	"description_de": "Dieses Plugin fügt einfache To-Do-Listen direkt in den Bludit-Adminbereich ein. Es richtet sich an Redakteure und Website-Betreiber, die kleine Aufgaben verfolgen müssen, ohne das Dashboard verlassen zu müssen."
+  "features": {
+    "0": "Create multiple todo lists with custom titles.",
+    "1": "Add, check off, and delete items inside each list.",
+    "2": "Reorder lists via drag and drop in the admin UI.",
+    "3": "Move lists up/down with buttons as an alternative to drag and drop."
+  },
+	"description_de": "Dieses Plugin fügt einfache To-Do-Listen direkt in den Bludit-Adminbereich ein. Es richtet sich an Redakteure und Website-Betreiber, die kleine Aufgaben verfolgen müssen, ohne das Dashboard verlassen zu müssen.",
+  "features_de": {
+    "0": "Mehrere Aufgabenlisten mit benutzerdefinierten Titeln erstellen.",
+    "1": "Füge Elemente in jeder Liste hinzu, markieren sie und löschen sie.",
+    "2": "Ordne Listen per Drag & Drop in der Admin-Oberfläche neu an.",
+    "3": "Verschiebe Listen per Drag & Drop oder alternativ mit Schaltflächen nach oben/unten."
+  },
+	"description_es": "Este plugin añade listas de tareas ligeras directamente en el área de administración de Bludit. Está pensado para editores y propietarios de sitios que necesitan seguir pequeñas tareas sin salir del panel.",
+  "features_es": {
+    "0": "Crea múltiples listas de tareas con títulos personalizados.",
+    "1": "Añade, marca como hechas y elimina elementos dentro de cada lista.",
+    "2": "Reordena las listas mediante arrastrar y soltar en la interfaz de administración.",
+    "3": "Mueve las listas arriba/abajo con botones como alternativa a arrastrar y soltar."
+  },
+	"description_ru": "Этот плагин добавляет лёгкие списки задач прямо в админ-панель Bludit. Он предназначен для редакторов и владельцев сайтов, которым нужно отслеживать небольшие задачи, не покидая панель управления.",
+  "features_ru": {
+    "0": "Создавайте несколько списков задач с пользовательскими заголовками.",
+    "1": "Добавляйте, отмечайте выполненными и удаляйте элементы в каждом списке.",
+    "2": "Переставляйте списки перетаскиванием в интерфейсе администратора.",
+    "3": "Перемещайте списки вверх/вниз кнопками как альтернативу перетаскиванию."
+  }
 }

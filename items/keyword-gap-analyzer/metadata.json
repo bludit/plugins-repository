@@ -9,5 +9,39 @@
 	"demo_url": "",
 	"information_url": "https://github.com/magicmarcy/keyword-gap-analyzer",
 	"description": "Keyword Gap Analyzer helps Bludit editors and SEO-focused teams see where their content is missing, weak, or well-covered for specific keywords. It turns a curated keyword list into an actionable table with gaps, under-covered topics, and quick links to create or improve posts.",
-	"description_de": "Der Keyword Gap Analyzer hilft Bludit-Redakteuren und SEO-Teams, Lücken, Schwächen oder eine gute Abdeckung ihrer Inhalte in Bezug auf bestimmte Keywords zu erkennen. Er wandelt eine sorgfältig zusammengestellte Keyword-Liste in eine übersichtliche Tabelle mit Lücken, unterrepräsentierten Themen und Schnelllinks zum Erstellen oder Optimieren von Beiträgen um."
+  "features": {
+    "0": "Scans all published (and optionally scheduled) posts for your keyword list.",
+    "1": "Flags keywords as Gap (0 hits), Under (below your threshold), or Good (meets/exceeds threshold).",
+    "2": "Groups keywords by section (using [Group] headings) and highlights high-priority items with !",
+    "3": "Provides quick actions to create new content with the selected keyword auto-inserted into the tag field on the “new content” page.",
+    "4": "Import/export the keyword plan to share across sites or keep a dated backup.",
+    "5": "Supports multiple match modes (phrase, all terms, any term) and sortable results (input order vs. status)."
+  },
+	"description_de": "Der Keyword Gap Analyzer hilft Bludit-Redakteuren und SEO-Teams, Lücken, Schwächen oder eine gute Abdeckung ihrer Inhalte in Bezug auf bestimmte Keywords zu erkennen. Er wandelt eine sorgfältig zusammengestellte Keyword-Liste in eine übersichtliche Tabelle mit Lücken, unterrepräsentierten Themen und Schnelllinks zum Erstellen oder Optimieren von Beiträgen um.",
+  "features_de": {
+    "0": "Durchsucht alle veröffentlichten (und optional geplanten) Beiträge nach Ihrer Keyword-Liste.",
+    "1": "Kennzeichnet Keywords als „Lücke“ (0 Treffer), „Unter“ (unterhalb Ihres Schwellenwerts) oder „Gut“ (Schwellenwert erreicht/übertrifft).",
+    "2": "Gruppiert Keywords nach Abschnitten (mithilfe von [Gruppe]-Überschriften) und hebt wichtige Elemente mit einem Ausrufezeichen hervor.",
+    "3": "Bietet Schnellzugriffe zum Erstellen neuer Inhalte, wobei das ausgewählte Keyword automatisch in das Tag-Feld auf der Seite „Neuer Inhalt“ eingefügt wird.",
+    "4": "Importiert/exportiert den Keyword-Plan, um ihn auf anderen Websites zu verwenden oder ein datiertes Backup zu erstellen.",
+    "5": "Unterstützt verschiedene Übereinstimmungsmodi (Phrase, alle Begriffe, beliebiger Begriff) und sortierbare Ergebnisse (Eingabereihenfolge vs. Status)."
+  },
+	"description_es": "Keyword Gap Analyzer ayuda a editores de Bludit y a equipos centrados en SEO a ver dónde su contenido falta, es débil o está bien cubierto para palabras clave específicas. Convierte una lista de palabras clave seleccionada en una tabla accionable con brechas, temas con poca cobertura y enlaces rápidos para crear o mejorar entradas.",
+  "features_es": {
+    "0": "Escanea todas las entradas publicadas (y opcionalmente programadas) para tu lista de palabras clave.",
+    "1": "Marca las palabras clave como “Gap” (0 coincidencias), “Under” (por debajo de tu umbral) o “Good” (cumple/supera el umbral).",
+    "2": "Agrupa las palabras clave por sección (usando encabezados [Group]) y resalta los elementos de alta prioridad con !",
+    "3": "Ofrece acciones rápidas para crear nuevo contenido con la palabra clave seleccionada insertada automáticamente en el campo de etiquetas en la página de “nuevo contenido”.",
+    "4": "Importa/exporta el plan de palabras clave para compartirlo entre sitios o guardar una copia de seguridad con fecha.",
+    "5": "Admite varios modos de coincidencia (frase, todos los términos, cualquier término) y resultados ordenables (orden de entrada vs. estado)."
+  },
+	"description_ru": "Keyword Gap Analyzer помогает редакторам Bludit и SEO-командам видеть, где по конкретным ключевым словам контент отсутствует, слабый или хорошо покрыт. Он превращает подобранный список ключевых слов в наглядную таблицу с пробелами, темами с недостаточным покрытием и быстрыми ссылками для создания или улучшения записей.",
+  "features_ru": {
+    "0": "Сканирует все опубликованные (а при необходимости и запланированные) записи по вашему списку ключевых слов.",
+    "1": "Помечает ключевые слова как «Gap» (0 совпадений), «Under» (ниже вашего порога) или «Good» (порог достигнут/превышен).",
+    "2": "Группирует ключевые слова по разделам (с помощью заголовков [Group]) и выделяет приоритетные элементы символом !",
+    "3": "Даёт быстрые действия для создания нового контента, автоматически подставляя выбранное ключевое слово в поле тегов на странице «новый контент».",
+    "4": "Импорт/экспорт плана ключевых слов для совместного использования между сайтами или сохранения датированной резервной копии.",
+    "5": "Поддерживает несколько режимов совпадения (фраза, все термины, любой термин) и сортируемые результаты (порядок ввода vs. статус)."
+  }
 }
