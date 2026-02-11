@@ -1,0 +1,13 @@
+{
+	"name": "Auto Sitemap",
+	"version": "1.1",
+	"author_username": "magicmarcy",
+	"release_date": "2025-12-19",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/magicmarcy/auto-sitemap/releases/download/v1.1/auto-sitemap-v1.1.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/magicmarcy/auto-sitemap",
+	"description": "Auto Sitemap generates and keeps sitemap.xml up to date for your Bludit site.",
+	"description_de": "Auto Sitemap generiert und hält die sitemap.xml-Datei für deine Bludit-Website aktuell."
+}
