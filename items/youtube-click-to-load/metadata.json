@@ -9,5 +9,39 @@
 	"demo_url": "",
 	"information_url": "https://github.com/magicmarcy/youtube-click-to-load",
 	"description": "Replaces YouTube embeds with a click-before-view wrapper with a focus on data privacy.",
-	"description_de": "Ersetzt YouTube-Einbettungen durch einen Click-before-view Wrapper mit Fokus auf Datenschutz."
+  "features": {
+    "0": "Click-to-load instead of immediate YouTube embed (no requests to YouTube until clicked)",
+    "1": "Optional youtube-nocookie.com domain",
+    "2": "Custom notice heading + optional additional text",
+    "3": "Customizable button label",
+    "4": "Optional background image (preview) inside the placeholder",
+    "5": "Configurable placeholder height and overlay strength"
+  },
+	"description_de": "Ersetzt YouTube-Einbettungen durch einen Click-before-view Wrapper mit Fokus auf Datenschutz.",
+  "features_de": {
+    "0": "Click-to-load statt sofortiger YouTube-Einbettung (keine Anfragen an YouTube bis zum Klicken)",
+    "1": "Optional Domain youtube-nocookie.com",
+    "2": "Benutzerdefinierte Überschrift + optionaler zusätzlicher Text",
+    "3": "Anpassbare Schaltflächenbeschriftung",
+    "4": "Optionales Hintergrundbild (Vorschau) innerhalb des Platzhalters",
+    "5": "Konfigurierbare Höhe des Platzhalters und Stärke der Überlagerung"
+  },
+	"description_es": "Reemplaza las incrustaciones de YouTube por un contenedor de clic antes de ver, con un enfoque en la privacidad de los datos.",
+  "features_es": {
+    "0": "Clic para cargar en lugar de incrustación inmediata de YouTube (sin solicitudes a YouTube hasta hacer clic)",
+    "1": "Dominio opcional youtube-nocookie.com",
+    "2": "Encabezado del aviso personalizado + texto adicional opcional",
+    "3": "Etiqueta del botón personalizable",
+    "4": "Imagen de fondo opcional (vista previa) dentro del marcador de posición",
+    "5": "Altura del marcador de posición y fuerza de la superposición configurables"
+  },
+	"description_ru": "Заменяет встраивания YouTube обёрткой «клик перед просмотром» с упором на конфиденциальность данных.",
+  "features_ru": {
+    "0": "Загрузка по клику вместо немедленного встраивания YouTube (запросов к YouTube нет до клика)",
+    "1": "Опциональный домен youtube-nocookie.com",
+    "2": "Пользовательский заголовок уведомления + необязательный дополнительный текст",
+    "3": "Настраиваемая надпись на кнопке",
+    "4": "Необязательное фоновое изображение (превью) внутри заглушки",
+    "5": "Настраиваемая высота заглушки и интенсивность наложения"
+  }
 }
