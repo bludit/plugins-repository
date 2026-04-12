@@ -4,29 +4,29 @@
 	"author_username": "diego",
 	"release_date": "2026-04-09",
 	"license": "Bludit PRO",
-	"price_usd": "-1",
+	"price_usd": "2",
 	"download_url": "https://bludit.gumroad.com/l/backup-manager-3-20-0",
 	"demo_url": "",
 	"information_url": "https://pro.bludit.com",
-	"description": "Backup Manager: Create and restore full backups of your Bludit site, including content, uploads, databases, and configuration files.",
+	"description": "Create and restore full backups of your Bludit site, including content, uploads, databases, and configuration files.",
 	"features": {
 		"0": "Create full backups of your Bludit site.",
 		"1": "Restore full backups of your Bludit site.",
 		"2": "Backup content, uploads, databases, and configuration files."
 	},
-	"description_de": "Backup Manager: Erstellen und Wiederherstellen von vollständigen Backups Ihrer Bludit-Website, einschließlich Inhalte, Uploads, Datenbanken und Konfigurationsdateien.",
+	"description_de": "Erstellen und Wiederherstellen von vollständigen Backups Ihrer Bludit-Website, einschließlich Inhalte, Uploads, Datenbanken und Konfigurationsdateien.",
 	"features_de": {
 		"0": "Erstellen Sie vollständige Backups Ihrer Bludit-Website.",
 		"1": "Stellen Sie vollständige Backups Ihrer Bludit-Website wieder her.",
 		"2": "Sichern Sie Inhalte, Uploads, Datenbanken und Konfigurationsdateien."
 	},
-	"description_es": "Backup Manager: Cree y restaure copias de seguridad completas de su sitio Bludit, incluyendo contenido, cargas, bases de datos y archivos de configuración.",
+	"description_es": "Cree y restaure copias de seguridad completas de su sitio Bludit, incluyendo contenido, cargas, bases de datos y archivos de configuración.",
 	"features_es": {
 		"0": "Cree copias de seguridad completas de su sitio Bludit.",
 		"1": "Restaure copias de seguridad completas de su sitio Bludit.",
 		"2": "Haga copias de seguridad del contenido, cargas, bases de datos y archivos de configuración."
 	},
-	"description_ru": "Backup Manager: Создавайте и восстанавливайте полные резервные копии вашего сайта Bludit, включая содержимое, загрузки, базы данных и конфигурационные файлы.",
+	"description_ru": "Cоздавайте и восстанавливайте полные резервные копии вашего сайта Bludit, включая содержимое, загрузки, базы данных и конфигурационные файлы.",
 	"features_ru": {
 		"0": "Создание полных резервных копий вашего сайта Bludit.",
 		"1": "Восстановление полных резервных копий вашего сайта Bludit.",
