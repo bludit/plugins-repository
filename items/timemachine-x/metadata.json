@@ -1,35 +1,31 @@
 {
 	"name": "Timemachine X",
-	"version": "3.9",
+	"version": "3.20.0",
 	"author_username": "diego",
-	"release_date": "2019-06-21",
+	"release_date": "2026-04-09",
 	"license": "Bludit PRO",
 	"price_usd": "-1",
-	"download_url": "https://gumroad.com/l/timemachinex",
-	"demo_url": "https://www.youtube.com/watch?v=_kz-qZkOBpM",
-	"information_url": "https://docs.bludit.com/en/bludit-pro/timemachine",
+	"download_url": "https://bludit.gumroad.com/l/timemachine-x-3-20-0",
+	"demo_url": "",
+	"information_url": "https://pro.bludit.com",
 	"description": "Timemachine X allows you to go back your site at some point in the past where you made some change, useful if you deleted some content or you made some changes on settings and you want to go back.",
 	"features": {
 		"0": "Restore point on every event.",
-		"1": "Easy to use, only activate the plugin.",
-		"2": "Compatible with Bludit v3.9. or higher."
+		"1": "Easy to use, only activate the plugin."
 	},
 	"description_de": "Timemachine X erlaubt die Wiederherstellung der Website zu früheren Zeitpunkten. Dies ist nützlich, wenn Inhalte gelöscht oder bearbeitet oder die Einstellungen geändert wurden und dies rückgängig gemacht werden soll.",
 	"features_de": {
 		"0": "Bei jeder Veranstaltung den Punkt wiederherstellen.",
-		"1": "Einfach zu bedienen, nur das Plugin aktivieren.",
-		"2": "Kompatibel mit Bludit v3.9."
+		"1": "Einfach zu bedienen, nur das Plugin aktivieren."
 	},
 	"description_es": "TimeMachine X le permite volver su sitio a algún momento del pasado donde realizo algún cambio, es útil si eliminó contenido o hizo algunos cambios en la configuración y desea volver atrás.",
 	"features_es": {
 		"0": "Punto de restauración en cada evento.",
-		"1": "Fácil de usar, sólo tiene que activar el plugin.",
-		"2": "Compatible con Bludit v3.9."
+		"1": "Fácil de usar, sólo tiene que activar el plugin."
 	},
 	"description_ru": "Позволяет вернуть сайт в какой-то момент в прошлом, до того как были внесены некоторые изменения. Полезно, если удалили запись, файл или внесли изменения в настройки, и хотите вернуть всё назад.",
 	"features_ru": {
 		"0": "Создаёт точку восстановления для каждого события.",
-		"1": "Прост в использовании, следует только активировать плагин.",
-		"2": "Совместим с Bludit версиями 3.9 и выше."
+		"1": "Прост в использовании, следует только активировать плагин."
 	}
 }

@@ -1,13 +1,13 @@
 {
 	"name": "Domain Migrator",
-	"version": "3.9.2",
+	"version": "3.20.0",
 	"author_username": "diego",
-	"release_date": "2019-06-21",
+	"release_date": "2026-04-09",
 	"license": "Bludit PRO",
 	"price_usd": "-1",
-	"download_url": "https://gum.co/domain-migrator",
+	"download_url": "https://bludit.gumroad.com/l/domain-migrator-3-20-0",
 	"demo_url": "",
-	"information_url": "https://docs.bludit.com/en/bludit-pro/domain-migrator",
+	"information_url": "https://pro.bludit.com",
 	"description": "Move your Bludit installation to a new server with a different domain. Migrate from domain to another, migrate from a domain to a subdomain or migrate from http to https.",
 	"features": {
 		"0": "Migrate from domain to another.",

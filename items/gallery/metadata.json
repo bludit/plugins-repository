@@ -1,0 +1,35 @@
+{
+	"name": "Gallery",
+	"version": "3.20.0",
+	"author_username": "diego",
+	"release_date": "2026-04-09",
+	"license": "Bludit PRO",
+	"price_usd": "-1",
+	"download_url": "https://bludit.gumroad.com/l/gallery-3-20-0",
+	"demo_url": "",
+	"information_url": "https://pro.bludit.com",
+	"description": "Manage image galleries directly from the admin panel, upload images, auto-generate thumbnails, and insert galleries into your content using a simple shortcode.",
+	"features": {
+		"0": "Upload images and create galleries directly from the admin panel.",
+		"1": "Auto-generate thumbnails for your images.",
+		"2": "Insert galleries into your content using a simple shortcode."
+	},
+	"description_de": "Verwalten Sie Bildergalerien direkt aus dem Admin-Panel, laden Sie Bilder hoch, generieren Sie automatisch Thumbnails und fügen Sie Galerien in Ihren Inhalt mit einem einfachen Shortcode ein.",
+	"features_de": {
+		"0": "Erstellen Sie vollständige Backups Ihrer Bludit-Website.",
+		"1": "Stellen Sie vollständige Backups Ihrer Bludit-Website wieder her.",
+		"2": "Sichern Sie Inhalte, Uploads, Datenbanken und Konfigurationsdateien."
+	},
+	"description_es": "Gestionar galerías de imágenes directamente desde el panel de administración, cargar imágenes, generar automáticamente miniaturas y insertar galerías en su contenido usando un shortcode simple.",
+	"features_es": {
+		"0": "Cargue imágenes y cree galerías directamente desde el panel de administración.",
+		"1": "Genere automáticamente miniaturas para sus imágenes.",
+		"2": "Inserte galerías en su contenido usando un shortcode simple."
+	},
+	"description_ru": "Управляйте image galleries напрямую из панели администратора, загружайте изображения, автоматически генерируйте эскизы и вставляйте галереи в ваш контент, используя простой shortcode.",
+	"features_ru": {
+		"0": "Загрузка изображений и создание галерей напрямую из панели администратора.",
+		"1": "Автоматическая генерация эскизов для ваших изображений.",
+		"2": "Вставка галерей в ваш контент с помощью простого shortcode."
+	}
+}
