@@ -1,0 +1,28 @@
+{
+	"name": "Bludit Plugin Comments",
+	"version": "1.2.1",
+	"author_username": "Green Effect",
+	"release_date": "2026-04-17",
+	"license": "CC BY-SA 4.0",
+	"price_usd": "0",
+	"download_url": "https://github.com/green-effect/bl-plugin-comments/releases/download/v1.2.1/bl-plugin-comments-1.2.1.zip",
+	"demo_url": "",
+	"information_url": "https://www.green-effect.fr",
+	"description": "Comment plugin for Bludit 3.x with moderation workflow, ALTCHA anti-spam verification, CSRF protection, configurable length validation, and front-end pagination.",
+	"features": {
+		"0": "Per-page comment control: enable or disable comments globally in plugin settings, then override behavior directly from each page editor when needed.",
+		"1": "Complete moderation workflow: incoming comments can be held for review, approved for public display, deleted individually, or fully cleared from the moderation panel.",
+		"2": "Built-in spam and form security: ALTCHA verification helps block automated submissions, while CSRF token checks protect front-end form requests.",
+		"3": "Configurable content validation: define minimum and maximum comment length limits to keep discussions readable and reduce low-quality or abusive submissions.",
+		"4": "Performance and abuse controls: IP-based rate limiting (cooldown between submissions) and configurable front-end pagination improve stability on high-traffic pages."
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	}
+}
