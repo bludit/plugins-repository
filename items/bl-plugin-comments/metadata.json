@@ -5,9 +5,9 @@
 	"release_date": "2026-04-17",
 	"license": "CC BY-SA 4.0",
 	"price_usd": "0",
-	"download_url": "https://github.com/green-effect/bl-plugin-comments/releases/download/v1.2.1/bl-plugin-comments-1.2.1.zip",
+	"download_url": "https://github.com/GreenEffect/bludit-plugin-comments/archive/refs/tags/v1.2.1.zip",
 	"demo_url": "",
-	"information_url": "https://www.green-effect.fr",
+	"information_url": "https://www.green-effect.fr/plugin-de-commentaires-pour-bludit-parce-que-les-existants-me-saoulaient",
 	"description": "Comment plugin for Bludit 3.x with moderation workflow, ALTCHA anti-spam verification, CSRF protection, configurable length validation, and front-end pagination.",
 	"features": {
 		"0": "Per-page comment control: enable or disable comments globally in plugin settings, then override behavior directly from each page editor when needed.",
