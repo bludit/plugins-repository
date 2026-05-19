@@ -6,8 +6,8 @@
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/jeremehancock/Shorthand",
-	"demo_url": "https://jereme.dev",
-	"information_url": "https://jereme.dev",
+	"demo_url": "https://jereme.dev/shorthand/",
+	"information_url": "https://jereme.dev/shorthand/",
 	"description": "Custom Shortcodes for Bludit",
 	"features": {
 		"0": "Define unlimited custom shortcodes from the admin with three call forms: [tag], [tag attr=\"value\"], and [tag]wrapped content[/tag]",
