@@ -1,0 +1,17 @@
+{
+	"name": "Shorthand",
+	"version": "1.0.0",
+	"author_username": "Jereme",
+	"release_date": "2026-05-18",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/jeremehancock/Shorthand",
+	"demo_url": "https://jereme.dev/shorthand/",
+	"information_url": "https://jereme.dev/shorthand/",
+	"description": "Custom Shortcodes for Bludit",
+	"features": {
+		"0": "Define unlimited custom shortcodes from the admin with three call forms: [tag], [tag attr=\"value\"], and [tag]wrapped content[/tag]",
+		"1": "Works in both the Markdown and HTML editors, with nested shortcodes and a clean in-form guide on how to use it",
+		"2": "Security built in: attribute values are HTML-escaped, URL attributes (href/src/etc.) are limited to safe schemes (javascript:, data:, vbscript: are stripped), and the admin form warns about risky templates"
+	}
+}
