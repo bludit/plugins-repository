@@ -7,7 +7,7 @@
 	"price_usd": "2",
 	"download_url": "https://bludit.gumroad.com/l/domain-migrator-3-20-0",
 	"demo_url": "",
-	"information_url": "https://pro.bludit.com",
+	"information_url": "https://bludit.gumroad.com/l/domain-migrator",
 	"description": "Move your Bludit installation to a new server with a different domain. Migrate from domain to another, migrate from a domain to a subdomain or migrate from http to https.",
 	"features": {
 		"0": "Migrate from domain to another.",
