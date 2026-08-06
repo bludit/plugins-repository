@@ -1,15 +1,16 @@
 {
 	"name": "AMZing Marketing Agency",
 	"email": "",
-	"contact_url": "",
 	"website": "https://www.amzingmarketing.com/",
 	"twitter": "",
 	"facebook": "",
 	"github": "https://github.com/amazonexpert888",
+	"gitlab": "",
 	"youtube": "",
 	"reddit": "",
 	"pinterest": "",
 	"flickr": "",
-	"google_plus": "",
-	"vk": ""
+	"vk": "",
+	"mastodon": "",
+	"linkedin": ""
 }
