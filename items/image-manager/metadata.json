@@ -1,0 +1,38 @@
+{
+	"name": "Image Manager",
+	"version": "1.8",
+	"author_username": "Arfa",
+	"release_date": "2026-08-13",
+	"license": "MIT",
+	"price_usd": "",
+	"download_url": "https://kusalo.net/extras/imgMan.zip",
+	"demo_url": "",
+	"information_url": "",
+	"description": "Build image galleries. Manage data & arrangement.",
+	"features": {
+		"0": "View/edit gallery lists & usage.",
+		"1": "Upload images.",
+		"2": "Build new galleries",
+        "3": "Review all image data.",
+        "4": "Tag images & sort.",
+        "5": "Test image data viability."
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
