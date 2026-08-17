@@ -12,11 +12,15 @@
     	"0": "Easy to use WYSIWYG content editor for Bludit CMS.",
 		"1": "Own uploader photo working direct from editor.",
 		"2": "Included few buttons (paragraph, image, editor style, table, list, code).",
-		"3": "Have few columns (required Bootstrap CSS on layout)."
+		"3": "Supports multiple columns (required Bootstrap CSS on layout)."
    
 	},
-	"description_de": "",
+	"description_de": "Moderner WYSIWYG Editor basierend auf der editor.js Bibliothek.",
 	"features_de": {
+		"0": "Einfacher WYSIWYG Editor für das Bludit CMS.",
+		"1": "Eigener Uploader für Photos funktioniert direkt im Editor.",
+		"2": "Einige Buttons hinzugefügt (Paragraf, Bild, Editor Style, Tabelle, Liste, Code).",
+		"3": "Unterstützt mehrere Spalten (benötigt Bootstrap CSS für das Layout)."
 	},
 	"description_es": "",
 	"features_es": {

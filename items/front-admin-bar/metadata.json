@@ -7,16 +7,20 @@
 	"download_url": "https://github.com/multicolor-rgb/front-admin-bar/archive/refs/tags/3.0.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/multicolor-rgb/front-admin-bar/releases/tag/3.0.0",
-	"description": "This plugin add edit bar on frontend when your logged.",
+	"description": "This plugin adds an edit bar on frontend when your logged in.",
 	"features": {
 		"0": "Panel color bar settings.",
-		"1": "Panel position (top or bottom) settings.",
+		"1": "Panel position settings (top or bottom).",
 		"2": "For v2 added new position options with new sidebar layout (left or right).",
-		"3": "Fixes code for subdomain/subdir instalation (thx Larsene)."
-		
+		"3": "Fixes code for subdomain/subdir installation (thx Larsene)."
+
 	},
-	"description_de": "",
+	"description_de": "Fügt eine Leiste zum Bearbeiten ins Frontend ein, wenn du eingeloggt bist.",
 	"features_de": {
+		"0": "Panel Farbeinstellungen für die Leiste",
+		"1": "Panel Positionseinstellungen (Oben oder unten).",
+		"2": "V2 neue Positionen Optionen hinzugefügt mit neuem Sidebar Layout (links oder rechts).",
+		"3": "Code Fix für Subdomain/Subdir Installationen (Thx Larsene)."
 	},
 	"description_es": "",
 	"features_es": {

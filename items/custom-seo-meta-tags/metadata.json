@@ -1,0 +1,38 @@
+{
+	"name": "SEO Meta Title and Description",
+	"version": "1.0.0",
+	"author_username": "amzing-marketing-agency",
+	"release_date": "2026-06-20",
+	"license": "2026-06-20",
+	"price_usd": "0",
+	"download_url": "https://codeload.github.com/amazonexpert888/custom-seo-meta-tags/zip/refs/heads/main",
+	"demo_url": "https://www.amzingmarketing.com/digital-marketing/plugin-bludit-demo-of-meta-title-and-meta-description",
+	"information_url": "",
+	"description": "SEO Meta Tags plugin for Bludit 3.x that adds per-page custom SEO title and meta description fields, automatically replacing or injecting HTML title and meta description tags without requiring theme modifications.",
+	"features": {
+		"0": "Adds two custom fields to every page: Custom SEO Title and Custom SEO Meta Description, allowing page-specific SEO metadata.",
+		"1": "Automatically replaces the HTML title tag with the custom SEO title when provided, while preserving the default title if left empty.",
+		"2": "Automatically replaces the existing meta description tag or inserts one into the document head when a custom meta description is available.",
+		"3": "Prevents duplicate meta description tags by detecting and replacing existing tags instead of adding additional ones.",
+		"4": "Works with most Bludit themes without requiring any theme modifications by processing the generated HTML output before it is sent to the browser.",
+		"5": "Automatically creates the required custom fields when the plugin is enabled and removes them during uninstallation for a clean setup."
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}

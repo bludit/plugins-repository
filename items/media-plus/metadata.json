@@ -4,7 +4,7 @@
 	"author_username": "sambrishes",
 	"release_date": "2021-02-01",
 	"license": "MIT",
-	"price_usd": "",
+	"price_usd": "-1",
 	"download_url": "https://github.com/bludit-plugins/media-plus/releases/download/v0.2.1/media-plus-0.2.1.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/bludit-plugins/media-plus",
