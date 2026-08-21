@@ -10,7 +10,7 @@
 	"information_url": "https://github.com/toby-sutor/bludit-plugin-contact-email",
 	"description": "Publish your email address on your Bludit website but protect it from bots, scrapers and spammers via JavaScript obfuscation and optional proof of work encryption.",
 	"features": {
-		"0": "Protects your email addres from spam",
+		"0": "Protects your email address from spam",
 		"1": "Link or button style",
 		"2": "JavaScript obfuscation and proof of work encryption"
 	},
