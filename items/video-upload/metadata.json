@@ -1,0 +1,21 @@
+{
+    "author_username": "horst-pott",
+    "release_date": "2026-08-21",
+    "license": "MIT",
+    "price_usd": "0",
+    "download_url": "https://github.com/horst-pott/bludit-plugin-video-upload/archive/refs/heads/main.zip",
+    "demo_url": "",
+    "information_url": "https://github.com/horst-pott/bludit-plugin-video-upload",
+    "description": "Upload short video clips (MP4, WebM, MOV) and display them as clickable tiles linking to a category or page.",
+    "features": {
+        "0": "Upload short video clips from the backend",
+        "1": "Displayed as a clickable preview tile in the frontend",
+        "2": "Configurable target link per video (category or page)"
+    },
+    "description_de": "Kurze Video-Clips (MP4, WebM, MOV) hochladen und als klickbare Kacheln anzeigen, die auf eine Kategorie oder Seite verlinken.",
+    "features_de": {
+        "0": "Video-Clips über das Backend hochladen",
+        "1": "Anzeige als klickbare Vorschau-Kachel im Frontend",
+        "2": "Einstellbarer Ziel-Link pro Video (Kategorie oder Seite)"
+    }
+}
