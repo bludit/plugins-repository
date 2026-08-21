@@ -1,0 +1,23 @@
+{
+    "author_username": "horst-pott",
+    "release_date": "2026-08-21",
+    "license": "MIT",
+    "price_usd": "0",
+    "download_url": "https://github.com/horst-pott/bludit-plugin-kategorie-rechte/archive/refs/heads/main.zip",
+    "demo_url": "",
+    "information_url": "https://github.com/horst-pott/bludit-plugin-kategorie-rechte",
+    "description": "Controls author permissions at category level. Authors can only edit their own articles and publish only in assigned categories.",
+    "features": {
+        "0": "Blocks editing and deleting other authors' articles",
+        "1": "Authors can be assigned to multiple categories",
+        "2": "Automatically drafts articles saved in a non-assigned category, with a notice to the author",
+        "3": "Assignment table in the backend, expandable per user"
+    },
+    "description_de": "Steuert Autoren-Rechte auf Kategorien-Ebene. Autoren dürfen nur eigene Artikel bearbeiten und nur in zugewiesenen Kategorien veröffentlichen.",
+    "features_de": {
+        "0": "Blockiert das Bearbeiten und Löschen fremder Artikel",
+        "1": "Mehrfachzuweisung: Autoren können mehreren Kategorien zugewiesen werden",
+        "2": "Setzt Artikel bei falscher Kategorie automatisch auf Entwurf, mit Hinweis an den Autor",
+        "3": "Zuweisungstabelle im Backend, pro Benutzer aufklappbar"
+    }
+}
