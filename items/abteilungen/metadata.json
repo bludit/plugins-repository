@@ -1,0 +1,23 @@
+{
+    "author_username": "horst-pott",
+    "release_date": "2026-08-21",
+    "license": "MIT",
+    "price_usd": "0",
+    "download_url": "https://github.com/horst-pott/bludit-plugin-abteilungen/archive/refs/heads/main.zip",
+    "demo_url": "",
+    "information_url": "https://github.com/horst-pott/bludit-plugin-abteilungen",
+    "description": "Manage fixed departments shown in the header, each linked to a static page with a short description on hover.",
+    "features": {
+        "0": "Admin page to manage departments (name + target page)",
+        "1": "Add and remove departments from the backend",
+        "2": "Short description shown as a dropdown on hover/click in the frontend",
+        "3": "Direct link to the associated subpage"
+    },
+    "description_de": "Verwaltung fest definierter Abteilungen im Header-Bereich, jede verknüpft mit einer statischen Seite und Kurzbeschreibung beim Hovern.",
+    "features_de": {
+        "0": "Admin-Verwaltungsseite für Abteilungen (Name + Ziel-Seite)",
+        "1": "Abteilungen hinzufügen und löschen über das Backend",
+        "2": "Kurzbeschreibung als Dropdown beim Hover/Klick im Frontend",
+        "3": "Verlinkung direkt zur zugehörigen Unterseite"
+    }
+}
