@@ -10,14 +10,8 @@
 	"information_url": "https://github.com/medicamin/bludit-plugin-single-autosave/",
 	"description": "Keeps only one autosave for each Bludit page.",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
-	},
-	"description_fa_IR": "آخرین تغییر ذخیره خودکار را نگه می دارد و قبلی را حذف می کند",
-	"features_fa_IR": {
-		"0": "",
-		"1": "",
+		"0": "Keeps the latest version of autosave of an article",
+		"1": "removes the previous autosave",
 		"2": ""
 	}
 }
