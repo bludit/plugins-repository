@@ -1,0 +1,17 @@
+{
+	"name": "Better Search",
+	"version": "1.0.0",
+	"author_username": "linuxvaman",
+	"release_date": "2026-08-24",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/medicamin/bludit-plugin-better-search/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/medicamin/bludit-plugin-better-search/",
+	"description": "Better search algorithm plus highlight search results and supporting Arabic/Persian language, based on default bludit 3.22 search plugin",
+	"features": {
+		"0": "Highlights the search result",
+		"1": "Removes the fuzzy algorithm",
+		"2": "Support for Persian and Arabic languages"
+	}
+}
