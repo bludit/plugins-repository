@@ -1,0 +1,29 @@
+{
+	"name": "Contact email",
+	"version": "0.2.3",
+	"author_username": "trenchopscom",
+	"release_date": "2026-08-21",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/toby-sutor/bludit-plugin-contact-email/releases/download/v0.2.3/contact-email.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/toby-sutor/bludit-plugin-contact-email",
+	"description": "Publish your email address on your Bludit website but protect it from bots, scrapers and spammers via JavaScript obfuscation and optional proof of work encryption.",
+	"features": {
+		"0": "Protects your email address from spam",
+		"1": "Link or button style",
+		"2": "JavaScript obfuscation and proof of work encryption"
+	},
+	"description_de": "Veröffentlichen Sie Ihre E-Mail-Adresse auf Ihrer Bludit-Website, schützen Sie sie aber vor Bots, Scrapern und Spammern durch JavaScript-Verschleierung und optionale Proof-of-Work-Verschlüsselung.",
+	"features_de": {
+		"0": "Schützt Ihre E-Mail-Adresse vor Spam",
+		"1": "Link- oder Schaltflächenstil",
+		"2": "JavaScript-Verschleierung und Proof-of-Work-Verschlüsselung"
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	}
+}
