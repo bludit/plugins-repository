@@ -1,0 +1,26 @@
+{
+	"name": "Internal Linker",
+	"version": "1.8.1",
+	"author_username": "trenchopscom",
+	"release_date": "2026-08-18",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/toby-sutor/bludit-plugin-internal-linker/releases/download/v1.8.1/internal-linker.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/toby-sutor/bludit-plugin-internal-linker",
+	"description": "Search existing pages and insert an internal link from the editor for better SEO. Four entry points, each switchable in the settings.",
+	"features": {
+		"0": "Search and link internal articles",
+		"1": "Improve SEO",
+		"2": "Relative or absolute URLs. Include/exclude drafts. Open in same or new tab."
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	}
+}
