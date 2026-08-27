@@ -1,0 +1,23 @@
+{
+    "author_username": "horst-pott",
+    "release_date": "2026-08-21",
+    "license": "MIT",
+    "price_usd": "0",
+    "download_url": "https://github.com/horst-pott/bludit-plugin-bildautomatik/archive/refs/heads/main.zip",
+    "demo_url": "",
+    "information_url": "https://github.com/horst-pott/bludit-plugin-bildautomatik",
+    "description": "Automatically resizes cover and content images of articles after saving, down to a configurable maximum size.",
+    "features": {
+        "0": "Automatic image resizing on article save",
+        "1": "Configurable maximum size (default 1600x1600px, 85% JPEG quality)",
+        "2": "Browser warning when uploading oversized images",
+        "3": "Bulk button to check and resize all existing images"
+    },
+    "description_de": "Verkleinert Cover- und Textbilder von Artikeln automatisch nach dem Speichern auf eine einstellbare Maximalgröße.",
+    "features_de": {
+        "0": "Automatische Verkleinerung von Bildern beim Speichern eines Artikels",
+        "1": "Einstellbare Maximalgröße (Standard 1600x1600px, 85% JPEG-Qualität)",
+        "2": "Warnhinweis im Browser beim Hochladen zu großer Bilder",
+        "3": "Button zum nachträglichen Prüfen und Verkleinern aller bestehenden Bilder"
+    }
+}

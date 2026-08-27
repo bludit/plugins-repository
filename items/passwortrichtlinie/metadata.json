@@ -1,0 +1,23 @@
+{
+    "author_username": "horst-pott",
+    "release_date": "2026-08-21",
+    "license": "MIT",
+    "price_usd": "0",
+    "download_url": "https://github.com/horst-pott/bludit-plugin-passwortrichtlinie/archive/refs/heads/main.zip",
+    "demo_url": "",
+    "information_url": "https://github.com/horst-pott/bludit-plugin-passwortrichtlinie",
+    "description": "Enforces a configurable minimum password security when creating or changing user passwords.",
+    "features": {
+        "0": "Configurable minimum password length",
+        "1": "Optional requirements for uppercase/lowercase, digits, and special characters",
+        "2": "Checked when creating new users and changing existing passwords",
+        "3": "Clear error message in the backend for weak passwords"
+    },
+    "description_de": "Erzwingt beim Anlegen und Ändern von Benutzerpasswörtern eine konfigurierbare Mindestsicherheit.",
+    "features_de": {
+        "0": "Einstellbare Mindestlänge für Passwörter",
+        "1": "Pflicht für Groß-/Kleinschreibung, Ziffern und Sonderzeichen konfigurierbar",
+        "2": "Prüfung beim Anlegen neuer Benutzer und beim Ändern bestehender Passwörter",
+        "3": "Verständliche Fehlermeldung im Backend bei zu schwachem Passwort"
+    }
+}
