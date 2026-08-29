@@ -1,0 +1,20 @@
+{
+	"name": "GitHub Sync",
+	"version": "1.0.0",
+	"author_username": "spleenftw",
+	"release_date": "2026-06-01",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/spleenftw/bludit-github-sync/archive/main.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/spleenftw/bludit-github-sync",
+	"description": "Automatically exports your Bludit articles to a GitHub repository as Markdown files with YAML frontmatter, keeping a versioned backup of your content in sync on every save.",
+	"features": {
+		"0": "Pushes every article create, update and delete to GitHub via the GitHub API",
+		"1": "Exports Markdown with YAML frontmatter (title, date, slug, tags)",
+		"2": "Separate toggles for auto-exporting drafts and published articles",
+		"3": "Bulk export of all articles or published articles only",
+		"4": "Uploads referenced images and links them with relative paths",
+		"5": "Reports errors in the settings panel without breaking saving"
+	}
+}

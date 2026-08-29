@@ -1,0 +1,19 @@
+{
+	"name": "GitHub Comments",
+	"version": "1.2.0",
+	"author_username": "spleenftw",
+	"release_date": "2026-06-02",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/spleenftw/bludit-github-comments/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/spleenftw/bludit-github-comments",
+	"description": "Adds a comment section to your Bludit site powered by GitHub issues through Utterances, so visitors comment with their GitHub account and the discussion lives in your own repository.",
+	"features": {
+		"0": "Comments backed by GitHub issues in a repository you choose",
+		"1": "Independent toggles for pages, static pages and sticky pages",
+		"2": "Follow Site Theme option syncs the widget with light/dark mode",
+		"3": "Six manual theme overrides including github-light and github-dark",
+		"4": "Renders nothing until a repository is configured"
+	}
+}
