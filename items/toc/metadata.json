@@ -1,0 +1,18 @@
+{
+	"name": "Table of Contents",
+	"version": "1.0.0",
+	"author_username": "spleenftw",
+	"release_date": "2026-06-04",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/spleenftw/bludit-toc/archive/main.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/spleenftw/bludit-toc",
+	"description": "Automatically generates a table of contents from the h2, h3 and h4 headings of an article, shown as a sticky sidebar on desktop and a floating drawer on mobile.",
+	"features": {
+		"0": "Builds the table of contents automatically from h2/h3/h4 headings",
+		"1": "Sticky sidebar on desktop, floating button and slide-up drawer on mobile",
+		"2": "Scroll-spy highlighting of the section currently in view",
+		"3": "Inherits theme colors and works with any Bludit theme without edits"
+	}
+}
