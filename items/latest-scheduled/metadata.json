@@ -1,0 +1,25 @@
+{
+	"name": "Latest scheduled",
+	"version": "0.1.0",
+	"author_username": "trenchopscom",
+	"release_date": "2026-08-30",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/toby-sutor/bludit-plugin-latest-scheduled/releases/download/v0.1.0/latest-scheduled.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/toby-sutor/bludit-plugin-latest-scheduled",
+	"description": "Puts the date of the furthest scheduled article in the admin sidebar, so you can see where the queue ends without opening Content → Scheduled.",
+	"features": {
+		"0": "Show last scheduled article"
+	},
+	"description_de": "Zeigt in der Admin-Seitenleiste das Datum des am weitesten in der Zukunft geplanten Artikels, ohne Content → Geplant öffnen zu müssen.",
+	"features_de": {
+		"0": "Zeigt den neusten geplaten Artikel."
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "",
+	"features_ru": {
+	}
+}
