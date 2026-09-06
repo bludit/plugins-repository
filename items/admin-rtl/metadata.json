@@ -1,0 +1,17 @@
+{
+	"name": "Admin RTL",
+	"version": "1.0.0",
+	"author_username": "linuxvaman",
+	"release_date": "2026-08-24",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/medicamin/bludit-plugin-Admin-RTL/releases",
+	"demo_url": "",
+	"information_url": "https://github.com/medicamin/bludit-plugin-Admin-RTL",
+	"description": "Change the bludit 3.22 admin dashboard to RTL direction for Right to Left languages such as Persian or Arabic",
+	"features": {
+		"0": "loads rtl.css file which adds css style to the admin area",
+		"1": "Adds Vazirmatn font-family to the admin area",
+		"2": "English characters in the input fields such as plugin settings, remains LTR"
+	}
+}
