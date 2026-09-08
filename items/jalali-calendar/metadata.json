@@ -1,0 +1,17 @@
+{
+	"name": "Jalali Calendar",
+	"version": "1.0.0",
+	"author_username": "linuxvaman",
+	"release_date": "2026-08-24",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/medicamin/bludit-plugin-Jalali-Calendar/releases/",
+	"demo_url": "",
+	"information_url": "https://github.com/medicamin/bludit-plugin-Jalali-Calendar",
+	"description": "Displays Gregorian dates as Persian Jalali dates when Persian language selected in the admin.",
+	"features": {
+		"0": "Converts the frontend dates to Jalali",
+		"1": "Converts the backend dates to Jalali",
+		"2": "Converts datepicker to Jalali"
+	}
+}
