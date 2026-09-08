@@ -1,0 +1,17 @@
+{
+	"name": "Admin Numeric Pagination",
+	"version": "1.0.0",
+	"author_username": "linuxvaman",
+	"release_date": "2026-09-08",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/medicamin/bludit-plugin-admin-numeric-pagination/releases/",
+	"demo_url": "",
+	"information_url": "https://github.com/medicamin/bludit-plugin-admin-numeric-pagination",
+	"description": "Replaces the Contents pagination with numeric page navigation.",
+	"features": {
+		"0": "Removes the default First|Next|Prev|Last pagination in the contents page.",
+		"1": "Replaces the contents pagination with numeric page navigation.",
+		"2": "Better results when combining with bludit Author Manager plugin, which replaces the author content pagination more logical."
+	}
+}
