@@ -1,0 +1,17 @@
+{
+	"name": "Tinymce Custom CSS",
+	"version": "1.0.0",
+	"author_username": "linuxvaman",
+	"release_date": "2026-08-24",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/medicamin/bludit-plugin-tinymce-custom-css/releases",
+	"demo_url": "",
+	"information_url": "https://github.com/medicamin/bludit-plugin-tinymce-custom-css",
+	"description": "Loads your custom CSS file into the bludit TinyMCE editor textarea.",
+	"features": {
+		"0": "Edit the css file under css/editor.css",
+		"1": "No need to flush the browser cache every time you edit the css file, just make a hard refresh!",
+		"2": "Also loads bootstrap.min.css from bludit directory to the TinyMCE editor textarea."
+	}
+}
