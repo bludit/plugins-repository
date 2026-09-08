@@ -11,7 +11,7 @@
 	"description": "Preserve plugin settings, delete plugins and install plugins from ZIP files.",
 	"features": {
 		"0": "Saves plugins settings before deactivation and restores them after reactivation",
-		"1": "Adds a "delete" button for the deactivated plugin, which deletes the plugin folder completely and its settings.",
-		"2": "Adds "Install Plugin" to the top of the plugins page, which makes it possible to upload a bludit plugin zip file, extract it and install it to the plugins list"
+		"1": "Adds a \"delete\" button for the deactivated plugin, which deletes the plugin folder completely and its settings.",
+		"2": "Adds \"Install Plugin\" to the top of the plugins page, which makes it possible to upload a bludit plugin zip file, extract it and install it to the plugins list"
 	}
 }
