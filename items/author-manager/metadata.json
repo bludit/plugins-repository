@@ -1,0 +1,19 @@
+{
+	"name": "Author Manager",
+	"version": "1.0.0",
+	"author_username": "linuxvaman",
+	"release_date": "2026-08-24",
+	"license": "End User License Agreement (EULA)",
+	"price_usd": "6",
+	"download_url": "https://payhip.com/b/0CL34",
+	"demo_url": "",
+	"information_url": "https://payhip.com/b/0CL34",
+	"description": "Manage post authors and fixes author pagination.",
+	"features": {
+		"0": "Display the author of each post below the post on the Content page, with a clickable author name.",
+		"1": "Display the number of posts by each author next to their name on the Users page, with a clickable post count.",
+		"2": "View each author's posts separately.",
+    "3": "Fix post pagination for individual authors and prevent empty pages.",
+    "4": "Change the author of a published content from the Advanced tab in Options menu"
+	}
+}
