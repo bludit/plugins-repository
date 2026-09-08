@@ -14,8 +14,12 @@
 		"2": "Turn on/off on sidebar.",
 		"3": "View mode option — form or cloud tag/categories."
 	},
-	"description_de": "",
+	"description_de": "Zeige Kategorien und Schlagwörter mit eigenen Einstellungen.",
 	"features_de": {
+		"0": "Eigene Titel und Schaltflächen einfach festlegen.",
+		"1": "Einstellungen für Kategorie- und Schlagwortgrenzen.",
+		"2": "Seitenleiste ein-/ausschalten.",
+		"3": "Option für den Anzeigemodus: Formular oder Schlagwort-/Kategorien-Cloud."
 	},
 	"description_es": "",
 	"features_es": {
