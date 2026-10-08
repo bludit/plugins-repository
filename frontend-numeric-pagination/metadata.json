@@ -1,0 +1,17 @@
+{
+	"name": "Frontend Numeric Pagination",
+	"version": "1.0.0",
+	"author_username": "linuxvaman",
+	"release_date": "2026-09-11",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/medicamin/bludit-plugin-frontend-numeric-pagination/releases/",
+	"demo_url": "",
+	"information_url": "https://github.com/medicamin/bludit-plugin-frontend-numeric-pagination",
+	"description": "Replaces frontend Previous/Next pagination with numeric page navigation.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
