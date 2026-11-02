@@ -12,7 +12,8 @@
 	"features": {
 		"0": "The horiz. format allows up to 9 years across at 390px.",
 		"1": "This could be css tweaked to about 12 years.",
-		"2": "It includes a custom (horiz.) menu builder."
+		"2": "12 month display is fine down to 370px.",
+		"3": "It includes a custom (horiz.) menu builder."
 	},
 	"description_de": "",
 	"features_de": {
