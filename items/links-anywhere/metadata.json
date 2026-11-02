@@ -12,7 +12,12 @@
 	"credits_url": "https://github.com/bludit/bludit/tree/v3.0/bl-plugins/links",
 	"description": "Based on the default Links plugin. Allows you to add links set in the admin area anywhere in your theme.",
 	"features": {
-		"0": "Add links in the admin area",
-		"1": "Display them in your theme via a custom hook"
+		"0": "Add links in the admin area.",
+		"1": "Display them in your theme via a custom hook."
+	},
+	"description_ru": "Основан на плагине ссылок по умолчанию. Позволяет добавлять ссылки, находясь в Панели управления, для любого места в вашей теме.",
+	"features_ru": {
+		"0": "Добавляйте ссылки в Панели управления.",
+		"1": "Отобразите ссылки в своей теме с помощью пользовательского хука."
 	}
 }

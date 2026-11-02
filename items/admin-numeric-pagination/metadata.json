@@ -13,5 +13,11 @@
 		"0": "Removes the default First|Next|Prev|Last pagination in the contents page.",
 		"1": "Replaces the contents pagination with numeric page navigation.",
 		"2": "Better results when combining with bludit Author Manager plugin, which replaces the author content pagination more logical."
+	},
+	"description_ru": "Заменяет разбиение содержимого на страницы цифровой навигацией по страницам.",
+	"features_ru": {
+		"0": "Удаляет разбивку словами: «Первая», «Следующая», «Предыдущая», «Последняя», на пронумерованные страницы содержимого.",
+		"1": "Заменяет разбиение содержимого на страницы с цифровой навигацией по страницам.",
+		"2": "Лучшие результаты достигаются при использовании плагина для Bludit «Author Manager», который заменяет стандартную разбивку авторского контента на страницы более логичным способом."
 	}
 }

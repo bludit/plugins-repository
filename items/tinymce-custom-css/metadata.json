@@ -8,10 +8,16 @@
 	"download_url": "https://github.com/medicamin/bludit-plugin-tinymce-custom-css/releases",
 	"demo_url": "",
 	"information_url": "https://github.com/medicamin/bludit-plugin-tinymce-custom-css",
-	"description": "Loads your custom CSS file into the bludit TinyMCE editor textarea.",
+	"description": "Loads your custom CSS file into the Bludit TinyMCE editor textarea.",
 	"features": {
-		"0": "Edit the css file under css/editor.css",
-		"1": "No need to flush the browser cache every time you edit the css file, just make a hard refresh!",
+		"0": "Edit the CSS file under css/editor.css",
+		"1": "No need to flush the browser cache every time you edit the CSS file, just make a hard refresh!",
 		"2": "Also loads bootstrap.min.css from bludit directory to the TinyMCE editor textarea."
+	},
+	"description_ru": "Загружает ваш пользовательский CSS-файл в текстовую область редактора TinyMCE для Bludit.",
+	"features_ru": {
+		"0": "Отредактируйте CSS-файл находящийся в css/editor.css",
+		"1": "Нет необходимости очищать кеш браузера каждый раз, когда вы редактируете CSS-файл, просто сделайте жесткое обновление!",
+		"2": "Плагин также загружает bootstrap.min.css из каталога bludit в текстовую область редактора TinyMCE."
 	}
 }

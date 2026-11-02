@@ -10,9 +10,11 @@
 	"information_url": "https://github.com/toby-sutor/bludit-plugin-internal-linker",
 	"description": "Search existing pages and insert an internal link from the editor for better SEO. Four entry points, each switchable in the settings.",
 	"features": {
-		"0": "Search and link internal articles",
-		"1": "Improve SEO",
-		"2": "Relative or absolute URLs. Include/exclude drafts. Open in same or new tab."
+		"0": "Search and link internal articles.",
+		"1": "Improve SEO.",
+		"2": "Relative or absolute URLs.",
+		"3": "Include/exclude drafts.",
+		"4": "Open in same or new tab."
 	},
 	"description_de": "",
 	"features_de": {
@@ -20,7 +22,12 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Выполните поиск по существующим страницам и вставьте внутреннюю ссылку из редактора для улучшения SEO. Четыре точки входа, каждая из которых может быть изменена в настройках.",
 	"features_ru": {
+		"0": "Ищите внутренние статьи и создавайте ссылки на них.",
+		"1": "Улучшайте SEO.",
+		"2": "Относительные или абсолютные URL-адреса.",
+		"3": "Включайте или исключайте черновики из поиска.",
+		"4": "Открывайте страницы в той же или в новой вкладке."
 	}
 }

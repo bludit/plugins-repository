@@ -10,8 +10,14 @@
 	"information_url": "https://github.com/medicamin/bludit-plugin-Plugin-Manager",
 	"description": "Preserve plugin settings, delete plugins and install plugins from ZIP files.",
 	"features": {
-		"0": "Saves plugins settings before deactivation and restores them after reactivation",
+		"0": "Saves plugins settings before deactivation and restores them after reactivation.",
 		"1": "Adds a \"delete\" button for the deactivated plugin, which deletes the plugin folder completely and its settings.",
-		"2": "Adds \"Install Plugin\" to the top of the plugins page, which makes it possible to upload a bludit plugin zip file, extract it and install it to the plugins list"
+		"2": "Adds \"Install Plugin\" to the top of the plugins page, which makes it possible to upload a Bludit plugin zip file, extract it and install it to the plugins list."
+	},
+	"description_ru": "Сохраняйте настройки плагинов, устанавливайте плагины в несколько кликов из ZIP-архивов и легко удаляйте плагины.",
+	"features_ru": {
+		"0": "Сохраняет настройки плагинов перед деактивацией и восстанавливает их после повторной активации.",
+		"1": "Добавляет кнопку «Удалить» для деактивированного плагина, которая полностью удаляет папку плагина и его настройки.",
+		"2": "Добавляет кнопку «Установить плагин» в верхнюю часть страницы плагинов, что позволяет загрузить zip-файл с плагином для Bludit, извлечь его и установить для вашего сайта."
 	}
 }

@@ -10,20 +10,23 @@
 	"information_url": "https://github.com/toby-sutor/bludit-plugin-contact-email",
 	"description": "Publish your email address on your Bludit website but protect it from bots, scrapers and spammers via JavaScript obfuscation and optional proof of work encryption.",
 	"features": {
-		"0": "Protects your email address from spam",
-		"1": "Link or button style",
-		"2": "JavaScript obfuscation and proof of work encryption"
+		"0": "Protects your email address from spam.",
+		"1": "Link or button style.",
+		"2": "JavaScript obfuscation and proof of work encryption."
 	},
 	"description_de": "Veröffentlichen Sie Ihre E-Mail-Adresse auf Ihrer Bludit-Website, schützen Sie sie aber vor Bots, Scrapern und Spammern durch JavaScript-Verschleierung und optionale Proof-of-Work-Verschlüsselung.",
 	"features_de": {
-		"0": "Schützt Ihre E-Mail-Adresse vor Spam",
-		"1": "Link- oder Schaltflächenstil",
-		"2": "JavaScript-Verschleierung und Proof-of-Work-Verschlüsselung"
+		"0": "Schützt Ihre E-Mail-Adresse vor Spam.",
+		"1": "Link- oder Schaltflächenstil.",
+		"2": "JavaScript-Verschleierung und Proof-of-Work-Verschlüsselung."
 	},
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Опубликуйте свой адрес электронной почты на сайте, но защитите его от ботов, мошенников и спамеров с помощью обфускации построенной на JavaScript и дополнительной проверки шифрования.",
 	"features_ru": {
+		"0": "Защищает ваш адрес электронной почты от спама.",
+		"1": "Настройте стиль ссылки или кнопки.",
+		"2": "Запутывание (она же обфускация) с помощью JavaScript и проверка работоспособности шифрования."
 	}
 }

@@ -13,7 +13,15 @@
 		"0": "Display the author of each post below the post on the Content page, with a clickable author name.",
 		"1": "Display the number of posts by each author next to their name on the Users page, with a clickable post count.",
 		"2": "View each author's posts separately.",
-    "3": "Fix post pagination for individual authors and prevent empty pages.",
-    "4": "Change the author of a published content from the Advanced tab in Options menu"
+		"3": "Fix post pagination for individual authors and prevent empty pages.",
+		"4": "Change the author of a published content from the Advanced tab in Options menu."
+	},
+	"description_ru": "Управляйте авторами записей и исправляйте разбивку на страницы авторов.",
+	"features_ru": {
+		"0": "Укажите автора каждой записи под публикацией на странице содержимого с именем автора, на которое можно кликнуть.",
+		"1": "Отобразите количество публикаций каждого автора рядом с его именем на странице пользователей, указав количество кликабельных записей.",
+		"2": "Просматривайте публикации каждого автора отдельно.",
+		"3": "Исправлена разбивка записей на страницы для отдельных авторов и предотвращено появление пустых страниц.",
+		"4": "Измените имя автора опубликованной записи на вкладке «Расширенные (настройки)» в меню «Параметры»."
 	}
 }

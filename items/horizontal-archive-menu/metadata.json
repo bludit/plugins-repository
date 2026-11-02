@@ -12,7 +12,14 @@
 	"features": {
 		"0": "The horiz. format allows up to 9 years across at 390px.",
 		"1": "This could be css tweaked to about 12 years.",
-    "2": "12 month display is fine down to 370px.",
-		"3": "It includes a custom (horiz.) menu builder."
-  }
+		"2": "12 month display is fine down to 370px.",
+		"3": "This plugin includes a custom (horiz.) menu builder."
+	},
+	"description_ru": "Прямые ссылки на все ваши публикации в формате горизонтального меню.",
+	"features_ru": {
+		"0": "Горизонтально. Формат позволяет увеличить «глубину архива» до 9 лет при разрешении всего в 390 пикселей.",
+		"1": "И даже эту «глубину архива» можно изменить с помощью CSS примерно др 12 лет.",
+		"2": "Строка отображающая архив за 12 месяцев работает нормально, вплоть до длины строки в 370 пикселей.",
+		"3": "Плагин включает в себя пользовательский конструктор (горизонтального) меню."
+	}
 }

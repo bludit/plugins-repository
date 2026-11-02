@@ -1,16 +1,22 @@
 {
-  "author_username": "elig-45",
-  "email": "elig-45@outlook.fr",
-  "website": "https://github.com/elig-45/bludit-edit-author",
-  "version": "1.0.1",
-  "release_date": "2025-11-23",
-  "license": "GPLv3",
-  "compatible": "3.0",
-  "name": "Editable Author Select",
-  "description": "Select any Bludit user as the author of a page using a searchable Select2 dropdown. Admin-only. Multilingual EN/FR.",
-  "notes": "Replaces the disabled author field with a Select2 dropdown supporting search and user validation. Only administrators can change page authors. Fully multilingual (English & French).",
-  "price_usd": "0",
-  "category": "administration",
-  "download_url": "https://github.com/elig-45/bludit-edit-author/archive/refs/tags/v1.0.1.zip",
-  "homepage": "https://github.com/elig-45/bludit-edit-author"
+	"author_username": "elig-45",
+	"email": "elig-45@outlook.fr",
+	"website": "https://github.com/elig-45/bludit-edit-author",
+	"version": "1.0.1",
+	"release_date": "2025-11-23",
+	"license": "GPLv3",
+	"compatible": "3.0",
+	"name": "Editable Author Select",
+	"price_usd": "0",
+	"category": "administration",
+	"download_url": "https://github.com/elig-45/bludit-edit-author/archive/refs/tags/v1.0.1.zip",
+	"homepage": "https://github.com/elig-45/bludit-edit-author",
+	"description": "Select any Bludit user as the author of a page using a searchable Select2 dropdown. Admin-only. Multilingual EN/FR/RU.",
+	"features":{
+		"0": "Replaces the disabled author field with a Select2 dropdown supporting search and user validation. Only administrators can change page authors. Fully multilingual (English, French, Russian)."
+	},
+	"description_ru": "Выберите любого пользователя Bludit в качестве автора страницы, используя специальный выпадающий список с возможностью поиска. Эта функция доступна только для администратора. Плагин многоязычный EN/FR/RU.",
+	"features_ru":{
+		"0": "Заменяет отключенное поле «Автор» специальным выпадающим списком, поддерживающим поиск и проверку подлинности пользователя. Только администраторы могут изменять авторов страницы. Плагин полностью многоязычный (есть английский, французский, русский языки)."
+	}
 }
