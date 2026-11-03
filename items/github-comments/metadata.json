@@ -10,10 +10,18 @@
 	"information_url": "https://github.com/spleenftw/bludit-github-comments",
 	"description": "Adds a comment section to your Bludit site powered by GitHub issues through Utterances, so visitors comment with their GitHub account and the discussion lives in your own repository.",
 	"features": {
-		"0": "Comments backed by GitHub issues in a repository you choose",
-		"1": "Independent toggles for pages, static pages and sticky pages",
-		"2": "Follow Site Theme option syncs the widget with light/dark mode",
-		"3": "Six manual theme overrides including github-light and github-dark",
-		"4": "Renders nothing until a repository is configured"
+		"0": "Comments backed by GitHub issues in a repository you choose.",
+		"1": "Independent toggles for pages, static pages and sticky pages.",
+		"2": "Follow Site Theme option syncs the widget with light/dark mode.",
+		"3": "Six manual theme overrides including github-light and github-dark.",
+		"4": "Renders nothing until a repository is configured."
+	},
+	"description_ru": "Добавляет раздел комментариев работающий на базе GitHub на сайт. Посетители комментируют с помощью своей учётной записи на GitHub, а тексты обсуждений сохраняются в вашем собственном репозитории.",
+	"features_ru": {
+		"0": "Комментарии сохраняются и на сайте и на GitHub, размещаясь в выбранном вами репозитории.",
+		"1": "Независимые переключатели для обычных страниц, статических страниц и закреплённых страниц сайта.",
+		"2": "Есть опция «Следить за темой сайта», она синхронизирует плагин с режимом темы «светлый/тёмный».",
+		"3": "Шесть пользовательских переопределений тем, включая github-светлая-тема и github-тёмная-тема.",
+		"4": "Ничего не отображается до тех пор, пока не будет настроен репозиторий, куда будут сохраняться комментарии."
 	}
 }

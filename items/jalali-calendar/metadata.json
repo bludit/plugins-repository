@@ -10,8 +10,16 @@
 	"information_url": "https://github.com/medicamin/bludit-plugin-Jalali-Calendar",
 	"description": "Displays Gregorian dates as Persian Jalali dates when Persian language selected in the admin.",
 	"features": {
-		"0": "Converts the frontend dates to Jalali",
-		"1": "Converts the backend dates to Jalali",
-		"2": "Converts datepicker to Jalali"
+		"0": "This is interesting: The Jalali Calendar (also known as the Solar Persian Calendar or Solar Hijra) uses the Iranian calendar to calculate the time associated with the astronomical solar year and the vernal equinox. So now (at the time of 2026), according to the Jalali calendar (Solar Hijri), the year is 1405.",
+		"1": "Converts the frontend dates to Jalali.",
+		"2": "Converts the backend dates to Jalali.",
+		"3": "Converts datepicker to Jalali."
+	},
+	"description_ru": "Отображает григорианские даты в качестве персидских дат Джалали, если в настройках выбран персидский язык.",
+	"features_ru": {
+		"0": "Это интересно: Календарь Джалали (также известен под названием: Солнечный персидский календарь или Солнечная хиджра) использует Иранский календарь для исчисления времени, привязанного к астрономическому солнечному году и весеннему равноденствию. Так сейчас (на момент 2026 года) по календарю Джалали (Солнечной хиджре) идёт 1405 год.",
+		"1": "Преобразует даты на страницах сайта в пользовательстком интерфейсе в Джалали.",
+		"2": "Преобразует даты интерфейсе Панели управления в Джалали.",
+		"3": "Преобразует даты в полях выбора дат в Джалали."
 	}
 }

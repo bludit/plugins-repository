@@ -10,7 +10,7 @@
 	"information_url": "https://github.com/toby-sutor/bludit-plugin-latest-scheduled",
 	"description": "Puts the date of the furthest scheduled article in the admin sidebar, so you can see where the queue ends without opening Content → Scheduled.",
 	"features": {
-		"0": "Show last scheduled article"
+		"0": "Show last scheduled article."
 	},
 	"description_de": "Zeigt in der Admin-Seitenleiste das Datum des am weitesten in der Zukunft geplanten Artikels, ohne Content → Geplant öffnen zu müssen.",
 	"features_de": {
@@ -19,7 +19,8 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "В Панели управления сбоку теперь отображается дата выхода последней запланированной записи, так что вы можете увидеть, где заканчивается очередь, не открывая меню «Записи» → «Запланировано».",
 	"features_ru": {
+		"0": "Показывает последнюю запланированную к публикации запись."
 	}
 }

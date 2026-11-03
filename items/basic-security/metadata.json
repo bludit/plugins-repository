@@ -12,8 +12,14 @@
 	"credits_url": "",
 	"description": "A plugin to let you check for suspicious IP trying to connect to the admin area, configure blocking IP settings and verify other security settings.",
 	"features": {
-		"0": "Check for suspicious IP",
-		"1": "Configure blocking IP settings",
-		"2": "Verify other security settings"
+		"0": "Check for suspicious IP.",
+		"1": "Configure blocking IP settings.",
+		"2": "Verify other security settings."
+	},
+	"description_ru": "Плагин, позволяющий вам проверять подозрительные IP-адреса при попытке входа в Панель управления, настраивать параметры блокировки IP-адресов и проверять другие параметры безопасности.",
+	"features_ru": {
+		"0": "Проверяйте, нет ли подозрительных IP-адресов.",
+		"1": "Настраивайте параметры блокировки IP-адресов.",
+		"2": "Контролируйте другие параметры безопасности."
 	}
 }

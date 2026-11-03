@@ -9,5 +9,6 @@
 	"demo_url": "",
 	"information_url": "https://github.com/magicmarcy/auto-sitemap",
 	"description": "Auto Sitemap generates and keeps sitemap.xml up to date for your Bludit site.",
-	"description_de": "Auto Sitemap generiert und hält die sitemap.xml-Datei für deine Bludit-Website aktuell."
+	"description_de": "Auto Sitemap generiert und hält die sitemap.xml-Datei für deine Bludit-Website aktuell.",
+	"description_ru": "Карта сайта автоматически создаётся и поддерживается в актуальном состоянии в виде файла sitemap.xml для вашего сайта на Bludit."
 }
