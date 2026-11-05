@@ -5,7 +5,7 @@
   "release_date": "2026-10-27",
   "license": "MIT",
   "price_usd": "0",
-  "download_url": "https://github.com/amazingmarketingagency/floating-action-button-bludit/releases/download/v1.2.0/Floating-Action-Button-Bludit-Plugin-v1.2.0.zip",
+  "download_url": "https://github.com/amazingmarketingagency/floating-action-button-bludit-/releases/download/v1.2.0/Floating-Action-Button-Bludit-Plugin-v1.2.0.zip",
   "demo_url": "https://www.wealthexperts.ca",
   "information_url": "https://amazingmarketingagency/floating-action-button-bludit",
   "description": "Keep your next step within reach with this free floating call-to-action plugin for Bludit. Customize the button text and link, choose separate desktop and mobile scroll thresholds, and automatically hide the button on its linked contact page. Ideal for contact enquiries, quote requests and booking links. Requires JavaScript and standard Bludit theme hooks.",
