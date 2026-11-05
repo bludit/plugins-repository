@@ -1,0 +1,113 @@
+# Checks every pull request against the plugin rules and, when the PR author
+# owns everything the PR changes, merges it automatically.
+#
+# SECURITY
+# This workflow runs on `pull_request_target`, so it has a write token even for
+# PRs from forks. It must never run code from the PR:
+#   * it checks out the base branch only (trusted code, including the validator);
+#   * it fetches the PR commit as git objects and reads files with git plumbing,
+#     so nothing from the PR is ever checked out or executed;
+#   * PR-controlled values reach shell steps only through `env`, never through
+#     `${{ }}` inside `run:`.
+# Changes to this file or to .github/scripts/ in a PR do not take effect until
+# they are merged, and such PRs are always left for a maintainer.
+#
+# Auto-merge is off until the repository variable PLUGINS_AUTO_MERGE is "true"
+# (Settings > Secrets and variables > Actions > Variables). While it is off the
+# bot still comments whether a PR would qualify.
+
+name: Plugin PR check
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review]
+
+permissions: {}
+
+concurrency:
+  group: plugin-pr-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      pull-requests: write # post the result comment
+    outputs:
+      eligible: ${{ steps.check.outputs.eligible }}
+    env:
+      PR_NUMBER: ${{ github.event.pull_request.number }}
+      HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+      PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+      REPO: ${{ github.repository }}
+      AUTO_MERGE: ${{ vars.PLUGINS_AUTO_MERGE }}
+    steps:
+      - name: Check out the base branch (trusted)
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Fetch the PR commit (as data, not checked out)
+        run: |
+          git fetch --no-tags --quiet origin "+refs/pull/${PR_NUMBER}/head:refs/remotes/pr/head"
+          git cat-file -e "${HEAD_SHA}^{commit}"
+
+      - name: Validate
+        id: check
+        run: |
+          flags=()
+          if [ "$AUTO_MERGE" = "true" ]; then flags+=(--auto-merge-enabled); fi
+          status=0
+          python3 -I .github/scripts/validate_pr.py \
+            --base HEAD --head "$HEAD_SHA" --author "$PR_AUTHOR" \
+            --report-md "$RUNNER_TEMP/report.md" \
+            --github-output "$GITHUB_OUTPUT" "${flags[@]}" || status=$?
+          cat "$RUNNER_TEMP/report.md" >> "$GITHUB_STEP_SUMMARY"
+          echo "status=$status" >> "$GITHUB_OUTPUT"
+
+      - name: Post or update the result comment
+        if: always() && steps.check.outputs.status != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          marker='<!-- plugin-validator -->'
+          comment_id=$(gh api --paginate "repos/$REPO/issues/$PR_NUMBER/comments" \
+            --jq ".[] | select(.user.login == \"github-actions[bot]\" and (.body | contains(\"$marker\"))) | .id" | head -n 1)
+          if [ -n "$comment_id" ]; then
+            gh api --method PATCH "repos/$REPO/issues/comments/$comment_id" -F "body=@$RUNNER_TEMP/report.md" > /dev/null
+          else
+            gh api --method POST "repos/$REPO/issues/$PR_NUMBER/comments" -F "body=@$RUNNER_TEMP/report.md" > /dev/null
+          fi
+
+      - name: Fail if the PR has problems
+        if: steps.check.outputs.status != '0'
+        run: |
+          echo "::error::The plugin check found problems. See the PR comment or the job summary."
+          exit 1
+
+  automerge:
+    name: auto-merge
+    needs: validate
+    if: >-
+      needs.validate.outputs.eligible == 'true' &&
+      vars.PLUGINS_AUTO_MERGE == 'true' &&
+      github.event.pull_request.draft == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Merge the pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          REPO: ${{ github.repository }}
+        # --match-head-commit refuses to merge if the author pushed again after
+        # this run started; that push triggers a new run of its own.
+        run: gh pr merge "$PR_NUMBER" --repo "$REPO" --merge --match-head-commit "$HEAD_SHA"
