@@ -1,0 +1,38 @@
+{
+	"name": "Events Calendar",
+	"version": "1.5",
+	"author_username": "arfa",
+	"release_date": "2026-10-15",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://kusalo.net/extras/eventCalendar.zip",
+	"demo_url": "",
+	"information_url": "",
+	"description": "A week-wide calendar.",
+	"features": {
+		"0": "Single, multi-day & recurring events.",
+		"1": "Choose background and text colour.",
+        "2": "Start and end dates.",
+		"3": "Edit and delete.",
+        "4": "Drag & Drop reordering.",
+        "5": "Page placement using shortcode."
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
