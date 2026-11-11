@@ -303,7 +303,7 @@ def check_field_name(scope: str, key: str, known: set[str], template: str, repor
     if key in known:
         return True
     lang = LANG_FIELD.match(key)
-    if lang:
+    if lang and lang.group(1) in known:
         code = lang.group(2)
         if code == "en":
             report.error(scope, f"{show(key)} is not a field: English goes in `{lang.group(1)}`.")
@@ -549,7 +549,8 @@ class Validator:
             strict = changed(key)
             lang = LANG_FIELD.match(key)
             base_kind = lang.group(1) if lang else key
-            if strict and not check_field_name(scope, key, ITEM_KNOWN_FIELDS, "templates/item.json", self.report):
+            added = key not in base_meta  # even when its value is null
+            if (strict or added) and not check_field_name(scope, key, ITEM_KNOWN_FIELDS, "templates/item.json", self.report):
                 continue
 
             if base_kind == "features":
@@ -713,7 +714,8 @@ class Validator:
 
         for key, value in data.items():
             strict = is_new or value != base_data.get(key)
-            if strict and not check_field_name(scope, key, AUTHOR_KNOWN_FIELDS, "templates/author.json", self.report):
+            if (strict or key not in base_data) and not check_field_name(
+                    scope, key, AUTHOR_KNOWN_FIELDS, "templates/author.json", self.report):
                 continue
             if not isinstance(value, str):
                 self.report.error(scope, f"`{key}` must be text.")

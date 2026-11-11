@@ -493,6 +493,13 @@ class FieldNameTests(RepoTestCase):
         report, _ = self.validate("bob")
         self.assertTrue(report.ok, report.errors)
 
+    def test_new_unknown_field_set_to_null_is_an_error(self):
+        self.assertIn("Did you mean `download_url`?", self.all_errors(self.errors_for({"downloadUrl": None})))
+
+    def test_translation_fields_are_not_allowed_in_author_files(self):
+        report = self.errors_for({"description_es": ""}, path="authors/alice.json", base=author())
+        self.assertIn("Unknown field `description_es`", self.all_errors(report))
+
     def test_misnamed_author_field(self):
         report = self.errors_for({"githubUrl": "https://github.com/alice"}, path="authors/alice.json", base=author())
         self.assertIn("Unknown field `githubUrl`", self.all_errors(report))
