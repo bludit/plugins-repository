@@ -416,17 +416,87 @@ class RenderTests(unittest.TestCase):
         report.error("items/x", "Fix.")
         self.assertNotIn("@", validate_pr.render(report, False, True, "x y\n## z"))
 
-    def test_maintainer_notes_are_listed_when_ready(self):
+    def test_valid_but_needs_review_is_not_ready_to_merge(self):
         report = validate_pr.Report()
         report.needs_review("Adds a new plugin `x`.")
-        md = validate_pr.render(report, False, True)
-        self.assertIn("**For the maintainer**", md)
-        self.assertIn("- Adds a new plugin `x`.", md)
+        self.assertEqual(report.verdict(True), "review")
+        md = validate_pr.render(report, False, True, "alice")
+        self.assertIn("## 👍 Listing OK, waiting for a maintainer review", md)
+        self.assertNotIn("Ready to merge", md)
+        self.assertIn("- [ ] Adds a new plugin `x`.", md)
+
+    def test_ready_only_when_nothing_needs_review(self):
+        report = validate_pr.Report()
+        report.owned.append("items/x")
+        self.assertEqual(report.verdict(True), "ready")
+        self.assertIn("## 👍 Ready to merge", validate_pr.render(report, True, True))
 
     def test_preview_cell_cannot_break_table(self):
         report = validate_pr.Report()
         report.previews["x"] = [("Name", validate_pr.show("a | b"))]
         self.assertIn("| Name | `a &#124; b` |", validate_pr.render(report, False, True))
+
+
+class FieldNameTests(RepoTestCase):
+    def errors_for(self, extra: dict, path="items/hello-world/metadata.json", base=None):
+        data = dict(base or item())
+        data.update(extra)
+        self.write_json(path, data)
+        report, _ = self.validate()
+        return report
+
+    def test_misnamed_fields_are_errors_with_a_suggestion(self):
+        cases = {
+            "Name": "`name`",
+            "downloadUrl": "`download_url`",
+            "download-url": "`download_url`",
+            "descripton": "`description`",
+            "information_link": None,
+            "description_sp": "`description_es`",
+            "descriptionDE": "`description_de`",
+            "features_ger": "`features_de`",
+            "author": None,
+        }
+        for key, guess in cases.items():
+            with self.subTest(key=key):
+                report = self.errors_for({key: "x"})
+                errors = self.all_errors(report)
+                self.assertTrue("Unknown field" in errors or "not a language code" in errors, errors)
+                if guess:
+                    self.assertIn(f"Did you mean {guess}?", errors)
+
+    def test_description_en_is_an_error(self):
+        self.assertIn("English goes in `description`", self.all_errors(self.errors_for({"description_en": "x"})))
+
+    def test_unknown_language_code_is_an_error(self):
+        self.assertIn("not a language code", self.all_errors(self.errors_for({"description_xq": "x"})))
+
+    def test_language_not_shown_on_site_is_a_warning(self):
+        report = self.errors_for({"description_pt": "Olá."})
+        self.assertTrue(report.ok, report.errors)
+        self.assertIn("only shows", self.all_warnings(report))
+
+    def test_site_languages_are_fine(self):
+        report = self.errors_for({"description_es": "Hola.", "features_ru": {"0": "Привет."}})
+        self.assertEqual(self.all_errors(report), "")
+        self.assertEqual(self.all_warnings(report), "")
+
+    def test_unchanged_legacy_unknown_field_is_ignored(self):
+        self.write_json("items/legacyPlugin/metadata.json", item(author_username="bob", demo_url="http://example.com",
+                                                                 homepage="https://x.example.com"))
+        self.commit("legacy field")
+        self.git("checkout", "-q", "master")
+        self.git("merge", "-q", "--ff-only", "pr")
+        self.git("checkout", "-q", "pr")
+        self.write_json("items/legacyPlugin/metadata.json", item(author_username="bob", demo_url="http://example.com",
+                                                                 homepage="https://x.example.com", version="1.1"))
+        report, _ = self.validate("bob")
+        self.assertTrue(report.ok, report.errors)
+
+    def test_misnamed_author_field(self):
+        report = self.errors_for({"githubUrl": "https://github.com/alice"}, path="authors/alice.json", base=author())
+        self.assertIn("Unknown field `githubUrl`", self.all_errors(report))
+        self.assertIn("Did you mean `github`?", self.all_errors(report))
 
 
 class UrlTests(RepoTestCase):
@@ -488,7 +558,7 @@ class LinkCheckTests(RepoTestCase):
         url = "https://github.com/alice/hello-world/releases/download/v2/x.zip"
         report, _ = self.run_links({url: (404, "Not Found")}, download_url=url)
         self.assertIn("broken link", self.all_errors(report))
-        self.assertFalse(report.ready(True))
+        self.assertEqual(report.verdict(True), "changes")
 
     def test_missing_domain_on_information_url_is_an_error(self):
         url = "https://gone.example.com/"

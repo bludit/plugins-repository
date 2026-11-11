@@ -1,6 +1,8 @@
 # Checks every pull request against the plugin rules and gives a verdict:
-#   👍 ready to merge  -> label `ready-to-merge`, green check
-#   👎 not ready       -> label `needs-changes`, red check, comment lists what to fix
+#   👍 ready to merge          -> label `ready-to-merge`, green check
+#   👍 listing OK, needs review -> label `needs-review`, green check; a maintainer
+#                                 must check something first (e.g. a new plugin's code)
+#   👎 not ready               -> label `needs-changes`, red check, comment lists what to fix
 # The bot comment also previews each plugin as plugins.bludit.com will show it,
 # confirms new links open, and lists what a maintainer should look at.
 # Nothing is merged automatically; a maintainer always merges.
@@ -121,13 +123,22 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           PR_NUMBER: ${{ steps.pr.outputs.number }}
-          READY: ${{ steps.check.outputs.ready }}
+          VERDICT: ${{ steps.check.outputs.verdict }}
         run: |
-          gh label create ready-to-merge --repo "$REPO" --color 0e8a16 --description "👍 Plugin check passed" --force > /dev/null
+          gh label create ready-to-merge --repo "$REPO" --color 0e8a16 --description "👍 Plugin check passed, nothing to review" --force > /dev/null
+          gh label create needs-review --repo "$REPO" --color fbca04 --description "👍 Listing OK, a maintainer must review it" --force > /dev/null
           gh label create needs-changes --repo "$REPO" --color d93f0b --description "👎 Plugin check found problems" --force > /dev/null
-          if [ "$READY" = "true" ]; then add=ready-to-merge drop=needs-changes; else add=needs-changes drop=ready-to-merge; fi
+          case "$VERDICT" in
+            ready) add=ready-to-merge ;;
+            review) add=needs-review ;;
+            *) add=needs-changes ;;
+          esac
           gh api --method POST "repos/$REPO/issues/$PR_NUMBER/labels" -f "labels[]=$add" > /dev/null
-          gh api --method DELETE "repos/$REPO/issues/$PR_NUMBER/labels/$drop" > /dev/null 2>&1 || true
+          for drop in ready-to-merge needs-review needs-changes; do
+            if [ "$drop" != "$add" ]; then
+              gh api --method DELETE "repos/$REPO/issues/$PR_NUMBER/labels/$drop" > /dev/null 2>&1 || true
+            fi
+          done
 
       - name: Fail if the PR is not ready
         if: steps.check.outputs.status != '0'
