@@ -41,13 +41,15 @@ A bot checks every pull request and comments with anything that needs fixing. Pu
 - Links (`download_url`, `demo_url`, `information_url`, …) are full URLs starting with `https://`.
 - No template placeholders left, such as `_DESCRIPTION_`.
 - Text may only use the tags `<code>`, `<b>`, `<i>`, `<strong>` and `<em>`, without attributes. To show a tag as text, write `&lt;title&gt;`.
-- Translations go in `description_de`, `features_de`, `description_es`, `description_ru` and so on. Don't add a second `description`.
+- Field names are exactly the ones in `templates/item.json`, in lowercase with underscores (`download_url`, not `downloadUrl` or `Download-URL`). Unknown fields are rejected, and the bot suggests the right name.
+- Translations go in `description_de`, `features_de`, `description_es`, `description_ru` (the languages plugins.bludit.com shows). Use two-letter language codes; English goes in `description` and `features`.
 
 **`screenshot.png`**
 - A real PNG image (not a renamed JPEG), at most 1 MB, between 300x150 and 2400x2400 px. 800x600 px is recommended.
 
 **Author file**
 - `name` is required, `github` is required for new authors, and every link starts with `https://`.
+- Field names are exactly the ones in `templates/author.json`.
 
 Older plugins that don't follow every rule still work. The check only flags values that a pull request adds or changes.
 
@@ -59,7 +61,8 @@ python3 .github/scripts/validate_pr.py --base origin/master --head HEAD --author
 
 ## Review and merge
 The bot's comment gives every pull request a verdict:
-- 👍 **Ready to merge** (label `ready-to-merge`): every rule above passes, the new links open, and the plugin will show correctly on plugins.bludit.com. The comment includes a preview of what the site will show.
+- 👍 **Ready to merge** (label `ready-to-merge`): every rule above passes, the new links open, the plugin will show correctly on plugins.bludit.com, and nothing needs a closer look. The comment includes a preview of what the site will show.
+- 👍 **Listing OK, waiting for a maintainer review** (label `needs-review`): the files are correct, but a maintainer must check something first. That happens for a new plugin (the bot never reads plugin code, so a maintainer reviews it), a new author, a change to someone else's plugin (translations are very welcome!), a deletion, or a download link moved to a different site. You don't need to do anything unless the maintainer asks.
 - 👎 **Not ready to merge** (label `needs-changes`): the comment lists what to fix. Push a fix and the verdict updates.
 
-A maintainer always does the merge. The comment also tells them what to look at first, for example a new plugin, a new author, a change to someone else's plugin (translations are very welcome!), a deletion, or a download link moved to a different site.
+A maintainer always does the merge.

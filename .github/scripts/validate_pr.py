@@ -6,15 +6,18 @@ checks every plugin and author touched by the PR. It reads the PR's files with
 git plumbing (`git ls-tree`, `git cat-file`) and never checks them out, so a
 PR cannot plant symlinks or code that this script would follow or run.
 
-It gives a verdict for the maintainer:
+It gives one of three verdicts:
 
-* 👍 Ready to merge: every rule passes, so plugins.bludit.com can show the
-  change. With --check-links it also confirms the new links open.
+* 👍 Ready to merge: every rule passes (file and field names, values, links
+  with --check-links), so plugins.bludit.com can show the change, and nothing
+  needs a closer look.
+* 👍 Listing OK, waiting for a maintainer review: the files are correct, but a
+  maintainer must check something first, for example a new plugin's code,
+  which this script never reads.
 * 👎 Not ready to merge: the comment lists what the contributor must fix.
 
-It also lists what a maintainer should look at before merging (new plugins,
-changes to someone else's plugin, ...) and previews each plugin as the site
-will show it. Nothing is merged automatically.
+It also previews each plugin as the site will show it. Nothing is merged
+automatically.
 
 Usage (locally, from the repository root):
 
@@ -28,6 +31,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import difflib
 import html
 import http.client
 import ipaddress
@@ -76,6 +80,16 @@ ITEM_KNOWN_FIELDS = {
     "download_url_v4", "demo_url", "information_url", "credits", "credits_url",
 }
 LANG_FIELD = re.compile(r"^(description|features)_([a-z]{2})$")
+# ISO 639-1 codes. Translations in languages the site doesn't show yet are kept.
+ISO_LANGS = set("""
+aa ab ae af ak am an ar as av ay az ba be bg bh bi bm bn bo br bs ca ce ch co cr cs cu cv cy da de dv dz ee
+el en eo es et eu fa ff fi fj fo fr fy ga gd gl gn gu gv ha he hi ho hr ht hu hy hz ia id ie ig ii ik io is
+it iu ja jv ka kg ki kj kk kl km kn ko kr ks ku kv kw ky la lb lg li ln lo lt lu lv mg mh mi mk ml mn mr ms
+mt my na nb nd ne ng nl nn no nr nv ny oc oj om or os pa pi pl ps pt qu rm rn ro ru rw sa sc sd se sg si sk
+sl sm sn so sq sr ss st su sv sw ta te tg th ti tk tl tn to tr ts tt tw ty ug uk ur uz ve vi vo wa wo xh yi
+yo za zh zu""".split())
+# Common wrong codes for the site's languages.
+LANG_ALIASES = {"sp": "es", "esp": "es", "spa": "es", "ge": "de", "ger": "de", "deu": "de", "rus": "ru", "eng": "en"}
 # Fields that are links and may change the download target.
 DOWNLOAD_FIELDS = ("download_url", "download_url_v2", "download_url_v4")
 # Links shown as buttons on the site. A dead one blocks the merge, except the demo.
@@ -206,8 +220,12 @@ class Report:
         """Low risk: the PR author owns everything it changes and nothing needs a closer look."""
         return self.ok and has_changes and not self.manual and bool(self.owned)
 
-    def ready(self, has_changes: bool) -> bool:
-        return self.ok and has_changes
+    def verdict(self, has_changes: bool) -> str:
+        """`changes`: the author must fix something. `review`: the listing is valid but a maintainer
+        must look at something first (for example a new plugin's code). `ready`: nothing left to do."""
+        if not self.ok or not has_changes:
+            return "changes"
+        return "review" if self.manual else "ready"
 
 
 def show(value: object, limit: int = 60) -> str:
@@ -278,6 +296,42 @@ def check_text(scope: str, key: str, value: str, strict: bool, report: Report) -
                "Only `<code>`, `<b>`, `<i>`, `<strong>` and `<em>` without attributes are allowed. "
                "To show a tag as text, write `&lt;` and `&gt;`, for example `&lt;title&gt;`.")
         (report.error if strict else report.warn)(scope, msg)
+
+
+def check_field_name(scope: str, key: str, known: set[str], template: str, report: Report) -> bool:
+    """Error for a field name the website doesn't read, with the likely intended name. True when known."""
+    if key in known:
+        return True
+    lang = LANG_FIELD.match(key)
+    if lang and lang.group(1) in known:
+        code = lang.group(2)
+        if code == "en":
+            report.error(scope, f"{show(key)} is not a field: English goes in `{lang.group(1)}`.")
+            return False
+        if code in ISO_LANGS:
+            if code not in SITE_LANGS:
+                report.warn(scope, f"{show(key)} is kept, but plugins.bludit.com only shows "
+                                   + ", ".join(f"`{lang.group(1)}_{c}`" for c in SITE_LANGS) + " for now.")
+            return True
+        hint = (f" Did you mean `{lang.group(1)}_{LANG_ALIASES[code]}`?" if code in LANG_ALIASES
+                else " Use a two-letter ISO 639-1 code, for example `description_es`, `description_de` or `description_ru`.")
+        report.error(scope, f"{show(key)}: `{code}` is not a language code.{hint}")
+        return False
+    normalized = re.sub(r"[\s.-]+", "_", re.sub(r"(?<=[a-z0-9])(?=[A-Z])", "_", key.strip())).lower()
+    candidates = sorted(known)
+    guess = normalized if normalized in known else None
+    if guess is None:
+        m = re.match(r"^(description|features)_?([a-z]{2,3})$", normalized)
+        if m and m.group(2) in LANG_ALIASES:
+            code = LANG_ALIASES[m.group(2)]
+            guess = m.group(1) if code == "en" else f"{m.group(1)}_{code}"
+    if guess is None:
+        close = difflib.get_close_matches(normalized, candidates + [f"{k}_{c}" for k in ("description", "features")
+                                                                    for c in SITE_LANGS], n=1, cutoff=0.75)
+        guess = close[0] if close else None
+    hint = f" Did you mean `{guess}`?" if guess else f" See `{template}` for the field names."
+    report.error(scope, f"Unknown field {show(key)}; the website ignores it.{hint}")
+    return False
 
 
 def check_url(scope: str, key: str, value: object, strict: bool, report: Report) -> str | None:
@@ -445,7 +499,8 @@ class Validator:
 
         # Ownership and auto-merge
         if is_new:
-            self.report.needs_review(f"Adds a new plugin {show(slug)}. New plugins are reviewed by a maintainer the first time.")
+            self.report.needs_review(f"Adds a new plugin {show(slug)}. The bot does not read plugin code: "
+                                     "download it and review the code before merging.")
             return
         owner = base_meta.get("author_username") if isinstance(base_meta, dict) else None
         owner_gh = self.owner_login(owner) if isinstance(owner, str) else None
@@ -473,7 +528,8 @@ class Validator:
                 old_origin = download_origin(base_meta.get(key, ""))
                 new_origin = download_origin(meta.get(key, ""))
                 if new_origin and new_origin != old_origin:
-                    self.report.needs_review(f"Changes `{key}` of {show(slug)} to a different site ({show(new_origin)}).")
+                    self.report.needs_review(f"Changes `{key}` of {show(slug)} to a different site ({show(new_origin)}). "
+                                             "Check that the new download is the same plugin.")
 
     def check_metadata(self, scope: str, meta: dict, base_meta: dict | None, is_new: bool) -> None:
         base_meta = base_meta or {}
@@ -493,8 +549,9 @@ class Validator:
             strict = changed(key)
             lang = LANG_FIELD.match(key)
             base_kind = lang.group(1) if lang else key
-            if key not in ITEM_KNOWN_FIELDS and not lang and strict:
-                self.report.warn(scope, f"Unknown field {show(key)}; the website ignores it.")
+            added = key not in base_meta  # even when its value is null
+            if (strict or added) and not check_field_name(scope, key, ITEM_KNOWN_FIELDS, "templates/item.json", self.report):
+                continue
 
             if base_kind == "features":
                 items = value.values() if isinstance(value, dict) else value if isinstance(value, list) else None
@@ -657,8 +714,9 @@ class Validator:
 
         for key, value in data.items():
             strict = is_new or value != base_data.get(key)
-            if key not in AUTHOR_KNOWN_FIELDS and strict:
-                self.report.warn(scope, f"Unknown field {show(key)}; the website ignores it.")
+            if (strict or key not in base_data) and not check_field_name(
+                    scope, key, AUTHOR_KNOWN_FIELDS, "templates/author.json", self.report):
+                continue
             if not isinstance(value, str):
                 self.report.error(scope, f"`{key}` must be text.")
                 continue
@@ -830,6 +888,7 @@ def render(report: Report, eligible: bool, has_changes: bool, author: str | None
     who = f"@{author}" if author and GITHUB_LOGIN.match(author) else "Thanks"
     errors = [(scope, msg) for scope in sorted(report.errors) for msg in report.errors[scope]]
 
+    verdict = report.verdict(has_changes)
     if not has_changes:
         lines += ["## 👎 Not ready to merge", "", "This PR has no changes compared to `master`."]
     elif errors:
@@ -838,10 +897,19 @@ def render(report: Report, eligible: bool, has_changes: bool, author: str | None
                   f"{who}, thanks for the PR! Please fix {'this' if n == 1 else 'these'} and push again "
                   "to the same branch; this comment updates automatically.", ""]
         lines.extend(f"{i}. **{show(scope, 120)}**: {msg}" for i, (scope, msg) in enumerate(errors, 1))
+    elif verdict == "review":
+        lines += ["## 👍 Listing OK, waiting for a maintainer review", "",
+                  f"{who}, thanks for the PR! The files are correct and plugins.bludit.com can show this change "
+                  "(see the preview below). A maintainer still needs to check the points below before merging; "
+                  "you don't need to do anything unless they ask.", "",
+                  "**For the maintainer**"]
+        lines.extend(f"- [ ] {reason}" for reason in report.manual)
     else:
         lines += ["## 👍 Ready to merge", "",
                   "All checks passed, and plugins.bludit.com can show this change (see the preview below). "
-                  "A maintainer will merge it."]
+                  "Nothing needs a closer look."]
+        if eligible:
+            lines.append("Low risk: the PR author owns every plugin and author file it changes.")
     lines.append("")
 
     if report.warnings:
@@ -850,10 +918,8 @@ def render(report: Report, eligible: bool, has_changes: bool, author: str | None
                      for scope in sorted(report.warnings) for msg in report.warnings[scope])
         lines.append("")
 
-    if has_changes and (report.manual or eligible):
-        lines.append("**For the maintainer**")
-        if eligible:
-            lines.append("- Low risk: the PR author owns every plugin and author file it changes.")
+    if errors and report.manual:
+        lines.append("**For the maintainer**, once the problems above are fixed")
         lines.extend(f"- {reason}" for reason in report.manual)
         lines.append("")
 
@@ -876,7 +942,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--head", required=True, help="PR head revision")
     parser.add_argument("--author", help="GitHub login of the PR author (enables the ownership check)")
     parser.add_argument("--report-md", help="write the Markdown report to this file")
-    parser.add_argument("--github-output", help="append ok=/ready=/eligible= to this file (GitHub Actions $GITHUB_OUTPUT)")
+    parser.add_argument("--github-output", help="append ok=/verdict=/eligible= to this file (GitHub Actions $GITHUB_OUTPUT)")
     parser.add_argument("--check-links", action="store_true", help="open new and changed links (needs network)")
     parser.add_argument("--today", help=argparse.SUPPRESS)
     args = parser.parse_args(argv)
@@ -892,7 +958,7 @@ def main(argv: list[str] | None = None) -> int:
         check_links(report)
     has_changes = bool(changes)
     eligible = report.eligible(has_changes)
-    ready = report.ready(has_changes)
+    verdict = report.verdict(has_changes)
     markdown = render(report, eligible, has_changes, args.author)
 
     if args.report_md:
@@ -901,10 +967,10 @@ def main(argv: list[str] | None = None) -> int:
     if args.github_output:
         with open(args.github_output, "a", encoding="utf-8") as fh:
             fh.write(f"ok={'true' if report.ok else 'false'}\n")
-            fh.write(f"ready={'true' if ready else 'false'}\n")
+            fh.write(f"verdict={verdict}\n")
             fh.write(f"eligible={'true' if eligible else 'false'}\n")
     sys.stdout.write(markdown)
-    return 0 if ready else 1
+    return 1 if verdict == "changes" else 0
 
 
 if __name__ == "__main__":
