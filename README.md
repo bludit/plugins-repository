@@ -57,11 +57,9 @@ You can run the same check before opening the pull request:
 python3 .github/scripts/validate_pr.py --base origin/master --head HEAD --author <your-github-login>
 ```
 
-## Automatic merge
-A pull request is merged automatically, with no wait for a maintainer, when all of these are true:
-- The checks above pass.
-- You opened it from the GitHub account listed in the `github` field of the author file that owns every plugin you changed.
-- It only changes existing plugins and your own author file.
-- It doesn't change `author_username`, your `github` profile, or move a download link to a different domain.
+## Review and merge
+The bot's comment gives every pull request a verdict:
+- 👍 **Ready to merge** (label `ready-to-merge`): every rule above passes, the new links open, and the plugin will show correctly on plugins.bludit.com. The comment includes a preview of what the site will show.
+- 👎 **Not ready to merge** (label `needs-changes`): the comment lists what to fix. Push a fix and the verdict updates.
 
-Everything else is reviewed by a maintainer: new plugins, new authors, changes to someone else's plugin (translations are very welcome!), deletions and changes to repository files.
+A maintainer always does the merge. The comment also tells them what to look at first, for example a new plugin, a new author, a change to someone else's plugin (translations are very welcome!), a deletion, or a download link moved to a different site.
