@@ -7,7 +7,8 @@
 # confirms new links open, and lists what a maintainer should look at.
 # Nothing is merged automatically; a maintainer always merges.
 #
-# To check a PR that was opened before this workflow existed, run it by hand:
+# When this file or the validator changes on master, plugin-pr-recheck.yml runs
+# it again on every open PR. To check one PR by hand:
 # Actions > Plugin PR check > Run workflow, and enter the PR number.
 #
 # SECURITY
