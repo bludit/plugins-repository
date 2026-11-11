@@ -1,0 +1,40 @@
+{
+	"name": "Bludit Wizard",
+	"version": "1.1.0",
+	"author_username": "gitdamnit",
+	"release_date": "2026-10-18",
+	"license": "GPL-3.0-only",
+	"price_usd": "0",
+	"download_url": "https://github.com/gitdamnit/bludit-wizard/releases/download/v1.1.0/bludit-wizard-1.1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/gitdamnit/bludit-wizard",
+	"description": "AI-assisted writing, editing, SEO analysis, and content management for Bludit CMS, featuring twelve guided tasks and human-reviewed changes.",
+	"features": {
+		"0": "Twelve guided tasks for writing, editing, proofreading, SEO analysis, metadata, internal links, content freshness and contextual questions.",
+		"1": "Human review before changes: generated content is editable and is saved only when Apply this change is pressed.",
+		"2": "Read-only audits for SEO and clarity, internal links and content freshness never modify pages.",
+		"3": "Existing-page selection with task-specific instructions and contextual primary action labels.",
+		"4": "Original and proposed content shown side by side, with stale-edit protection.",
+		"5": "Configurable OpenAI-compatible providers, searchable model discovery, optional free-model and tool filters, and model testing.",
+		"6": "Model discovery and testing verified with OpenRouter and LLM Gateway; other compatible providers may work.",
+		"7": "No page deletion, CSRF/authorization checks, protected API keys and SSRF-aware provider requests."
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
