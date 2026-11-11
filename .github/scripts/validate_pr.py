@@ -6,12 +6,15 @@ checks every plugin and author touched by the PR. It reads the PR's files with
 git plumbing (`git ls-tree`, `git cat-file`) and never checks them out, so a
 PR cannot plant symlinks or code that this script would follow or run.
 
-It answers two questions:
+It gives a verdict for the maintainer:
 
-1. Is the PR valid? Errors make the check fail.
-2. Can it be merged automatically? Only when the PR author owns every plugin
-   and author file it touches, according to the base branch, and the change is
-   low risk. Anything else is left to a maintainer.
+* 👍 Ready to merge: every rule passes, so plugins.bludit.com can show the
+  change. With --check-links it also confirms the new links open.
+* 👎 Not ready to merge: the comment lists what the contributor must fix.
+
+It also lists what a maintainer should look at before merging (new plugins,
+changes to someone else's plugin, ...) and previews each plugin as the site
+will show it. Nothing is merged automatically.
 
 Usage (locally, from the repository root):
 
@@ -25,12 +28,18 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import html
+import http.client
+import ipaddress
 import json
 import re
+import socket
 import struct
 import subprocess
 import sys
+import urllib.error
 import urllib.parse
+import urllib.request
 from dataclasses import dataclass, field
 
 # --------------------------------------------------------------------------
@@ -69,6 +78,11 @@ ITEM_KNOWN_FIELDS = {
 LANG_FIELD = re.compile(r"^(description|features)_([a-z]{2})$")
 # Fields that are links and may change the download target.
 DOWNLOAD_FIELDS = ("download_url", "download_url_v2", "download_url_v4")
+# Links shown as buttons on the site. A dead one blocks the merge, except the demo.
+LINK_FIELDS = DOWNLOAD_FIELDS + ("information_url", "demo_url")
+BLOCKING_LINK_FIELDS = DOWNLOAD_FIELDS + ("information_url",)
+# Languages of plugins.bludit.com besides English.
+SITE_LANGS = ("es", "de", "ru")
 
 AUTHOR_KNOWN_FIELDS = {
     "name", "email", "website", "twitter", "facebook", "github", "gitlab",
@@ -87,6 +101,7 @@ VERSION = re.compile(r"^v?\d+(?:\.\d+){0,3}(?:[-+][0-9A-Za-z.-]+)?$")
 PRICE = re.compile(r"^(?:-1|0|[1-9]\d{0,3}(?:\.\d{1,2})?|0\.\d{1,2})$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 GITHUB_PROFILE = re.compile(r"^https://github\.com/([A-Za-z0-9](?:[A-Za-z0-9-]{0,38}))/?$")
+HOSTNAME = re.compile(r"^(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+(?:[a-z]{2,63}|xn--[a-z0-9-]{1,59})$")
 EMAIL = re.compile(r"^[^@\s\"'<>]+@[^@\s\"'<>]+\.[^@\s\"'<>]+$")
 
 MAX_JSON_BYTES = 64 * 1024
@@ -97,6 +112,10 @@ PNG_SIGNATURE = b"\x89PNG\r\n\x1a\n"
 REGULAR_FILE_MODES = {"100644", "100755"}
 
 MARKER = "<!-- plugin-validator -->"
+
+USER_AGENT = "bludit-plugins-check (+https://github.com/bludit/plugins-repository)"
+LINK_TIMEOUT = 10.0
+MAX_LINKS = 20
 
 
 # --------------------------------------------------------------------------
@@ -164,6 +183,10 @@ class Report:
     warnings: dict[str, list[str]] = field(default_factory=dict)
     manual: list[str] = field(default_factory=list)
     owned: list[str] = field(default_factory=list)
+    # (scope, field, url) of new or changed links, for check_links().
+    links: list[tuple[str, str, str]] = field(default_factory=list)
+    # slug -> rows of (label, Markdown value) showing what the site will display.
+    previews: dict[str, list[tuple[str, str]]] = field(default_factory=dict)
 
     def error(self, scope: str, msg: str) -> None:
         self.errors.setdefault(scope, []).append(msg)
@@ -180,7 +203,11 @@ class Report:
         return not self.errors
 
     def eligible(self, has_changes: bool) -> bool:
+        """Low risk: the PR author owns everything it changes and nothing needs a closer look."""
         return self.ok and has_changes and not self.manual and bool(self.owned)
+
+    def ready(self, has_changes: bool) -> bool:
+        return self.ok and has_changes
 
 
 def show(value: object, limit: int = 60) -> str:
@@ -202,7 +229,7 @@ def parse_json(raw: bytes, scope: str, report: Report) -> dict | None:
     try:
         text = raw.decode("utf-8")
     except UnicodeDecodeError as exc:
-        report.error(scope, f"File is not valid UTF-8 ({exc.reason} at byte {exc.start}).")
+        report.error(scope, f"File is not valid UTF-8 ({exc.reason} at byte {exc.start}). Save it with UTF-8 encoding.")
         return None
 
     def no_duplicates(pairs):
@@ -241,7 +268,8 @@ def parse_json(raw: bytes, scope: str, report: Report) -> dict | None:
 
 def check_text(scope: str, key: str, value: str, strict: bool, report: Report) -> None:
     if PLACEHOLDER.search(value):
-        report.error(scope, f"`{key}` still contains a template placeholder: {show(value)}.")
+        report.error(scope, f"`{key}` still contains a template placeholder: {show(value)}. "
+                            "Replace it with real text, or leave the field empty (`\"\"`) if it does not apply.")
     stripped = ALLOWED_TAGS.sub("", value)
     if MARKUP.search(stripped):
         bad = MARKUP.search(stripped)
@@ -267,8 +295,12 @@ def check_url(scope: str, key: str, value: object, strict: bool, report: Report)
         problem = "must be a full URL starting with `https://`"
     elif parsed.scheme != "https":
         problem = "must use `https://`"
+    elif not HOSTNAME.match((parsed.hostname or "").rstrip(".")):
+        problem = "has no valid domain name"
     if problem:
-        (report.error if strict else report.warn)(scope, f"`{key}` {problem}: {show(value)}.")
+        (report.error if strict else report.warn)(
+            scope, f"`{key}` {problem}: {show(value)}. Write the full address, for example "
+                   "`https://github.com/<user>/<repo>`, or leave it empty (`\"\"`).")
         return None
     return (parsed.hostname or "").lower()
 
@@ -366,7 +398,8 @@ class Validator:
                 self.report.error(scope, f"Folder name {show(slug)} must be lowercase letters, numbers and dashes, "
                                          f"for example {show(report_slug)}.")
             elif slug.lower() in self.existing_slugs():
-                self.report.error(scope, f"A plugin named {show(slug)} already exists (names are case-insensitive).")
+                self.report.error(scope, f"A plugin named {show(slug)} already exists (names are case-insensitive). "
+                                         "Choose another folder name, or update the existing plugin if it is yours.")
         elif not SLUG_LEGACY.match(slug):
             self.report.error(scope, f"Folder name {show(slug)} contains characters the website cannot route.")
 
@@ -403,8 +436,12 @@ class Validator:
         elif shot_status == "D":
             self.report.needs_review(f"Deletes the screenshot of {show(slug)}.")
         has_shot = self.git.entry(self.head, shot_path) is not None
-        if not has_shot and is_new:
+        misnamed_shot = any(n.lower().startswith("screenshot") and n not in ITEM_FILES and st != "D"
+                            for n, st in changes.items())
+        if not has_shot and is_new and not misnamed_shot:
             self.report.error(scope, "`screenshot.png` is missing. Add a PNG screenshot, 800x600 px recommended.")
+        if meta is not None:
+            self.report.previews[slug] = self.preview(meta, has_shot)
 
         # Ownership and auto-merge
         if is_new:
@@ -424,6 +461,12 @@ class Validator:
         else:
             self.report.needs_review(f"Changes {show(slug)}, which belongs to author {show(owner)} (GitHub {show(owner_gh)}).")
         if meta is not None and base_meta is not None:
+            removed = sorted(k for k, v in base_meta.items()
+                             if LANG_FIELD.match(k) and v and not meta.get(k))
+            if removed:
+                listed = ", ".join(f"`{k}`" for k in removed)
+                self.report.warn(scope, f"Removes the translation {listed}. If that was not on purpose, put it back.")
+                self.report.needs_review(f"Removes translations from {show(slug)}: {listed}.")
             if meta.get("author_username") != base_meta.get("author_username"):
                 self.report.needs_review(f"Changes the `author_username` of {show(slug)}.")
             for key in DOWNLOAD_FIELDS:
@@ -442,7 +485,7 @@ class Validator:
         for key in required:
             value = meta.get(key)
             if value is None or (isinstance(value, str) and not value.strip()):
-                self.report.error(scope, f"Required field `{key}` is missing or empty.")
+                self.report.error(scope, f"Required field `{key}` is missing or empty. See `templates/item.json` for an example.")
         if not is_new and not meta.get("download_url"):
             self.report.warn(scope, "`download_url` is empty.")
 
@@ -464,7 +507,8 @@ class Validator:
                     else:
                         check_text(scope, key, feature, strict, self.report)
             elif key.endswith("url"):
-                check_url(scope, key, value, strict, self.report)
+                if check_url(scope, key, value, strict, self.report) and strict and key in LINK_FIELDS:
+                    self.report.links.append((scope, key, value))
             elif key == "price_usd":
                 if isinstance(value, bool) or not isinstance(value, (str, int, float)) or not PRICE.match(str(value)):
                     self.report.error(scope, f"`price_usd` must be `0` (free), `-1` (variable/external price) "
@@ -473,7 +517,8 @@ class Validator:
                 if base_kind in ITEM_TEXT_FIELDS or base_kind == "description":
                     check_text(scope, key, value, strict, self.report)
                 elif PLACEHOLDER.search(value):
-                    self.report.error(scope, f"`{key}` still contains a template placeholder: {show(value)}.")
+                    self.report.error(scope, f"`{key}` still contains a template placeholder: {show(value)}. "
+                                             "Replace it with the real value, or leave it empty (`\"\"`) if it does not apply.")
             elif key in ITEM_KNOWN_FIELDS or lang:
                 self.report.error(scope, f"`{key}` must be text, got {show(type(value).__name__)}.")
 
@@ -492,14 +537,15 @@ class Validator:
             if parsed is None:
                 self.report.error(scope, f"`release_date` must be a real date in `YYYY-MM-DD` format, got {show(date)}.")
             elif parsed > self.today + dt.timedelta(days=2):
-                self.report.error(scope, f"`release_date` {show(date)} is in the future.")
+                self.report.error(scope, f"`release_date` {show(date)} is in the future. Use the date of the release, today at the latest.")
             elif not is_new and changed("version") and not changed("release_date"):
                 self.report.warn(scope, "`version` changed but `release_date` did not. The site sorts plugins by release date.")
 
         username = meta.get("author_username")
         if isinstance(username, str) and username:
             if not SLUG_LEGACY.match(username):
-                self.report.error(scope, f"`author_username` {show(username)} is not a valid username.")
+                self.report.error(scope, f"`author_username` {show(username)} is not a valid username. "
+                                         "It must be the name of your file in `authors/`, without `.json`.")
             elif self.git.entry(self.head, f"authors/{username}.json") is None:
                 self.report.error(scope, f"`author_username` is {show(username)} but `authors/{username}.json` does not exist. "
                                          "Add it in this PR (copy `templates/author.json`).")
@@ -508,6 +554,57 @@ class Validator:
             value = meta.get(key)
             if isinstance(value, str) and len(value) > {"name": 80, "description": 600}[key] and changed(key):
                 self.report.warn(scope, f"`{key}` is long ({len(value)} characters); keep it short for the plugin list.")
+
+    def preview(self, meta: dict, has_shot: bool) -> list[tuple[str, str]]:
+        """What plugins.bludit.com will show for this plugin, as the site's PHP reads it."""
+        def text(key: str, limit: int = 60) -> str:
+            value = meta.get(key)
+            return show(value, limit) if isinstance(value, str) and value.strip() else "—"
+
+        author_name = None
+        username = meta.get("author_username")
+        if isinstance(username, str) and SLUG_LEGACY.match(username):
+            data = self.read_json(self.head, f"authors/{username}.json", "preview", Report())
+            if data and isinstance(data.get("name"), str) and data["name"].strip():
+                author_name = data["name"]
+
+        price = meta.get("price_usd")
+        price = "" if isinstance(price, bool) else str(price)
+        if price == "-1":
+            paid, price_label = True, "Paid: *Buy from $1* button"
+        elif PRICE.match(price) and float(price) > 0:
+            paid, price_label = True, f"Paid: *Buy ${price}* button"
+        else:
+            paid, price_label = False, "Free: *Download* button"
+
+        features = meta.get("features")
+        features = features.values() if isinstance(features, dict) else features if isinstance(features, list) else []
+        langs = ["en"] + [lang for lang in SITE_LANGS
+                          if isinstance(meta.get(f"description_{lang}"), str) and meta[f"description_{lang}"].strip()]
+
+        rows = [
+            ("Name", text("name")),
+            ("Made by", show(author_name) if author_name else "❌ author not found"),
+            ("Version", text("version", 20)),
+            ("Last update", text("release_date", 20)),
+            ("Price", price_label),
+            ("Description", text("description", 120)),
+            ("Features", str(sum(1 for f in features if isinstance(f, str) and f.strip()))),
+        ]
+        labels = {"download_url": "Buy link" if paid else "Download (Bludit v3)",
+                  "download_url_v2": "Download (Bludit v2)", "download_url_v4": "Download (Bludit v4)"}
+        for key in DOWNLOAD_FIELDS:
+            if isinstance(meta.get(key), str) and meta[key].strip():
+                rows.append((labels[key], text(key, 100)))
+        if not any(isinstance(meta.get(k), str) and meta[k].strip() for k in DOWNLOAD_FIELDS):
+            rows.append(("Download", "❌ no download button"))
+        rows += [
+            ("More information", text("information_url", 100)),
+            ("Live demo", text("demo_url", 100)),
+            ("Languages", ", ".join(langs) + ("" if len(langs) > len(SITE_LANGS) else " (other languages show a *not translated yet* notice)")),
+            ("Screenshot", "yes" if has_shot else "none, the site shows the plugin name instead"),
+        ]
+        return rows
 
     def check_png(self, scope: str, path: str) -> None:
         mode, otype, size = self.git.entry(self.head, path)
@@ -636,39 +733,135 @@ class Validator:
 
 
 # --------------------------------------------------------------------------
+# Link check (optional, needs network)
+# --------------------------------------------------------------------------
+
+NO_SUCH_HOST = "the domain does not exist"
+
+
+class LinkError(Exception):
+    pass
+
+
+def require_public_host(url: str) -> None:
+    """Refuse links that resolve to private addresses, so the check cannot probe the runner's network."""
+    host = urllib.parse.urlsplit(url).hostname
+    if not host:
+        raise LinkError("no host")
+    try:
+        infos = socket.getaddrinfo(host, 443, proto=socket.IPPROTO_TCP)
+    except socket.gaierror:
+        raise LinkError(NO_SUCH_HOST) from None
+    for info in infos:
+        if not ipaddress.ip_address(info[4][0].split("%")[0]).is_global:
+            raise LinkError("it points to a private network address")
+
+
+class _PublicRedirects(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        if urllib.parse.urlsplit(newurl).scheme not in ("http", "https"):
+            raise LinkError("it redirects to a non-web address")
+        require_public_host(newurl)
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+
+def fetch_status(url: str, timeout: float = LINK_TIMEOUT) -> tuple[int | None, str]:
+    """(HTTP status, reason) after redirects; status is None when there was no HTTP answer."""
+    opener = urllib.request.build_opener(_PublicRedirects)
+    for method in ("HEAD", "GET"):
+        headers = {"User-Agent": USER_AGENT}
+        if method == "GET":
+            headers["Range"] = "bytes=0-0"
+        try:
+            require_public_host(url)
+            with opener.open(urllib.request.Request(url, method=method, headers=headers), timeout=timeout) as resp:
+                return resp.status, ""
+        except urllib.error.HTTPError as exc:
+            if method == "HEAD" and exc.code in (400, 403, 405, 501):
+                continue  # some servers refuse HEAD; ask again with GET
+            return exc.code, str(exc.reason)
+        except LinkError as exc:
+            return None, str(exc)
+        except urllib.error.URLError as exc:
+            if isinstance(exc.reason, LinkError):
+                return None, str(exc.reason)
+            if isinstance(exc.reason, socket.gaierror):
+                return None, NO_SUCH_HOST
+            return None, str(exc.reason)
+        except (OSError, ValueError, http.client.HTTPException) as exc:
+            return None, str(exc) or type(exc).__name__
+    return None, "no answer"
+
+
+def check_links(report: Report, fetch=fetch_status) -> None:
+    """Open every new or changed link. Dead download/information links are errors."""
+    results: dict[str, tuple[int | None, str]] = {}
+    for scope, key, url in report.links[:MAX_LINKS]:
+        if url not in results:
+            results[url] = fetch(url)
+        status, reason = results[url]
+        if status is not None and status < 400:
+            continue
+        dead = status in (404, 410) or reason == NO_SUCH_HOST
+        if dead:
+            what = f"it returns {status} {reason}".rstrip() if status else reason
+            fix = ("Make sure the file exists, for example a file attached to a published GitHub release, "
+                   "or `https://github.com/<user>/<repo>/archive/refs/tags/<version>.zip`."
+                   if key in DOWNLOAD_FIELDS else "Make sure the page exists and is public.")
+            (report.error if key in BLOCKING_LINK_FIELDS else report.warn)(
+                scope, f"`{key}` is a broken link ({what}): {show(url, 100)}. {fix}")
+        else:
+            what = f"it returned {status} {reason}".rstrip() if status else reason
+            report.warn(scope, f"`{key}` could not be confirmed ({what}): {show(url, 100)}. "
+                               "Please make sure it opens in a browser.")
+    if len(report.links) > MAX_LINKS:
+        report.needs_review(f"Changes {len(report.links)} links; only the first {MAX_LINKS} were opened.")
+
+
+# --------------------------------------------------------------------------
 # Output
 # --------------------------------------------------------------------------
 
-def render(report: Report, eligible: bool, has_changes: bool, auto_merge_enabled: bool) -> str:
+GITHUB_LOGIN = re.compile(r"^[A-Za-z0-9](?:[A-Za-z0-9-]{0,38})$")
+
+
+def render(report: Report, eligible: bool, has_changes: bool, author: str | None = None) -> str:
     lines = [MARKER]
-    if report.ok:
-        lines.append("## ✅ Plugin check passed")
-    else:
-        count = sum(len(v) for v in report.errors.values())
-        lines.append(f"## ❌ Plugin check found {count} problem{'s' if count != 1 else ''}")
-    lines.append("")
+    who = f"@{author}" if author and GITHUB_LOGIN.match(author) else "Thanks"
+    errors = [(scope, msg) for scope in sorted(report.errors) for msg in report.errors[scope]]
 
     if not has_changes:
-        lines.append("This PR has no changes compared to `master`.")
-    elif not report.ok:
-        lines.append("Please fix the problems below and push again; this comment updates automatically.")
-    elif eligible:
-        if auto_merge_enabled:
-            lines.append("🚀 You own everything this PR changes, so it will be **merged automatically**.")
-        else:
-            lines.append("🚀 You own everything this PR changes, so it **qualifies for auto-merge** "
-                         "(auto-merge is currently switched off; a maintainer will merge it).")
+        lines += ["## 👎 Not ready to merge", "", "This PR has no changes compared to `master`."]
+    elif errors:
+        n = len(errors)
+        lines += [f"## 👎 Not ready to merge: {n} thing{'s' if n != 1 else ''} to fix", "",
+                  f"{who}, thanks for the PR! Please fix {'this' if n == 1 else 'these'} and push again "
+                  "to the same branch; this comment updates automatically.", ""]
+        lines.extend(f"{i}. **{show(scope, 120)}**: {msg}" for i, (scope, msg) in enumerate(errors, 1))
     else:
-        lines.append("👀 **A maintainer will review this PR**, because it:")
-        lines.extend(f"- {reason}" for reason in report.manual)
+        lines += ["## 👍 Ready to merge", "",
+                  "All checks passed, and plugins.bludit.com can show this change (see the preview below). "
+                  "A maintainer will merge it."]
     lines.append("")
 
-    scopes = sorted(set(report.errors) | set(report.warnings))
-    for scope in scopes:
-        lines.append(f"### {show(scope, 120)}")
-        lines.extend(f"- ❌ {msg}" for msg in report.errors.get(scope, []))
-        lines.extend(f"- ⚠️ {msg}" for msg in report.warnings.get(scope, []))
+    if report.warnings:
+        lines += ["**Suggestions** (optional, they don't block the merge)", ""]
+        lines.extend(f"- ⚠️ **{show(scope, 120)}**: {msg}"
+                     for scope in sorted(report.warnings) for msg in report.warnings[scope])
         lines.append("")
+
+    if has_changes and (report.manual or eligible):
+        lines.append("**For the maintainer**")
+        if eligible:
+            lines.append("- Low risk: the PR author owns every plugin and author file it changes.")
+        lines.extend(f"- {reason}" for reason in report.manual)
+        lines.append("")
+
+    for slug, rows in sorted(report.previews.items()):
+        lines.append(f"<details><summary>Preview of <code>{html.escape(slug)}</code> on plugins.bludit.com</summary>")
+        lines += ["", "| | |", "|---|---|"]
+        lines.extend(f"| {label} | {value.replace('|', '&#124;')} |" for label, value in rows)
+        lines += ["", "</details>", ""]
 
     lines.append("<sub>Rules: see the README, section *How to add a plugin*. "
                  "Run the same check locally with "
@@ -683,8 +876,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--head", required=True, help="PR head revision")
     parser.add_argument("--author", help="GitHub login of the PR author (enables the ownership check)")
     parser.add_argument("--report-md", help="write the Markdown report to this file")
-    parser.add_argument("--github-output", help="append ok=/eligible= to this file (GitHub Actions $GITHUB_OUTPUT)")
-    parser.add_argument("--auto-merge-enabled", action="store_true", help="word the report as if auto-merge is on")
+    parser.add_argument("--github-output", help="append ok=/ready=/eligible= to this file (GitHub Actions $GITHUB_OUTPUT)")
+    parser.add_argument("--check-links", action="store_true", help="open new and changed links (needs network)")
     parser.add_argument("--today", help=argparse.SUPPRESS)
     args = parser.parse_args(argv)
 
@@ -695,9 +888,12 @@ def main(argv: list[str] | None = None) -> int:
 
     validator = Validator(git, base, head, args.author, today)
     report, changes = validator.run()
+    if args.check_links:
+        check_links(report)
     has_changes = bool(changes)
     eligible = report.eligible(has_changes)
-    markdown = render(report, eligible, has_changes, args.auto_merge_enabled)
+    ready = report.ready(has_changes)
+    markdown = render(report, eligible, has_changes, args.author)
 
     if args.report_md:
         with open(args.report_md, "w", encoding="utf-8") as fh:
@@ -705,9 +901,10 @@ def main(argv: list[str] | None = None) -> int:
     if args.github_output:
         with open(args.github_output, "a", encoding="utf-8") as fh:
             fh.write(f"ok={'true' if report.ok else 'false'}\n")
+            fh.write(f"ready={'true' if ready else 'false'}\n")
             fh.write(f"eligible={'true' if eligible else 'false'}\n")
     sys.stdout.write(markdown)
-    return 0 if report.ok else 1
+    return 0 if ready else 1
 
 
 if __name__ == "__main__":

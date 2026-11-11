@@ -247,6 +247,17 @@ class MetadataTests(RepoTestCase):
         report, _ = self.validate()
         return self.all_errors(report)
 
+    def test_removing_a_translation_is_flagged(self):
+        self.write_json("items/hello-world/metadata.json", item(description_ru="Привет."))
+        self.commit("add ru")
+        self.git("checkout", "-q", "master")
+        self.git("merge", "-q", "--ff-only", "pr")
+        self.git("checkout", "-q", "pr")
+        self.write_json("items/hello-world/metadata.json", item(version="1.1"))
+        report, eligible = self.validate("alice")
+        self.assertIn("Removes the translation `description_ru`", self.all_warnings(report))
+        self.assertFalse(eligible)
+
     def test_valid_update_has_no_errors(self):
         self.assertEqual(self.errors_for(version="1.2.3"), "")
 
@@ -367,7 +378,7 @@ class CommentSafetyTests(RepoTestCase):
     def test_hostile_path_is_rendered_inside_code(self):
         self.write_index("items/x/a`@everyone\n## hi.json", b"{}")
         report, _ = self.validate()
-        md = validate_pr.render(report, False, True, False)
+        md = validate_pr.render(report, False, True)
         self.assertNotIn("\n## hi", md)
         self.assertNotIn("`@everyone", md)
 
@@ -378,7 +389,129 @@ class RenderTests(unittest.TestCase):
 
     def test_marker_present(self):
         report = validate_pr.Report()
-        self.assertTrue(validate_pr.render(report, False, True, False).startswith(validate_pr.MARKER))
+        self.assertTrue(validate_pr.render(report, False, True).startswith(validate_pr.MARKER))
+
+    def test_verdicts(self):
+        report = validate_pr.Report()
+        self.assertIn("## 👍 Ready to merge", validate_pr.render(report, False, True))
+        self.assertIn("## 👎 Not ready to merge", validate_pr.render(report, False, False))
+        report.error("items/x", "broken")
+        self.assertIn("## 👎 Not ready to merge: 1 thing to fix", validate_pr.render(report, False, True))
+        self.assertNotIn("auto", validate_pr.render(report, False, True).lower().replace("automatically", ""))
+
+    def test_not_ready_lists_numbered_fixes_for_the_author(self):
+        report = validate_pr.Report()
+        report.error("items/x", "First fix.")
+        report.error("authors/x.json", "Second fix.")
+        report.warn("items/x", "A hint.")
+        md = validate_pr.render(report, False, True, "kusalo")
+        self.assertIn("@kusalo, thanks for the PR!", md)
+        self.assertIn("1. **`authors/x.json`**: Second fix.", md)
+        self.assertIn("2. **`items/x`**: First fix.", md)
+        self.assertIn("- ⚠️ **`items/x`**: A hint.", md)
+        self.assertLess(md.index("First fix."), md.index("A hint."))
+
+    def test_odd_author_login_is_not_mentioned(self):
+        report = validate_pr.Report()
+        report.error("items/x", "Fix.")
+        self.assertNotIn("@", validate_pr.render(report, False, True, "x y\n## z"))
+
+    def test_maintainer_notes_are_listed_when_ready(self):
+        report = validate_pr.Report()
+        report.needs_review("Adds a new plugin `x`.")
+        md = validate_pr.render(report, False, True)
+        self.assertIn("**For the maintainer**", md)
+        self.assertIn("- Adds a new plugin `x`.", md)
+
+    def test_preview_cell_cannot_break_table(self):
+        report = validate_pr.Report()
+        report.previews["x"] = [("Name", validate_pr.show("a | b"))]
+        self.assertIn("| Name | `a &#124; b` |", validate_pr.render(report, False, True))
+
+
+class UrlTests(RepoTestCase):
+    def errors_for(self, **overrides):
+        self.write_json("items/hello-world/metadata.json", item(**overrides))
+        report, _ = self.validate()
+        return self.all_errors(report)
+
+    def test_host_without_domain_is_an_error(self):
+        # The mistake from PR #493: the GitHub path was typed as the host name.
+        self.assertIn("valid domain", self.errors_for(information_url="https://amazingmarketingagency/plugin"))
+        self.assertIn("valid domain", self.errors_for(demo_url="https://localhost/demo"))
+
+    def test_normal_hosts_are_fine(self):
+        for url in ("https://github.com/a/b", "https://sub.example.co.uk/x?y=1#z", "https://xn--bcher-kva.example/",
+                    "https://example.com.:443/a"):
+            with self.subTest(url=url):
+                self.assertEqual(self.errors_for(information_url=url), "")
+
+
+class PreviewTests(RepoTestCase):
+    def test_preview_shows_what_the_site_renders(self):
+        self.write_json("items/hello-world/metadata.json", item(version="1.1", description_es="Hola."))
+        report, _ = self.validate()
+        rows = dict(report.previews["hello-world"])
+        self.assertEqual(rows["Made by"], "`Alice`")
+        self.assertEqual(rows["Version"], "`1.1`")
+        self.assertTrue(rows["Languages"].startswith("en, es"))
+        self.assertIn("Download (Bludit v3)", rows)
+        self.assertEqual(rows["Screenshot"], "yes")
+
+    def test_preview_flags_missing_author_and_paid_label(self):
+        self.write_json("items/hello-world/metadata.json", item(author_username="nobody", price_usd="9"))
+        report, _ = self.validate()
+        rows = dict(report.previews["hello-world"])
+        self.assertIn("not found", rows["Made by"])
+        self.assertIn("Buy $9", rows["Price"])
+        self.assertIn("Buy link", rows)
+
+
+class LinkCheckTests(RepoTestCase):
+    def run_links(self, responses: dict, **overrides):
+        self.write_json("items/hello-world/metadata.json", item(**overrides))
+        report, _ = self.validate()
+        asked = []
+
+        def fake(url):
+            asked.append(url)
+            return responses.get(url, (200, ""))
+
+        validate_pr.check_links(report, fetch=fake)
+        return report, asked
+
+    def test_only_new_or_changed_links_are_opened(self):
+        _, asked = self.run_links({}, demo_url="https://demo.example.com/")
+        self.assertEqual(asked, ["https://demo.example.com/"])
+
+    def test_dead_download_is_an_error(self):
+        url = "https://github.com/alice/hello-world/releases/download/v2/x.zip"
+        report, _ = self.run_links({url: (404, "Not Found")}, download_url=url)
+        self.assertIn("broken link", self.all_errors(report))
+        self.assertFalse(report.ready(True))
+
+    def test_missing_domain_on_information_url_is_an_error(self):
+        url = "https://gone.example.com/"
+        report, _ = self.run_links({url: (None, validate_pr.NO_SUCH_HOST)}, information_url=url)
+        self.assertIn("does not exist", self.all_errors(report))
+
+    def test_dead_demo_is_only_a_warning(self):
+        url = "https://demo.example.com/"
+        report, _ = self.run_links({url: (404, "Not Found")}, demo_url=url)
+        self.assertTrue(report.ok, report.errors)
+        self.assertIn("broken link", self.all_warnings(report))
+
+    def test_blocked_or_slow_sites_are_only_warnings(self):
+        url = "https://shop.example.com/buy"
+        for response in ((403, "Forbidden"), (503, "Unavailable"), (None, "timed out")):
+            with self.subTest(response=response):
+                report, _ = self.run_links({url: response}, information_url=url)
+                self.assertTrue(report.ok, report.errors)
+                self.assertIn("could not be confirmed", self.all_warnings(report))
+
+    def test_private_addresses_are_refused(self):
+        with self.assertRaises(validate_pr.LinkError):
+            validate_pr.require_public_host("https://127.0.0.1/")
 
 
 if __name__ == "__main__":
