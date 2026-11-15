@@ -1,0 +1,51 @@
+{
+	"name": "Podcast",
+	"version": "1.1.0",
+	"author_username": "larsauswsw",
+	"release_date": "2026-11-15",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/larsauswsw/bludit-plugin-podcast/releases/latest",
+	"demo_url": "",
+	"information_url": "https://github.com/larsauswsw/bludit-plugin-podcast",
+	"description": "Run a podcast with Bludit: manage episodes in the admin panel, publish an RSS feed that is ready for Apple Podcasts and Spotify, and play episodes with the Podlove Web Player served from your own server – no CDN, no third-party requests. Episodes are regular Bludit pages with the tag <code>podcast</code>, so they work with your theme, categories and the Bludit editor.",
+	"features": {
+		"0": "Episode management in the admin panel: create, edit and delete episodes, drafts and scheduled episodes included. Works on phones.",
+		"1": "Upload audio and episode artwork or link external files. Large audio files are uploaded in parts with a progress bar and work with PHP's default upload limits. The duration and the next episode number are filled in for you.",
+		"2": "Media page with all uploads and where they are used: delete unused files or reuse them for other episodes.",
+		"3": "Podcast feed at <code>/podcast.xml</code> with iTunes tags and Podcasting 2.0 tags (<code>podcast:guid</code>, <code>podcast:locked</code>), ready for Apple Podcasts and Spotify.",
+		"4": "Channel settings with the Apple Podcasts categories, a cover check against Apple's requirements and a feed check that shows what is still missing before you submit the feed.",
+		"5": "Podlove Web Player 5 served from your own server, with a subscribe button for podcast apps – or a simple HTML5 player.",
+		"6": "Admin interface in English and German. Works with Bludit 3.19 – 3.22 and PHP 8.0 or newer, also in a subdirectory."
+	},
+	"description_de": "Podcast mit Bludit: Episoden im Admin-Bereich verwalten, einen RSS-Feed für Apple Podcasts und Spotify veröffentlichen und Episoden mit dem Podlove Web Player abspielen – direkt vom eigenen Server, ohne CDN und ohne Drittanbieter. Episoden sind normale Bludit-Seiten mit dem Tag <code>podcast</code> und funktionieren mit dem eigenen Theme, mit Kategorien und dem Bludit-Editor.",
+	"features_de": {
+		"0": "Episodenverwaltung im Admin-Bereich: Episoden anlegen, bearbeiten und löschen, auch Entwürfe und geplante Episoden. Funktioniert auch auf dem Smartphone.",
+		"1": "Audiodateien und Episodenbilder hochladen oder externe Dateien verlinken. Große Audiodateien werden in Teilen mit Fortschrittsanzeige hochgeladen und funktionieren mit den Standard-Upload-Limits von PHP. Dauer und nächste Episodennummer werden automatisch eingetragen.",
+		"2": "Medienseite mit allen Uploads und ihrer Verwendung: ungenutzte Dateien löschen oder für andere Episoden wiederverwenden.",
+		"3": "Podcast-Feed unter <code>/podcast.xml</code> mit iTunes-Tags und Podcasting-2.0-Tags (<code>podcast:guid</code>, <code>podcast:locked</code>), bereit für Apple Podcasts und Spotify.",
+		"4": "Kanaleinstellungen mit den Kategorien von Apple Podcasts, Cover-Prüfung nach Apples Vorgaben und Feed-Check, der vor dem Einreichen zeigt, was noch fehlt.",
+		"5": "Podlove Web Player 5 vom eigenen Server mit Abonnieren-Button für Podcast-Apps – oder ein einfacher HTML5-Player.",
+		"6": "Admin-Oberfläche auf Deutsch und Englisch. Läuft mit Bludit 3.19 – 3.22 und PHP 8.0 oder neuer, auch in einem Unterverzeichnis."
+	},
+	"description_es": "Publica un podcast con Bludit: gestiona los episodios desde el panel de administración, publica un feed RSS listo para Apple Podcasts y Spotify y reproduce los episodios con Podlove Web Player alojado en tu propio servidor, sin CDN ni solicitudes a terceros. Los episodios son páginas normales de Bludit con la etiqueta <code>podcast</code>, así que funcionan con tu tema, tus categorías y el editor de Bludit.",
+	"features_es": {
+		"0": "Gestión de episodios en el panel de administración: crea, edita y elimina episodios, incluidos borradores y episodios programados. También funciona en el móvil.",
+		"1": "Sube audio e imágenes de episodio o enlaza archivos externos. Los archivos de audio grandes se suben por partes con una barra de progreso y funcionan con los límites de subida predeterminados de PHP. La duración y el número del siguiente episodio se rellenan automáticamente.",
+		"2": "Página de medios con todos los archivos subidos y dónde se usan: elimina los que no se usan o reutilízalos en otros episodios.",
+		"3": "Feed del podcast en <code>/podcast.xml</code> con etiquetas de iTunes y de Podcasting 2.0 (<code>podcast:guid</code>, <code>podcast:locked</code>), listo para Apple Podcasts y Spotify.",
+		"4": "Ajustes del canal con las categorías de Apple Podcasts, comprobación de la portada según los requisitos de Apple y una revisión del feed que muestra lo que falta antes de enviarlo.",
+		"5": "Podlove Web Player 5 alojado en tu propio servidor, con un botón de suscripción para apps de podcasts, o un reproductor HTML5 sencillo.",
+		"6": "Interfaz de administración en inglés y alemán. Compatible con Bludit 3.19 – 3.22 y PHP 8.0 o superior, también en un subdirectorio."
+	},
+	"description_ru": "Ведите подкаст на Bludit: управляйте выпусками в панели администратора, публикуйте RSS-ленту, готовую для Apple Podcasts и Spotify, и проигрывайте выпуски в Podlove Web Player, который работает с вашего собственного сервера — без CDN и без запросов к сторонним сервисам. Выпуски — это обычные страницы Bludit с тегом <code>podcast</code>, поэтому они работают с вашей темой, категориями и редактором Bludit.",
+	"features_ru": {
+		"0": "Управление выпусками в панели администратора: создание, редактирование и удаление выпусков, включая черновики и запланированные публикации. Работает и на телефоне.",
+		"1": "Загрузка аудио и обложек выпусков или ссылки на внешние файлы. Большие аудиофайлы загружаются частями с индикатором прогресса и работают при стандартных ограничениях загрузки PHP. Длительность и номер следующего выпуска заполняются автоматически.",
+		"2": "Страница медиафайлов со всеми загрузками и местами их использования: неиспользуемые файлы можно удалить или использовать повторно в других выпусках.",
+		"3": "Лента подкаста по адресу <code>/podcast.xml</code> с тегами iTunes и Podcasting 2.0 (<code>podcast:guid</code>, <code>podcast:locked</code>), готовая для Apple Podcasts и Spotify.",
+		"4": "Настройки канала с категориями Apple Podcasts, проверкой обложки на соответствие требованиям Apple и проверкой ленты, которая показывает, чего ещё не хватает перед отправкой.",
+		"5": "Podlove Web Player 5 с вашего собственного сервера с кнопкой подписки для подкаст-приложений — или простой HTML5-плеер.",
+		"6": "Интерфейс администратора на английском и немецком языках. Работает с Bludit 3.19 – 3.22 и PHP 8.0 или новее, в том числе в подкаталоге."
+	}
+}
