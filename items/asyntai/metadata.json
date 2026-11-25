@@ -1,0 +1,35 @@
+{
+	"name": "Asyntai - AI Chatbot",
+	"version": "1.1.0",
+	"author_username": "asyntai",
+	"release_date": "2026-11-25",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/asyntai/bludit-chatbot/releases/download/v1.1.0/asyntai.zip",
+	"demo_url": "https://asyntai.com",
+	"information_url": "https://github.com/asyntai/bludit-chatbot",
+	"description": "An AI chatbot for your Bludit website. It answers your visitors at once, day and night, in their own language. It can read your published pages and posts directly, so its answers stay up to date.",
+	"features": {
+		"0": "Answers visitors 24/7 in all languages",
+		"1": "Reads your published pages and posts (optional, drafts are never shared)",
+		"2": "Connects with one click, free plan available"
+	},
+	"description_de": "Ein KI-Chatbot für Ihre Bludit-Website. Er beantwortet die Fragen Ihrer Besucher sofort, rund um die Uhr und in ihrer Sprache. Er kann Ihre veröffentlichten Seiten und Beiträge direkt lesen, damit seine Antworten aktuell bleiben.",
+	"features_de": {
+		"0": "Antwortet Besuchern rund um die Uhr in allen Sprachen",
+		"1": "Liest Ihre veröffentlichten Seiten und Beiträge (optional, Entwürfe werden nie geteilt)",
+		"2": "Verbindung mit einem Klick, kostenloser Tarif verfügbar"
+	},
+	"description_es": "Un chatbot con IA para tu sitio web Bludit. Responde a tus visitantes al instante, día y noche, en su propio idioma. Puede leer directamente tus páginas y entradas publicadas, para que sus respuestas estén siempre al día.",
+	"features_es": {
+		"0": "Responde a los visitantes 24/7 en todos los idiomas",
+		"1": "Lee tus páginas y entradas publicadas (opcional, los borradores nunca se comparten)",
+		"2": "Se conecta con un clic, plan gratuito disponible"
+	},
+	"description_ru": "ИИ-чат-бот для вашего сайта на Bludit. Он сразу отвечает посетителям, днём и ночью, на их родном языке. Он может читать ваши опубликованные страницы и записи напрямую, поэтому его ответы всегда актуальны.",
+	"features_ru": {
+		"0": "Отвечает посетителям 24/7 на всех языках",
+		"1": "Читает ваши опубликованные страницы и записи (по желанию, черновики не передаются)",
+		"2": "Подключение в один клик, есть бесплатный тариф"
+	}
+}
