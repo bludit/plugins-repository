@@ -1,0 +1,19 @@
+{
+	"name": "AI Robots & SEO",
+	"version": "1.0.0",
+	"author_username": "saascity",
+	"release_date": "2026-11-27",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/best-directories/saascity-ai-robots-seo/releases/download/v1.0.0/saascity-ai-robots-seo-1.0.0.zip",
+	"demo_url": "https://saascity.io/free-tools/robots-txt-generator",
+	"information_url": "https://github.com/best-directories/saascity-ai-robots-seo",
+	"description": "Manage per-bot AI crawler directives in <code>/robots.txt</code> for GPTBot, ClaudeBot, PerplexityBot, and Google-Extended alongside automatic XML sitemap declaration and optional rich-snippet meta robots output in Bludit.",
+	"features": {
+		"0": "Individual Allow/Disallow toggles for GPTBot, ClaudeBot, PerplexityBot, and Google-Extended",
+		"1": "Automatic Sitemap directive pointing to your Bludit sitemap.xml or a custom URL",
+		"2": "Live robots.txt output preview in the Bludit admin panel",
+		"3": "Optional index and max-snippet meta robots tag in site head",
+		"4": "Zero external dependencies and MIT licensed"
+	}
+}
